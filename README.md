@@ -86,7 +86,7 @@ Uma apoiadora é selecionada por decisão integrativa entre guardiã e represent
 Esse atributo informa o motivo de um contorno existir. Os contornos são aninhados por essa razão.
 A razão de existir de um contorno é decidida pelo contorno externo através de decisão integrativa. 
 
-Em vez de metas, a razão de existir aninhadas entre contornos junto com as estratégias permitem resolver boa parte do que se desejaria com metas, sem os perigos que elas trazem.
+Em vez de [metas](https://medium.com/tentaculus/metas-funcoes-perigos-e-alternativas-532a2801ca02), a razão de existir aninhadas entre contornos junto com as estratégias permitem resolver boa parte do que se desejaria com metas, sem os perigos que elas trazem.
 
 ## 5.2 Estratégia (’Como?’)
 A estratégia é uma declaração explícita de prioridades, práticas ou renúncias que fornecem limites de segurança para realizar o que for necessário relacionado à razão de existir.
@@ -169,7 +169,7 @@ Duas perguntas para ajudar encontrar objeções com uma proposta: é boa o sufic
 Se houver objeções, a pessoa que fez a proposta deve adaptá-ça para integrar as objeções. Após adaptação, é necessário consentir sobre a alteração com as pessoas no contorno.
 
 # 8. Avaliação de pessoas em contornos
-Toda guardiã, representante ou apoiadora pode ser (re)avaliadas periodicamente. A intenção é colher reações subjetivas das pessoas com quem colabora a respeito do que realiza em seu contorno e não cair na ficção de uma avalação de desempenho objetiva.
+Toda guardiã, representante ou apoiadora pode ser (re)avaliadas periodicamente. A intenção é colher reações subjetivas das pessoas com quem colabora a respeito do que realiza em seu contorno e não cair na ficção de uma [avalação de desempenho](https://medium.com/tentaculus/os-perigos-da-avalia%C3%A7%C3%A3o-de-desempenho-nas-organiza%C3%A7%C3%B5es-21a92e261fe3) objetiva.
 
 É indicado que: 
 * as guardiãs de um contorno sejam avaliadas pelas guardiãs e representantes do contorno externo, pela representante do contorno que faz parte e pelas guardiãs e representantes dos contornos internos.
