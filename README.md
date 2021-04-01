@@ -2,7 +2,7 @@
 
 **Veja uma aplicação dessas regras básicas nessa prova-de-conceito:** https://coda.io/@cali/org-descentralizada.
 
-Contornos é um conjunto de regras básicas inspirado em tecnologias sociais como [Sociocracia 3.0](https://sociocracy30.org/), [Organizações Orgânicas](https://o2.targetteal.com/).
+Contornos é um conjunto de regras básicas inspirado em tecnologias sociais como [Sociocracia 3.0](https://sociocracy30.org/) e [Organizações Orgânicas](https://o2.targetteal.com/).
 
 
 ***
