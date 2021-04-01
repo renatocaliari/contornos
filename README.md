@@ -189,7 +189,7 @@ Caso não esteja, pergunte a si mesma e à outra pessoa: atualmente quem tem aut
 
 Cabe à guardiã do contorno para qual foi feito o pedido priorizar da forma que lhe convier, dado o seu contexto e estratégia, não tendo o dever de priorizar por vontade de alguém externo. É esperado que exista uma negociação e influência entre as pessoas sobre esses aspectos.
 
-A guardiã não tem o dever de dar ou informar alguma data de entrega específica, pois a priorização dos projetos e tarefas é dinâmica, conforme necessidade contextual. Exceto caso exista algum acordo estrutural que defina um processo diferente.
+A guardiã não tem o dever de dar ou informar alguma data de entrega específica, e sim uma projeção quando perguntada, pois a priorização dos projetos e tarefas é dinâmica, conforme necessidade contextual. Exceto caso exista algum acordo estrutural que defina um processo diferente.
 
 Veja as responsabilidades da guardiã, no tópico mais acima, sobre projeções e compartilhamento de progresso.
 
