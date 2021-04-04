@@ -2,8 +2,15 @@
 
 **Veja uma aplicação dessas regras básicas nessa prova-de-conceito:** https://coda.io/@cali/org-descentralizada.
 
-Contornos é um conjunto de regras básicas inspirado em tecnologias sociais como [Sociocracia 3.0](https://sociocracy30.org/) e [Organizações Orgânicas](https://o2.targetteal.com/).
+Contornos é um sistema com regras básicas inspirado em tecnologias sociais como [Sociocracia](https://www.sociocracyforall.org/), [Sociocracia 3.0](https://sociocracy30.org/) e [Organizações Orgânicas](https://o2.targetteal.com/).
 
+Sua intenção é potencializar decisões descentralizadas, transparência e fluxo de informações.
+
+Pense nisso como um sistema organizacional enxuto 'open-source' (código aberto), que permite você desenvolver novas 'funcionalidades' customizadas para o seu contexto, além de adaptar o próprio sistema organizacional, se necessário.
+
+Caso você deseje utilizar esse sistema, declare isso com as pessoas que também utilização para poder usá-lo como referência nas tomadas de decisões e desenvolvimento da organização.
+
+Se você deseja ajuda para experimentar ou implementar, entre em contato comigo: [Cali](renatocaliari.com/). 
 
 ***
 
@@ -42,23 +49,21 @@ Caso sejam alocadas mais pessoas nesses mesmo contorno, elas se tornam apoiadora
 ## 3.1 Guardiã do contorno
 
 Uma guardiã de contorno tem as mesmas responsabilidades descritas no contorno, além de:
-  * direito de participar de decisões integrativas que envolvam o contorno externo ou o contorno que desempenha função de guardiã.
   * trazer informações do contorno externo para o contorno atual.
-  * fazer checkin dos indicadores do contorno com o último resultado na frequência sugerida pelo contorno externo.
-  * compartilhar sobre o progresso dos projetos na frequência sugerida pelo contorno externo informando como isso se conecta à estratégia do contorno externo.
-  * compartilhar qualquer informação relacionada ao seu contorno ー projetos, tarefas, etc ーquando alguém perguntar, exceto se algo for acordado como confidencial.
-  * compartilhar projeções sobre projetos ou tarefas quando perguntada, sem garantia com previsibilidade.
+  * fazer checkin dos indicadores com o contorno externo, na frequência sugerida.
+  * compartilhar sobre o progresso dos projetos com o contorno externo, na frequência sugerida, informando como isso se conecta à estratégia do contorno externo.
+  * compartilhar qualquer informação relacionada ao seu contorno ー projetos, tarefas, etc ー quando alguém perguntar, exceto se algo for acordado como confidencial.
+  * compartilhar projeções sobre projetos ou tarefas quando perguntarem, sem garantia da acuracidade.
 
 Ela tem autoridade para: 
   * definir estratégia do contorno alinhada com a estratégia do contorno externo.
-  * convidar pessoas para apoiar contornos internos ao seu.
+  * convidar e propôr pessoas para apoiar contornos internos ao seu.
   * delegar parte da autoridade do seu contorno para novos contornos internos.
     * caso já existam contornos internos dentro de seu contorno, é necessário decisão integrativa para criação de novos contornos. 
 E não tem autoridade para: 
-  * mudar propósito e responsabilidades do contorno em que está atualmente. Para isso é necessário decisão integrativa com contorno externo.
-  * impactar algo que está na autoridade de outro contorno.
+  * mudar razão de existir e responsabilidades do contorno em que está atualmente. Para isso é necessário decisão integrativa com contorno externo.
 
-Uma guardia é participante do contorno que foi nomeada para ser guardiã além de automaticamente se tornar participante do contorno externo também.
+Uma guardiã é participante do contorno que foi nomeada para ser guardiã além de automaticamente se tornar participante do contorno externo também.
 
 
 ## 3.2 Representante do contorno
@@ -160,8 +165,8 @@ As participantes do contorno externo são responsáveis por decidirem de forma i
 * Autoridade exclusiva.
 * Frequência de atualização de indicadores.
 * Frequência de atualização de progresso dos projetos.
-* Frequência de nomeação
-* Frequência de avaliação com reações
+* Frequência de nomeação.
+* Frequência de avaliação com reações.
 
 A guardiã de um contorno tem a responsabilidade e autoridade para definir:
 * Estratégia do contorno.
