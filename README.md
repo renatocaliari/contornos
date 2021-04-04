@@ -1,4 +1,4 @@
-# Versão: 0.0.5
+# Versão: 0.0.6
 
 **Veja uma aplicação dessas regras básicas nessa prova-de-conceito:** https://coda.io/@cali/org-descentralizada.
 
@@ -89,29 +89,30 @@ Antes de fazer uma proposta de alocação a um novo contorno, se questionem:
 Após fazerem uma decisão integrativa de nomeação, se questionem como potencializador de objeção:
 - a pessoa possui tempo e foco necessários para esse outro contorno? É indicado que a própria pessoa avalie para possível objeção se está com sobrecarga cognitiva ao estar em muitos contextos diferentes que exigem atividades rotineiras.
 
-Uma guardiã para um **novo** contorno é selecionada por decisão integrativa de:
-- todas participantes do contorno externo.
 
-Assim que um contorno ganhar uma representante, qualquer pessoa em um contorno interno pode pedir nova nomeação para uma nova guardiã com decisão integrativa. 
+## 4.1 Alocação de guardiã, representante e apoiadora
+Uma guardiã para um **novo** contorno é selecionada por decisão integrativa por todas participantes do contorno externo.
+
+Assim que um contorno tiver uma representante ou contornos internos, qualquer pessoa do contorno pode pedir nova nomeação para uma nova guardiã com decisão integrativa. 
 Caso seja um contorno já existente e possua representante, então a guardiã é escolhida por decisão integrativa por:
 - guardiã e representante do contorno externo. 
 - participantes do contorno atual.
 
-Uma representante é selecionada por decisão integrativa do próprio contorno em que ela exerce sua função.
-Uma apoiadora é selecionada por decisão integrativa apenas entre guardiã e representante do contorno.
+Uma representante é nomeada por decisão integrativa do próprio contorno em que ela exerce sua função.
+Uma apoiadora é nomeada por decisão integrativa apenas entre guardiã e representante do contorno.
 
-Veja mais sobre avaliação de pessoas em contornos em um tópico mais abaixo.
-
-## 4.1 Nomeação de alguma pessoa para um contorno
+## 4.2 Processo de nomeação de uma pessoa para um contorno
 Caberá à guardiã de um contorno decidir se deseja fazer uma proposta direta para decisão integrativa ou se desejará fazer um processo de nomeação.
 
 Para um processo de nomeação não é necessário convergência ou consenso inicial.
 
-Veja os passos:
+Veja os passos para noemação:
 - Cada pessoa escreve em privado quem nomeia para determinado contorno e função: eu nomeio PESSOA X para preenher esse contorno como [Guardiã | Representante | Apoiadora]. Lembre a todas as pessoas que cada uma delas pode se auto nomear.
 - Rodada de anúncio das nomeações: em uma rodada, peça para cada pessoa anunciar sua nomeação e suas razões de forma breve.
 - Rodada de alterações: em uma rodada, ofereça oportunidade das pessoas mudarem sua nomeação. Se alguma pessoa alterar sua nomeação, pergunte se ela deseja compartilhar o que levou a essa mudança.
 - Proposta e decisão integrativa: a guardiã faz uma proposta levando em consideração os nomes e razões que as outras pessoas trouxeram nas nomeações. As participantes fazem uma decisão integrativa por consentimento.
+
+
 
 # 5. Atributos dos contornos
 ## 5.1 Razão de existir (’Por quê?’)
