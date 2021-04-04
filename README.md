@@ -1,4 +1,4 @@
-# Versão: 0.4
+# Versão: 0.0.5
 
 **Veja uma aplicação dessas regras básicas nessa prova-de-conceito:** https://coda.io/@cali/org-descentralizada.
 
@@ -27,7 +27,7 @@ Uma pessoa pode estar em vários contornos e um contorno pode conter várias pes
 ## 2.1 Quando criar novos contornos?
 Um contorno evita decidir a todo momento o que é necessário fazer e quem fará algo. Por isso, crie contornos quando perceber alguns padrões recorrentes para potencializar eficácia e compreensão compartilhada.
 
-Um outro critério que pode auxiliar é evitar que um contorno tenha mais de 7 pessoas, quebrando em novos contornos internos. Esse é um número sugestivo para manter mais eficazes as reuniões ou interações próprias do contorno.
+Um outro critério que pode auxiliar é evitar que um contorno tenha mais de 7 pessoas, quebrando em novos contornos internos. Esse é um número sugestivo para manter as reuniões ou interações próprias do contorno mais eficazes.
 
 Com o tempo pode ser necessário ou desejado criar novos contornos internos para delegar parte das responsabilidades e autoridade. 
 
@@ -47,7 +47,6 @@ Necessariamente, todo contorno terá uma guardiã.
 Caso sejam alocadas mais pessoas nesses mesmo contorno, elas se tornam apoiadoras, e se torna necessário que alguém exerça a função de representante.
 
 ## 3.1 Guardiã do contorno
-
 Uma guardiã de contorno tem as mesmas responsabilidades descritas no contorno, além de:
   * trazer informações do contorno externo para o contorno atual.
   * fazer checkin dos indicadores com o contorno externo, na frequência sugerida.
@@ -64,7 +63,6 @@ E não tem autoridade para:
   * mudar razão de existir e responsabilidades do contorno em que está atualmente. Para isso é necessário decisão integrativa com contorno externo.
 
 Uma guardiã é participante do contorno que foi nomeada para ser guardiã além de automaticamente se tornar participante do contorno externo também.
-
 
 ## 3.2 Representante do contorno
 É desejado que todo contorno que possua apoiadoras ou que tenha contornos internos, tenha também uma representante compartilhando das mesmas responsabilidades descritas no contorno, além de:
@@ -83,7 +81,13 @@ Elas são propostas pela guardiã, porém é necessário decisão integrativa en
 Uma apoiadora é participante apenas do contorno em que foi escolhida, diferente de uma guardiã ou representante.
 
 # 4. Alocação de pessoas em contornos
-A alocação de pessoas é diferente para cada função exercida no contorno.
+A alocação de pessoas é diferente dependendo da função exercida no contorno. 
+
+Antes de fazer uma proposta de alocação a um novo contorno, se questionem:
+- o quanto de horas desejam que seja investido nesse contorno?
+
+Após fazerem uma decisão integrativa de nomeação, se questionem como potencializador de objeção:
+- a pessoa possui tempo e foco necessários para esse outro contorno? É indicado que a própria pessoa avalie para possível objeção se está com sobrecarga cognitiva ao estar em muitos contextos diferentes que exigem atividades rotineiras.
 
 Uma guardiã para um **novo** contorno é selecionada por decisão integrativa de:
 - todas participantes do contorno externo.
