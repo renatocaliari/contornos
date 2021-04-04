@@ -1,4 +1,4 @@
-# Versão: 0.3
+# Versão: 0.4
 
 **Veja uma aplicação dessas regras básicas nessa prova-de-conceito:** https://coda.io/@cali/org-descentralizada.
 
@@ -58,28 +58,51 @@ E não tem autoridade para:
   * mudar propósito e responsabilidades do contorno em que está atualmente. Para isso é necessário decisão integrativa com contorno externo.
   * impactar algo que está na autoridade de outro contorno.
 
+Uma guardia é participante do contorno que foi nomeada para ser guardiã além de automaticamente se tornar participante do contorno externo também.
+
+
 ## 3.2 Representante do contorno
 É desejado que todo contorno que possua apoiadoras ou que tenha contornos internos, tenha também uma representante compartilhando das mesmas responsabilidades descritas no contorno, além de:
 * direito e dever de participar de decisões integrativas.
 * compartilhar perspectivas do contorno atual para o contorno externo.
 
-Ela pode ser escolhida por decisão integrativa, ou caso acordado, por voto da maioria das pessoas em um contorno, sendo aberto para participção da guardiã do contorno atual e das guardiãs e representantes dos contornos internos diretos.
+Uma representante é participante do contorno que foi nomeada para ser representante além de automaticamente se tornar participante do contorno externo também.
 
-Ela é participante do contorno em que se torna representante e também do contorno externo.
+Ela pode ser escolhida por decisão integrativa, ou caso acordado, por voto da maioria das pessoas em um contorno, sendo aberto para participação da guardiã do contorno atual e das guardiãs e representantes dos contornos internos diretos.
 
 ## 3.3 Apoiadoras do contorno
 Um contorno tem apenas uma guardiã, uma representante, e também pode conter apoiadoras. As apoiadoras possuem as mesmas responsabilidades do contorno.
 
-Elas são sugeridas pela guardiã, porém é necessário consentimento das mesmas para iniciarem no contorno.
+Elas são propostas pela guardiã, porém é necessário decisão integrativa entre guardiã, representante e cada pessoa nomeada para iniciar no contorno.
 
 Uma apoiadora é participante apenas do contorno em que foi escolhida, diferente de uma guardiã ou representante.
 
 # 4. Alocação de pessoas em contornos
 A alocação de pessoas é diferente para cada função exercida no contorno.
 
-Uma guardiã para um novo contorno é selecionada por decisão integrativa pelo contorno externo ao novo contorno. Caso seja um contorno já existente e possua representante, então a guardiã é escolhida por decisão integrativa do contorno externo junto com a representante atual do contorno.
+Uma guardiã para um **novo** contorno é selecionada por decisão integrativa de:
+- todas participantes do contorno externo.
+
+Assim que um contorno ganhar uma representante, qualquer pessoa em um contorno interno pode pedir nova nomeação para uma nova guardiã com decisão integrativa. 
+Caso seja um contorno já existente e possua representante, então a guardiã é escolhida por decisão integrativa por:
+- guardiã e representante do contorno externo. 
+- participantes do contorno atual.
+
 Uma representante é selecionada por decisão integrativa do próprio contorno em que ela exerce sua função.
-Uma apoiadora é selecionada por decisão integrativa entre guardiã e representante do contorno.
+Uma apoiadora é selecionada por decisão integrativa apenas entre guardiã e representante do contorno.
+
+Veja mais sobre avaliação de pessoas em contornos em um tópico mais abaixo.
+
+## 4.1 Nomeação de alguma pessoa para um contorno
+Caberá à guardiã de um contorno decidir se deseja fazer uma proposta direta para decisão integrativa ou se desejará fazer um processo de nomeação.
+
+Para um processo de nomeação não é necessário convergência ou consenso inicial.
+
+Veja os passos:
+- Cada pessoa escreve em privado quem nomeia para determinado contorno e função: eu nomeio PESSOA X para preenher esse contorno como [Guardiã | Representante | Apoiadora]. Lembre a todas as pessoas que cada uma delas pode se auto nomear.
+- Rodada de anúncio das nomeações: em uma rodada, peça para cada pessoa anunciar sua nomeação e suas razões de forma breve.
+- Rodada de alterações: em uma rodada, ofereça oportunidade das pessoas mudarem sua nomeação. Se alguma pessoa alterar sua nomeação, pergunte se ela deseja compartilhar o que levou a essa mudança.
+- Proposta e decisão integrativa: a guardiã faz uma proposta levando em consideração os nomes e razões que as outras pessoas trouxeram nas nomeações. As participantes fazem uma decisão integrativa por consentimento.
 
 # 5. Atributos dos contornos
 ## 5.1 Razão de existir (’Por quê?’)
@@ -123,13 +146,22 @@ A escolha dos indicadores é feita pelo contorno externo que criou esse contorno
 
 Os indicadores têm frequência de atualização sugerida pelo contorno externo. A guardiã do contorno do indicador faz checkin informando o último resultado.
 
-## 5.7 Quem define o quê?
-A guardiã e representante do contorno externo, junto com as demais guardiãs que participam de outros contornos internos, são responsáveis por decidirem de forma integrativa pela:
+## 5.7 Tempo pré-determinado de atuação em um contorno
+Cada pessoa pode ter um tempo pré-determinado de atuação em um contorno. Assim que a data escolhida chega, é possível algumas opções:
+- proposta automática da mesma pessoa continuar no contorno para decisão integrativa.
+- rodada de nomeação: podendo ser que a mesma pessoa também seja sugerida, porém dando abertura para que novas pessoas sejam sugeridas.
+  - após sugestões, a guardiã escolhe um nome e faz proposta para decisão integrativa.
+
+
+## 5.8 Quem define o quê?
+As participantes do contorno externo são responsáveis por decidirem de forma integrativa pela:
 * Razão de existir.
 * Responsabilidades.
 * Autoridade exclusiva.
 * Frequência de atualização de indicadores.
 * Frequência de atualização de progresso dos projetos.
+* Frequência de nomeação
+* Frequência de avaliação com reações
 
 A guardiã de um contorno tem a responsabilidade e autoridade para definir:
 * Estratégia do contorno.
@@ -159,17 +191,20 @@ Envolve processos, protocolos ou restrições para orientar o fluxo de valor.
 Acordo pessoais são relacionados às pessoas, como, por exemplo, comportamento e expectativas pessoais, não criando expectativas sobre estrutura.
 
 # 7. Decisões integrativas
-Uma decisão integrativa é uma decisão em consentimento envolvendo a guardiã e representante do contorno atual juntas com guardiãs e representantes de outros contornos, em geral, dos contornos internos. 
-Uma exceção é quando alguma proposta impacta outros contornos externos, precisando envolver guardiãs e representantes dos mesmos. 
+Uma decisão integrativa é uma decisão **em consentimento** envolvendo todas participantes de um contorno. 
+Uma exceção é quando alguma proposta impacta outros contornos externos, precisando envolver também guardiãs e representantes dos mesmos. 
 
-Consentimento não é questão de preferência pessoal e sim de saber se há objeções: algo que coloque em risco as propriedades do contorno ou contornos externos.
+Consentimento não é questão de preferência pessoal e sim de saber se há objeções: algo que coloque em risco as propriedades do contorno ou contornos externos (razão de existir, responsabilidades, autoridade)?
 
 Duas perguntas para ajudar encontrar objeções com uma proposta: é boa o suficiente por agora e segura o suficiente para experimentar?
 
-Se houver objeções, a pessoa que fez a proposta deve adaptá-ça para integrar as objeções. Após adaptação, é necessário consentir sobre a alteração com as pessoas no contorno.
+Se houver objeções, a pessoa que fez a proposta deve adaptá-ça para integrar as objeções. Se não for possivel, a proposta não continua.
+Se houver adaptação, é necessário consentir sobre a alteração com as participantes do contorno.
 
 # 8. Avaliação de pessoas em contornos
-Toda guardiã, representante ou apoiadora pode ser (re)avaliadas periodicamente. A intenção é colher reações subjetivas das pessoas com quem colabora a respeito do que realiza em seu contorno e não cair na ficção de uma [avalação de desempenho](https://medium.com/tentaculus/os-perigos-da-avalia%C3%A7%C3%A3o-de-desempenho-nas-organiza%C3%A7%C3%B5es-21a92e261fe3) objetiva.
+Toda guardiã, representante ou apoiadora será avaliada periodicamente nos contornos que preenche. 
+
+A intenção é colher reações subjetivas das pessoas com quem colabora a respeito do que realiza em seu contorno e não cair na ficção de uma [avalação de desempenho](https://medium.com/tentaculus/os-perigos-da-avalia%C3%A7%C3%A3o-de-desempenho-nas-organiza%C3%A7%C3%B5es-21a92e261fe3) objetiva.
 
 É indicado que: 
 * as guardiãs de um contorno sejam avaliadas pelas guardiãs e representantes do contorno externo, pela representante do contorno que faz parte e pelas guardiãs e representantes dos contornos internos.
