@@ -1,4 +1,4 @@
-# Versão: 0.0.6
+# Versão: 0.0.7
 
 **Veja uma aplicação dessas regras básicas nessa prova-de-conceito:** https://coda.io/@cali/org-descentralizada.
 
@@ -202,7 +202,7 @@ Acordo pessoais são relacionados às pessoas, como, por exemplo, comportamento 
 
 # 7. Decisões integrativas
 Uma decisão integrativa é uma decisão **em consentimento** envolvendo todas participantes de um contorno. 
-Uma exceção é quando alguma proposta impacta outros contornos externos, precisando envolver também guardiãs e representantes dos mesmos. 
+Se uma decisão impacta outros contornos é indicado que compartilhe a proposta para reações das guardiãs e representantes dos contornos impactados, e apenas depois realizar decisão integrativa no contorno que criou a proposta.
 
 Consentimento não é questão de preferência pessoal e sim de saber se há objeções: algo que coloque em risco as propriedades do contorno ou contornos externos (razão de existir, responsabilidades, autoridade)?
 
