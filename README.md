@@ -127,9 +127,9 @@ A estratégia é uma declaração explícita de prioridades, práticas ou renún
 A estratégia é declarada pela guardiã do contorno. Se desejado, a guardiã pode criar um acordo para que a definição de estratégia seja através de decisão integrativa, abrindo mão de sua autoridade exclusiva sobre isso.
 
 ## 5.3 Responsabilidades (’Como?’)
-Responsabilidades são as principais ações recorrentes que as pessoas do contorno precisam realizar. Porém, a autonomia das pessoas não está limitada por essa lista. Elas podem e devem fazer o que for necessário para expressar sua razão de existir, aplicando a estratégia e respeitando autoridade de outros contornos assim como os acordos.
+Responsabilidades são as principais ações recorrentes que as pessoas do contorno precisam realizar. Porém, a autonomia das pessoas não está limitada por essa lista. **Elas podem e devem fazer o que for necessário para expressar a razão de existir de um contorno**, aplicando a estratégia e respeitando autoridade de outros contornos assim como os acordos.
 
-A lista de responsabilidades deixa expĺicita qualquer coisa que não é facilmente deduzida ao ler a razão de existir.  
+A lista de responsabilidades deixa explicita qualquer coisa que não é facilmente deduzida ao ler a razão de existir.  
 
 As responsabilidades de um contorno são decididas pelo contorno externo através de decisão integrativa.
 
