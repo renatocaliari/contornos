@@ -53,13 +53,16 @@ Uma guardiã de contorno tem as mesmas responsabilidades descritas no contorno, 
   * compartilhar sobre o progresso dos projetos com o contorno externo, na frequência sugerida, informando como isso se conecta à estratégia do contorno externo.
   * compartilhar qualquer informação relacionada ao seu contorno ー projetos, tarefas, etc ー quando alguém perguntar, exceto se algo for acordado como confidencial.
   * compartilhar projeções sobre projetos ou tarefas quando perguntarem, sem garantia da acuracidade.
-
-Ela tem autoridade para: 
   * definir estratégia do contorno alinhada com a estratégia do contorno externo.
   * convidar e propôr pessoas para apoiar contornos internos ao seu.
   * delegar parte da autoridade do seu contorno para novos contornos internos.
     * caso já existam contornos internos dentro de seu contorno, é necessário decisão integrativa para criação de novos contornos. 
-E não tem autoridade para: 
+
+Autoridade exclusiva:
+  * estratégia do seu contorno
+  * alocação de pessoas nos contornos internos
+
+Não tem autoridade para: 
   * mudar razão de existir e responsabilidades do contorno em que está atualmente. Para isso é necessário decisão integrativa com contorno externo.
 
 Uma guardiã é participante do contorno que foi nomeada para ser guardiã além de automaticamente se tornar participante do contorno externo também.
