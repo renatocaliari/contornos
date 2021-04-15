@@ -1,4 +1,4 @@
-# Versão: 0.0.7
+# Versão: 0.0.8
 
 **Veja uma aplicação dessas regras básicas nessa prova-de-conceito:** https://coda.io/@cali/org-descentralizada.
 
@@ -48,31 +48,39 @@ Caso sejam alocadas mais pessoas nesses mesmo contorno, elas se tornam apoiadora
 
 ## 3.1 Guardiã do contorno
 Uma guardiã de contorno tem as mesmas responsabilidades descritas no contorno, além de:
-  * trazer informações do contorno externo para o contorno atual.
-  * fazer checkin dos indicadores com o contorno externo, na frequência sugerida.
-  * compartilhar sobre o progresso dos projetos com o contorno externo, na frequência sugerida, informando como isso se conecta à estratégia do contorno externo.
+
+  * trazer informações do contorno externo para todas participantes do seu contorno.
+  * fazer checkin dos indicadores com o contorno externo, na frequência sugerida pelo contorno externo.
+  * definir estratégia (prioridades ou regras de priorização) do contorno mantendo alinhada com a estratégia e propósito do contorno externo.
+  * compartilhar sobre o progresso dos projetos com o contorno externo, na frequência sugerida pelo contorno externo, informando como isso se conecta à estratégia e proppósito do contorno externo.
   * compartilhar qualquer informação relacionada ao seu contorno ー projetos, tarefas, etc ー quando alguém perguntar, exceto se algo for acordado como confidencial.
-  * compartilhar projeções sobre projetos ou tarefas quando perguntarem, sem garantia da acuracidade.
-  * definir estratégia do contorno alinhada com a estratégia do contorno externo.
+  * compartilhar projeções sobre projetos ou tarefas quando perguntarem, sem compromisso com data exata, a não ser se acordado de outra forma.
+  * avaliar se há algo operacional a realizar que não tenha um papel realizando e descobrir soluções: realizar por si mesma, definir um novo contorno interno responsável por isso junto com pessoas do contorno ou convidar alguém que se disponibilizar.
   * convidar e propôr pessoas para apoiar contornos internos ao seu.
-  * delegar parte da autoridade do seu contorno para novos contornos internos.
-    * caso já existam contornos internos dentro de seu contorno, é necessário decisão integrativa para criação de novos contornos. 
+
+Razão de existir:
+  * Guardar o espaço do contorno e responder pela razão de existir do contorno.
 
 Autoridade exclusiva:
   * estratégia do seu contorno
   * alocação de pessoas nos contornos internos
 
+Não tem responsabilidade ou autoridade para:
+  * micro gerenciar ou violar autoridade de qualquer contorno, inclusive internos.
+  * 'reports' diretos sobre tarefas: 'reports' são feitos para o próprio contorno.
+  * realizar reuniões um-para-um (1+1) com pessoas do contorno. Qualquer pessoa em um contorno pode pedir por uma reunião um-para-um. Experimentar contornos de “Treinamento” (para treinar pessoas em habilidades específicas de um escopo), “Parceria” (para realizar parceria de trocas durante um período) ou “Escuta” (para realizar escuta quando necessário).
+
 Não tem autoridade para: 
   * mudar razão de existir e responsabilidades do contorno em que está atualmente. Para isso é necessário decisão integrativa com contorno externo.
 
-Uma guardiã é participante do contorno que foi nomeada para ser guardiã além de automaticamente se tornar participante do contorno externo também.
+Uma guardiã é participante do contorno que foi nomeada para ser guardiã além de ser participante do contorno externo.
 
 ## 3.2 Representante do contorno
 É desejado que todo contorno que possua apoiadoras ou que tenha contornos internos, tenha também uma representante compartilhando das mesmas responsabilidades descritas no contorno, além de:
 * direito e dever de participar de decisões integrativas.
 * compartilhar perspectivas do contorno atual para o contorno externo.
 
-Uma representante é participante do contorno que foi nomeada para ser representante além de automaticamente se tornar participante do contorno externo também.
+Uma representante é participante do contorno que foi nomeada para ser representante além de automaticamente se tornar participante do contorno externo.
 
 Ela pode ser escolhida por decisão integrativa, ou caso acordado, por voto da maioria das pessoas em um contorno, sendo aberto para participação da guardiã do contorno atual e das guardiãs e representantes dos contornos internos diretos.
 
