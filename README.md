@@ -1,4 +1,4 @@
-# Versão: 0.0.12
+# Versão: 0.0.13
 
 **Veja uma aplicação dessas regras básicas nessa prova-de-conceito:** https://coda.io/@cali/org-descentralizada.
 
@@ -47,7 +47,7 @@ Necessariamente, todo contorno terá uma guardiã.
 Caso sejam alocadas mais pessoas nesses mesmo contorno, elas se tornam apoiadoras, e se torna necessário que alguém exerça a função de representante.
 
 ## 3.1 Guardiã do contorno
-Uma guardiã é participante do contorno que foi nomeada para ser guardiã além de ser participante do contorno externo ao seu.
+Uma guardiã é participante do contorno que foi nomeada para ser guardiã além de apoiadora no contorno externo ao seu.
 
 Ela tem as mesmas responsabilidades descritas no seu contorno, além de:
 
@@ -82,7 +82,7 @@ Não tem autoridade para:
 * direito e dever de participar de decisões integrativas.
 * compartilhar perspectivas do contorno atual para o contorno externo.
 
-Uma representante é participante do contorno que foi nomeada para ser representante além de automaticamente se tornar participante do contorno externo.
+Uma representante é participante do contorno que foi nomeada para ser representante além de automaticamente se tornar apoiadora do contorno externo.
 
 Ela pode ser escolhida por decisão integrativa, ou caso acordado, por voto da maioria das pessoas em um contorno, sendo aberto para participação da guardiã do contorno atual e das guardiãs e representantes dos contornos internos diretos.
 
@@ -91,7 +91,7 @@ Um contorno tem apenas uma guardiã, uma representante, e também pode conter ap
 
 Elas são propostas pela guardiã, porém é necessário decisão integrativa entre guardiã, representante e cada pessoa nomeada para iniciar no contorno.
 
-Uma apoiadora é participante apenas do contorno em que foi escolhida, diferente de uma guardiã ou representante.
+Uma apoiadora é participante apenas do contorno em que foi escolhida, diferente de uma guardiã ou representante que participam também como apoiadoras do contorno externo.
 
 # 4. Alocação de pessoas em contornos
 A alocação de pessoas é diferente dependendo da função exercida no contorno. 
