@@ -47,7 +47,7 @@ Necessariamente, todo contorno terá uma guardiã.
 Caso sejam alocadas mais pessoas nesses mesmo contorno, elas se tornam apoiadoras, e se torna necessário que alguém exerça a função de representante.
 
 ## 3.1 Guardiã do contorno
-Uma guardiã é participante do contorno que foi nomeada para ser guardiã além de ser participante do contorno externo.
+Uma guardiã é participante do contorno que foi nomeada para ser guardiã além de ser participante do contorno externo ao seu.
 
 Ela tem as mesmas responsabilidades descritas no seu contorno, além de:
 
