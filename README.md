@@ -1,4 +1,4 @@
-# Versão: 0.0.11
+# Versão: 0.0.12
 
 **Veja uma aplicação dessas regras básicas nessa prova-de-conceito:** https://coda.io/@cali/org-descentralizada.
 
@@ -68,7 +68,7 @@ Autoridade exclusiva:
   * alocação de pessoas na função de apoiadoras do contorno.
 
 Não tem responsabilidade ou autoridade para:
-  * contratar ou demitir novas pessoas. Para isso pode ser criado um contorno específico como, por exemplo, "Encerramento de parceria" onde reúne guardiãs de vários contornos para porporem, avaliarem e tomarem decisão integrativa.
+  * contratar ou demitir novas pessoas. Para ambos escopos podem ser criados contornos específicos: "Contratação de XPTO", sendo XPTO alguma especialidade ou escopo, ou "Encerramento de parceria" o qual pode reunir guardiãs de vários contornos para proporem, avaliarem e tomarem decisão integrativa.
   * micro gerenciar ou violar autoridade de qualquer contorno, inclusive contornos internos.
   * 'reports' diretos sobre tarefas: 'reports' são compartilhamentos feitos para o próprio contorno e não para a guardiã.
   * realizar reuniões um-para-um (1+1) com pessoas do contorno. Para apoiar as pessoas, experimentar contornos de “Treinamento” (para treinar pessoas em habilidades específicas de um escopo), “Apoio mútuo” (para apoio mútuo durante um período), “Escuta” (para realizar escuta quando necessário) ou "Aconselhamento" (para aconselhamento em determinado escopo ou geral). Ou seja, uma pessoa na função de guardiã, até pode estar nesses outros contornos exemplificados, porém, não necessariamente.
