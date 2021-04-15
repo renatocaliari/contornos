@@ -144,7 +144,7 @@ Responsabilidades são as principais ações recorrentes que as pessoas do conto
 
 A lista de responsabilidades deixa explicita qualquer coisa que não é facilmente deduzida ao ler a razão de existir.  
 
-As responsabilidades de um contorno são decididas pelo contorno externo através de decisão integrativa.
+As responsabilidades de um contorno são decidida pelo contorno externo através de decisão integrativa.
 
 ## 5.4 Autoridade exclusiva (’Como?’)
 Cada contorno pode ter alguma autoridade exclusiva sobre algum artefato (material, ferramenta ou processo) ou aspecto dele que apenas esse contorno pode manipular. Qualquer pessoa de outro contorno que deseje acessar esse artefato, precisará negociar com a pessoa que está no contorno que detém essa autoridade.
