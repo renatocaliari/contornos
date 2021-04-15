@@ -1,4 +1,4 @@
-# Versão: 0.0.9
+# Versão: 0.0.10
 
 **Veja uma aplicação dessas regras básicas nessa prova-de-conceito:** https://coda.io/@cali/org-descentralizada.
 
@@ -47,7 +47,9 @@ Necessariamente, todo contorno terá uma guardiã.
 Caso sejam alocadas mais pessoas nesses mesmo contorno, elas se tornam apoiadoras, e se torna necessário que alguém exerça a função de representante.
 
 ## 3.1 Guardiã do contorno
-Uma guardiã de contorno tem as mesmas responsabilidades descritas no contorno, além de:
+Uma guardiã é participante do contorno que foi nomeada para ser guardiã além de ser participante do contorno externo.
+
+Ela tem as mesmas responsabilidades descritas no seu contorno, além de:
 
   * trazer informações do contorno externo para todas participantes do seu contorno.
   * fazer checkin dos indicadores com o contorno externo, na frequência sugerida pelo contorno externo.
@@ -66,15 +68,14 @@ Autoridade exclusiva:
   * alocação de pessoas nos contornos internos
 
 Não tem responsabilidade ou autoridade para:
-  * contratar ou demitir novas pessoas. Para isso são criados contornos específicos.
+  * contratar ou demitir novas pessoas. Para isso pode ser criado um contorno específico como "Fim de parceria" onde reúne guardiãs de vários contornos para porporem, avaliarem e tomarem decisão integrativa.
   * micro gerenciar ou violar autoridade de qualquer contorno, inclusive internos.
   * 'reports' diretos sobre tarefas: 'reports' são feitos para o próprio contorno.
-  * realizar reuniões um-para-um (1+1) com pessoas do contorno. Qualquer pessoa em um contorno pode pedir por uma reunião um-para-um. Experimentar contornos de “Treinamento” (para treinar pessoas em habilidades específicas de um escopo), “Parceria” (para realizar parceria de trocas durante um período) ou “Escuta” (para realizar escuta quando necessário).
+  * realizar reuniões um-para-um (1+1) com pessoas do contorno. Experimentar contornos de “Treinamento” (para treinar pessoas em habilidades específicas de um escopo), “Parceria” (para realizar parceria de trocas durante um período) ou “Escuta” (para realizar escuta quando necessário). 
 
 Não tem autoridade para: 
-  * mudar razão de existir e responsabilidades do contorno em que está atualmente. Para isso é necessário decisão integrativa com contorno externo.
-
-Uma guardiã é participante do contorno que foi nomeada para ser guardiã além de ser participante do contorno externo.
+  * mudar razão de existir e responsabilidades do contorno em que está atualmente. Esses atributos são decididos de forma integrativa pelo contorno externo, o qual a guardiã também faz parte.
+ 
 
 ## 3.2 Representante do contorno
 É desejado que todo contorno que possua apoiadoras ou que tenha contornos internos, tenha também uma representante compartilhando das mesmas responsabilidades descritas no contorno, além de:
