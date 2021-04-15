@@ -8,7 +8,7 @@ Sua intenção é potencializar decisões descentralizadas, transparência e flu
 
 Pense nisso como um sistema organizacional enxuto 'open-source' (código aberto), que permite você desenvolver novas 'funcionalidades' customizadas para o seu contexto, além de adaptar o próprio sistema organizacional, se necessário.
 
-Caso você deseje utilizar esse sistema, declare isso com as pessoas que também utilização para poder usá-lo como referência nas tomadas de decisões e desenvolvimento da organização.
+Caso você deseje utilizar esse sistema, declare isso com as pessoas que também utilizarão para poder usá-lo como referência nas tomadas de decisões e desenvolvimento da organização.
 
 Se você deseja ajuda para experimentar ou implementar, entre em contato comigo: [Cali](renatocaliari.com/). 
 
