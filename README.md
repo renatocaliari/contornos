@@ -1,4 +1,4 @@
-# Versão: 0.0.10
+# Versão: 0.0.11
 
 **Veja uma aplicação dessas regras básicas nessa prova-de-conceito:** https://coda.io/@cali/org-descentralizada.
 
@@ -65,16 +65,16 @@ Razão de existir:
 
 Autoridade exclusiva:
   * estratégia do seu contorno
-  * alocação de pessoas nos contornos internos
+  * alocação de pessoas na função de apoiadoras do contorno.
 
 Não tem responsabilidade ou autoridade para:
-  * contratar ou demitir novas pessoas. Para isso pode ser criado um contorno específico como "Fim de parceria" onde reúne guardiãs de vários contornos para porporem, avaliarem e tomarem decisão integrativa.
-  * micro gerenciar ou violar autoridade de qualquer contorno, inclusive internos.
-  * 'reports' diretos sobre tarefas: 'reports' são feitos para o próprio contorno.
-  * realizar reuniões um-para-um (1+1) com pessoas do contorno. Experimentar contornos de “Treinamento” (para treinar pessoas em habilidades específicas de um escopo), “Parceria” (para realizar parceria de trocas durante um período) ou “Escuta” (para realizar escuta quando necessário). 
+  * contratar ou demitir novas pessoas. Para isso pode ser criado um contorno específico como, por exemplo, "Encerramento de parceria" onde reúne guardiãs de vários contornos para porporem, avaliarem e tomarem decisão integrativa.
+  * micro gerenciar ou violar autoridade de qualquer contorno, inclusive contornos internos.
+  * 'reports' diretos sobre tarefas: 'reports' são compartilhamentos feitos para o próprio contorno e não para a guardiã.
+  * realizar reuniões um-para-um (1+1) com pessoas do contorno. Para apoiar as pessoas, experimentar contornos de “Treinamento” (para treinar pessoas em habilidades específicas de um escopo), “Apoio mútuo” (para apoio mútuo durante um período), “Escuta” (para realizar escuta quando necessário) ou "Aconselhamento" (para aconselhamento em determinado escopo ou geral). Ou seja, uma pessoa na função de guardiã, até pode estar nesses outros contornos exemplificados, porém, não necessariamente.
 
 Não tem autoridade para: 
-  * mudar razão de existir e responsabilidades do contorno em que está atualmente. Esses atributos são decididos de forma integrativa pelo contorno externo, o qual a guardiã também faz parte.
+  * mudar razão de existir e responsabilidades do contorno em que está como guardiã atualmente. Esses atributos são decididos de forma integrativa pelo contorno externo, no qual a guardiã também faz parte.
  
 
 ## 3.2 Representante do contorno
