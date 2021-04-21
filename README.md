@@ -57,7 +57,7 @@ Ela tem as mesmas responsabilidades descritas no seu contorno, além de:
   * compartilhar sobre o progresso dos projetos com o contorno externo, na frequência sugerida pelo contorno externo, informando como isso se conecta à estratégia e proppósito do contorno externo.
   * compartilhar qualquer informação relacionada ao seu contorno ー projetos, tarefas, etc ー quando alguém perguntar, exceto se algo for acordado como confidencial.
   * compartilhar projeções sobre projetos ou tarefas quando perguntarem, sem compromisso com data exata, a não ser se acordado de outra forma.
-  * avaliar se há algo operacional a realizar que não tenha um papel realizando e descobrir soluções: realizar por si mesma, definir um novo contorno interno responsável por isso junto com pessoas do contorno ou convidar alguém que se disponibilizar.
+  * avaliar se há algo operacional a realizar que não tenha um contorno realizando e descobrir soluções: realizar por si mesma, definir um novo contorno interno responsável por isso junto com pessoas do contorno ou convidar alguém que se disponibilizar.
   * convidar e propôr pessoas para apoiar contornos internos ao seu.
 
 Razão de existir:
