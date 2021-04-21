@@ -1,4 +1,4 @@
-# Versão: 0.0.14
+# Versão: 0.0.15
 
 **Veja uma aplicação dessas regras básicas nessa prova-de-conceito:** https://coda.io/@cali/org-descentralizada.
 
