@@ -1,4 +1,4 @@
-# Versão: 0.0.15
+# Versão: 0.0.16
 
 **Veja uma aplicação dessas regras básicas nessa prova-de-conceito:** https://coda.io/@cali/org-descentralizada.
 
@@ -47,7 +47,7 @@ Necessariamente, todo contorno terá uma guardiã.
 Caso sejam alocadas mais pessoas nesses mesmo contorno, elas se tornam apoiadoras, e se torna necessário que alguém exerça a função de representante.
 
 ## 3.1 Guardiã do contorno
-Uma guardiã é participante do contorno que foi nomeada para ser guardiã além de apoiadora no contorno externo ao seu.
+Uma guardiã é participante do contorno que foi nomeada para ser guardiã além de também participar do contorno externo ao seu.
 
 Ela tem as mesmas responsabilidades descritas no seu contorno, além de:
 
@@ -64,11 +64,11 @@ Razão de existir:
   * Guardar o espaço do contorno e responder pela razão de existir do contorno.
 
 Autoridade exclusiva:
-  * estratégia do seu contorno
+  * estratégia do próprio contorno.
   * alocação de pessoas na função de apoiadoras do contorno.
 
 Não tem responsabilidade ou autoridade para:
-  * contratar ou demitir novas pessoas. Para ambos escopos podem ser criados contornos específicos: "Contratação de XPTO", sendo XPTO alguma especialidade ou escopo, ou "Encerramento de parceria" o qual pode reunir guardiãs de vários contornos para proporem, avaliarem e tomarem decisão integrativa.
+  * contratar ou demitir novas pessoas. Para ambos escopos podem ser criados contornos específicos: "Contratação de XPTO", sendo XPTO alguma especialidade ou escopo, tendo uma pessoa ou mais nesse novo contorno; e "Encerramento de parceria", o qual pode reunir guardiãs de vários contornos para proporem, avaliarem e tomarem decisão integrativa.
   * micro gerenciar ou violar autoridade de qualquer contorno, inclusive contornos internos.
   * 'reports' diretos sobre tarefas: 'reports' são compartilhamentos feitos para o próprio contorno e não para a guardiã.
   * realizar reuniões um-para-um (1+1) com pessoas do contorno. Para apoiar as pessoas, experimentar contornos de “Treinamento” (para treinar pessoas em habilidades específicas de um escopo), “Apoio mútuo” (para apoio mútuo durante um período), “Escuta” (para realizar escuta quando necessário) ou "Aconselhamento" (para aconselhamento em determinado escopo ou geral). Ou seja, uma pessoa na função de guardiã, até pode estar nesses outros contornos exemplificados, porém, não necessariamente.
@@ -82,7 +82,7 @@ Não tem autoridade para:
 * direito e dever de participar de decisões integrativas.
 * compartilhar perspectivas do contorno atual para o contorno externo.
 
-Uma representante é participante do contorno que foi nomeada para ser representante além de automaticamente se tornar apoiadora do contorno externo.
+Uma representante é participante do contorno que foi nomeada para ser representante além de automaticamente se tornar participante do contorno externo.
 
 Ela pode ser escolhida por decisão integrativa, ou caso acordado, por voto da maioria das pessoas em um contorno, sendo aberto para participação da guardiã do contorno atual e das guardiãs e representantes dos contornos internos diretos.
 
