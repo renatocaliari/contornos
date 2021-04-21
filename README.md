@@ -1,4 +1,4 @@
-# Versão: 0.0.13
+# Versão: 0.0.14
 
 **Veja uma aplicação dessas regras básicas nessa prova-de-conceito:** https://coda.io/@cali/org-descentralizada.
 
@@ -198,7 +198,7 @@ Quanto mais acordos e mais especificidades, a tendência é ter menos flexibilid
 
 Comece com a máxima de que “tudo é permitido desde que não seja explicitamente proibido” seja em algum acordo de restrição ou declaração de autoridade exclusiva de algum outro contorno” em vez do comum em outros tipos de organizações “tudo é proibido desde que seja explicitamente permitido”. 
 
-Um acordo deve ser criado apenas com decisão integrativa entre a guardiã e representantes do contorno atual e as guardiãs e representantes dos contornos internos.
+Um acordo (ex: novo contorno) deve ser criado apenas com decisão integrativa entre a guardiã e representante do contorno atual e as guardiãs e representantes dos contornos internos.
 
 Os acordos só podem restringir ou criar expectativas dentro do seu próprio contorno, e contornos internos, e desde que não viole autoridade de outros contornos externos.
 
@@ -214,7 +214,7 @@ Envolve processos, protocolos ou restrições para orientar o fluxo de valor.
 Acordo pessoais são relacionados às pessoas, como, por exemplo, comportamento e expectativas pessoais, não criando expectativas sobre estrutura.
 
 # 7. Decisões integrativas
-Uma decisão integrativa é uma decisão **em consentimento** envolvendo todas participantes de um contorno. 
+Uma decisão integrativa é uma decisão **em consentimento** envolvendo guardiãs e representantes dentro de um contorno onde a decisão integrativa precisa ser tomada, juntas com guardiãs e representantes dos contornos internos diretos. 
 Se uma decisão impacta outros contornos é indicado que compartilhe a proposta para reações das guardiãs e representantes dos contornos impactados, e apenas depois realizar decisão integrativa no contorno que criou a proposta.
 
 Consentimento não é questão de preferência pessoal e sim de saber se há objeções: algo que coloque em risco as propriedades do contorno ou contornos externos (razão de existir, responsabilidades, autoridade)?
