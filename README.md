@@ -1,4 +1,4 @@
-# Versão: 0.0.16
+# Versão: 0.0.17
 
 **Veja uma aplicação dessas regras básicas nessa prova-de-conceito:** https://coda.io/@cali/org-descentralizada.
 
@@ -49,15 +49,15 @@ Caso sejam alocadas mais pessoas nesses mesmo contorno, elas se tornam apoiadora
 ## 3.1 Guardiã do contorno
 Uma guardiã é participante do contorno que foi nomeada para ser guardiã além de também participar do contorno externo ao seu.
 
-Ela tem as mesmas responsabilidades descritas no seu contorno, além de:
+Ela tem as responsabilidades descritas no próprio contorno, por isso assumindo as responsabilidades que não estejam delegadas a algum subcontorno, além de:
 
+  * avaliar se há algo operacional que não esteja sendo realizado para lidar com as responsabilidades delegadas.
   * trazer informações do contorno externo para todas participantes do seu contorno.
   * fazer checkin dos indicadores com o contorno externo, na frequência sugerida pelo contorno externo.
   * definir estratégia (prioridades ou regras de priorização) do contorno mantendo alinhada com a estratégia e propósito do contorno externo.
   * compartilhar sobre o progresso dos projetos com o contorno externo, na frequência sugerida pelo contorno externo, informando como isso se conecta à estratégia e proppósito do contorno externo.
   * compartilhar qualquer informação relacionada ao seu contorno ー projetos, tarefas, etc ー quando alguém perguntar, exceto se algo for acordado como confidencial.
   * compartilhar projeções sobre projetos ou tarefas quando perguntarem, sem compromisso com data exata, a não ser se acordado de outra forma.
-  * avaliar se há algo operacional a realizar que não tenha um contorno realizando e descobrir soluções: realizar por si mesma, definir um novo contorno interno responsável por isso junto com pessoas do contorno ou convidar alguém que se disponibilizar.
   * convidar e propôr pessoas para apoiar contornos internos ao seu.
 
 Razão de existir:
@@ -87,7 +87,7 @@ Uma representante é participante do contorno que foi nomeada para ser represent
 Ela pode ser escolhida por decisão integrativa, ou caso acordado, por voto da maioria das pessoas em um contorno, sendo aberto para participação da guardiã do contorno atual e das guardiãs e representantes dos contornos internos diretos.
 
 ## 3.3 Apoiadoras do contorno
-Um contorno tem apenas uma guardiã, uma representante, e também pode conter apoiadoras. As apoiadoras possuem as mesmas responsabilidades do contorno.
+Um contorno tem apenas uma guardiã, uma representante, e também pode conter apoiadoras. As apoiadoras possuem as mesmas responsabilidades do contorno, por isso assumindo junto com a guardiã as responsabilidades que não estejam delegadas a algum subcontorno.
 
 Elas são propostas pela guardiã, porém é necessário decisão integrativa entre guardiã, representante e cada pessoa nomeada para iniciar no contorno.
 
