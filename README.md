@@ -1,4 +1,4 @@
-# Versão: 0.0.17
+# Versão: 0.0.18
 
 **Veja uma aplicação dessas regras básicas nessa prova-de-conceito:** https://coda.io/@cali/org-descentralizada.
 
@@ -53,7 +53,7 @@ Ela tem as responsabilidades descritas no próprio contorno, por isso assumindo 
 
   * avaliar se há algo operacional que não esteja sendo realizado para lidar com as responsabilidades delegadas.
   * trazer informações do contorno externo para todas participantes do seu contorno.
-  * fazer checkin dos indicadores com o contorno externo, na frequência sugerida pelo contorno externo.
+  * fazer compartilhamento dos indicadores com o contorno externo, na frequência sugerida pelo contorno externo.
   * definir estratégia (prioridades ou regras de priorização) do contorno mantendo alinhada com a estratégia e propósito do contorno externo.
   * compartilhar sobre o progresso dos projetos com o contorno externo, na frequência sugerida pelo contorno externo, informando como isso se conecta à estratégia e proppósito do contorno externo.
   * compartilhar qualquer informação relacionada ao seu contorno ー projetos, tarefas, etc ー quando alguém perguntar, exceto se algo for acordado como confidencial.
@@ -69,7 +69,7 @@ Autoridade exclusiva:
 
 Não tem responsabilidade ou autoridade para:
   * contratar ou demitir novas pessoas. Para ambos escopos podem ser criados contornos específicos: "Contratação de XPTO", sendo XPTO alguma especialidade ou escopo, tendo uma pessoa ou mais nesse novo contorno; e "Encerramento de parceria", o qual pode reunir guardiãs de vários contornos para proporem, avaliarem e tomarem decisão integrativa.
-  * micro gerenciar ou violar autoridade de qualquer contorno, inclusive contornos internos.
+  * microgerenciar ou violar autoridade de qualquer contorno, inclusive contornos internos.
   * 'reports' diretos sobre tarefas: 'reports' são compartilhamentos feitos para o próprio contorno e não para a guardiã.
   * realizar reuniões um-para-um (1+1) com pessoas do contorno. Para apoiar as pessoas, experimentar contornos de “Treinamento” (para treinar pessoas em habilidades específicas de um escopo), “Apoio mútuo” (para apoio mútuo durante um período), “Escuta” (para realizar escuta quando necessário) ou "Aconselhamento" (para aconselhamento em determinado escopo ou geral). Ou seja, uma pessoa na função de guardiã, até pode estar nesses outros contornos exemplificados, porém, não necessariamente.
 
@@ -239,7 +239,7 @@ As questões são tratadas diretamente com as guardiãs do contorno em que as qu
 
 Da mesma forma, isso acontece com pedidos por projetos e tarefas. Qualquer pessoa em um contorno pode realizar pedidos e tarefas para outra pessoa que está em um contorno responsável por aqueles tipos de projetos ou tarefas. 
 
-A guardiã buscará entender melhor qual é o pedido e registrará em seu quadro de projetos para atender essa necessidade. Caso exista alguma objeção com o pedido, deve ser tratado com a pessoa que solicitou para tentarem integrar a objeção e por fim acordarem se será ou não realizado.
+A guardiã buscará entender melhor qual é o pedido e registrará em sua lista de projetos para atender essa necessidade. Caso exista alguma objeção com o pedido, deve ser tratado com a pessoa que solicitou para tentarem integrar a objeção e por fim acordarem se será ou não realizado.
 
 Pergunte à pessoa: ー O que você precisa?
 Pergunte a si mesma: ー Isto está dentro de algum contorno meu ー responsabilidades, razão de existir ou autoridade? Qual?
