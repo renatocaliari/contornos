@@ -1,12 +1,12 @@
-# Versão: 0.0.18
+# Versão: 0.0.19
 
 **Veja uma aplicação dessas regras básicas nessa prova-de-conceito:** https://coda.io/@cali/org-descentralizada.
 
-Contornos é um sistema com regras básicas inspirado em tecnologias sociais como [Sociocracia](https://www.sociocracyforall.org/), [Sociocracia 3.0](https://sociocracy30.org/) e [Organizações Orgânicas](https://o2.targetteal.com/).
+[Contornos] é um sistema com regras básicas para organizações inspirado em tecnologias sociais como [Sociocracia](https://www.sociocracyforall.org/), [Sociocracia 3.0](https://sociocracy30.org/) e [Organizações Orgânicas](https://o2.targetteal.com/).
 
 Sua intenção é potencializar decisões descentralizadas, transparência e fluxo de informações.
 
-Pense nisso como um sistema organizacional enxuto 'open-source' (código aberto), que permite você desenvolver novas 'funcionalidades' customizadas para o seu contexto, além de adaptar o próprio sistema organizacional, se necessário.
+Pense nisso como um sistema organizacional enxuto 'open-source' (código aberto), que permite você desenvolver novas 'funcionalidades' customizadas para o seu contexto, além de adaptar o próprio sistema, se necessário.
 
 Caso você deseje utilizar esse sistema, declare isso com as pessoas que também utilizarão para poder usá-lo como referência nas tomadas de decisões e desenvolvimento da organização.
 
@@ -126,7 +126,6 @@ Veja os passos para noemação:
 - Proposta e decisão integrativa: a guardiã faz uma proposta levando em consideração os nomes e razões que as outras pessoas trouxeram nas nomeações. As participantes fazem uma decisão integrativa por consentimento.
 
 
-
 # 5. Atributos dos contornos
 ## 5.1 Razão de existir (’Por quê?’)
 Esse atributo informa o motivo de um contorno existir. Os contornos são aninhados por essa razão.
@@ -177,7 +176,7 @@ Cada pessoa pode ter um tempo pré-determinado de atuação em um contorno. Assi
 
 
 ## 5.8 Quem define o quê?
-As participantes do contorno externo são responsáveis por decidirem de forma integrativa pela:
+As participantes do contorno externo são responsáveis por decidirem de forma integrativa pelos seguintes atributos de um contorno interno direto que está em definição ou adaptação:
 * Razão de existir.
 * Responsabilidades.
 * Autoridade exclusiva.
@@ -187,7 +186,7 @@ As participantes do contorno externo são responsáveis por decidirem de forma i
 * Frequência de avaliação com reações.
 
 A guardiã de um contorno tem a responsabilidade e autoridade para definir:
-* Estratégia do contorno.
+* Estratégia do contorno em que é guardiã.
 
 # 6. Acordos
 Essas regras básicas dos Contornos já garantem uma estrutura mínima de acordos simplesmente estabelecendo os próprios contornos, criando compreensão compartilhada e dando visibilidade a muitos aspectos por vezes esquecidos em organizações. 
