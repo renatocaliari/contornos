@@ -119,7 +119,7 @@ Caberá à guardiã de um contorno decidir se deseja fazer uma proposta direta p
 
 Para um processo de nomeação não é necessário convergência ou consenso inicial.
 
-Veja os passos para noemação:
+Veja os passos para nomeação:
 - Cada pessoa escreve em privado quem nomeia para determinado contorno e função: eu nomeio PESSOA X para preenher esse contorno como [Guardiã | Representante | Apoiadora]. Lembre a todas as pessoas que cada uma delas pode se auto nomear.
 - Rodada de anúncio das nomeações: em uma rodada, peça para cada pessoa anunciar sua nomeação e suas razões de forma breve.
 - Rodada de alterações: em uma rodada, ofereça oportunidade das pessoas mudarem sua nomeação. Se alguma pessoa alterar sua nomeação, pergunte se ela deseja compartilhar o que levou a essa mudança.
