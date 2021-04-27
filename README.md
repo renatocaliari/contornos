@@ -1,10 +1,8 @@
 # Versão: 0.0.19
 
-**Veja uma aplicação dessas regras básicas nessa prova-de-conceito:** https://coda.io/@cali/org-descentralizada.
+[Contornos] é um sistema com regras básicas para estruturar organizações inspirado em tecnologias sociais como [Organizações Orgânicas](https://o2.targetteal.com/), [Sociocracia](https://www.sociocracyforall.org/), [Sociocracia 3.0](https://sociocracy30.org/).
 
-[Contornos] é um sistema com regras básicas para organizações inspirado em tecnologias sociais como [Sociocracia](https://www.sociocracyforall.org/), [Sociocracia 3.0](https://sociocracy30.org/) e [Organizações Orgânicas](https://o2.targetteal.com/).
-
-Sua intenção é potencializar decisões descentralizadas, transparência e fluxo de informações.
+Sua intenção é potencializar decisões descentralizadas alinhadas por proppósito e estratégia, transparência e fluxo de informações.
 
 Pense nisso como um sistema organizacional enxuto 'open-source' (código aberto), que permite você desenvolver novas 'funcionalidades' customizadas para o seu contexto, além de adaptar o próprio sistema, se necessário.
 
