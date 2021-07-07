@@ -1,9 +1,8 @@
 ---
-title: Ferramentas Digitais
+layout: page
+title: "Ferramentas Digitais"
+permalink: 
 author: Cali (Renato Caliari)
-date: 2021-07-07
-category: 
-layout: post
 ---
 
 # Ferramentas Digitais
