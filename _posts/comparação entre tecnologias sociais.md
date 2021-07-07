@@ -1,3 +1,11 @@
+---
+title: Comparação entre tecnologias
+author: Cali (Renato Caliari)
+date: 2021-07-07
+category: 
+layout: post
+---
+
 Essa tabela é uma tentativa arriscada e simplista para que as pessoas que conheçam as demais tecnologias listadas possam ter uma noção superficial de comparação sobre os elementos previstos no núcleo de cada tecnologia.
 Essa tabela não traz informações contextuais para quem não conhece tais tecnologias.
 
