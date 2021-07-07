@@ -1,8 +1,8 @@
 ---
 title: Principal
-author: Cali
+author: Cali (Renato Caliari)
 date: 2021-07-07
-category: Jekyll
+category: 
 layout: post
 ---
 
