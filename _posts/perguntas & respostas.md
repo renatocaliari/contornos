@@ -1,3 +1,11 @@
+---
+title: Perguntas & Respostas
+author: Cali (Renato Caliari)
+date: 2021-07-07
+category: 
+layout: post
+---
+
 - [Como iniciar com o sistema Contornos?](#como-iniciar-com-o-sistema-contornos)
   - [Como tomar a decisão de usar o sistema?](#como-tomar-a-decisão-de-usar-o-sistema)
   - [Quais as formas de começar com o sistema?](#quais-as-formas-de-começar-com-o-sistema)
