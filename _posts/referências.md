@@ -1,9 +1,8 @@
 ---
-title: Referências
+layout: page
+title: "Referências"
+permalink: 
 author: Cali (Renato Caliari)
-date: 2021-07-07
-category: 
-layout: post
 ---
 
   - [Referências sobre estratégias](#refer%C3%AAncias-sobre-estrat%C3%A9gias)
