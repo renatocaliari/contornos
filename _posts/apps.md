@@ -1,8 +1,8 @@
 ---
 title: Apps
-author: Tao He
+author: Cali (Renato Caliari)
 date: 2021-07-07
-category: Apps
+category: 
 layout: post
 ---
 
