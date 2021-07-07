@@ -1,3 +1,11 @@
+---
+title: Curiosidades
+author: Cali (Renato Caliari)
+date: 2021-07-07
+category: 
+layout: post
+---
+
 - [Sobre os princípios](#sobre-os-princípios)
 - [De onde surgiu o nome Guardiã?](#de-onde-surgiu-o-nome-guardiã)
 - [De onde surgiu a ideia papel estrutural de Sinapse?](#de-onde-surgiu-a-ideia-do-papel-estrutural-de-sinapse)
