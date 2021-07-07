@@ -1,4 +1,12 @@
-# Ferramentas
+---
+title: Ferramentas Digitais
+author: Cali (Renato Caliari)
+date: 2021-07-07
+category: 
+layout: post
+---
+
+# Ferramentas Digitais
 - [Para utilização do sistema Contornos](#para-utilização-do-sistema-contornos)
 - [Para colher reações em massa de pessoas colaboradoras](#para-colher-reações-em-massa-de-pessoas-colaboradoras)
 - [Para votação e enquetes](#para-votação-e-enquetes)
