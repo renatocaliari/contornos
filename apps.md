@@ -1,8 +1,7 @@
 ---
 layout: page
 title: "Apps"
-permalink: 
-author: Cali (Renato Caliari)
+permalink: /apps
 ---
 
 # O que são Apps
