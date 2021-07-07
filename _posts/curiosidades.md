@@ -1,9 +1,8 @@
 ---
-title: Curiosidades
+layout: page
+title: "Curiosidades"
+permalink: 
 author: Cali (Renato Caliari)
-date: 2021-07-07
-category: 
-layout: post
 ---
 
 - [Sobre os princípios](#sobre-os-princípios)
