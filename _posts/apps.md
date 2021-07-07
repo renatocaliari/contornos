@@ -3,7 +3,7 @@ title: Apps
 author: Cali (Renato Caliari)
 date: 2021-07-07
 category: 
-layout: home
+layout: post
 ---
 
 # O que são Apps
