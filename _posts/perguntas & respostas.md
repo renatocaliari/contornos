@@ -1,9 +1,8 @@
 ---
-title: Perguntas & Respostas
+layout: page
+title: "Perguntas & Respostas"
+permalink: 
 author: Cali (Renato Caliari)
-date: 2021-07-07
-category: 
-layout: post
 ---
 
 - [Como iniciar com o sistema Contornos?](#como-iniciar-com-o-sistema-contornos)
