@@ -1,3 +1,11 @@
+---
+title: Referências
+author: Cali (Renato Caliari)
+date: 2021-07-07
+category: 
+layout: post
+---
+
   - [Referências sobre estratégias](#refer%C3%AAncias-sobre-estrat%C3%A9gias)
   - [Referências sobre tomadas de decisões assíncronas](#referências-sobre-tomada-de-decisões-assíncronas)
   - [Referências sobre mapeamento de processo](#referências-sobre-mapeamento-de-processo)
