@@ -43,27 +43,24 @@
             loadSidebar: false,
             subMaxLevel: 4,
 
-		search: 'auto', // default
-
-		search : [
-		'/',            // => /README.md
-		'/tecnologias', 
-		'/curiosidades',
-		'/referências',
-		'/comunidades',
-		'/ferramentas',
-		'/perguntas'		
-		],
-
 		// complete configuration parameters
 		search: {
-		maxAge: 86400000, // Expiration time, the default one day
-		paths: [], // or 'auto'
-		placeholder: 'Digite para pesquisar',
-		noData: 'nenhum resultado!',
+			maxAge: 86400000, // Expiration time, the default one day
+			paths: [
+			'/', // => /README.md
+			'/tecnologias', 
+			'/curiosidades',
+			'/referências',
+			'/comunidades',
+			'/ferramentas',
+			'/perguntas'		
+			],
+			placeholder: 'Digite para pesquisar',
+			noData: 'Nenhum resultado!',
 
-		// Headline depth, 1 - 6
-		depth: 2,
+			// Headline depth, 1 - 6
+			depth: 2
+		},	
 
             plugins: [
                 EditOnGithubPlugin.create(
