@@ -1,11 +1,4 @@
-- [Sobre os princípios](#sobre-os-princípios)
-- [De onde surgiu o nome Guardiã?](#de-onde-surgiu-o-nome-guardiã)
-- [De onde surgiu a ideia papel estrutural de Sinapse?](#de-onde-surgiu-a-ideia-do-papel-estrutural-de-sinapse)
-- [Sobre a anotação de hierarquia de escopo](#sobre-a-anotação-de-hierarquia-de-escopo)
-- [Linguagem no feminino](#linguagem-no-feminino)
-- [Linguagem neutra potencializada, seja em gênero ou hierarquia](#linguagem-neutra-potencializada-seja-em-gênero-ou-hierarquia)
-
----
+# Curiosidades
 
 ## Sobre os princípios
 Os três primeiros princípios foram inspirados nos [Three Ways (DevOps)](https://itrevolution.com/the-three-ways-principles-underpinning-devops/).

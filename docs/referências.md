@@ -1,21 +1,4 @@
-  - [Referências sobre estratégias](#refer%C3%AAncias-sobre-estrat%C3%A9gias)
-  - [Referências sobre tomadas de decisões assíncronas](#referências-sobre-tomada-de-decisões-assíncronas)
-  - [Referências sobre mapeamento de processo](#referências-sobre-mapeamento-de-processo)
-  - [Referências sobre topologia de times de tecnologia](#refer%C3%AAncias-sobre-topologia-de-times-de-tecnologia)
-  - [Referências sobre mudanças e experimentação](#refer%C3%AAncias-sobre-mudan%C3%A7as-e-experimenta%C3%A7%C3%A3o)
-  - [Referências sobre salários](#referências-sobre-salários)
-  - [Referências sobre metas](#referências-sobre-metas)
-  - [Referências sobre indicadores](#referências-sobre-indicadores)
-  - [Referências sobre avaliação de desempenho](#referências-sobre-avaliação-de-desempenho)
-  - [Referências sobre "progressão" de carreira ou especialidade](#refer%C3%AAncias-sobre-progress%C3%A3o-de-carreira-ou-especialidade)
-  - [Referências sobre processo seletivo com dicas sobre modelo assíncrono](#referências-sobre-processo-seletivo)
-  - [Referências sobre escuta e diálogo](#referências-sobre-escuta-e-diálogo)
-  - [Referências sobre aprendizado em grupo](#referências-sobre-aprendizado-em-grupo)
-  - [Referências sobre organizações e formas de gestão](#refer%C3%AAncias-sobre-organiza%C3%A7%C3%B5es-e-forma-de-gest%C3%A3o)
-  - [Referências sobre ferramentas de facilitação](#referências-sobre-ferramentas-de-facilitação)
-
----
-
+# Referências
 ## Referências sobre estratégias
 Abaixo estão algumas formas de estratégia.
 

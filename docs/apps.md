@@ -1,5 +1,6 @@
-# O que são Apps
-São [acordos estruturais](https://github.com/renatoac/contornos/wiki#491-acordos-estruturais) extras pré-definidos prontos para resolver algumas necessidades não contempladas, intencionalmente, no coração do sistema operacional [[Contornos]](https://github.com/renatoac/contornos/wiki).
+# Apps
+
+Apps são [acordos estruturais](https://github.com/renatoac/contornos/wiki#491-acordos-estruturais) extras pré-definidos prontos para resolver algumas necessidades não contempladas, intencionalmente, no coração do sistema operacional [[Contornos]](https://github.com/renatoac/contornos/wiki).
 
 Um app pode ter dependência de outros app, caso seja especificado.
 
@@ -11,7 +12,7 @@ Além dos Apps contemplados aqui, consulte também:
 # Como utilizar os Apps
 Faça uma decisão integrativa no contorno que deseja utilizar e importe-o nos acordos estruturais. 
 
-# Apps
+# Apps disponíveis
 - [Papéis estruturais extras](#papéis-estruturais-extras)
   - [Papel estrutural de Representante](#papel-estrutural-de-representante)
   - [Papel estrutural de Sinapse](#papel-estrutural-de-sinapse)

@@ -1,9 +1,4 @@
 # Ferramentas Digitais
-- [Para utilização do sistema Contornos](#para-utilização-do-sistema-contornos)
-- [Para colher reações em massa de pessoas colaboradoras](#para-colher-reações-em-massa-de-pessoas-colaboradoras)
-- [Para votação e enquetes](#para-votação-e-enquetes)
-- [Para reuniões facilitadas](#para-reuniões-facilitadas)
-----
 
 ## Para utilização do sistema Contornos
 - [Fibery.io](fibery.io/) - Build your own workspace to replace isolated tools and bring everyone together.
