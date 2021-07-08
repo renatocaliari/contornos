@@ -1,4 +1,4 @@
-* [Início [Contornos]](/README.md)
+* [Início [Contornos]](/#)
 * [Apps - Acordos Extras](/apps.md)
 * Mais
   * [Curiosidades](/curiosidades.md)
