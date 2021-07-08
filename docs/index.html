@@ -43,18 +43,20 @@
     <div id="app"></div>
 
     <script>
-        var repo = 'https://github.com/renatoac/contornos';
 
         window.$docsify = {
             name: 'Contornos',
-            // themeColor: '#ff8107',
-            repo: repo,
-            auto2top: true,
+            repo: 'https://github.com/renatoac/contornos',
             coverpage: "coverpage.md",
             homepage: "inicio.md",
+            loadSidebar: "sidebar.md",
+
+
+            auto2top: true,
             //loadNavbar: "navbar.md",
             //mergeNavbar: true,
-            loadSidebar: "sidebar.md",
+
+
             maxLevel: 20,
             subMaxLevel: 4,
 
@@ -77,7 +79,7 @@
 		themeable: {
 			  readyTransition : true, // default
 			  responsiveTables: true  // default
-		      }		
+		      },	
 
             plugins: [
                 EditOnGithubPlugin.create(
