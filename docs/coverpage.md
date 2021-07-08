@@ -7,7 +7,7 @@
 
 >  Tecnologia Social para Organizações
 
-- :heavy_check_mark: agilidade e experimentação + distribuição de decisões + autonomia com responsabilidade
+- :heavy_check_mark: agilidade e experimentação + autonomia com responsabilidade
 
 [Saiba mais](#Contornos)
 
