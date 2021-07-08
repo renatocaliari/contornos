@@ -1,9 +1,3 @@
----
-layout: page
-title: "Apps"
-permalink: /apps/
----
-
 # O que são Apps
 São [acordos estruturais](https://github.com/renatoac/contornos/wiki#491-acordos-estruturais) extras pré-definidos prontos para resolver algumas necessidades não contempladas, intencionalmente, no coração do sistema operacional [[Contornos]](https://github.com/renatoac/contornos/wiki).
 

@@ -1,10 +1,3 @@
----
-layout: page
-title: "Ferramentas Digitais"
-permalink: 
-author: Cali (Renato Caliari)
----
-
 # Ferramentas Digitais
 - [Para utilização do sistema Contornos](#para-utilização-do-sistema-contornos)
 - [Para colher reações em massa de pessoas colaboradoras](#para-colher-reações-em-massa-de-pessoas-colaboradoras)
