@@ -1,4 +1,4 @@
-- [Início](#)
+- [Início](inicio)
 - [Contornos](contornos)
 - [Apps - Acordos Extras](apps)
 - [Curiosidades](curiosidades)
