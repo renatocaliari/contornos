@@ -1,4 +1,4 @@
-- [Início](README)
+- [Início](inicio)
 - [Apps - Acordos Extras](apps)
 - [Curiosidades](curiosidades)
 - [Perguntas & Respostas](/perguntas.md)
