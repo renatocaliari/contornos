@@ -38,11 +38,10 @@
     <div id="app">Carregando...</div>
 
     <script>
-
+        var repovar = "https://github.com/renatoac/contornos";
 	window.$docsify = {
 	    name: "Contornos",
-	    repo: "https://github.com/renatoac/contornos",
-
+	    repo: repovar,
 	    coverpage: "coverpage.md",
 	    homepage: "inicio.md",
 	    loadSidebar: "sidebar.md",
@@ -67,7 +66,7 @@
 
 	    plugins: [
 		EditOnGithubPlugin.create(
-		    repo + '/blob/master/docs/',
+		    repovar + '/blob/master/docs/',
 		    null,
 		    '📝 Editar no GitHub'
 		)
