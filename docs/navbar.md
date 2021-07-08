@@ -1,4 +1,4 @@
-* Início(/#)
+* [Início](/#)
 * **Mais**
   * [Apps - Acordos Extras](/apps.md)
   * [Curiosidades](/curiosidades.md)
