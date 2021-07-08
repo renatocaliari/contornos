@@ -1,7 +1,11 @@
-<!-- TODO: Complete with your own sidebar structure and enable sidebar in index.html - or delete this file. -->
-- [Home](/#docsifyjs-template)
-- [Fizz]()
-- [Buzz]()
-- Foo
-    * [Bar]()
-    * [Baz]()
+- [Início](README)
+- [Apps - Acordos Extras](apps)
+- [Curiosidades](curiosidades)
+- [Perguntas & Respostas](/perguntas.md)
+- [Referências](/referências.md)
+- [Comparação entre tecnologias sociais](/tecnologias.md)
+- [Ferramentas digitais](/ferramentas.md)
+- [Contornos para Comunidades](/comunidades.md)
+- **Mais**
+- [Sobre o autor](https://renatocaliari.com)   
+   

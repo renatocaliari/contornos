@@ -22,14 +22,13 @@
 
 
   :root {
-    /* Reduce the font size */
-    --base-font-size: 14px;
+    --base-font-size: 16px;
 
     /* Change the theme color hue */
     --theme-hue: 325;
+    --modular-scale   : 1.333;
 
-    /* Change the sidebar bullets */
-    --sidebar-nav-link-before-content: '😀';
+
   }
 
 
@@ -53,13 +52,13 @@
             auto2top: true,
             coverpage: "coverpage.md",
             loadNavbar: "navbar.md",
-            mergeNavbar: true,
-            loadSidebar: false,
+            //mergeNavbar: true,
+            loadSidebar: "sidebar.md",
             subMaxLevel: 4,
 
+                executeScript: true,
 		// complete configuration parameters
 		search: {
-			maxAge: 86400000, // Expiration time, the default one day
 			paths: [
 			'/', // => /README.md
 			'/tecnologias', 
@@ -71,9 +70,7 @@
 			],
 			placeholder: 'Digite para pesquisar',
 			noData: 'Nenhum resultado!',
-
-			// Headline depth, 1 - 6
-			depth: 2
+			depth: 3
 		},	
 		themeable: {
 			  readyTransition : true, // default
