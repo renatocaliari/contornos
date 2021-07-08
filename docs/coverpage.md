@@ -1,7 +1,5 @@
-
-<p>
-<img alt="Contornos Logotipo" src="./assets/logo.png">
-</p>
+</br></br></br></br>
+![Contornos Logotipo](./assets/logo.png)
 	
 <h1 id="cover-heading">
 <span>Contornos<small>0.7.2</small></span>
