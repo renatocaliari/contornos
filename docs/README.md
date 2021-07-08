@@ -1,6 +1,8 @@
 # Sistema [Contornos] - [Versão: 0.7.2]
 
-![Contornos Logo](#/logo.png)
+![Contornos Logo1](#/assets/logo.png)
+![Contornos Logo2](./assets/logo.png)
+
 
 [Contornos] é um sistema contendo regras básicas que cuida de aspectos organizacionais para distribuição de decisões e adaptação organizacional contínua que fomentem mais experimentações para dentro, para e com o público interno, e para fora, para e com o público externo.
 
