@@ -8,18 +8,9 @@
 ![Contornos Logotipo](./assets/logo.png)
 
 ### Princípios do sistema
-- Levar em conta o sistema organizacional e os fluxos de valor.
-- Amplificar 'loops de feedback'.
-- Experimentar e aprender continuamente. 
-- Descentralizar decisões. 
-- Disponibilizar e tornar compreensíveis as informações.
-- Tudo é permitido desde que não seja explicitamente proibido.
-
-
-- :hourglass_flowing_sand: Quickly set up an elegant, responsive site
-- :open_file_folder: Use your markdown docs as content
-- :sparkles: No compilation step and no templating syntax to learn
-- :nut_and_bolt: Built on [DocsifyJS](https://docsify.js.org/)
-- :pushpin: The library loads in the browser - no local dependencies
-- :cloud: Serve locally and on GitHub Pages or Netlify
-
+- :cyclone: :dizzy:  Levar em conta o sistema organizacional e os fluxos de valor.
+- :loop: Amplificar 'loops de feedback'.
+- :zap: Experimentar e aprender continuamente. 
+- :high_brightness: Descentralizar decisões. 
+- :outbox_tray: :loudspeaker: Disponibilizar e tornar compreensíveis as informações.
+- :thumbsup: Tudo é permitido desde que não seja explicitamente proibido.
