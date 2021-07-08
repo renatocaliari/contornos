@@ -7,10 +7,8 @@
 
 >  Tecnologia Social para Organizações
 
-## Princípios do sistema
-- :cyclone: Levar em conta o sistema organizacional e os fluxos de valor.
-- :loop: Amplificar 'loops de feedback'.
-- :zap: Experimentar e aprender continuamente. 
-- :high_brightness: Descentralizar decisões. 
-- :loudspeaker: Disponibilizar e tornar compreensíveis as informações.
-- :thumbsup: Tudo é permitido desde que não seja explicitamente proibido.
+ distribuição de decisões
+ adaptação organizacional
+ agilidade
+ mais experimentações
+

@@ -38,16 +38,16 @@ O sistema está em constante adaptação e refinamento nessa fase experimental.
 ---
 
 # 0. Princípios
-- Levar em conta o sistema organizacional como um todo e os fluxos de valor.
-- Amplificar 'loops de feedback'.
-- Experimentar e aprender continuamente. 
-- Descentralizar decisões. 
+- :cyclone: Levar em conta o sistema organizacional como um todo e os fluxos de valor.
+- :loop: Amplificar 'loops de feedback'.
+- :zap: Experimentar e aprender continuamente. 
+- :high_brightness: Descentralizar decisões. 
   - Quando for necessário decidir em mais de uma pessoa, decidir em poucas pessoas que representem os escopos impactados.
   - Pessoas que participam das decisões também sofrem o impacto das decisões.
   - Considerar informações das pessoas impactadas que não participam das decisões antes de tomar decisões.
   - Colher reações das pessoas impactadas que não participam das decisões depois de tomar decisões.
-- Disponibilizar e tornar compreensíveis as informações para todas as pessoas que precisam ou podem se beneficiar dessas informações.
-- Tudo é permitido desde que não seja explicitamente proibido.
+- :loudspeaker: Disponibilizar e tornar compreensíveis as informações para todas as pessoas que precisam ou podem se beneficiar dessas informações.
+- :thumbsup: Tudo é permitido desde que não seja explicitamente proibido.
 
 # 1. Estrutura organizacional
 A estrutura organizacional é definida por contornos. As pessoas parceiras da organização trabalham orientadas por esses contornos, uma hierarquia de especificidade e não de pessoas. 
