@@ -15,11 +15,12 @@
     <!--<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css" />-->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">    
     <style>
-        /* Fix issue on mobile devices where a custom cover image goes off the screen. */
+        
+        /* Fix issue on mobile devices where a custom cover image goes off the screen. 
         section.cover.show {
             height: 100%;
         }
-
+*/
 
   :root {
     --base-font-size: 16px;
@@ -30,7 +31,6 @@
 
 
   }
-
 
     </style>
 
@@ -44,51 +44,41 @@
 
     <script>
 
-        window.$docsify = {
-            name: 'Contornos',
-            repo: 'https://github.com/renatoac/contornos',
-            coverpage: "coverpage.md",
-            homepage: "inicio.md",
-            loadSidebar: "sidebar.md",
+	window.$docsify = {
+	    name: "Contornos",
+	    repo: "https://github.com/renatoac/contornos",
+
+	    coverpage: "coverpage.md",
+	    homepage: "inicio.md",
+	    loadSidebar: "sidebar.md",
 
 
-            auto2top: true,
-            //loadNavbar: "navbar.md",
-            //mergeNavbar: true,
+	    auto2top: true,
 
+	    maxLevel: 20,
+	    subMaxLevel: 4,
 
-            maxLevel: 20,
-            subMaxLevel: 4,
+	    executeScript: true,
+	    search: {
+		paths: ['/inicio','/tecnologias', '/curiosidades','/referências','/comunidades','/ferramentas','/perguntas'],
+		placeholder: 'Digite para pesquisar',
+		noData: 'Nenhum resultado!',
+		depth: 3
+	    },  
+	    themeable: {
+		readyTransition : true, // default
+		responsiveTables: true  // default
+	    },    
 
-                executeScript: true,
-		// complete configuration parameters
-		search: {
-			paths: [
-			'/', // => /README.md
-			'/tecnologias', 
-			'/curiosidades',
-			'/referências',
-			'/comunidades',
-			'/ferramentas',
-			'/perguntas'		
-			],
-			placeholder: 'Digite para pesquisar',
-			noData: 'Nenhum resultado!',
-			depth: 3
-		},	
-		themeable: {
-			  readyTransition : true, // default
-			  responsiveTables: true  // default
-		      },	
+	    plugins: [
+		EditOnGithubPlugin.create(
+		    repo + '/blob/master/docs/',
+		    null,
+		    '📝 Edit on GitHub'
+		)
+	    ],
+	},
 
-            plugins: [
-                EditOnGithubPlugin.create(
-                    repo + '/blob/master/docs/',
-                    null,
-                    '📝 Edit on GitHub',
-                )
-            ],
-        }
 
     </script>
 
