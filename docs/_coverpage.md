@@ -3,12 +3,21 @@
   Contornos
 </h1>
 
-[![GitHub tags](https://img.shields.io/github/tag/renatoac/docsifyjs-template.svg)](https://GitHub.com/renatoac/docsifyjs-template/tags/) <!-- TODO: Update username and repo name -->
+>  Tecnologia Social para Organizações
 
->  Tecnologia Social para Organizações <!-- TODO: Replace with your description -->
+[Contornos] é um sistema contendo regras básicas que cuida de aspectos organizacionais para distribuição de decisões e adaptação organizacional contínua que fomentem mais experimentações para dentro, para e com o público interno, e para fora, para e com o público externo.
 
+Ele torna desnecessário:
+- organogramas hierárquicos e rígidos onde pessoas têm poder sobre as outras
+- cargos que se tornam pesados e difíceis para manter e adaptar
 
-<!-- TODO: Update to match your project's benefits/features. Git emojis work great here. -->
+Neste sistema, há uma hierarquia de escopos através de contornos, onde pessoas têm poder com as outras em uma gestão distribuída.
+
+Pense nisso como um sistema operacional enxuto ‘open-source’ (código aberto), que permite você importar apps (acordos extras pré-definidos) para o seu contexto, além de adaptar o próprio sistema, se necessário.
+
+[Contornos] foi inspirado em tecnologias sociais validadas, outros conceitos existentes e experiência prática.
+
+Vale lembrar que essa tecnologia social, ou qualquer outra, não funciona como mágica, que ao usar tudo se resolve. Não, longe disso. Ela é apenas uma ferramenta e um meio, como tantos outros, que faz sentido quando usada em conjunto com outras ferramentas e práticas, apoiadas por muitas discussões interpessoais e experimentos contínuos.
 
 - :hourglass_flowing_sand: Quickly set up an elegant, responsive site
 - :open_file_folder: Use your markdown docs as content
@@ -17,6 +26,3 @@
 - :pushpin: The library loads in the browser - no local dependencies
 - :cloud: Serve locally and on GitHub Pages or Netlify
 
-
-[Use this template](https://github.com/renatoac/docsifyjs-template/generate) <!-- TODO: Remove on your copy of this template.-->
-[Get Started](#docsifyjs-template) <!-- TODO: Use ID of your homepage heading -->
