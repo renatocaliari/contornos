@@ -1,4 +1,5 @@
-- [Início](inicio)
+- [Início](#)
+- [Contornos](contornos)
 - [Apps - Acordos Extras](apps)
 - [Curiosidades](curiosidades)
 - [Perguntas & Respostas](/perguntas.md)
