@@ -1,6 +1,6 @@
 
 <p>
-![Contornos Logotipo](./assets/logo.png)
+<img alt="Contornos Logotipo"> src="./assets/logo.png">
 </p>
 	
 <h1 id="cover-heading">
