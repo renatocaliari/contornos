@@ -12,8 +12,7 @@ Pense nisso como um sistema operacional enxuto 'open-source' (código aberto), q
 
 [Contornos] foi inspirado em [tecnologias sociais validadas](https://github.com/renatoac/contornos/wiki/Compara%C3%A7%C3%A3o-entre-tecnologias-sociais), outros conceitos existentes e experiência prática.
 
-Vale lembrar que essa tecnologia social, ou qualquer outra, não funciona como mágica, que ao usar tudo se resolve. Não, longe disso. 
-Ela é apenas uma ferramenta e um meio, como tantos outros, que faz sentido quando usada em conjunto com outras ferramentas e práticas, apoiadas por muitas discussões interpessoais e experimentos contínuos. 
+!> Vale lembrar que essa tecnologia social, ou qualquer outra, não funciona como mágica, que ao usar tudo se resolve. Não, longe disso. Ela é apenas uma ferramenta e um meio, como tantos outros, que faz sentido quando usada em conjunto com outras ferramentas e práticas, apoiadas por muitas discussões interpessoais e experimentos contínuos. 
 
 ---
 ### Mais informações
