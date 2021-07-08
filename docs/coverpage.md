@@ -1,12 +1,13 @@
-<!-- TODO: Update title -->
+
+<p>
+![Contornos Logotipo](./assets/logo.png)
+</p>
+	
 <h1 id="cover-heading">
-  Contornos - [Versão: 0.7.2]
+<span>Contornos<small>0.7.2</small></span>
 </h1>
 
 >  Tecnologia Social para Organizações
-
-![Contornos Logotipo](./assets/logo.png)
-
 
 ## Princípios do sistema
 - :cyclone: Levar em conta o sistema organizacional e os fluxos de valor.

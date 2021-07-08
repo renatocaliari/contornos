@@ -1,6 +1,6 @@
 * [Início [Contornos]](/#)
-* [Apps - Acordos Extras](/apps.md)
 * Mais
+  * [Apps - Acordos Extras](/apps.md)
   * [Curiosidades](/curiosidades.md)
   * [Perguntas & Respostas](/perguntas.md)
   * [Referências](/referências.md)
