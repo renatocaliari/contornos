@@ -12,5 +12,5 @@
 - agilidade
 - mais experimentações
 
-[Saiba mais](/#)
+[Saiba mais](/#/)
 
