@@ -1,8 +1,7 @@
 ---
 layout: home
+title: Sistema [Contornos] - [Versão: 0.7.2]
 ---
-
-## Sistema [Contornos] - [Versão: 0.7.2]
 
 ![Contornos Logo](logo.png)
 
