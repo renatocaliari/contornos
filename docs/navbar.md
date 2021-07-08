@@ -1,5 +1,5 @@
-* [Início [Contornos]](/#)
-* Mais
+* Início(/#)
+* **Mais**
   * [Apps - Acordos Extras](/apps.md)
   * [Curiosidades](/curiosidades.md)
   * [Perguntas & Respostas](/perguntas.md)
@@ -7,3 +7,4 @@
   * [Comparação entre tecnologias sociais](/tecnologias.md)
   * [Ferramentas digitais](/ferramentas.md)
   * [Contornos para Comunidades](/comunidades.md)
+ * [**Autor**](https://renatocaliari.com)
