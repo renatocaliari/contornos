@@ -7,9 +7,9 @@
 
 >  Tecnologia Social para Organizações
 
-- :point_right: distribuição de decisões
-- :point_right: adaptação organizacional
-- :point_right: agilidade e experimentação
+- :heavy_check_mark: distribuição de decisões
+- :heavy_check_mark: adaptação organizacional
+- :heavy_check_mark: agilidade e experimentação
 
 [Saiba mais](#Contornos)
 
