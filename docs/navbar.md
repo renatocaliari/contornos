@@ -1,4 +1,4 @@
-* [Início [Contornos]](#/)
+* [Início [Contornos]](#/contornos)
 * [Apps - Acordos Extras](#/Apps)
 * Mais
   * [Curiosidades](#/curiosidades)
