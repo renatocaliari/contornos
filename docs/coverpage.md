@@ -7,10 +7,10 @@
 
 >  Tecnologia Social para Organizações
 
- distribuição de decisões
- adaptação organizacional
- agilidade
- mais experimentações
+- distribuição de decisões
+- adaptação organizacional
+- agilidade
+- mais experimentações
 
 [Saiba mais](/#)
 
