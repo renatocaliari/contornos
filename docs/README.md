@@ -1,8 +1,4 @@
-# Sistema [Contornos] - [Versão: 0.7.2]
-
-![Contornos Logo1](#/assets/logo.png)
-![Contornos Logo2](./assets/logo.png)
-
+# Contornos
 
 [Contornos] é um sistema contendo regras básicas que cuida de aspectos organizacionais para distribuição de decisões e adaptação organizacional contínua que fomentem mais experimentações para dentro, para e com o público interno, e para fora, para e com o público externo.
 
@@ -88,7 +84,7 @@ O sistema está em constante adaptação e refinamento nessa fase experimental.
   - Pessoas que participam das decisões também sofrem o impacto das decisões.
   - Considerar informações das pessoas impactadas que não participam das decisões antes de tomar decisões.
   - Colher reações das pessoas impactadas que não participam das decisões depois de tomar decisões.
-- Disponibilizar e tornar compreensível as informações para todas as pessoas que precisam ou podem se beneficiar dessas informações.
+- Disponibilizar e tornar compreensíveis as informações para todas as pessoas que precisam ou podem se beneficiar dessas informações.
 - Tudo é permitido desde que não seja explicitamente proibido.
 
 # 1. Estrutura organizacional
