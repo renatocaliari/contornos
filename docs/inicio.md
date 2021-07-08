@@ -1,4 +1,4 @@
-# Contornos
+# Início
 
 [Contornos] é um sistema contendo regras básicas que cuida de aspectos organizacionais para dar mais agilidade à organização, distribuição de decisões dando mais autonomia com responsabilidade e adaptação organizacional contínua que fomentem mais experimentações para dentro, para e com o público interno, e para fora, para e com o público externo.
 
