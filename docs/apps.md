@@ -1,4 +1,4 @@
-@autoHeader:0
+@autoHeader:1
 
 # Apps
 
@@ -134,7 +134,7 @@ Caso o contorno que oferecerá uma representante já tenha uma representante nom
 
 **Acordo estrutural interno:**
 - todas decisões tomadas no contorno serão por decisão integrativa.
-- o contorno Norte terá o [papel estrutural Sinapse](https://github.com/renatoac/contornos/wiki/Apps#papel-estrutural-de-sinapse), com 4 pessoas sorteadas da organização.
+- o contorno Norte terá o [papel estrutural Sinapse](apps#papel-estrutural-de-sinapse), com 4 pessoas sorteadas da organização.
 - a guardiã do maior contorno, a organização em si, deixa de ter a estratégia da organização como um elemento exclusivo de controle.
 - a guardiã do maior contorno, a organização em si, e a guardiã do contorno "Norte" delegam a responsabilidade de definir a estratégia da organização para as participantes do contorno "Norte".
 
@@ -212,7 +212,7 @@ Ao apresentar uma proposta para decisão integrativa, utilize esse processo:
 - **Esclarecimento**: faça uma rodada onde todas as pessoas terão oportunidade, uma a uma, de fazer perguntas para entender à fundo a proposta. Uma pergunta por vez. Assim que surgem perguntas, a pessoa que propõe pode ir respondendo. Se alguma pessoa der opinião ou sugestão, informe-a para salvar isso para o próximo passo. A etapa é apenas para esclarecimento.
 - **Reações**: faça uma rodada onde todas as pessoas terão oportunidade, uma a uma, para oferecer qualquer reação sobre a proposta ou sugestão que possam ajudar a melhorar a proposta. A pessoa proponente escuta todas reações mas não precisa responder a elas.
 - **Ajustes**: baseada nas perguntas e reações, a pessoa proponente pode alterar a proposta (ou não) e esclarecer qualquer coisas que ainda não estava explícita e específica.
-- **[Decisão integrativa](https://github.com/renatoac/contornos/wiki#7-decis%C3%A3o-integrativa)**: 
+- **[Decisão integrativa](contornos#decis%C3%A3o-integrativa)**: 
   - a pessoa proponente busca consentimento oara sua proposta, ajustada ou não.
   - se alguma participante tiver objeção, ela declara à proponente.
   - se for uma objeção válida, a proponente deve adaptar a proposta para cuidar das objeções. e, em seguida, o processo volta para o estágio de **esclarecimento** mais acima, onde as pessoas poderão tirar dúvidas sobre as alterações e segue para próximos estágios: reações, ajustes e decisão integrativa.
@@ -231,7 +231,7 @@ Para conseguir fluidez no processo assíncrono de decisão integrativa:
   * **Esclarecimento**: 48h.
   * **Reação**: 48h.
   * **Ajuste**: 72h.
-  * **[Decisão integrativa](https://github.com/renatoac/contornos/wiki#7-decis%C3%A3o-integrativa)**: o tempo restante antes de vencer os 30 dias. Caso passe os dias de validade a proposta é arquivada.
+  * **[Decisão integrativa](contornos#decis%C3%A3o-integrativa)**: o tempo restante antes de vencer os 30 dias. Caso passe os dias de validade a proposta é arquivada.
 
 #### Modelo 2
 
@@ -241,7 +241,7 @@ Para conseguir fluidez no processo assíncrono de decisão integrativa:
   * **Esclarecimento**: 48h.
   * **Reação**: 48h.
   * **Ajuste**: 72h.
-  * **[Decisão integrativa](https://github.com/renatoac/contornos/wiki#7-decis%C3%A3o-integrativa)**: 72h.
+  * **[Decisão integrativa](contornos#decis%C3%A3o-integrativa)**: 72h.
     * critérios:
        * 70% de pessoas do contorno precisam declarar que não possuem objeção, desde que 70% equivalha no mínimo a 5 pessoas. 
        * caso contrário, é necessária a participação de 100% das pessoas nessa etapa e a proposta fica aguardando até vencer os 30 dias.
@@ -260,7 +260,7 @@ Ao abrir um tópico com alguém, explicite qual é sua intenção:
 - **Reação** (feedback): quando alguém deseja reações emocionais, opiniões ou ideias, mas não é esperado necessariamente respostas às reações.
 - **Discussão**: quando deseja discutir ideias e pontos de vista.
 - **Cocriação de proposta**: quando deseja fazer uma [ideação em grupo e criar uma proposta](#ideação-e-cocriação-de-proposta).
-- **[Decisão integrativa](https://github.com/renatoac/contornos/wiki#7-decis%C3%A3o-integrativa)**: quando há uma proposta a ser decidida de forma integrativa. Se for necessário, explicite qual contorno tem autoridade para decidir ou de qual contorno é esperada a decisão.
+- **[Decisão integrativa](contornos#decis%C3%A3o-integrativa)**: quando há uma proposta a ser decidida de forma integrativa. Se for necessário, explicite qual contorno tem autoridade para decidir ou de qual contorno é esperada a decisão.
 
 #### Rodadas de fala
 Utilize rodadas de fala para oferecer maior equivalência ao grupo e evitar que pessoas mais extrovertidas ou influentes tenham mais poder, ou tempo de fala.
@@ -523,7 +523,7 @@ A remuneração pode ser por horas fixas pré-definidas na contratação relacio
 
 ## Processo seletivo
 [A ser desenvolvido]
-Enquanto isso, consulte [Referências sobre processo seletivo](https://github.com/renatoac/contornos/wiki/refer%C3%AAncias#refer%C3%AAncias-sobre-processo-seletivo)
+Enquanto isso, consulte [Referências sobre processo seletivo](refer%C3%AAncias#refer%C3%AAncias-sobre-processo-seletivo)
 
 ## Combinação com outros processos ou tecnologias existentes
 É possível combinar [Contornos] com a adaptação de outros processos já existentes.
