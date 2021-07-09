@@ -9,5 +9,5 @@
 
 - :heavy_check_mark: agilidade e experimentação + autonomia com responsabilidade
 
-[Saiba mais](#Contornos)
+[Saiba mais](#inicio)
 
