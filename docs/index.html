@@ -77,8 +77,17 @@
         },
 
 	  autoHeaders: {
-	    separator: "decimal"
+	    separator: 'decimal',
+		levels:    {
+		  start:  '1',
+		  finish: '20'
+		}
+   	    scope:     '#main',
+	    debug:     false
+	    
 	  },
+	  
+	  
 	    plugins: [
 		EditOnGithubPlugin.create(
 		    repovar + '/blob/master/docs/',
