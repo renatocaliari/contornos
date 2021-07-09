@@ -67,6 +67,18 @@
 		responsiveTables: false  // default
 	    },    
 
+        share: {
+            reddit: true,
+            linkedin: true,
+            facebook: true,
+            twitter: true,
+            whatsapp: true,
+            telegram: true,
+        },
+
+	  autoHeaders: {
+	    separator: "decimal"
+	  },
 	    plugins: [
 		EditOnGithubPlugin.create(
 		    repovar + '/blob/master/docs/',
@@ -79,8 +91,11 @@
 
     </script>
 
-
-    <!-- Syntax highlighting -->
+    <script src="//unpkg.com/docsify-share/build/index.min.js"></script>
+    
+<!-- jsDelivr -->
+<script src="https://cdn.jsdelivr.net/npm/@markbattistella/docsify-autoheaders@latest"></script>
+    
     <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1/dist/docsify-tabs.min.js"></script>
@@ -90,6 +105,7 @@
     <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/ga.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
+    <!-- Syntax highlighting -->
     <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-markdown.min.js"></script>
 
 </body>
