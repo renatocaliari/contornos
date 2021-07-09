@@ -1,19 +1,4 @@
-- [Como iniciar com o sistema Contornos?](#como-iniciar-com-o-sistema-contornos)
-  - [Como tomar a decisão de usar o sistema?](#como-tomar-a-decisão-de-usar-o-sistema)
-  - [Quais as formas de começar com o sistema?](#quais-as-formas-de-começar-com-o-sistema)
-  - [Por onde começar?](#por-onde-começar)
-  - [Como mapear os primeiros contornos?](#como-mapear-os-primeiros-contornos)
-  - [Exemplo de estrutura de contornos](#exemplo-de-estrutura-de-contornos)
-- [Como medir o impacto de mudanças no design organizacional?](#como-medir-o-impacto-de-mudanças-no-design-organizacional)
-- [Como definir as responsabilidades de um contorno?](#como-definir-as-responsabilidades-de-um-contorno)
-- [As pessoas precisam ter prévia maturidade para atuar em um sistema assim?](#as-pessoas-precisam-ter-prévia-maturidade-para-atuar-em-um-sistema-assim)
-- [Como contratar pessoas que desejam um título e poder de chefe, diretor, líder ou de C-level?](#como-contratar-pessoas-que-desejam-um-t%C3%ADtulo-e-poder-de-chefe-diretor-l%C3%ADder-ou-de-c-level)
-- [O que fazer se desejamos tomar todas as decisões de um contorno de forma integrativa?](#o-que-fazer-se-desejamos-tomar-todas-as-decis%C3%B5es-de-um-contorno-de-forma-integrativa)
-- [O que faço se me sentir insegura para tomar uma decisão, mesmo sabendo que o contorno que participo tem autoridade para a decisão?](#o-que-fa%C3%A7o-se-me-sentir-insegura-para-tomar-uma-decis%C3%A3o-mesmo-sabendo-que-o-contorno-que-participo-tem-autoridade-para-a-decis%C3%A3o)
-- [O que faço se alguma pessoa me mandar fazer algo?](#o-que-fa%C3%A7o-se-alguma-pessoa-me-mandar-fazer-algo)
-- [O que fazer com discussões sem fim, sejam síncronas - em reuniões ao vivo - ou assíncronas - por ferramentas digitais?](#o-que-fazer-com-discuss%C3%B5es-sem-fim-sejam-s%C3%ADncronas---em-reuni%C3%B5es-ao-vivo---ou-ass%C3%ADncronas---por-ferramentas-digitais)
-
-----
+@autoHeader:1
 
 ## Como iniciar com o sistema Contornos?
 
