@@ -1,3 +1,5 @@
+@autoHeader:0
+
 # 0. Princípios
 - :cyclone: Levar em conta o sistema organizacional como um todo e os fluxos de valor.
 - :loop: Amplificar 'loops de feedback'.

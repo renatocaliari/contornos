@@ -1,3 +1,6 @@
+@autoHeader:0
+
+
 # Curiosidades
 
 ## Sobre os princípios

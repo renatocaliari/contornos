@@ -1,3 +1,6 @@
+@autoHeader:0
+
+
 # Referências
 ## Referências sobre estratégias
 Abaixo estão algumas formas de estratégia.
