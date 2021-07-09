@@ -1,4 +1,3 @@
-</br></br></br></br>
 ![Contornos Logotipo](./assets/logo.png ':size=220')
 	
 <h1 id="cover-heading">
@@ -9,5 +8,5 @@
 
 - :heavy_check_mark: agilidade e experimentação + autonomia com responsabilidade
 
-[Saiba mais](#/inicio)
+[Saiba mais](inicio)
 

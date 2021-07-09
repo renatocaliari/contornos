@@ -2,11 +2,11 @@
 - [Contornos](contornos)
 - [Apps - Acordos Extras](apps)
 - [Curiosidades](curiosidades)
-- [Perguntas & Respostas](/perguntas.md)
-- [Referências](/referências.md)
-- [Comparação entre tecnologias sociais](/tecnologias.md)
-- [Ferramentas digitais](/ferramentas.md)
-- [Contornos para Comunidades](/comunidades.md)
+- [Perguntas & Respostas](perguntas)
+- [Referências](referências)
+- [Comparação entre tecnologias sociais](tecnologias)
+- [Ferramentas digitais](ferramentas)
+- [Contornos para Comunidades](comunidades)
 - **Mais**
 - [Sobre o autor](https://renatocaliari.com)   
    
