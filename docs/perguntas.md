@@ -23,7 +23,7 @@ Para que a decisão de usar o sistema seja duradoura e potencialize os benefíci
 9. Repita o passo 8, porém, agora, de 15 em 15 dias, até chegarem em 3 meses de experimento.
 10. Em cada dinâmica, e em algum canal oficial do público envolvido, compartilhar evidências e métricas do experimento com o sistema [Contornos].
 10. A partir daí o experimento se torna uma prática padrão e pode continuar sendo adaptado a qualquer momento através de [impulsionadores](https://github.com/renatoac/contornos/wiki#6-impulsionadores).
-  
+
 ### Quais as formas de começar com o sistema?
 
 #### Desenho atual
