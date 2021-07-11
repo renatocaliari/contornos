@@ -263,7 +263,7 @@ Ao registrar um impulsionador, explicite qual é sua intenção:
 
 | Imagine que... | Impulsionador com intenção de... |
 | -- | -- |
-| há uma reunião recorrente acordada que não faz mais sentido para uma pessoa e ha o desejo de modificar ou cancelar a reunião recorrente | [decisão integrativa](apps#declarar-inten%C3%A7%C3%A3o) com a proposta. |
+| há uma reunião recorrente acordada que não faz mais sentido para uma pessoa e há o desejo de modificar ou cancelar essa reunião | [decisão integrativa](apps#declarar-inten%C3%A7%C3%A3o) com a proposta de modificação ou cancelamento. |
 | uma pessoa deseje criar uma proposta sobre um projeto que já está na responsabilidade de seu contorno porém deseja fazer a proposta de forma colaborativa | [cocriação de proposta](apps#declarar-inten%C3%A7%C3%A3o). |
 | uma participante precise fazer uma integração entre dois softwares da empresa e há um contorno que cuide de integrações ou tecnologia da empresa | [pedido](apps#declarar-inten%C3%A7%C3%A3o) por um projeto para isso. |
 | uma participante precise fazer uma integração entre dois softwares da empresa e não há um contorno que cuide disso | [pedido](apps#declarar-inten%C3%A7%C3%A3o) por um projeto para a guardiã de algum contorno que englobe o escopo maior do impulsionador (ex: produto) para processar esse impulsionador e em paralelo [decisão integrativa](apps#declarar-inten%C3%A7%C3%A3o) propondo a criação de um contorno específico para isso, caso seja um tipo de projeto recorrente. |
