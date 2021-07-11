@@ -21,7 +21,7 @@ O sistema começa com a máxima de que _“tudo é permitido desde que não seja
 
 # Contornos
 Contorno é um escopo delimitado por razão de existir, responsabilidades, elementos de controle exclusivo e acordos próprios.
-Um contorno evita decidir a todo momento o que é necessário fazer e quem fará algo.
+Ter um contorno definido evita decidir a todo momento o que é necessário fazer e quem fará algo.
 
 Cada contorno governa a sua própria estrutura, que pode ser alterada pela guardiã do contorno ou por decisão integrativa dependendo do contexto.
 
@@ -32,42 +32,37 @@ Crie contornos quando:
 - perceber alguns padrões recorrentes para potencializar eficácia e compreensão compartilhada.
 - desejar delegar parte das responsabilidades e elementos de controle exclusivo.
 
-Regras simples: 
+Regras: 
 - desenhe novos contornos a partir de demandas do público, interno ou externo.
-- minimize a criação de contornos que dependam de entregas recorrentes, previstas e necessárias entre eles (_handover_ ou _handoff_) que não estejam dentro de um mesmo contorno externo. 
+- minimize a criação de contornos que dependam de entregas recorrentes, previstas e necessárias (_handover_ ou _handoff_) de outros contornos que não estejam dentro de um mesmo contorno externo.
 
-Uma forma que pode ajudar descobrir a necessidade de contornos internos é mapear um [processo existente ou necessário no contorno](#processo-como) e observar quais etapas não possuem contornos responsáveis.
+[Veja opções para ajudar na criação de contornos](perguntas?id=como-mapear-os-primeiros-contornos).
 
 ## Como adaptar ou remover um contorno?
 A qualquer momento que alguém perceber que um contorno precisa, ou é desejável, ser adaptado, seja qual for o atributo, ou que não tem mais uma razão de existir, uma proposta pode ser feita para a realização dessa alteração ou remoção do contorno.
 
 Para remoção de um contorno, é necessário decisão integrativa pelo contorno externo, podendo decidir quais contornos internos ao contorno sendo excluído desejam trazer para o contorno que está tomando a decisão.
 
-Para adaptação do contorno, é necessário identificar qual é o atributo e quem tem autoridade para adaptá-lo.
+Para adaptação do contorno, é necessário identificar qual é o [atributo](contornos?id=atributos-dos-contornos) que deseja alterar e quem tem autoridade para adaptá-lo.
 
 # Participação em contornos
-A participação em contornos acontece por meio de alocação de pessoas em um dos dois papéis estruturais: guardiã ou agente.
-
-Necessariamente, todo contorno terá uma guardiã.
-
-É possível indicar o [tipo de energia](apps#tipo-de-energia-em-contorno) que cada participante terá em um determinado contorno.
+A participação em contornos acontece por meio de alocação de pessoas. É possível indicar o [tipo de energia](apps#tipo-de-energia-em-contorno) que cada participante terá em um determinado contorno.
 
 Qualquer participante de um contorno possui essas **responsabilidades em comum**:
 * perceber e tratar [impulsionadores](#impulsionadores) de seu contorno.
-* priorizar projetos e tarefas de acordo com razão de existir e estratégia dos contornos em que participa. 
+* priorizar projetos e tarefas de acordo com a razão de existir e estratégia dos contornos em que participa. 
 * compartilhar qualquer informação relacionada ao seu contorno ー projetos, tarefas, etc ー quando alguém perguntar, exceto se algo for acordado como confidencial.
-* realizar o que for necessário para expressar a razão de existir e estratégia de seus contornos, respeitando [acordos](#acordos), [estratégia](#estrat%C3%A9gia-como), [processo](#processo-como) e [elementos de controle exclusivo](#elementos-de-controle-exclusivo-como).
-* quando for necessário ou oportuno, realizar o que for necessário para expressar a razão de existir e estratégia dos contornos da organização que não participa, respeitando [acordos](#acordos), [estratégia](#estrat%C3%A9gia-como), [processo](#processo-como) e [elementos de controle exclusivo](#elementos-de-controle-exclusivo-como).
-  * para essa responsabilidade, levar em conta essas regras:
-    * considere o contexto e informações disponíveis da estrutura atual e do risco ou oportunidade.
-    * faça o melhor julgamento possível com o que tem à disposição. 
-    * realize as ações que considere adequadas.
+* realizar o que for necessário para expressar a razão de existir e estratégia dos contornos em que participa, respeitando [acordos](#acordos), [estratégia](#estrat%C3%A9gia-como), [processo](#processo-como) e [elementos de controle exclusivo](#elementos-de-controle-exclusivo-como).
+* e, quando for necessário, realizar a responsabilidade acima também pelos contornos que **não** participa, levando em conta essas regras:
+  * considere o contexto e informações disponíveis da estrutura atual e do risco ou oportunidade.
+  * faça o melhor julgamento possível com o que tem à disposição. 
+  * realize as ações que considere adequadas e necessárias.
+  * notifique as participantes desse contorno.
 
 ## Papéis estruturais
-Há dois papéis estruturais básicos em Contornos: guardiã e agente.
+Há apenas dois papéis estruturais básicos em Contornos: guardiã e agente.
 
-Além desses dois papéis estruturais, é possível instalar [papéis estruturais extras](apps#pap%C3%A9is-estruturais-extras), como: Representante, Sinapse, Facilitadora e Secretária.
-
+Além desses dois papéis estruturais, é possível instalar [papéis estruturais extras](apps#pap%C3%A9is-estruturais-extras), como: [Representante](apps?id=papel-estrutural-de-representante), [Sinapse](apps?id=papel-estrutural-de-sinapse), [Facilitadora](apps?id=papel-estrutural-de-facilitadora) e [Secretária](apps?id=papel-estrutural-de-secret%c3%a1ria).
 
 ### Guardiã do contorno
 
@@ -82,7 +77,7 @@ Além desses dois papéis estruturais, é possível instalar [papéis estruturai
   * _todas responsabilidades do próprio contorno_ que não estejam delegadas a contornos internos.
   * trazer informações do contorno externo para todas participantes do seu contorno.
   * tomar ação sobre contornos sem participantes: convidar pessoas para eles ou remover o contorno, com decisão integrativa.
-  * agir sobre impulsionadores sem progressão no contorno.
+  * agir sobre [impulsionadores](contornos?id=impulsionadores) sem andamento em seu contorno.
   * propôr estratégia do contorno, precisando de decisão integrativa.
   * propôr processo do contorno, precisando de decisão integrativa.
   * propôr pessoas para apoiar o contorno.
@@ -93,7 +88,7 @@ Além desses dois papéis estruturais, é possível instalar [papéis estruturai
   * _todas responsabilidades gerais de participantes de contorno_.
   * _todas responsabilidades do próprio contorno_ que não estejam delegadas a contornos internos.
   * tomar ação sobre contornos sem participantes: convidar pessoas para eles ou remover o contorno, com decisão integrativa.
-  * agir sobre impulsionadores sem progressão no contorno.
+  * agir sobre [impulsionadores](contornos?id=impulsionadores) sem andamento em seu contorno.
   * propôr estratégia do contorno, precisando de decisão integrativa.
   * propôr processo do contorno, precisando de decisão integrativa.
   * propôr pessoas para apoiar o contorno.
@@ -137,6 +132,15 @@ A alocação de pessoas se diferencia dependendo do papel estrutural que será e
 
 Quando chegar o período de reavaliação, ou quando alguma participante do contorno criar um impulsionador com esse pedido, é necessário realizar uma [reavaliação](#reavalia%C3%A7%C3%A3o-de-aloca%C3%A7%C3%A3o).
 
+### Comparação rápida
+| atributos | Guardiã | Agente | 
+| -- | -- | -- |
+| razão de existir | guardar o espaço do contorno e responder pela razão de existir do mesmo. | evoluir o contorno em direção à razão de existir. |
+| participação | toda guardiã de um contorno também é participante do contorno externo como [agente](#agente-do-contorno). | caso a agente não seja também guardiã de algum contorno interno, sua participação é restrita ao contorno como agente.<br/>|caso a agente também seja guardiã de algum contorno interno, sua participção acontece tanto no contorno como agente quanto no contorno como guardiã. |
+| responsabilidades |   * _todas responsabilidades gerais de participantes de contorno_.
+  * _todas responsabilidades do próprio contorno_ que não estejam delegadas a contornos internos.<br/>* trazer informações do contorno externo para todas participantes do seu contorno.<br/>* tomar ação sobre contornos sem participantes: convidar pessoas para eles ou remover o contorno, com decisão integrativa.
+  * agir sobre [impulsionadores](contornos?id=impulsionadores) sem andamento em seu contorno.<br/>* propôr estratégia do contorno, precisando de decisão integrativa.<br/>* propôr processo do contorno, precisando de decisão integrativa.<br/>* propôr pessoas para apoiar o contorno.<br/>* compartilhar indicadores com o contorno externo, na frequência sugerida pelo contorno externo.<br/>* compartilhar sobre o progresso dos projetos com o contorno externo, na frequência sugerida pelo contorno externo, informando como isso se conecta à estratégia e propósito do contorno externo.| * _todas responsabilidades gerais de participante de contorno_.<br/>* _todas responsabilidades do próprio contorno_ que não estejam delegadas a contornos internos. | 
+
 ### Alocação de guardiãs e agentes
 #### Guardiã
 Uma guardiã para um novo contorno interno é nomeada por decisão integrativa por todas participantes do contorno **externo**.
@@ -173,11 +177,15 @@ Ou, se a intenção é encerrar a parceria, levar a questão diretamente a um co
 Caso esses contornos especiais não existam, o caso deve ser levado para o contorno maior da organização, pedindo para saber sobre contornos que ela poderia participar ou, caso seja intenção dela, pedindo para encerrar sua parceria.
 
 # Atributos dos contornos
-Vários dos atributos abaixo são ligados pelas perguntas 'Por quê' faremos algo? -> 'Como' faremos algo? -> 'O quê' faremos?.
-Para qualquer alteração de atributo de um contorno é necessário notificar o contorno externo e os contornos internos. 
+Cada contorno possui sua própria lista de atributos.
+
+Vários dos atributos listados abaixo são conectados pelas perguntas 'Por quê' faremos algo? -> 'Como' faremos algo? -> 'O quê' faremos?.
+
+Regra:
+- para qualquer alteração de atributo de um contorno é necessário notificar seu contorno externo e contornos internos. 
 
 # Nome do Escopo
-Esse atributo permite entender de forma rápida qual o escopo do contorno. 
+Este atributo permite entender de forma rápida qual o escopo do contorno. 
 Exemplos: Produto, Desenvolvimento, Design, Finanças, etc.
 
 É esperado que existam nomes de escopos repetidos por toda organização. 
@@ -199,7 +207,7 @@ A definição do apelido do contorno é determinada pelas participantes do próp
 ## Razão de existir (’Por quê?’)
 A razão de existir informa o motivo de um contorno existir. Os contornos são alinhados e aninhados por ela.
 
-Regras simples:
+Regras:
 * a declaração deve ser feita da perspectiva a quem o contorno atende e, preferencialmente, mensurável. No caso do maior contorno, a organização, a declaração da razão de existir deve ser feita da perspectiva do público que a organização atende. No caso de outros contornos, podem ser do público externo ou interno, dependendo do contorno.
 * evite palavras amplificadas ou aspirações inalcançáveis que atrapalhem a compreensão e não possam ser medidas.  
 * ela é decidida pelo contorno externo através de decisão integrativa. 
@@ -229,7 +237,7 @@ Evoluímos para tomar decisões muito rapidamente com base em uma varredura parc
 ## Estratégia (’Como?’)
 A estratégia é uma declaração explícita de diretrizes ou limites de segurança do contorno que facilitam tomadas de decisões, priorizações e experimentos à razão de existir do contorno e que se alinha com a estratégia atual do contorno externo. 
 
-Nela é possível conter [regras simples, renúncias ou práticas recorrentes (checklist)](refer%C3%AAncias#refer%C3%AAncias-sobre-estrat%C3%A9gias).
+Nela é possível conter [regras, renúncias ou práticas recorrentes (checklist)](refer%C3%AAncias#refer%C3%AAncias-sobre-estrat%C3%A9gias).
 
 A estratégia é proposta pela guardiã do contorno, **alinhada com a estratégia do contorno externo** e definida em [decisão integrativa](#decis%C3%A3o-integrativa) no próprio contorno.
 
@@ -249,7 +257,7 @@ Entender as demandas e etapas auxiliará saber que tipo de outros contornos inte
 
 O processo deve ser feito na perspectiva da demanda e do valor entregue - quem pede, precisa ou receberá o resultado do trabalho, com a intenção de minimizar ambiguidade e desperdício, alinhar expectativas, minimizar fatiga por decisões e manter o nível de qualidade, tornando explícitas entregas recorrentes, previstas e necessárias (_handover_ ou _handoff_), identificando como os contornos interagem e quais são responsáveis pelas etapas e ações.
 
-Regras simples:
+Regras:
 * o mapeamento do processo é de responsabilidade da guardiã, consultando pessoas envolvidas no processo. 
 * é necessário [decisão integrativa](#decis%C3%A3o-integrativa) para utilizá-lo no contorno.
 * capturar todas as etapas necessárias em um fluxo sem chegar no nível de prever pequenas tarefas. 
@@ -278,7 +286,7 @@ Os projetos e tarefas são o “o quê” que se conecta com o “como”  ーes
 
 ### Pedido por projetos ou tarefas
 
-Regras simples:
+Regras:
 * Qualquer pessoa da organização pode criar um [impulsionador](#impulsionadores) para pedir por projetos ou tarefas para a guardiã do contorno responsável por determinado escopo.
 * O impulsionador contendo o pedido de Projeto ou tarefa necessariamente precisa conter a motivação e contexto, para que a guardiã que for agir sobre o Projeto ou tarefa possa entender de forma mais aprofundada e se conectar com o pedido.
 * Não é necessário perguntar se a pessoa quer, tem tempo ou acha importante, e nem se preocupar se está incomodando ao fazer um pedido. O contorno já prevê essas responsabilidades. A pessoa que está como guardiã, está nesse papel para servir. Ela não está fazendo um favor, mas apenas o trabalho combinado.
@@ -306,7 +314,7 @@ Porém, a partir daí podem ser necessários novos acordos.
 
 Há dois tipos de acordos: estruturais e pessoais. Ambos podem ser adaptados, e qualquer participante do contorno pode sugerir uma proposta de modificação.
 
-Regras simples:
+Regras:
 * Crie acordos quando surgirem questões recorrentes que precisem do mesmo tipo de decisão. 
 * Evite a tentativa de prever algo em acordos sem evidência ou conhecimento. 
 * Acordos são realizados para definir expectativas estruturais ou pessoais a serem cumpridas.
@@ -348,7 +356,7 @@ Categorias de indicadores:
 - sejam baseados em resultado e não em atividades (outcome-based e não activity-based).
 - sejam compostos por indicadores iniciais (leading) e atrasados (lagging). Indicadores iniciais nos dizem sobre tendências e sinais preditivos. Indicadores atrasados confirmam uma tendência em andamento, tendo relação com medição de rendimento ("throughput"). Isso inclui, por exemplo, informações se um contorno está resolvendo suas demandas.
 
-Regras simples:
+Regras:
 - A escolha dos indicadores para um determinado contorno é feita através de decisão integrativa pelo contorno externo, no qual também tem como participante a guardiã do contorno que assumirá os indicadores. 
 - Os indicadores têm frequência de compartilhamento sobre atualização definida pelo contorno externo. A guardiã do contorno compartilha o último resultado dos indicadores na frequência acordada.
 
@@ -380,7 +388,7 @@ Porém, como a guardiã não possui a estratégia ou o processo como elemento de
 Impulsionadores é tudo aquilo que impulsiona o aprendizado ou adaptação da organização ou o apendizado e cuidado de pessoas.
 É esperado que os impulsionadores fluam continuamente.
 
-Regras simples:
+Regras:
 - Qualquer participante de um contorno tem a responsabilidade de perceber e tratar impulsionadores relativos aos seus contornos ou à sua pessoa.
 - [Declare a intenção](apps#declarar-inten%C3%A7%C3%A3o) de cada impulsionador para processamento.
 - Registre os impulsionadores em algum banco de dados compartilhado. 
@@ -433,11 +441,11 @@ Essas ações atendem a duas necessidades:
 Condição para ocorrer ações extraordinárias:
 * impactos negativos ou oportunidades críticas que, no julgamento de qualquer pessoa, não possam esperar pela adaptação de atributos de contornos ou processamento de um impulsionador na autoridade de outro contorno.
 
-Regras simples para realizar uma ação extraordinária:
+Regras para realizar uma ação extraordinária:
 * considere o contexto e informações disponíveis da estrutura atual e do risco ou oportunidade.
 * faça o melhor julgamento possível com o que tem à disposição. 
 * realize as ações que considere adequadas.
 
-Regras simples após uma ação extraordinária:
+Regras após uma ação extraordinária:
 * revelar a ação extraordinária para as guardiãs dos contornos impactados, através de um [impulsionador](#impulsionadores) com [intenção de aviso](apps#declarar-inten%C3%A7%C3%A3o).
 * criar um [impulsionador](#6-impulsionadores) com intenção de [decisão integrativa](apps#declarar-inten%C3%A7%C3%A3o), propondo adaptações em contornos ou acordos, caso isso resolva a questão quando algo semelhante surgir novamente.
