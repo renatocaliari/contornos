@@ -15,7 +15,8 @@ Pense nisso como um sistema operacional enxuto 'open-source' (código aberto), q
 ?> Vale lembrar que essa tecnologia social, ou qualquer outra, não funciona como mágica, que ao usar tudo se resolve. Não, longe disso. Ela é apenas uma ferramenta e um meio, como tantos outros, que faz sentido quando usada em conjunto com outras ferramentas e práticas, apoiadas por muitas discussões interpessoais e experimentos contínuos. 
 
 ---
-### Mais informações
+### Saiba mais
+- [Contornos](contornos) - todas as regras do sistema Contornos.
 - [Apps](apps) - biblioteca de acordos extras pré-definidos para implementar no sistema [Contornos].
 - [Curiosidades](curiosidades)
 - [Perguntas & Respostas](perguntas)
