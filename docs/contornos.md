@@ -182,21 +182,21 @@ Vários dos atributos listados abaixo são conectados pelas perguntas 'Por quê'
 Regra:
 - para qualquer alteração de atributo de um contorno é necessário notificar seu contorno externo e contornos internos. 
 
-# Identificador: Apelido e Escopo
+## Identificador: Apelido e Escopo
 
-## Apelido
+### Apelido
 Este atributo tem a intenção de identificar o contorno de forma exclusiva, e por isso não pode ter seu nome repetido por mais de um contorno.
 Qualquer apelido pode ser utilizado, desde nomes reais a nomes inventados.
 
 A definição do apelido do contorno é determinada pelas participantes do próprio contorno em decisão integrativa.
 
-## Escopo
+### Escopo
 Este atributo permite entender de forma rápida qual o escopo do contorno. Este atributo não é para identificar o contorno de forma exclusiva, e sim para representar qual é o escopo do contorno. Exemplos de nomes: Produto, Desenvolvimento, Design, Finanças, etc.
 É possível e até esperado que existam escopos repetidos por toda organização. 
 
 A definição do nome do escopo é determinada pelo contorno externo em decisão integrativa.
 
-## Como identificar um contorno de forma exclusiva?
+### Como identificar um contorno de forma exclusiva?
 Imagine que desejamos citar um contorno específico de "frontend" numa organização que já possui vários contornos "frontend" em outros contornos de "produto".
 
 Para identificar de forma exclusiva, poderíamos:
