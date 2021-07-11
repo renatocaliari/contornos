@@ -409,7 +409,7 @@ Decisão integrativa é um tipo de decisão **em consentimento** envolvendo toda
 Consentimento não é questão de preferência pessoal e sim de saber se há objeções. 
 
 Em contornos há 3 critérios para considerar uma objeção válida:
-  1. **Violação ou Obstáculo**: revela uma violação dos acordos da organização ou revela obstáculos especificamente para os contornos de quem levantou a objeçãoexpressar sua razão de existir e realizar suas responsabilidades. Se a pessoa levantar objeção em nome de contornos que ela não participa, não considere uma objeção válida. As guardiãs de cada contorno poderão levantar suas próprias objeções.
+  1. **Violação ou Obstáculo**: revela uma violação dos acordos da organização ou revela obstáculos, especificamente para os contornos de quem levantou a objeção, para expressar sua razão de existir e realizar suas responsabilidades. Se a pessoa levantar objeção em nome de contornos que ela não participa, não considere uma objeção válida. As guardiãs de cada contorno poderão levantar suas próprias objeções.
   2. **Dano causado pela proposta**: revela dano que só existirá caso a proposta seja colocada em prática e que não haverá oportunidade adequada para adaptação antes que a proposta cause o dano.
   3. **Evidências**: é baseada em evidências. Caso seja algo apenas preditivo, e não passe pelo critério 1, não considere uma objeção válida nesse processo.
 
