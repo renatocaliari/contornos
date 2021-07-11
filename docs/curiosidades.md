@@ -15,11 +15,11 @@ Saiba mais sobre o livro da autora no artigo [Enxergando organizações como sis
 
 Além dessa curiosidade sobre a fonte de inspiração, utilizei o nome 'Guardiã' para tentar minimizar viés de hierarquia. Guardar um contorno, um escopo ou um espaço, acredito que evita qualquer possibilidade de parecer 'chefe' ou 'acima' de alguém. A relação de ser guardiã é com algum contorno e não com alguma pessoa.
 
-## De onde surgiu a ideia do [papel estrutural de Sinapse](https://github.com/renatoac/contornos/wiki/Apps#papel-estrutural-de-sinapse)?
+## De onde surgiu a ideia do [papel estrutural de Sinapse](apps#papel-estrutural-de-sinapse)?
 A ideia de sorteio de pessoas foi inspirada no processo [Wisdom Council](https://www.wisedemocracy.org/3-wisdom-council-process.html).
 
-## Sobre a anotação de hierarquia de escopo
-A [hierarquia de escopo](https://github.com/renatoac/contornos/wiki#41-nome-do-escopo) utilizada para identificação única de um contorno foi inspirada em [namespace](https://pt.wikipedia.org/wiki/Espa%C3%A7o_de_nomes), conceito utilizado em várias linguagens de programação.
+## Sobre a anotação de hierarquia para identificação de contorno
+A [hierarquia ](contornos#nome) utilizada para identificação de um contorno de forma única foi inspirada em [namespace](https://pt.wikipedia.org/wiki/Espa%C3%A7o_de_nomes), conceito utilizado em várias linguagens de programação.
 
 ## Linguagem no feminino
 Por todo o sistema [Contornos] busquei utilizar a linguagem no feminino como uma agente socializante de gênero, no intuito de evitar que, usando no masculino, houvesse uma interpretação de discriminação fundamentada no sexo.
