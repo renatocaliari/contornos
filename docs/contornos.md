@@ -391,6 +391,8 @@ Porém, como a guardiã não possui a estratégia ou o processo como elemento de
 Impulsionadores é tudo aquilo que impulsiona o aprendizado ou adaptação da organização ou o apendizado e cuidado de pessoas.
 É esperado que os impulsionadores fluam continuamente.
 
+[Veja exemplos de uso de impulsionadores nos apps](apps#exemplos-de-casos-de-impulsionadores).
+
 Regras:
 - Qualquer participante de um contorno tem a responsabilidade de perceber e tratar impulsionadores relativos aos seus contornos ou à sua pessoa.
 - [Declare a intenção](apps#declarar-inten%C3%A7%C3%A3o) de cada impulsionador para processamento.
@@ -400,9 +402,6 @@ Regras:
 - É esperado que um impulsionador seja puxado por qualquer participante que tenha responsabilidade para lidar com o contexto do impulsionador.
 - É necessário que os impulsionadores sejam puxados e tratados um a um, com foco no contexto e intenção do impulsionador. Não coletivize o impulsionador buscando modificar o que é esperado, trazendo com assuntos e intenções de outras pessoas, a não ser que seja um pedido da pessoa que abriu o impulsionador original.
   - Ao tratar um impulsionador, logo que alguém perceber que o foco saiu desse impulsionador ou da pessoa que o trouxe, desviou do assunto, saiu da intenção do impulsionador ou começaram a agregar impulsionadores próprios no impulsionador da pessoa que compartilhou, **é necessário avisar e interromper para que o foco volte para o assunto, intenção e pessoa que compartilhou o impulsionador**.
-
-[Veja exemplos de uso de impulsionadores nos apps](apps#exemplos-de-casos-de-impulsionadores).
-
 
 # Decisão integrativa
 Decisão integrativa é um tipo de decisão **em consentimento** envolvendo todas as participantes de uma decisão. Quando não especificado, por padrão, uma decisão integrativa envolve todas participantes de um contorno.
