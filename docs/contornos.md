@@ -189,7 +189,7 @@ Exemplos: Produto, Desenvolvimento, Design, Finanças, etc.
 É possível e até esperado que existam nomes de contorno repetidos por toda organização. 
 
 Existem duas formas de identificar contornos de forma única:
-* usar [anotação de hierarquia de escopo](curiosidades#sobre-a-anota%C3%A7%C3%A3o-de-hierarquia-de-escopo) ao citar um contorno. 
+* usar [anotação de hierarquia](curiosidades#sobre-a-anota%C3%A7%C3%A3o-de-hierarquia-para-identifica%C3%A7%C3%A3o-de-contorno) ao citar um contorno. 
   * Para utilizar esse recurso de anotação, comece pelo nome do maior contorno da organização e vá até o contorno atual usando o "." como conector. 
     * Exemplo: "org.produto XYZ.desenvolvimento.frontend"
       * para esse caso, significaria que você está identificando um contorno de "Frontend" dentro do contorno de "Desenvolvimento" que está dentro do contorno de "Produto XYZ" e que por fim está dentro da organização.
