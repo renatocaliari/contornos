@@ -182,20 +182,20 @@ Vários dos atributos listados abaixo são conectados pelas perguntas 'Por quê'
 Regra:
 - para qualquer alteração de atributo de um contorno é necessário notificar seu contorno externo e contornos internos. 
 
-# Nome do Escopo
+# Nome
 Este atributo permite entender de forma rápida qual o escopo do contorno. 
 Exemplos: Produto, Desenvolvimento, Design, Finanças, etc.
 
-É esperado que existam nomes de escopos repetidos por toda organização. 
+É possível e até esperado que existam nomes de contorno repetidos por toda organização. 
 
 Existem duas formas de identificar contornos de forma única:
-* usar [anotação de hierarquia de escopo](curiosidades#sobre-a-anota%C3%A7%C3%A3o-de-hierarquia-de-escopo). 
-  * Para utilizar esse recurso de anotação, comece pelo nome do maior escopo da organização até o escopo do contorno usando "." como conector. 
+* usar [anotação de hierarquia de escopo](curiosidades#sobre-a-anota%C3%A7%C3%A3o-de-hierarquia-de-escopo) ao citar um contorno. 
+  * Para utilizar esse recurso de anotação, comece pelo nome do maior contorno da organização e vá até o contorno atual usando o "." como conector. 
     * Exemplo: "org.produto XYZ.desenvolvimento.frontend"
       * para esse caso, significaria que você está identificando um contorno de "Frontend" dentro do contorno de "Desenvolvimento" que está dentro do contorno de "Produto XYZ" e que por fim está dentro da organização.
 * usar o atributo [Apelido](#apelido). 
 
-A definição do nome do escopo é determinada pelo contorno externo em decisão integrativa.
+A definição do nome do contorno é determinada pelo contorno externo em decisão integrativa.
 
 # Apelido
 Este atributo tem a intenção de identificar o contorno de forma única, e por isso não pode ter seu nome repetido por mais de um contorno.
