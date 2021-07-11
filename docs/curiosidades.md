@@ -19,7 +19,7 @@ Além dessa curiosidade sobre a fonte de inspiração, utilizei o nome 'Guardiã
 A ideia de sorteio de pessoas foi inspirada no processo [Wisdom Council](https://www.wisedemocracy.org/3-wisdom-council-process.html).
 
 ## Sobre a anotação de hierarquia para identificação de contorno
-A [hierarquia ](contornos#nome) utilizada para identificação de um contorno de forma única foi inspirada em [namespace](https://pt.wikipedia.org/wiki/Espa%C3%A7o_de_nomes), conceito utilizado em várias linguagens de programação.
+A [hierarquia](contornos#escopo) de escopos utilizada para identificação de um contorno de forma única foi inspirada em [namespace](https://pt.wikipedia.org/wiki/Espa%C3%A7o_de_nomes), conceito utilizado em várias linguagens de programação.
 
 ## Linguagem no feminino
 Por todo o sistema [Contornos] busquei utilizar a linguagem no feminino como uma agente socializante de gênero, no intuito de evitar que, usando no masculino, houvesse uma interpretação de discriminação fundamentada no sexo.
