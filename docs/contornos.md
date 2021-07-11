@@ -183,22 +183,24 @@ Regra:
 - para qualquer alteração de atributo de um contorno é necessário notificar seu contorno externo e contornos internos. 
 
 # Nome
-Este atributo permite entender de forma rápida qual o escopo do contorno. 
-Exemplos: Produto, Desenvolvimento, Design, Finanças, etc.
-
+Este atributo permite entender de forma rápida qual o escopo do contorno. Este atributo não é para identificar o contorno de forma exclusiva, e sim para representar qual é o escopo do contorno. Exemplos de nomes: Produto, Desenvolvimento, Design, Finanças, etc.
 É possível e até esperado que existam nomes de contorno repetidos por toda organização. 
-
-Existem duas formas de identificar contornos de forma única:
-* usar [anotação de hierarquia](curiosidades#sobre-a-anota%C3%A7%C3%A3o-de-hierarquia-para-identifica%C3%A7%C3%A3o-de-contorno) ao citar um contorno. 
-  * Para utilizar esse recurso de anotação, comece pelo nome do maior contorno da organização e vá até o contorno atual usando o "." como conector. 
-    * Exemplo: "org.produto XYZ.desenvolvimento.frontend"
-      * para esse caso, significaria que você está identificando um contorno de "Frontend" dentro do contorno de "Desenvolvimento" que está dentro do contorno de "Produto XYZ" e que por fim está dentro da organização.
-* usar o atributo [Apelido](#apelido). 
 
 A definição do nome do contorno é determinada pelo contorno externo em decisão integrativa.
 
+Existem duas formas de identificar contornos de forma exclusiva:
+* usar [anotação de hierarquia](curiosidades#sobre-a-anota%C3%A7%C3%A3o-de-hierarquia-para-identifica%C3%A7%C3%A3o-de-contorno) ao citar um contorno. 
+  * para utilizar esse recurso de anotação, comece pelo nome do maior contorno da organização e vá até o contorno atual usando o "." como conector. Exemplo: "organização ABC.produto XYZ.implementação.frontend". Para esse caso, significaria que você está identificando um contorno de "frontend" dentro do contorno de "implementação" que está dentro do contorno de "produto XYZ" e que por fim está dentro da "organização ABC".
+  * essa seria a hierarquia do exemplo:
+    * Organização ABC
+      * Produto XYZ
+        * Implementação
+          * Frontend    
+* ou usar diretamente o atributo [apelido](#apelido). 
+
 # Apelido
-Este atributo tem a intenção de identificar o contorno de forma única, e por isso não pode ter seu nome repetido por mais de um contorno.
+Este atributo tem a intenção de identificar o contorno de forma exclusiva, e por isso não pode ter seu nome repetido por mais de um contorno.
+Qualquer apelido pode ser utilizado, desde nomes reais a nomes inventados.
 
 A definição do apelido do contorno é determinada pelas participantes do próprio contorno em decisão integrativa.
 
