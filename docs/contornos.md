@@ -228,7 +228,7 @@ As responsabilidades de um contorno são decididas pelo contorno externo atravé
 ### Decisões operacionais
 São decisões situacionais, não previstas e definidas em acordos, estratégia e processo, e que estão dentro do escopo de razão de existir e responsabilidades de algum contorno.
 
-![Decisões operacionais](decisoes.png)
+![Decisões operacionais](assets/decisoes.png)
 
 Se uma decisão operacional de um contorno:
 - É segura, seja reversível ou irreversível, a participante do contorno toma a decisão, sem necessidade de consultar outras pessoas. As participantes do contorno já detêm autoridade para decidir. **A maioria das decisões provavelmente se enquadrará aqui. A ideia do sistema [Contornos] é justamente distribuir decisões e autoridade.**
@@ -251,7 +251,7 @@ A partir daí priorize os projetos que estejam alinhados à nova estratégia.
 O sistema [Contornos] não prevê ou recomenda o uso de metas, por [todos os perigos que elas trazem](https://medium.com/tentaculus/metas-funcoes-perigos-e-alternativas-532a2801ca02), sendo ele mesmo uma alternativa pela sua própria estrutura e dinâmica. Ao mesmo tempo, caso deseje se arriscar, é possível utilizar o atributo estratégia para contemplar metas.
 
 ## Processo (’Como?’)
-![processo](processo.png)
+![processo](assets/processo.png)
 
 Contornos que tenham processamento de demandas com expectativa de etapas a seguir, devem explicitar como [processo](refer%C3%AAncias#refer%C3%AAncias-sobre-mapeamento-de-processo).
 Um processo nada mais é que um acordo estrutural, por isso precisando de decisão integrativa. Contudo, ele é um atributo próprio do contorno.
