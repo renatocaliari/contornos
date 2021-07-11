@@ -182,7 +182,7 @@ Vários dos atributos listados abaixo são conectados pelas perguntas 'Por quê'
 Regra:
 - para qualquer alteração de atributo de um contorno é necessário notificar seu contorno externo e contornos internos. 
 
-## Identificador: Apelido e Escopo
+## Apelido e Escopo
 
 ### Apelido
 Este atributo tem a intenção de identificar o contorno de forma exclusiva, e por isso não pode ter seu nome repetido por mais de um contorno.
@@ -206,6 +206,7 @@ Para identificar de forma exclusiva, poderíamos:
     * Para utilizar esse formato de anotação, comece pelo nome do maior contorno da organização e vá até o contorno atual usando o "." (ponto) como conector. 
       * por exemplo, se você deseja citar o contorno "frontend", que está dentro do contorno de "implementação", que está dentro do contorno de "produto XYZ", e que por fim está dentro da "organização ABC", você pode usar a anotação: 
         * ```organização ABC.produto XYZ.implementação.frontend```.
+
 ## Razão de existir (’Por quê?’)
 A razão de existir informa o motivo de um contorno existir. Os contornos são alinhados e aninhados por ela.
 
