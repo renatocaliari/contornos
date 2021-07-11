@@ -205,8 +205,7 @@ Para identificar de forma exclusiva, poderíamos:
   * usar [anotação de hierarquia](curiosidades#sobre-a-anota%C3%A7%C3%A3o-de-hierarquia-para-identifica%C3%A7%C3%A3o-de-contorno) com os escopos dos contornos.
     * Para utilizar esse formato de anotação, comece pelo nome do maior contorno da organização e vá até o contorno atual usando o "." (ponto) como conector. 
       * por exemplo, se você deseja citar o contorno "frontend", que está dentro do contorno de "implementação", que está dentro do contorno de "produto XYZ", e que por fim está dentro da "organização ABC", você pode usar a anotação: 
-        * ```organização ABC.produto XYZ.implementação.frontend```. essa anotação representa a hierarquia.
-        * 
+        * ```organização ABC.produto XYZ.implementação.frontend```.
 ## Razão de existir (’Por quê?’)
 A razão de existir informa o motivo de um contorno existir. Os contornos são alinhados e aninhados por ela.
 
