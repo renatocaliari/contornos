@@ -250,8 +250,8 @@ Para conseguir fluidez no processo assíncrono de decisão integrativa:
 
 ### Comunicação
 
-#### Declarar Intenção
-Ao abrir um tópico com alguém, explicite qual é sua intenção:
+#### Declarar Intenção de impulsionadores
+Ao registrar um impulsionador, explicite qual é sua intenção:
 - **Aviso**: quando deseja avisar algo sem necessariamente esperar por reações.
 - **Celebração**: quando deseja celebrar algo.
 - **Pedido**: quando deseja pedir algo a um contorno ou alguém.
@@ -261,6 +261,22 @@ Ao abrir um tópico com alguém, explicite qual é sua intenção:
 - **Discussão**: quando deseja discutir ideias e pontos de vista.
 - **Cocriação de proposta**: quando deseja fazer uma [ideação em grupo e criar uma proposta](#ideação-e-cocriação-de-proposta).
 - **[Decisão integrativa](contornos#decis%C3%A3o-integrativa)**: quando há uma proposta a ser decidida de forma integrativa. Se for necessário, explicite qual contorno tem autoridade para decidir ou de qual contorno é esperada a decisão.
+
+##### Exemplos de casos de impulsionadores
+
+| Contexto<br/>Imagine que... | Impulsionador<br/>Criar impulsionador com intenção de... |
+| -- | -- |
+| há uma reunião recorrente acordada que não faz mais sentido para uma pessoa e ha o desejo de modificar ou cancelar a reunião recorrente | [decisão integrativa](apps#declarar-inten%C3%A7%C3%A3o) com a proposta. |
+| uma pessoa deseje criar uma proposta sobre um projeto que já está na responsabilidade de seu contorno porém deseja fazer a proposta de forma colaborativa | [cocriação de proposta](apps#declarar-inten%C3%A7%C3%A3o). |
+| uma participante precise fazer uma integração entre dois softwares da empresa e há um contorno que cuide de integrações ou tecnologia da empresa | [pedido](apps#declarar-inten%C3%A7%C3%A3o) por um projeto para isso |
+| uma participante precise fazer uma integração entre dois softwares da empresa e não há um contorno que cuide disso | [pedido](apps#declarar-inten%C3%A7%C3%A3o) por um projeto para a guardiã de algum contorno que englobe o escopo maior do impulsionador (ex: produto) para processar esse impulsionador e em paralelo também seria possível um impulsionador com a [intenção de decisão integrativa](apps#declarar-inten%C3%A7%C3%A3o) propondo a criação de um contorno específico para isso, caso seja um tipo de projeto recorrente. |
+| uma participante saiu de um contorno e gostaria de avisar as partcipantes desse contornos | [aviso](apps#declarar-inten%C3%A7%C3%A3o) |
+| uma pessoa de um determinado contorno está se sentindo sobrecarregada e tem a percepção de que é necessário ter mais alguma pessoa como agente no contorno para dividir projetos e tarefas. | [decisão integrativa](apps#declarar-inten%C3%A7%C3%A3o) para uma proposta de alocação de uma pessoa como agente no contorno |
+| uma pessoa ganhou um filho e gostaria de compartilhar a novidade com as participantes dos contornos em que atua. | [celebração](apps#declarar-inten%C3%A7%C3%A3o) |
+| uma pessoa esteja tendo dificuldade para discutir assuntos importantes pela ferramenta oficial da empresa pois há mensagens enviadas a outras pessoas do contorno que passam mais de 5 dias sem respostas. | [decisão integrativa](apps#declarar-inten%C3%A7%C3%A3o) com uma proposta de acordo pessoal que prevê a necessidade de responder mensagens que outras pessoas te marcaram em até 48h |
+
+As possibilidades de impulsionadores são quase que infinitas, surgindo a todo momento na complexidade do dia-a-dia e favorecendo a adaptação contínua da organização.
+
 
 #### Rodadas de fala
 Utilize rodadas de fala para oferecer maior equivalência ao grupo e evitar que pessoas mais extrovertidas ou influentes tenham mais poder, ou tempo de fala.
