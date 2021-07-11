@@ -189,10 +189,9 @@ Este atributo permite entender de forma rápida qual o escopo do contorno. Este 
 A definição do nome do contorno é determinada pelo contorno externo em decisão integrativa.
 
 Existem duas formas de identificar contornos de forma exclusiva:
-* usar [anotação de hierarquia](curiosidades#sobre-a-anota%C3%A7%C3%A3o-de-hierarquia-para-identifica%C3%A7%C3%A3o-de-contorno) ao citar um contorno. Para utilizar esse formato de anotação, comece pelo nome do maior contorno da organização e vá até o contorno atual usando o "." como conector. 
-  * exemplo: "organização ABC.produto XYZ.implementação.frontend". 
-    * nesse caso, significaria que você está identificando um contorno de "frontend" dentro do contorno de "implementação" que está dentro do contorno de "produto XYZ" e que por fim está dentro da "organização ABC".
-    * essa seria a hierarquia do exemplo:
+* usar [anotação de hierarquia](curiosidades#sobre-a-anota%C3%A7%C3%A3o-de-hierarquia-para-identifica%C3%A7%C3%A3o-de-contorno) ao citar um contorno. Para utilizar esse formato de anotação, comece pelo nome do maior contorno da organização e vá até o contorno atual usando o "." (ponto) como conector. 
+    * por exemplo, se você deseja citar o contorno "frontend", que está dentro do contorno de "implementação", que está dentro do contorno de "produto XYZ", e que por fim está dentro da "organização ABC", você pode usar a anotação: ```"organização ABC.produto XYZ.implementação.frontend"```. 
+    * essa anotação representa essa hierarquia:
       * Organização ABC
         * Produto XYZ
           * Implementação
