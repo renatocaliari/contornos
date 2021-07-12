@@ -128,7 +128,7 @@ A guardiã não pode:
   * _todas responsabilidades do próprio contorno_ que não estejam delegadas a contornos internos.
 
 ## Comparação rápida
-| atributos | Guardiã | Agente | 
+|  | Guardiã | Agente | 
 | -- | -- | -- |
 | razão de existir | guardar o espaço do contorno e responder pela razão de existir do mesmo. | evoluir o contorno em direção à razão de existir. |
 | participação | toda guardiã de um contorno também é participante do contorno externo como [agente](#agente-do-contorno). | caso a agente não seja guardiã de algum contorno interno, sua participação é restrita ao contorno como agente.<br/>caso a agente seja guardiã de algum contorno interno, sua participção acontece tanto no contorno como agente quanto no contorno como guardiã. |
