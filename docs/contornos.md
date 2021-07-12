@@ -175,9 +175,7 @@ Ou, se a intenção é encerrar a parceria, levar a questão diretamente a um co
 Caso esses contornos especiais não existam, o caso deve ser levado para o contorno maior da organização, pedindo para saber sobre contornos que ela poderia participar ou, caso seja intenção dela, pedindo para encerrar sua parceria.
 
 # Atributos dos contornos
-Cada contorno possui sua própria lista de atributos.
-
-Vários dos atributos listados abaixo são conectados pelas perguntas 'Por quê' faremos algo? -> 'Como' faremos algo? -> 'O quê' faremos?.
+Cada contorno possui uma lista de atributos. Vários dos atributos listados abaixo são conectados pelas perguntas 'Por quê' faremos algo? -> 'Como' faremos algo? -> 'O quê' faremos?.
 
 Regra:
 - para qualquer alteração de atributo de um contorno é necessário notificar seu contorno externo e contornos internos. 
@@ -347,45 +345,40 @@ Cada contorno possui indicadores, que podem ser compartilhados por mais de um co
 
 Apesar de indicadores raramente fornecerem respostas definitivas, eles promovem conversas e apoiam tomadas de decisão e adaptações usando uma base em comum.
 
-Categorias de indicadores:
-- de resultado, na perspectiva de clientes: indicadores que usam em suas tomadas de decisões e escolha dos serviços ou produtos. É possível ter delimitador inferior e/ou superior. Abaixo do limite inferior, não está atendendo necessidades de clientes. Acima do superior pode indicar que clientes não percebem os benefícios a mais e também pode estar super servindo desnecessariamente quando causa prejuízos em outros aspectos do negócio, serviço ou produto.
-- de saúde, para monitorar aspectos importantes do negócio, serviço, produto ou engajameno de pessoas em um contorno. É possível ter delimitador inferior e superior que indiquem o intervalo de saúde. 
-- de urgência, com um alvo, em caso excepcional apenas quando for necessário promover uma mudança rápida para salvar o negócio, produto ou serviço.
-
-É recomendado que os indicadores: 
-- sejam relacionados a aspectos de qualidade e quantidade com relação à razão de existir, estratégia, resultado gerado na perspectiva de clientes do contorno ou engajamento de pessoas.
-  - mudanças na estratégia de um contorno levam a adaptações de alguns inidicadores que possam refletir a execução e resultado da estratégia.
-  - mudanças na forma que clientes avaliam um resultado levam a adaptações de alguns indicadores que possam refletir a avaliação desse resultado.
-- sejam baseados em resultado e não em atividades (outcome-based e não activity-based).
-- sejam compostos por indicadores iniciais (leading) e atrasados (lagging). Indicadores iniciais nos dizem sobre tendências e sinais preditivos. Indicadores atrasados confirmam uma tendência em andamento, tendo relação com medição de rendimento ("throughput"). Isso inclui, por exemplo, informações se um contorno está resolvendo suas demandas.
+Indicadores podem ser do tipo **métrica** ou **confirmação** de prática recorrente. 
+  - possivelmente um contorno possuirá indicadores de métricas, seja qual for a estratégia tomada, para indicar sobre saúde e resultado do mesmo.
+  - e, se a estratégia também possui práticas recorrentes a serem realizadas, então provavelmente o contorno terá indicadores de **confirmação** para informar se uma prática recorrente foi realizada na recorrência esperada (ex: diariamente, semanalmente, mensalmente, etc).
 
 Regras:
 - A escolha dos indicadores para um determinado contorno é feita através de decisão integrativa pelo contorno externo, no qual também tem como participante a guardiã do contorno que assumirá os indicadores. 
 - Os indicadores têm frequência de compartilhamento sobre atualização definida pelo contorno externo. A guardiã do contorno compartilha o último resultado dos indicadores na frequência acordada.
 
 
-# Quem define os atributos?
+### Indicadores do tipo métricas
+Categorias:
+- de resultado, na perspectiva de clientes: indicadores que usam em suas tomadas de decisões e escolha dos serviços ou produtos. É possível ter delimitador inferior e/ou superior. Abaixo do limite inferior, não está atendendo necessidades de clientes. Acima do superior pode indicar que clientes não percebem os benefícios a mais e também pode estar super servindo desnecessariamente quando causa prejuízos em outros aspectos do negócio, serviço ou produto.
+- de saúde, para monitorar aspectos importantes do negócio, serviço, produto ou engajameno de pessoas em um contorno. É possível ter delimitador inferior e superior que indiquem o intervalo de saúde. 
+- de urgência, com um alvo, em caso excepcional apenas quando for necessário promover uma mudança rápida para salvar o negócio, produto ou serviço.
 
-## Contorno externo
-As participantes do contorno externo são responsáveis por decidirem de forma integrativa pelos seguintes atributos de um contorno interno direto:
-* Nome do escopo.
-* Razão de existir.
-* Responsabilidades.
-* Elementos de controle exclusivo.
-* Frequência de compartilhamento de indicadores.
-* Frequência de compartilhamento de progresso dos projetos.
+É recomendado que: 
+- sejam relacionados a aspectos de qualidade e quantidade com relação à razão de existir, estratégia, resultado gerado na perspectiva de clientes do contorno ou engajamento de pessoas.
+  - mudanças na estratégia de um contorno levam a adaptações de alguns inidicadores que possam refletir a execução e resultado da estratégia.
+  - mudanças na forma que clientes avaliam um resultado levam a adaptações de alguns indicadores que possam refletir a avaliação desse resultado.
+- sejam baseados em resultado e não em atividades (outcome-based e não activity-based).
+- sejam compostos por indicadores iniciais (leading) e atrasados (lagging). Indicadores iniciais nos dizem sobre tendências e sinais preditivos. Indicadores atrasados confirmam uma tendência em andamento, tendo relação com medição de rendimento ("throughput"). Isso inclui, por exemplo, informações se um contorno está resolvendo suas demandas.
 
-## Contorno interno
-As participantes do próprio contorno são responsáveis por decidirem de forma integrativa pelos seguintes atributos de seu contorno:
-* Apelido
-* Estratégia
-* Processo
+# Quem define cada atributo do contorno?
 
-A guardiã de um contorno tem a responsabilidade de:
-* Propôr estratégia do contorno, alinhada com a estratégia do contorno externo.
-* Propôr processo do contorno.
-
-Porém, como a guardiã não possui a estratégia ou o processo como elemento de controle exclusivo em seu papel estrutural, então necessariamente ela precisa de decisão integrativa do contorno para modificação desses elementos.
+| atributo | o próprio contorno | o contorno externo |
+| -- | -- | -- |
+| apelido | x | |
+| escopo | | x |
+| razão de existir | | x |
+| responsabilidades | | x |
+| elementos de controle exclusivo | | x |
+| estratégia | x | |
+| processo | x | |
+| indicadores | | x |
 
 # Impulsionadores
 Impulsionadores é tudo aquilo que impulsiona o aprendizado ou adaptação da organização ou o apendizado e cuidado de pessoas.
