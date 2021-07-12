@@ -99,11 +99,11 @@ Caso o contorno que oferecerá uma representante já tenha uma representante nom
   * as pessoas sorteadas podem levantar objeção para sua participação. Se o contorno não conseguir integrar a objeção, um novo sorteio é feito para preenher a vaga das pessoas que objetaram.
 
 #### Exemplos de decisões com impacto direto em múltiplos contornos ou pessoas:
-- decisões financeiras da organização
-- estratégia da organização
-- questões de processo de seleção ou avaliação
-- acordos comportamentais da organização como um todo 
-- etc
+  * decisões financeiras da organização
+  * estratégia da organização
+  * questões de processo de seleção ou avaliação
+  * acordos comportamentais da organização como um todo 
+  * etc
   
 ### Papel estrutural de Facilitadora
 (A ser desenvolvido)
@@ -188,7 +188,7 @@ Contorno para aconselhar, direcionar e treinar em habilidades específicas.
 ### Contorno Escuta
 Contorno com pessoas com intenção de fazer escuta empática, sem aconselhamento.
 
-### Decisão integrativa assíncrona de proposta
+## Decisão integrativa assíncrona de proposta
 [Em desenvolvimento]
 
 Uma das dificuldade em decisão integrativa assíncrona é conseguir passar pelo processo de [decisão integrativa de uma proposta](contornos#decisão-integrativa-de-proposta) em um tempo razoável e sem cair no esquecimento, por isso aqui há dois modelos para inspiração.
