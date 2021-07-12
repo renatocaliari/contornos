@@ -36,7 +36,7 @@ Regras:
 - desenhe novos contornos a partir de demandas do público, interno ou externo.
 - minimize a criação de contornos que dependam de entregas recorrentes, previstas e necessárias (_handover_ ou _handoff_) de outros contornos que não estejam dentro de um mesmo contorno externo. Veja exemplo abaixo.
 
-(./assets/handoffhandover.png ':size=400')
+![Imagem exemplificando Handover ou Handoff](./assets/handoffhandover.png ':size=400')
 
 [Veja opções para ajudar na criação de contornos](perguntas?id=como-mapear-os-primeiros-contornos).
 
