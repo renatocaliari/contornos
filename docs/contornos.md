@@ -395,19 +395,46 @@ Impulsionadores é tudo aquilo que impulsiona o aprendizado ou adaptação da or
 
 Regras:
 - Qualquer participante de um contorno tem a responsabilidade de perceber e tratar impulsionadores relativos aos seus contornos ou à sua pessoa.
-- [Declare a intenção](apps#declarar-inten%C3%A7%C3%A3o) de cada impulsionador para processamento.
-- Registre os impulsionadores em algum banco de dados compartilhado. 
+- Registre os impulsionadores em alguma lista compartilhada para processamento. 
+- [Declarar o tipo do impulsionador](#declarar-tipo-do-impulsionador) para processamento.
 - Descreva a motivação e contexto do impulsionador.
 - Ao criar um impulsionador é necessário declarar a partir de qual contorno está criando o impulsionador e para qual contorno. Ex: "Impulsionador do contorno desenvolvimento para contorno produto". A única exceção, é quando for algo pessoal, não relacionado à estrutura organizacional (contorno, razão de existir, responsabilidades, estratégia, processo, indicador, elemento de controle exclusivo, acordos) ou ao trabalho operacional (projetos e tarefas), quando então não é necessário informar a partir de qual contorno está gerando o impulsionador.
 - É esperado que um impulsionador seja puxado por qualquer participante que tenha responsabilidade para lidar com o contexto do impulsionador.
 - É necessário que os impulsionadores sejam puxados e tratados um a um, com foco no contexto e intenção do impulsionador. Não coletivize o impulsionador buscando modificar o que é esperado, trazendo com assuntos e intenções de outras pessoas, a não ser que seja um pedido da pessoa que abriu o impulsionador original.
   - Ao tratar um impulsionador, logo que alguém perceber que o foco saiu desse impulsionador ou da pessoa que o trouxe, desviou do assunto, saiu da intenção do impulsionador ou começaram a agregar impulsionadores próprios no impulsionador da pessoa que compartilhou, **é necessário avisar e interromper para que o foco volte para o assunto, intenção e pessoa que compartilhou o impulsionador**.
 
+## Tipos de impulsionadores
+Ao registrar um impulsionador, explicite qual é o seu tipo:
+- **Aviso**: quando deseja avisar algo sem necessariamente esperar por reações.
+- **Celebração**: quando deseja celebrar algo.
+- **Pedido**: quando deseja pedir algo a um contorno ou alguém.
+- **Mais Informação**: quando deseja mais alguma informação ou entender algo.
+- **Escuta**: quando uma pessoa deseja ser escutada ou compreendida por outras. Exemplos de ferramentas para apoiar: perguntas abertas, sumário ou [reflexões](https://nelianafiglie.com.br/blog/tipos-de-reflexao-2/).
+- **Reação** (feedback): quando alguém deseja reações emocionais, opiniões ou ideias, mas não é esperado necessariamente respostas às reações.
+- **Discussão**: quando deseja discutir ideias e pontos de vista.
+- **Cocriação de proposta**: quando deseja fazer uma [ideação em grupo e criar uma proposta](#ideação-e-cocriação-de-proposta).
+- **[Decisão integrativa](contornos#decis%C3%A3o-integrativa)**: quando há uma proposta a ser decidida de forma integrativa. Se for necessário, explicite qual contorno tem autoridade para decidir ou de qual contorno é esperada a decisão.
+
+### Exemplos de uso
+| Imagine que... | Impulsionador com intenção de... |
+| -- | -- |
+| há uma reunião recorrente acordada que não faz mais sentido para uma pessoa e há o desejo de modificar ou cancelar essa reunião | [decisão integrativa](apps#declarar-inten%C3%A7%C3%A3o) com a proposta de modificação ou cancelamento. |
+| uma pessoa deseje criar uma proposta sobre um projeto que já está na responsabilidade de seu contorno porém deseja fazer a proposta de forma colaborativa | [cocriação de proposta](apps#declarar-inten%C3%A7%C3%A3o). |
+| uma participante precise fazer uma integração entre dois softwares da empresa e há um contorno que cuide de integrações ou tecnologia da empresa | [pedido](apps#declarar-inten%C3%A7%C3%A3o) por um projeto para isso. |
+| uma participante precise fazer uma integração entre dois softwares da empresa e não há um contorno que cuide disso | [pedido](apps#declarar-inten%C3%A7%C3%A3o) por um projeto para a guardiã de algum contorno que englobe o escopo maior do impulsionador (ex: produto) para processar esse impulsionador e em paralelo [decisão integrativa](apps#declarar-inten%C3%A7%C3%A3o) propondo a criação de um contorno específico para isso, caso seja um tipo de projeto recorrente. |
+| uma participante saiu de um contorno e gostaria de avisar as partcipantes desse contornos | [aviso](apps#declarar-inten%C3%A7%C3%A3o). |
+| uma pessoa de um determinado contorno está se sentindo sobrecarregada e tem a percepção de que é necessário ter mais alguma pessoa como agente no contorno para dividir projetos e tarefas. | [decisão integrativa](apps#declarar-inten%C3%A7%C3%A3o) para uma proposta de alocação de uma pessoa como agente no contorno. |
+| uma pessoa ganhou um filho e gostaria de compartilhar a novidade com as participantes dos contornos em que atua. | [celebração](apps#declarar-inten%C3%A7%C3%A3o). |
+| uma pessoa esteja tendo dificuldade para discutir assuntos importantes pela ferramenta oficial da empresa pois há mensagens enviadas a outras pessoas do contorno que passam mais de 5 dias sem respostas. | [decisão integrativa](apps#declarar-inten%C3%A7%C3%A3o) com uma proposta de acordo pessoal que prevê a necessidade de responder mensagens que outras pessoas te marcaram em até 48h. |
+
+As possibilidades de impulsionadores são quase que infinitas, surgindo a todo momento na complexidade do dia-a-dia e favorecendo a adaptação contínua da organização.
+
 # Decisão integrativa
 Decisão integrativa é um tipo de decisão **em consentimento** envolvendo todas as participantes de uma decisão. Quando não especificado, por padrão, uma decisão integrativa envolve todas participantes de um contorno.
 
 Consentimento não é questão de preferência pessoal e sim de saber se há objeções. 
 
+## Objeções válidas
 Em contornos há 3 critérios para considerar uma objeção válida:
   1. **Violação ou Obstáculo**: revela uma violação dos acordos da organização ou revela obstáculos, especificamente para os contornos de quem levantou a objeção, para expressar sua razão de existir e realizar suas responsabilidades. Se a pessoa levantar objeção em nome de contornos que ela não participa, não considere uma objeção válida. As guardiãs de cada contorno poderão levantar suas próprias objeções.
   2. **Dano causado pela proposta**: revela dano que só existirá caso a proposta seja colocada em prática e que não haverá oportunidade adequada para adaptação antes que a proposta cause o dano.
@@ -422,7 +449,32 @@ Uma decisão integrativa, por padrão, é realizada para todos acordos estrutura
  
 Caso uma decisão impacte outros contornos é indicado que compartilhe a proposta para reações das pessoas dos contornos impactados, e apenas depois realizar decisão integrativa no contorno que criou a proposta.
 
-## Decisão integrativa assíncrona
+## Processo para proposta com decisão integrativa
+### Ideação e cocriação de proposta
+Para a criação de uma proposa colaborativa, utilize esse processo:
+
+- **Apresentação do impulsionador com contexto**
+- **Esclarecimento**: faça uma rodada onde todas as pessoas terão oportunidade, uma a uma, para fazer perguntas para entender à fundo a proposta. Uma pergunta por vez. Assim que surgem perguntas, a pessoa que propõe pode ir respondendo. Se alguma pessoa der opinião ou sugestão, informe-a para salvar isso para o próximo passo. A etapa é apenas para esclarecimento.
+- **Reações**: faça uma rodada onde todas as pessoas terão oportunidade, uma a uma, para oferecer qualquer reação sobre a proposta ou sugestão que possam ajudar a melhorar a proposta. A pessoa proponente escuta todas reações mas não responde a elas.
+- **Descoberta de critérios**: faça uma rodada para as pessoas poderem compartilhar critérios que consideram necessários levar em consideração. (ex: orçamento, tempo, nível de divertimento, horário, desenho de telas, fluxo)
+- **Seleção de critérios**: a pessoa que trouxe o impulsionador seleciona os critérios que considera importantes e faz uma decisão integrativa. Caso ela deseje, pode delegar essa seleção de critérios à outra pessoa.
+- **Ideação para os critérios selecionados**: faça uma rodada onde cada pessoa apresente ideias para qualquer um dos critérios selecionados. As ideias podem ser contraditórias. A intenção é criar opções.
+- **Nomeação de proponentes**: quem trouxe o impulsionador, nomeia de 1 a 3 pessoas para elaborar a proposta e faz uma decisão integrativa. Ela pode se voluntariar. Caso ela deseje, pode delegar essa nomeação de pessoas a outra pessoa.
+- **Elaboração de proposta**: momento no qual a(s) pessoa(s) nomeadas buscam inspiração no que foi ideado e elaboram uma proposta. É possível escolher algumas ideias, renunciar outras e inventar outras.
+- **[Decisão integrativa de proposta](#decisão-integrativa-de-proposta)**
+
+### Decisão integrativa de proposta
+Ao apresentar uma proposta para decisão integrativa, utilize esse processo:
+- **Proposta**: uma proposta escrita é criada para lidar com alguma questão.
+- **Esclarecimento**: faça uma rodada onde todas as pessoas terão oportunidade, uma a uma, de fazer perguntas para entender à fundo a proposta. Uma pergunta por vez. Assim que surgem perguntas, a pessoa que propõe pode ir respondendo. Se alguma pessoa der opinião ou sugestão, informe-a para salvar isso para o próximo passo. A etapa é apenas para esclarecimento.
+- **Reações**: faça uma rodada onde todas as pessoas terão oportunidade, uma a uma, para oferecer qualquer reação sobre a proposta ou sugestão que possam ajudar a melhorar a proposta. A pessoa proponente escuta todas reações mas não precisa responder a elas.
+- **Ajustes**: baseada nas perguntas e reações, a pessoa proponente pode alterar a proposta (ou não) e esclarecer qualquer coisas que ainda não estava explícita e específica.
+- **Decisão integrativa**: 
+  - a pessoa proponente busca consentimento oara sua proposta, ajustada ou não.
+  - se alguma participante tiver objeção, ela declara à proponente.
+  - se for uma objeção válida, a proponente deve adaptar a proposta para cuidar das objeções. e, em seguida, o processo volta para o estágio de **esclarecimento** mais acima, onde as pessoas poderão tirar dúvidas sobre as alterações e segue para próximos estágios: reações, ajustes e decisão integrativa.
+
+### Decisão integrativa assíncrona
 A decisão integrativa pode ser realizada de forma assíncrona utiizando o app de [decisão integrativa assíncrona de proposta](apps/#decisão-integrativa-assíncrona-de-proposta).
 
 # Ação extraordinária
@@ -442,4 +494,4 @@ Regras para realizar uma ação extraordinária:
 
 Regras após uma ação extraordinária:
 * revelar a ação extraordinária para as guardiãs dos contornos impactados, através de um [impulsionador](#impulsionadores) com [intenção de aviso](apps#declarar-inten%C3%A7%C3%A3o).
-* criar um [impulsionador](#6-impulsionadores) com intenção de [decisão integrativa](apps#declarar-inten%C3%A7%C3%A3o), propondo adaptações em contornos ou acordos, caso isso resolva a questão quando algo semelhante surgir novamente.
+* criar um [impulsionador](#impulsionadores) de [decisão integrativa](#tipos-de-impulsionadores), propondo adaptações em contornos ou acordos, caso isso resolva a questão quando algo semelhante surgir novamente.
