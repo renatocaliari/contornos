@@ -6,7 +6,9 @@
 
 >  Tecnologia Social para Organizações
 
-- :heavy_check_mark: agilidade e experimentação + autonomia com responsabilidade
+- ✔️ mais autonomia com responsabilidade
+- ✔️ mais agilidade e experimentação
+- ✔️ mais adaptação fluída da estrutura 
 
 [Saiba mais](inicio)
 
