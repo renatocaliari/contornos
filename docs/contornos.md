@@ -350,16 +350,16 @@ Indicadores podem ser do tipo **métrica** ou **confirmação** de prática reco
   - e, se a estratégia também possui práticas recorrentes a serem realizadas, então provavelmente o próprio contorno definirá indicadores de **confirmação** para informar se uma prática recorrente foi realizada na recorrência esperada (ex: diariamente, semanalmente, mensalmente, etc).
 
 Regras:
-- O contorno externo define por decisão integrativa os indicadores do contorno. Lembrando que a guardiã do contorno é participante do contorno externo.
-- O próprio contorno também pode adicionar indicadores do tipo métrica ou confirmação, relativos à sua estratégia. 
-- Os indicadores têm frequência de compartilhamento sobre atualização definida pelo contorno externo. A guardiã do contorno compartilha o último resultado dos indicadores na frequência acordada.
+- o contorno externo define por decisão integrativa os principais indicadores do contorno. Lembrando que a guardiã do contorno é participante do contorno externo.
+- o próprio contorno também pode adicionar outros indicadores do tipo métrica ou confirmação, relativos à sua estratégia. 
+- os indicadores têm frequência de compartilhamento sobre atualização definida pelo contorno externo. A guardiã do contorno compartilha o último resultado dos indicadores na frequência acordada.
 
 
 ### Indicadores do tipo métricas
 Categorias:
-- de resultado, na perspectiva de clientes: indicadores que usam em suas tomadas de decisões e escolha dos serviços ou produtos. É possível ter delimitador inferior e/ou superior. Abaixo do limite inferior, não está atendendo necessidades de clientes. Acima do superior pode indicar que clientes não percebem os benefícios a mais e também pode estar super servindo desnecessariamente quando causa prejuízos em outros aspectos do negócio, serviço ou produto.
-- de saúde, para monitorar aspectos importantes do negócio, serviço, produto ou engajameno de pessoas em um contorno. É possível ter delimitador inferior e superior que indiquem o intervalo de saúde. 
-- de urgência, com um alvo, em caso excepcional apenas quando for necessário promover uma mudança rápida para salvar o negócio, produto ou serviço.
+- de **resultado**, na perspectiva de clientes: indicadores que usam em suas tomadas de decisões e escolha dos serviços ou produtos. É possível ter delimitador inferior e/ou superior. Abaixo do limite inferior, não está atendendo necessidades de clientes. Acima do superior pode indicar que clientes não percebem os benefícios a mais e também pode estar super servindo desnecessariamente quando causa prejuízos em outros aspectos do negócio, serviço ou produto.
+- de **saúde**, para monitorar aspectos importantes do negócio, serviço, produto ou engajameno de pessoas em um contorno. É possível ter delimitador inferior e superior que indiquem o intervalo de saúde. 
+- de **urgência**, com um alvo, em caso excepcional apenas quando for necessário promover uma mudança rápida para salvar o negócio, produto ou serviço.
 
 É recomendado que: 
 - sejam relacionados a aspectos de qualidade e quantidade com relação à razão de existir, estratégia, resultado gerado na perspectiva de clientes do contorno ou engajamento de pessoas.
