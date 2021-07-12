@@ -28,13 +28,16 @@ Cada contorno governa a sua própria estrutura, que pode ser alterada pela guard
 Uma pessoa pode estar em vários contornos e um contorno pode conter várias pessoas.
 
 ## Quando criar novos contornos?
-Crie contornos quando: 
-- perceber alguns padrões recorrentes para potencializar eficácia e compreensão compartilhada.
-- desejar delegar parte das responsabilidades e elementos de controle exclusivo.
+
+Crie contornos quando perceber alguns padrões recorrentes para potencializar eficácia e compreensão compartilhada ou desejar delegar parte das responsabilidades e elementos de controle exclusivo.
+
+Exemplos: 
+- recorrentemente o contorno que você participa precisa realizar análise de dados de forma mais avançada. Por um tempo as participantes foram tentando se ajudar, cada hora uma fazendo, porém não era explícito quem tinha essa responsabilidade e quais outras responsabilidades poderiam existir. Então, devido a essa recorrência, alguém registrar um [impulsionador](#impulsionadores) pro contorno com uma proposta de criação de um contorno interno de "análise de dados", deixando explícito o que é esperado. E em seguida fazem uma proposta de alocação de uma pessoa como guardiã deste contorno. Daí em diante não precisarão mais decidir quem fará esse tipo de trabalho e quais responsabilidades são esperadas. 
+- um contorno de "Tech" tem a responsabilidade de cuidar da infraestrutura e processo de deploy de alguns sistemas que o contorno desenvolve. Porém, isso começou a gerar conflitos e dúvidas sobre quais participantes teriam que ter habilidades, conhecimento e atenção para isso. Então, uma participante criou um [impulsionador](#impulsionadores) com uma proposta de criar um contorno interno de "Plataforma" delegando o "processo de deploy" como controle exclusivo deste novo contorno e também as responsabilidades de cuidar da infra e do processo. E, em seguida, alocaram uma pessoa como [guardiã](#guardi%c3%a3-do-contorno) do contorno e outra com [agente](#agente-do-contorno).  
 
 [Veja opções para ajudar na criação de contornos](perguntas?id=como-mapear-os-primeiros-contornos).
 
-Regras: 
+**Regras**: 
 - desenhe novos contornos a partir de demandas do público, interno ou externo.
 - minimize a criação de contornos que dependam de entregas recorrentes, previstas e necessárias (_handover_ ou _handoff_) de outros contornos que não estejam dentro de um mesmo contorno externo. Favoreça que as participantes dos contornos que possuem dependência possam ter um contexto próximo em comum - um contorno externo, favorecendo que participem de reuniões, decisões e tratamento de [impulsionadores](#impulsionadores) em conjunto. 
   - exemplo de dependência em contexto diferente e no mesmo contexto
