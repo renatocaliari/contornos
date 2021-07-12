@@ -199,7 +199,7 @@ Este atributo permite entender de forma rápida qual o escopo do contorno. Este 
 A definição do nome do escopo é determinada pelo contorno externo em decisão integrativa.
 
 ### Como identificar um contorno de forma exclusiva?
-Imagine que desejamos citar um contorno específico de "frontend" numa organização que já possui vários contornos "frontend" em outros contornos de "produto".
+Imagine que desejamos citar um contorno do escopo de "frontend" numa organização que já possui vários outros contornos do escopo "frontend".
 
 Para identificar de forma exclusiva, poderíamos:
   * usar o atributo [apelido](#apelido) que o contorno definiu.
