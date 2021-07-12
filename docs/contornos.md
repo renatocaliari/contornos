@@ -32,13 +32,13 @@ Crie contornos quando:
 - perceber alguns padrões recorrentes para potencializar eficácia e compreensão compartilhada.
 - desejar delegar parte das responsabilidades e elementos de controle exclusivo.
 
+[Veja opções para ajudar na criação de contornos](perguntas?id=como-mapear-os-primeiros-contornos).
+
 Regras: 
 - desenhe novos contornos a partir de demandas do público, interno ou externo.
 - minimize a criação de contornos que dependam de entregas recorrentes, previstas e necessárias (_handover_ ou _handoff_) de outros contornos que não estejam dentro de um mesmo contorno externo. Veja exemplo abaixo.
 
-![Imagem exemplificando Handover ou Handoff](./assets/handoffhandover.png ':size=400')
-
-[Veja opções para ajudar na criação de contornos](perguntas?id=como-mapear-os-primeiros-contornos).
+![Imagem exemplificando Handover ou Handoff](./assets/handoffhandover.png ':size=480')
 
 ## Como adaptar ou remover um contorno?
 A qualquer momento que alguém perceber que um contorno precisa, ou é desejável, ser adaptado, seja qual for o atributo, ou que não tem mais uma razão de existir, uma proposta pode ser feita para a realização dessa alteração ou remoção do contorno.
