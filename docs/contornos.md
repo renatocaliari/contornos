@@ -346,8 +346,8 @@ Cada contorno possui indicadores que podem ser compartilhados por mais de um con
 Apesar de indicadores raramente fornecerem respostas definitivas, eles promovem conversas e apoiam tomadas de decisão e adaptações usando uma base em comum.
 
 Indicadores podem ser do tipo **métrica** ou **confirmação** de prática recorrente. 
-  - possivelmente um contorno possuirá indicadores de métricas, decidido pelo contorno externo, para indicar sobre saúde e resultado do mesmo.
-  - e, se a estratégia também possui práticas recorrentes a serem realizadas, então provavelmente o próprio contorno definirá indicadores de **confirmação** para informar se uma prática recorrente foi realizada na recorrência esperada (ex: diariamente, semanalmente, mensalmente, etc).
+  - possivelmente um contorno possuirá indicadores do tipo **métricas**, decidido pelo contorno externo, para indicar sobre saúde e resultado do mesmo.
+  - e, se a estratégia também possui práticas recorrentes a serem realizadas, então provavelmente o próprio contorno definirá indicadores do tipo **confirmação** para informar se uma prática recorrente foi realizada na recorrência esperada (ex: diariamente, semanalmente, mensalmente, etc).
 
 Regras:
 - o contorno externo define por decisão integrativa os principais indicadores do contorno. Lembrando que a guardiã do contorno é participante do contorno externo.
