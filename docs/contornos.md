@@ -341,16 +341,17 @@ Crie e adapte novos acordos estruturais quando for necessário, conforme impulsi
 Acordos pessoais são relacionados às pessoas, como, por exemplo, comportamento e expectativas pessoais, não criando expectativas sobre estrutura.
 
 ## Indicadores de saúde e resultado
-Cada contorno possui indicadores, que podem ser compartilhados por mais de um contorno.
+Cada contorno possui indicadores que podem ser compartilhados por mais de um contorno.
 
 Apesar de indicadores raramente fornecerem respostas definitivas, eles promovem conversas e apoiam tomadas de decisão e adaptações usando uma base em comum.
 
 Indicadores podem ser do tipo **métrica** ou **confirmação** de prática recorrente. 
-  - possivelmente um contorno possuirá indicadores de métricas, seja qual for a estratégia tomada, para indicar sobre saúde e resultado do mesmo.
-  - e, se a estratégia também possui práticas recorrentes a serem realizadas, então provavelmente o contorno terá indicadores de **confirmação** para informar se uma prática recorrente foi realizada na recorrência esperada (ex: diariamente, semanalmente, mensalmente, etc).
+  - possivelmente um contorno possuirá indicadores de métricas, decidido pelo contorno externo, para indicar sobre saúde e resultado do mesmo.
+  - e, se a estratégia também possui práticas recorrentes a serem realizadas, então provavelmente o próprio contorno definirá indicadores de **confirmação** para informar se uma prática recorrente foi realizada na recorrência esperada (ex: diariamente, semanalmente, mensalmente, etc).
 
 Regras:
-- A escolha dos indicadores para um determinado contorno é feita através de decisão integrativa pelo contorno externo, no qual também tem como participante a guardiã do contorno que assumirá os indicadores. 
+- O contorno externo define por decisão integrativa os indicadores do contorno. Lembrando que a guardiã do contorno é participante do contorno externo.
+- O próprio contorno também pode adicionar indicadores do tipo métrica ou confirmação, relativos à sua estratégia. 
 - Os indicadores têm frequência de compartilhamento sobre atualização definida pelo contorno externo. A guardiã do contorno compartilha o último resultado dos indicadores na frequência acordada.
 
 
@@ -378,7 +379,7 @@ Categorias:
 | elementos de controle exclusivo | | x |
 | estratégia | x | |
 | processo | x | |
-| indicadores | | x |
+| indicadores | x (pode adicionar outros) | x (define os principais) |
 
 # Impulsionadores
 Impulsionadores é tudo aquilo que impulsiona o aprendizado ou adaptação da organização ou o apendizado e cuidado de pessoas.
