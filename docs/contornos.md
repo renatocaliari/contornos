@@ -385,8 +385,6 @@ Categorias:
 Impulsionadores é tudo aquilo que impulsiona o aprendizado ou adaptação da organização ou o apendizado e cuidado de pessoas.
 É esperado que os impulsionadores fluam continuamente.
 
-[Veja exemplos de uso de impulsionadores nos apps](apps#exemplos-de-casos-de-impulsionadores).
-
 Regras:
 - Qualquer participante de um contorno tem a responsabilidade de perceber e tratar impulsionadores relativos aos seus contornos ou à sua pessoa.
 - Registre os impulsionadores em alguma lista compartilhada para processamento. 
