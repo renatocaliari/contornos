@@ -370,16 +370,16 @@ Categorias:
 
 # Quem define cada atributo do contorno?
 
-| atributo | o próprio contorno | o contorno externo |
+| atributo | o contorno externo | o próprio contorno |
 | -- | -- | -- |
-| apelido | x | |
-| escopo | | x |
-| razão de existir | | x |
-| responsabilidades | | x |
-| elementos de controle exclusivo | | x |
-| estratégia | x | |
-| processo | x | |
-| indicadores | x (pode adicionar outros) | x (define os principais) |
+| apelido |  | ✔️ |
+| escopo | ✔️ |  |
+| razão de existir | ✔️ |  |
+| responsabilidades | ✔️ |  |
+| elementos de controle exclusivo | ✔️ |  |
+| estratégia | | ✔️ |
+| processo | | ✔️ |
+| indicadores | ✔️ (define os principais) | ✔️ (pode adicionar outros) |
 
 ## Exceção: maior contorno, a organização em si
 
