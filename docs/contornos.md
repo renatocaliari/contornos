@@ -475,7 +475,7 @@ Ao apresentar uma proposta para decisão integrativa, utilize esse processo:
   - se for uma objeção válida, a proponente deve adaptar a proposta para cuidar das objeções. e, em seguida, o processo volta para o estágio de **esclarecimento** mais acima, onde as pessoas poderão tirar dúvidas sobre as alterações e segue para próximos estágios: reações, ajustes e decisão integrativa.
 
 ### Decisão integrativa assíncrona
-A decisão integrativa pode ser realizada de forma assíncrona utiizando o app de [decisão integrativa assíncrona de proposta](apps/#decisão-integrativa-assíncrona-de-proposta).
+A decisão integrativa pode ser realizada de forma assíncrona utiizando o app de [decisão integrativa assíncrona de proposta](apps?id=decisão-integrativa-assíncrona-de-proposta).
 
 # Ação extraordinária
 É previsto que ocorram ações extraordinárias que violem estratégia, processo, elementos de controle exclusivo ou acordos.
