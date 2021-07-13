@@ -269,7 +269,7 @@ Regras:
 * capturar todas as etapas necessárias em um fluxo sem chegar no nível de prever pequenas tarefas. 
 * comece com a pergunta: qual a primeira coisa que é feito ou precisa ser feita quando uma demanda chega? E depois, pergunta: qual a próxima coisa? Continue com essa pergunta até responder a pergunta: o que precisa ser concluído para entregar o resultado?
 
-## recursos de controle exclusivo (’Como?’)
+## Recursos de controle exclusivo (’Como?’)
 Cada contorno pode ter recursos (material, digital ou conceitual) de controle exclusivo. Qualquer pessoa de outro contorno que deseje manipular esse recurso, precisará pedir pela ação desejada para as participantes do contorno que detém o controle exclusivo.
 
 Os contornos internos herdam os recursos de controle exclusivo do contorno externo.
