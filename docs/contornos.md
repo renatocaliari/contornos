@@ -15,12 +15,12 @@
 # Estrutura organizacional
 A estrutura organizacional é definida por contornos. As pessoas parceiras da organização trabalham orientadas por esses contornos, uma hierarquia de especificidade e não de pessoas. 
 
-O sistema começa com a máxima de que _“tudo é permitido desde que não seja explicitamente proibido”_ em algum [acordo](#acordos) contendo restrição ou definido como [elementos de controle exclusivo](#elementos-de-controle-exclusivo-como) de algum contorno em vez do inverso comum em muitas organizações de que _“tudo é proibido desde que seja explicitamente permitido”_. 
+O sistema começa com a máxima de que _“tudo é permitido desde que não seja explicitamente proibido”_ em algum [acordo](#acordos) contendo restrição ou definido como [recursos de controle exclusivo](#recursos-de-controle-exclusivo-como) de algum contorno em vez do inverso comum em muitas organizações de que _“tudo é proibido desde que seja explicitamente permitido”_. 
 
 [Veja um exemplo de uma estrutura de contornos nas Perguntas & Respostas](perguntas#exemplo-de-estrutura-de-contornos).
 
 # Contornos
-Contorno é um escopo delimitado por razão de existir, responsabilidades, elementos de controle exclusivo e acordos próprios.
+Contorno é um escopo delimitado por razão de existir, responsabilidades, recursos de controle exclusivo e acordos próprios.
 Ter um contorno definido evita decidir a todo momento o que é necessário fazer e quem fará algo.
 
 Cada contorno governa a sua própria estrutura, que pode ser alterada pela guardiã do contorno ou por decisão integrativa dependendo do contexto.
@@ -29,7 +29,7 @@ Uma pessoa pode estar em vários contornos e um contorno pode conter várias pes
 
 ## Quando criar novos contornos?
 
-Crie contornos quando perceber alguns padrões recorrentes para potencializar eficácia e compreensão compartilhada ou desejar delegar parte das responsabilidades e elementos de controle exclusivo. [Em Perguntas & Respostas, veja opções que podem ajudar no mapeamento de novos contornos](perguntas?id=como-mapear-os-primeiros-contornos).
+Crie contornos quando perceber alguns padrões recorrentes para potencializar eficácia e compreensão compartilhada ou desejar delegar parte das responsabilidades e recursos de controle exclusivo. [Em Perguntas & Respostas, veja opções que podem ajudar no mapeamento de novos contornos](perguntas?id=como-mapear-os-primeiros-contornos).
 
 Exemplos demonstrando contextos para criação de contornos: 
 - recorrentemente o contorno que você participa precisa realizar análise de dados de forma mais avançada. Por um tempo as participantes foram tentando se ajudar, cada hora uma fazendo, porém não era explícito quem tinha essa responsabilidade e quais outras responsabilidades poderiam existir. Então, devido a essa recorrência, alguém registrar um [impulsionador](#impulsionadores) pro contorno com uma proposta de criação de um contorno interno de "análise de dados", deixando explícito o que é esperado. E em seguida fazem uma proposta de alocação de uma pessoa como guardiã deste contorno. Daí em diante não precisarão mais decidir quem fará esse tipo de trabalho e quais responsabilidades são esperadas. 
@@ -57,7 +57,7 @@ Qualquer participante de um contorno possui essas **responsabilidades em comum**
 * perceber e tratar [impulsionadores](#impulsionadores) de seu contorno.
 * priorizar projetos e tarefas de acordo com a razão de existir e estratégia dos contornos em que participa. 
 * compartilhar qualquer informação relacionada ao seu contorno ー projetos, tarefas, etc ー quando alguém perguntar, exceto se algo for acordado como confidencial.
-* realizar o que for necessário para expressar a razão de existir e estratégia dos contornos em que participa, respeitando [acordos](#acordos), [estratégia](#estrat%C3%A9gia-como), [processo](#processo-como) e [elementos de controle exclusivo](#elementos-de-controle-exclusivo-como).
+* realizar o que for necessário para expressar a razão de existir e estratégia dos contornos em que participa, respeitando [acordos](#acordos), [estratégia](#estrat%C3%A9gia-como), [processo](#processo-como) e [recursos de controle exclusivo](#recursos-de-controle-exclusivo-como).
 * e, quando for necessário, realizar a responsabilidade acima também pelos contornos que **não** participa, levando em conta essas regras:
   * considere o contexto e informações disponíveis da estrutura atual e do risco ou oportunidade.
   * faça o melhor julgamento possível com o que tem à disposição. 
@@ -110,7 +110,7 @@ A guardiã não pode:
   * ter responsabilidades adicionadas. Para novas responsabilidades crie um contorno interno.
   * contratatar novas pessoas para a organização ou demitir pessoas. 
     * para resolver ambos os casos pode existir um [contorno especial](apps#contornos-especiais) para isso ou um [acordo estrutural](#acordos-estruturais) que determine como contratações e demissões serão feitas. Mas isso não é uma responsabilidade do papel estrutural Guardiã e nem está em sua autoridade.
-  * microgerenciar ou violar acordos ou elementos de controle exclusivo de outro contorno, inclusive contornos internos.
+  * microgerenciar ou violar acordos ou recursos de controle exclusivo de outro contorno, inclusive contornos internos.
   * exigir relatório detalhado **exclusivo** de alguém sobre tarefas.
     * se a intenção de alguma pessoa, incluindo quem está no papel estrutural de guardiã, é ter atualizações, informações específicas ou projeções de algo sob demanda, ela pode perguntar essas questões a qualquer pessoa diretamente.
     * se o contorno desejar, é possível criar um acordo estrutural sobre rituais de compartilhamento em grupo, seja em reuniões ou através de alguma ferramenta, determinando a frequência para ser realizado.
@@ -221,10 +221,10 @@ Regras:
 ## Responsabilidades (’Como?’)
 [Responsabilidades](perguntas#como-definir-as-responsabilidades-de-um-contorno) são acordos de expectativas sobre as principais ações recorrentes que as pessoas de um contorno cuidarão. Elas deixam explícitas quaisquer coisas que não são facilmente deduzidas ao ler a razão de existir.
 
-As pessoas têm autoridade para agir e fazer o que for necessário para expressar a razão de existir de um contorno, mesmo que algo não esteja listado nas responsabilidades, sem necessidade de aprovação de outras pessoas de fora de seu contorno, sendo necessário respeitar [acordos](#acordos), [estratégia](#estrat%C3%A9gia-como), [processo](#processo-como) e [elementos de controle exclusivo](#elementos-de-controle-exclusivo-como) de outros contornos.
+As pessoas têm autoridade para agir e fazer o que for necessário para expressar a razão de existir de um contorno, mesmo que algo não esteja listado nas responsabilidades, sem necessidade de aprovação de outras pessoas de fora de seu contorno, sendo necessário respeitar [acordos](#acordos), [estratégia](#estrat%C3%A9gia-como), [processo](#processo-como) e [recursos de controle exclusivo](#recursos-de-controle-exclusivo-como) de outros contornos.
 
 É importante saber que, intencionalmente, as responsabilidades **não impedem que outros contornos realizem algo descrito nas responsabilidades**.
-Para impedir que isso ocorra é necessário criar um [acordo](#acordos) estrutural que impeça que outros contornos façam algo ou atribuir [elementos de controle exclusivo](#elementos-de-controle-exclusivo-como) ao próprio contorno.
+Para impedir que isso ocorra é necessário criar um [acordo](#acordos) estrutural que impeça que outros contornos façam algo ou atribuir [recursos de controle exclusivo](#recursos-de-controle-exclusivo-como) ao próprio contorno.
 
 As responsabilidades de um contorno são decididas pelo contorno externo através de decisão integrativa.
 
@@ -269,19 +269,19 @@ Regras:
 * capturar todas as etapas necessárias em um fluxo sem chegar no nível de prever pequenas tarefas. 
 * comece com a pergunta: qual a primeira coisa que é feito ou precisa ser feita quando uma demanda chega? E depois, pergunta: qual a próxima coisa? Continue com essa pergunta até responder a pergunta: o que precisa ser concluído para entregar o resultado?
 
-## Elementos de controle exclusivo (’Como?’)
-Cada contorno pode ter elementos (material, digital ou conceitual) de controle exclusivo. Qualquer pessoa de outro contorno que deseje manipular esse elemento, precisará pedir pela ação desejada para as participantes do contorno que detém o controle exclusivo.
+## recursos de controle exclusivo (’Como?’)
+Cada contorno pode ter recursos (material, digital ou conceitual) de controle exclusivo. Qualquer pessoa de outro contorno que deseje manipular esse recurso, precisará pedir pela ação desejada para as participantes do contorno que detém o controle exclusivo.
 
-Os contornos internos herdam os elementos de controle exclusivo do contorno externo.
+Os contornos internos herdam os recursos de controle exclusivo do contorno externo.
 
-É importante lembrar que nenhuma pessoa da organização detém controle sobre os elementos e sim o próprio contorno em que ela faz parte. Se em algum momento ela deixa o contorno, ela perde o controle exclusivo do elemento.
+É importante lembrar que nenhuma pessoa da organização detém controle sobre os recursos e sim o próprio contorno em que ela faz parte. Se em algum momento ela deixa o contorno, ela perde o controle exclusivo do recurso.
 
-Para algum contorno ter controle exclusivo sobre algum elemento é necessário [decisão integrativa](#decis%C3%A3o-integrativa) pelo contorno externo.
+Para algum contorno ter controle exclusivo sobre algum recurso é necessário [decisão integrativa](#decis%C3%A3o-integrativa) pelo contorno externo.
 
-Se um contorno tem controle exclusivo sobre elementos da organização como um todo (ex: processo de contratação ou ferramentas oficiais), ele pode tomar decisões sem necessidade de decisão integrativa dos contornos impactados. Porém, é recomendado pedir reações sobre possíveis mudanças quando algo impactar muitos contornos ou quando existir um grande risco.
+Se um contorno tem controle exclusivo sobre recursos da organização como um todo (ex: processo de contratação ou ferramentas oficiais), ele pode tomar decisões sem necessidade de decisão integrativa dos contornos impactados. Porém, é recomendado pedir reações sobre possíveis mudanças quando algo impactar muitos contornos ou quando existir um grande risco.
 
 Regra simples:
-- favorecer para que os elementos de controle exclusivo pertençam aos contornos que possuam as responsabilidades de cuidar e utilizar os elementos. 
+- favorecer para que os recursos de controle exclusivo pertençam aos contornos que possuam as responsabilidades de cuidar e utilizar os recursos. 
 
 ## Projetos (’O quê?’)
 É sugerido que todo contorno tenha seu próprio quadro de projetos onde possa dar visibilidade do progresso de seus projetos.
@@ -304,7 +304,7 @@ Pergunta que a guardiã pode fazer à quem fez o pedido:
 - O que você precisa?
 
 Perguntas que a guardiã pode fazer a si mesma:
-- Isto está dentro de algum contorno que faço parte ー razão de existir, responsabilidades ou elementos de controle exclusivo? Qual? 
+- Isto está dentro de algum contorno que faço parte ー razão de existir, responsabilidades ou recursos de controle exclusivo? Qual? 
   - Caso esteja, a guardiã registrará o projeto ou tarefa em uma lista, acessível a outras pessoas. 
     - Caso tenha alguma objeção com o pedido, ela deve tratar com a pessoa que solicitou para tentarem integrar a objeção e por fim acordarem se será ou não realizado.
   - Caso não esteja, a guardiã pergunta a si mesma e à outra pessoa: 
@@ -326,7 +326,7 @@ Regras:
 * Acordos são realizados para definir expectativas estruturais ou pessoais a serem cumpridas.
 * Um acordo deve ser criado apenas com [decisão integrativa](#decis%C3%A3o-integrativa) entre as participantes do contorno.
 * Os acordos só podem restringir ou criar expectativas dentro do seu próprio contorno e contornos internos desde que não viole o controle exclusivo de outros contornos externos.
-* Se uma proposta de acordo também está relacionada à razão de existir, responsabilidades, estratégia, processo ou elementos de controle exclusivo de outros contornos externos ao contorno atual, é indicado que exista uma avaliação da proposta com as guardiãs desses outros contornos e seja feita uma decisão integrativa com elas. 
+* Se uma proposta de acordo também está relacionada à razão de existir, responsabilidades, estratégia, processo ou recursos de controle exclusivo de outros contornos externos ao contorno atual, é indicado que exista uma avaliação da proposta com as guardiãs desses outros contornos e seja feita uma decisão integrativa com elas. 
 
 **Tempo para reavaliação**
 
@@ -381,7 +381,7 @@ Categorias:
 | escopo | ✔️ |  |
 | razão de existir | ✔️ |  |
 | responsabilidades | ✔️ |  |
-| elementos de controle exclusivo | ✔️ |  |
+| recursos de controle exclusivo | ✔️ |  |
 | estratégia | | ✔️ |
 | processo | | ✔️ |
 | indicadores | ✔️ (define os principais) | ✔️ (pode adicionar outros) |
@@ -479,7 +479,7 @@ Ao apresentar uma proposta para decisão integrativa, utilize esse processo:
 A decisão integrativa pode ser realizada de forma assíncrona utiizando o app de [decisão integrativa assíncrona de proposta](apps?id=decisão-integrativa-assíncrona-de-proposta).
 
 # Ação extraordinária
-É previsto que ocorram ações extraordinárias que violem estratégia, processo, elementos de controle exclusivo ou acordos.
+É previsto que ocorram ações extraordinárias que violem estratégia, processo, recursos de controle exclusivo ou acordos.
 
 Essas ações atendem a duas necessidades:
 * prevenir ou mitigar impactos negativos ou atender uma oportunidade crítica.
