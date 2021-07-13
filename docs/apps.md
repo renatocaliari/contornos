@@ -122,7 +122,7 @@ Caso o contorno que oferecerá uma representante já tenha uma representante nom
 - definir financiamentos e empréstimos da organização
 - definir programa, compra e venda de opções de compra de ações ou ações da organização
 
-**Elementos de controle exclusivo:**
+**Recursos de controle exclusivo:**
 - estratégia da organização
 - investimentos de empresas ou pessoas terceiras na organização
 - financiamentos e empréstimos da organização
@@ -131,7 +131,7 @@ Caso o contorno que oferecerá uma representante já tenha uma representante nom
 **Acordo estrutural interno:**
 - todas decisões tomadas no contorno serão por decisão integrativa.
 - o contorno Norte terá o [papel estrutural Sinapse](apps#papel-estrutural-de-sinapse), com 4 pessoas sorteadas da organização.
-- a guardiã do maior contorno, a organização em si, deixa de ter a estratégia da organização como um elemento exclusivo de controle.
+- a guardiã do maior contorno, a organização em si, deixa de ter a estratégia da organização como um recurso exclusivo de controle.
 - a guardiã do maior contorno, a organização em si, e a guardiã do contorno "Norte" delegam a responsabilidade de definir a estratégia da organização para as participantes do contorno "Norte".
 
 **Definir:**
@@ -142,7 +142,7 @@ Caso o contorno que oferecerá uma representante já tenha uma representante nom
 **Razão de existir:** 
 - cuidar de contratações, encerramentos de contratos e mudanças de salário.
 
-**Elementos de controle exclusivo:**
+**Recursos de controle exclusivo:**
 - contratações
 - encerramentos de contrato
 - alteração de salário
@@ -164,7 +164,7 @@ Caso o contorno que oferecerá uma representante já tenha uma representante nom
 - apoiar na estruturação de experimentos organizacionais e na continuidade de experimentos
 - estruturar aprendizado adquirido e compartilhar com a organização
 
-**Elementos de controle exclusivo:**
+**Recursos de controle exclusivo:**
 - definição de artefatos utilizados pela organização inteira
 
 **Acordo estrutural interno:**
