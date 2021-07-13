@@ -143,19 +143,19 @@ De forma simplista e limitada, é possível tentar comparar antes e depois:
   - alternativa como exemplo: usar o [Mapa Tentaculus](https://medium.com/tentaculus/mapear-oportunidades-organizacoes-ad66f1b9a913) ou o [OS Canvas](https://medium.com/the-ready/the-operating-system-canvas-420b8b4df062), perguntando para cada aspecto o que tem funcionado bem e o que não tem funcionado bem.
 
 ## Como definir as responsabilidades de um contorno?
-- Não coloque expectativas de comportamento em responsabilidades. Para isso veja sobre [acordos pessoais](https://github.com/renatoac/contornos/wiki#492-acordos-pessoais).
+- Não coloque expectativas de comportamento em responsabilidades. Para isso veja sobre [acordos pessoais](contornos#acordos-pessoais).
 - Evite responsabilidades que são esperadas de qualquer pessoa da organização.
 - Comece com verbo no infinitivo: Corrigir, Definir, Realizar, etc.
 - Explicite e especifique o que é ambíguo
 - Na responsabilidade descreva qual é a participação **ativa** em uma atividade.
 
 **Evite esses verbos:**
-* Aprovar → não use esse verbo ou espere esse tipo de responsabilidade. Responsabilidades não limitam outros contornos. Se deseja limitar o tipo de interação com qualquer artefato organizacional, então utilize-se de [elementos de controle exclusivo](https://github.com/renatoac/contornos/wiki#47-elementos-de-controle-exclusivo-como), [processo](https://github.com/renatoac/contornos/wiki#46-processo-como) ou [acordos estruturais](https://github.com/renatoac/contornos/wiki#491-acordos-estruturais).
+* Aprovar → não use esse verbo ou espere esse tipo de responsabilidade. Responsabilidades não limitam outros contornos. Se deseja limitar o tipo de interação com qualquer artefato organizacional, então utilize-se de [recursos de controle exclusivo](contornos#recursos-de-controle-exclusivo-como), [processo](contornos#processo-como) ou [acordos estruturais](contornos#acordos-estruturais).
 * Alinhar → alinhamento é ambíguo. O que é esperado com o alinhamento? Se aconselhar ou aconselhar alguém? Consultar? Compartilhar informação?
 * Colaborar / Responder pessoas (ou mensagens de pessoas) → já é esperado que elas colaborem e se comuniquem. O que mais é esperado especificamente na colaboração?
 * Garantir / Assegurar → em vez disso explicite como deseja garantir ou assegurar algo para chegar em algo mais específico e prático?
 * Reunir → descubra o que a reunião deseja resolver ou decidir e quais as responsabilidades específicas nisso.
-* Gerenciar pessoas → responsabilidades não podem prever esse tipo de autoridade e poder. O que deseja com gerenciar? Aconselhar, mentorar, treinar? Veja mais sobre [contornos especiais em Apps](https://github.com/renatoac/contornos/wiki/Apps#contornos-especiais).
+* Gerenciar pessoas → responsabilidades não podem prever esse tipo de autoridade e poder. O que deseja com gerenciar? Aconselhar, mentorar, treinar? Veja mais sobre [contornos especiais em Apps](apps#contornos-especiais).
 
 ## As pessoas precisam ter prévia maturidade para atuar em um sistema assim?
 Essa pergunta em geral vem ao menos de duas premissas de quem pergunta:
@@ -166,7 +166,7 @@ Essa pergunta em geral vem ao menos de duas premissas de quem pergunta:
    - observações:
      - as pessoas já tomam diversas decisões em sua vida: com quem se relacionar, qual casa ou carro comprar (e se desejam comprar), entrar ou sair de uma empresa, como se alimentar, etc. Podemos voltar a incluí-las nas decisões que afetam seus trabalhos e vida. 
      - falado isso acima, é importante lembrar que ainda assim há pessoas que não querem ter a responsabilidade da decisão, preferem terceirizar decisões que impactam seu escopo e ter menos 'accountability' por isso. Então, é uma decisão que precisarão tomar: desejamos qual perfil de pessoa?
-     -  e, como qualquer outro sistema, jogo e regras, nem todas as pessoas terão preferência por ele ou desejarão apoiar esse sistema. Aqui cabe uma [decisão de como seguir em frente](https://github.com/renatoac/contornos/wiki/Perguntas-&-Respostas#como-iniciar-com-o-sistema-contornos).  
+     -  e, como qualquer outro sistema, jogo e regras, nem todas as pessoas terão preferência por ele ou desejarão apoiar esse sistema. Aqui cabe uma [decisão de como seguir em frente](perguntas#como-iniciar-com-o-sistema-contornos).  
 
 ## Como contratar pessoas que desejam um título e poder de chefe, diretor, líder ou de C-level?
 - Primeiro, se questionem: desejam pessoas em busca de título ou pessoas dispostas e engajadas em resolver os desafios de um determinado escopo?
@@ -184,7 +184,7 @@ Crie um acordo estrutural no contorno, informando que todas decisões serão tom
 ## O que faço se me sentir insegura para tomar uma decisão, mesmo sabendo que o contorno que participo tem autoridade para a decisão?
 A qualquer momento você pode se aconselhar com as pessoas que parecem ter conhecimento sobre o assunto ou que mais se engajam com o assunto.
 
-Leia sobre [impulsionadores](https://github.com/renatoac/contornos/wiki#6-impulsionadores).
+Leia sobre [impulsionadores](contornos#impulsionadores).
 
 ## O que faço se alguma pessoa me mandar fazer algo?
 Lembre-a dos seus contornos e que neles constam sobre o que você tem responsabilidade e autoridade para decidir, e sua autonomia em  priorizar conforme a estratégia do contorno. 
