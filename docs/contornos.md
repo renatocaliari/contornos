@@ -251,8 +251,6 @@ Quando uma estratégia é alterada, é necessário rever os indicadores para que
 
 A partir daí priorize os projetos que estejam alinhados à nova estratégia. 
 
-O sistema [Contornos] não prevê ou recomenda o uso de metas, por [todos os perigos que elas trazem](https://medium.com/tentaculus/metas-funcoes-perigos-e-alternativas-532a2801ca02), sendo ele mesmo uma alternativa pela sua própria estrutura e dinâmica. Ao mesmo tempo, caso deseje se arriscar, é possível utilizar o atributo estratégia para contemplar metas.
-
 ## Processo (’Como?’)
 ![processo](assets/processo.png)
 
