@@ -265,7 +265,7 @@ Regras:
 * o mapeamento do processo é de responsabilidade da guardiã, consultando pessoas envolvidas no processo. 
 * é necessário [decisão integrativa](#decis%C3%A3o-integrativa) para utilizá-lo no contorno.
 * capturar todas as etapas necessárias em um fluxo sem chegar no nível de prever pequenas tarefas. 
-* comece com a pergunta: qual a primeira coisa que é feito ou precisa ser feita quando uma demanda chega? E depois, pergunta: qual a próxima coisa? Continue com essa pergunta até responder a pergunta: o que precisa ser concluído para entregar o resultado?
+* comece com a pergunta: qual a primeira coisa que é feita ou precisa ser feita quando uma demanda chega? E depois, pergunta: qual a próxima coisa? Continue com essa pergunta até responder a pergunta: o que precisa ser concluído para entregar o resultado?
 
 ## Recursos de controle exclusivo (’Como?’)
 Cada contorno pode ter recursos (material, digital ou conceitual) de controle exclusivo. Qualquer pessoa de outro contorno que deseje manipular esse recurso, precisará pedir pela ação desejada para as participantes do contorno que detém o controle exclusivo.
@@ -296,7 +296,7 @@ Regras:
 * Não é necessário perguntar se a pessoa quer, tem tempo ou acha importante, e nem se preocupar se está incomodando ao fazer um pedido. O contorno já prevê essas responsabilidades. A pessoa que está como guardiã, está nesse papel para servir. Ela não está fazendo um favor, mas apenas o trabalho combinado.
 * A guardiã do contorno que receber o pedido buscará entender melhor a necessidade e se isso é do escopo do seu contorno.
 * A guardiã do contorno para qual foi feito o pedido tem autoridade para priorizar o projeto ou tarefa da forma que lhe convier, **levando em conta a estratégia de seu contorno**, não tendo o dever de priorizar por vontade ou critério de uma pessoa externa. Ao mesmo tempo, é esperado que exista uma negociação e influência entre as pessoas sobre esses aspectos.
-* A guardiã não tem o dever de dar ou informar alguma data de entrega específica, e sim, caso perguntada, apenas uma projeção, pois a priorização dos projetos e tarefas é dinâmica, conforme o contexto. Uma exceção pode existir caso se crie algum acordo estrutural que defina um processo diferente.
+* A guardiã não tem o dever de dar ou informar alguma data de entrega específica, e sim, caso perguntada, apenas uma projeção, pois a priorização dos projetos e tarefas é dinâmica, conforme o contexto. Uma exceção pode existir caso a própria guardiã combine algo com data de entrega específica ou caso exista algum acordo estrutural que defina um processo diferente.
 
 Pergunta que a guardiã pode fazer à quem fez o pedido:
 - O que você precisa?
@@ -307,7 +307,8 @@ Perguntas que a guardiã pode fazer a si mesma:
     - Caso tenha alguma objeção com o pedido, ela deve tratar com a pessoa que solicitou para tentarem integrar a objeção e por fim acordarem se será ou não realizado.
   - Caso não esteja, a guardiã pergunta a si mesma e à outra pessoa: 
     - Atualmente qual contorno tem esse escopo? 
-    - Caso exista um contorno responsável, a pessoa que fez o pedido deve levá-lo a esse contorno. Caso contrário, a própria pessoa que criou o pedido pode tentar processar o impulsionador de pedido. 
+      - Caso exista um contorno responsável, a pessoa que fez o pedido deve levá-lo a esse contorno. 
+      - Caso contrário, a própria pessoa que criou o pedido pode tentar processar o impulsionador de pedido e/ou convidar pessoas que considere importantes para ajudar na resolução do impulsionador. 
 
 ## Acordos
 Acordos são limites intencionais que potencializam criação de valor e direcionam decisões e ações futuras.
