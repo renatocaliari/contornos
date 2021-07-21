@@ -114,6 +114,7 @@ Alguns livros:
 - [Going Horizontal Game](https://goinghorizontal.co/game/): The card game that invites us to explore horizontal leadership through real life stories
 - [NOBL Academy](https://academy.nobl.io/category/tools/) is our library of tools, case studies, essays, and trainings designed to help you make your culture a competitive advantage
 - [Facilitation Toolbox Board](https://trello.com/b/oC3oBEvY/facilitation-toolbox)
+- [Open Practice Library](https://openpracticelibrary.com/)
 - [Collaboration Superpowers](https://www.collaborationsuperpowers.com/tools/) — Tools for remote teams
 - [A TOOLKIT FOR VIRTUAL COMMUNITY BUILDERS](https://communitiesforimpact.org/)
 - [Resources for decentralised organising](https://hackmd.io/@yHk1snI9T9SNpiFu2o17oA/Skh_dXNbE?type=view#): a mega list of handbooks and toolkits for groups working without top-down management from social movements to workplaces open source for anyone to read, update, share
