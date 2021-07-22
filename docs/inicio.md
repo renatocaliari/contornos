@@ -32,5 +32,3 @@ Pense nisso como um sistema operacional enxuto 'open-source' (código aberto), q
 
 ### Contato e fase experimental
 Até então, este sistema é desenvolvido e mantido por [Cali (Renato Caliari)](https://www.linkedin.com/in/renatocaliari/). Você pode entrar em contato pelo site: [renatocaliari.com](https://renatocaliari.com/). 
-
-O sistema está em constante adaptação e refinamento nessa fase experimental. 
