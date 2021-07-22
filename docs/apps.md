@@ -227,10 +227,7 @@ Processo:
 - faça quantas rodadas forem necessárias. 
  
 ### Reuniões e Cerimônias
-
-[Em desenvolvimento]
-
-Aproveite para consultar: [Referências sobre formatos de reuniões e modelos possíveis de usar para reuniões de contornos](referências#refer%c3%aancias-sobre-formatos-de-reuni%c3%b5es-e-modelos-poss%c3%adveis-de-usar-para-reuni%c3%b5es-de-contornos)
+Se inspire aqui: [Referências sobre formatos de reuniões e modelos possíveis de usar para reuniões de contornos](referências#refer%c3%aancias-sobre-formatos-de-reuni%c3%b5es-e-modelos-poss%c3%adveis-de-usar-para-reuni%c3%b5es-de-contornos)
 
 ### Manual da pessoa
 Esse app prevê que cada pessoa preencha seu próprio manual baseada nos itens a seguir.
