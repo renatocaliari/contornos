@@ -29,10 +29,10 @@ Faça uma decisão integrativa no contorno que deseja utilizar e importe-o nos a
   * [Contorno Mediação de conflitos](#contorno-media%C3%A7%C3%A3o-de-conflitos)
   * [Contorno Escuta](#contorno-escuta)
 - [Decisão integrativa assíncrona de proposta](#decisão-integrativa-assíncrona-de-proposta)
+- [Reuniões e Cerimônias](#reuniões-e-cerimônias)
 - [Colaboração & Comunicação](#colabora%C3%A7%C3%A3o-comunica%C3%A7%C3%A3o)
   - [Declarar intenção](#declarar-inten%C3%A7%C3%A3o)
   - [Rodadas de fala](#rodadas-de-fala)
-- [Reuniões e Cerimônias](#reuniões-e-cerimônias)
 - [Manual da pessoa](#manual-da-pessoa)
 - [Cuidar das pessoas](#cuidar-das-pessoas) 
 - [Tipo de energia em contorno](#tipo-de-energia-em-contorno)
@@ -216,19 +216,19 @@ Para conseguir fluidez no processo assíncrono de decisão integrativa:
        * 70% de pessoas do contorno precisam declarar que não possuem objeção, desde que 70% equivalha no mínimo a 5 pessoas. 
        * caso contrário, é necessária a participação de 100% das pessoas nessa etapa e a proposta fica aguardando até vencer os 30 dias.
 
+## Reuniões e Cerimônias
+Se inspire aqui: [Referências sobre formatos de reuniões e modelos possíveis de usar para reuniões de contornos](referências#refer%c3%aancias-sobre-formatos-de-reuni%c3%b5es-e-modelos-poss%c3%adveis-de-usar-para-reuni%c3%b5es-de-contornos)
+
 ## Colaboração & Comunicação
 
 ### Rodadas de fala
 Utilize rodadas de fala para oferecer maior equivalência ao grupo e evitar que pessoas mais extrovertidas ou influentes tenham mais poder, ou tempo de fala.
 
 Processo:
-- em sentido horário (ou anti-horário), uma pessoa fala por vez. caso a conversa síncrona seja através de uma ferramenta digital, é possível criar uma lista compartilhada das pessoas participantes, em qualquer ordem, e seguir essa lista.
-- é indicado utilizar um tempo máximo acordado para cada pessoa falar. se alguém tiver mais algo para falar, pode esperar a próxima rodada.
-- faça quantas rodadas forem necessárias. 
+* em sentido horário (ou anti-horário), uma pessoa fala por vez. caso a conversa síncrona seja através de uma ferramenta digital, é possível criar uma lista compartilhada das pessoas participantes, em qualquer ordem, e seguir essa lista.
+* é indicado utilizar um tempo máximo acordado para cada pessoa falar. se alguém tiver mais algo para falar, pode esperar a próxima rodada.
+* faça quantas rodadas forem necessárias. 
  
-### Reuniões e Cerimônias
-Se inspire aqui: [Referências sobre formatos de reuniões e modelos possíveis de usar para reuniões de contornos](referências#refer%c3%aancias-sobre-formatos-de-reuni%c3%b5es-e-modelos-poss%c3%adveis-de-usar-para-reuni%c3%b5es-de-contornos)
-
 ### Manual da pessoa
 Esse app prevê que cada pessoa preencha seu próprio manual baseada nos itens a seguir.
 Modelo inspirado e adaptado [daqui](https://medium.com/manuelkublbock/user-manual-3e93277ea4d1). 
