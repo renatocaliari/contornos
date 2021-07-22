@@ -122,9 +122,9 @@ Exemplo:
   - Parcerias
   - Intenção A de cliente (exemplo: "Aprender tecnologia")
     - Modelagem de iniciativas
-    - Experiência de serviço e produto
+    - Desenho da experiência de produto/serviço
     - Desenvolvimento
-      - Design
+      - Interface gráfica/física
       - Implementação
   - Intenção B de cliente (exemplo: "Conectar com profissionais do mercado de trabalho")
     - [contornos internos]
