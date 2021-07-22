@@ -81,22 +81,22 @@ Além desses dois papéis estruturais, é possível instalar [papéis estruturai
   * _todas responsabilidades gerais de participantes de contorno_.
   * _todas responsabilidades do próprio contorno_ que não estejam delegadas a contornos internos.
   * trazer informações do contorno externo para todas participantes do seu contorno.
-  * tomar ação sobre contornos sem participantes: convidar pessoas para eles ou remover o contorno, com decisão integrativa.
   * agir sobre [impulsionadores](contornos?id=impulsionadores) sem andamento em seu contorno.
   * propôr estratégia do contorno, precisando de decisão integrativa.
   * propôr processo do contorno, precisando de decisão integrativa.
   * propôr pessoas para apoiar o contorno.
+  * tomar ação sobre contornos internos diretos sem participantes: convidar pessoas para eles ou remover o contorno, com decisão integrativa.
   * compartilhar indicadores com o contorno externo, na frequência sugerida pelo contorno externo.
   * compartilhar sobre o progresso dos projetos com o contorno externo, na frequência sugerida pelo contorno externo, informando como isso se conecta à estratégia e propósito do contorno externo.
 
 #### Responsabilidades da guardiã do maior contorno, a organização em si
   * _todas responsabilidades gerais de participantes de contorno_.
   * _todas responsabilidades do próprio contorno_ que não estejam delegadas a contornos internos.
-  * tomar ação sobre contornos sem participantes: convidar pessoas para eles ou remover o contorno, com decisão integrativa.
   * agir sobre [impulsionadores](contornos?id=impulsionadores) sem andamento em seu contorno.
   * propôr estratégia do contorno, precisando de decisão integrativa.
   * propôr processo do contorno, precisando de decisão integrativa.
   * propôr pessoas para apoiar o contorno.
+  * tomar ação sobre contornos internos diretos sem participantes: convidar pessoas para eles ou remover o contorno, com decisão integrativa.
   * compartilhar indicadores com a organização, na frequência definida com participantes do maior contorno.
   * compartilhar sobre o progresso dos projetos com a organização, na frequência definida com participantes do maior contorno.
 
@@ -106,8 +106,8 @@ Além desses dois papéis estruturais, é possível instalar [papéis estruturai
 É possível delegar responsabilidades da guardiã a outros contornos internos por decisão integrativa e registrado como "responsabilidade delegada do papel estrutural Guardiã", para que quando estiver no processo de remoção, lembrem de resgatar a responsabilidade para o papel estrutural Guardiã.
 
 #### Restrições do papel estrutural Guardiã
-A guardiã não pode:
-  * ter responsabilidades adicionadas. Para novas responsabilidades crie um contorno interno.
+A guardiã não tem autoridade para:
+  * adicionar novas responsabilidades no seu papel.
   * contratatar novas pessoas para a organização ou demitir pessoas. 
     * para resolver ambos os casos pode existir um [contorno especial](apps#contornos-especiais) para isso ou um [acordo estrutural](#acordos-estruturais) que determine como contratações e demissões serão feitas. Mas isso não é uma responsabilidade do papel estrutural Guardiã e nem está em sua autoridade.
   * microgerenciar ou violar acordos ou recursos de controle exclusivo de outro contorno, inclusive contornos internos.
