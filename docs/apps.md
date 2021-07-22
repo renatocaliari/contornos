@@ -85,7 +85,7 @@ Caso o contorno que oferecerá uma representante já tenha uma representante nom
 
 ### Papel estrutural de Sinapse
 #### Razão de existir
-  * oferecer perspectivas de várias partes da organização para tomada de decisões de forma integrativa sobre questões que impactem diretamente múltiplos contornos ou pessoas da organização.
+  * oferecer perspectivas de várias partes da organização para tomada de decisões de forma integrativa sobre questões que impactem diretamente múltiplos contornos ou pessoas da organização, além de trazer o olhar fresco desssas pessoas com questionamentos importantes sobre o status-quo.
 
 #### Tempo de mandato para novo sorteio
   * 4 meses
