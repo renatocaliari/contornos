@@ -101,7 +101,7 @@ Existem inúmeras possibilidades. Não existe receita de bolo ou algo universal.
 
 Para fins ilustrativos, a possibilidade abaixo mostra uma mistura de contornos de suporte da organização como um todo com contornos por intenção* do púbico que o negócio atende delimitado dentro do contorno de produtos/serviços, tendo também contornos de especialização internamente. 
 
-É possível diversas outras alternativas, como por exemplo, ter alguns contornos que abaixo estão dentro de produto/serviço - atendimento, vendas & marketing, pesquisa, etc - dentro de cada contorno de intenção, caso seja útil e mais eficiente, dependendo da escala da organização.
+É possível diversas outras alternativas, como por exemplo, alguns contornos do exemplo abaixo que estão dentro de produto/serviço - atendimento, vendas & marketing, pesquisa, etc - poderiam estar dentro de cada contorno de intenção, caso seja útil e mais eficiente, dependendo da escala da organização.
 
 *Intenção pode ser entendida como um job de Jobs To Be Done, propósito de Fit For Purpose, padrões de torres ou agrupamento de torres do diagrama Mental Model da Indi Young, etc.
 
