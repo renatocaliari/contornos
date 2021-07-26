@@ -34,17 +34,47 @@ A partir disso a organização começa a se adaptar por ter um sistema preparado
 Pode iniciar com um novo desenho organizacional. 
 
 ### Por onde começar?
-#### Em uma spin-off (derivagem)
-É possível iniciar [Contornos] com um grupo derivado da organização principal.
+#### No maior nível hierárquico da organização
+É possível iniciar [Contornos] diretamente no maior nível hierárquico da organização.
 1. Siga os [passos para 'implementar'](#passos-para-implementar) apenas com esse grupo.
+2. Se deseja que outros grupos da organização utilize o sistema, compartilhe a experiência - falhas, acertos, desafios e benefícios - com a organização inteira. 
+3. Convide subgrupos para experimentar. Os subgrupos que demonstrarem interesse, siga os [passos para 'implementar'](#passos-para-implementar).
+4. Compartilhe a experiência desses subgrupos com a organização;
+5. Volte ao passo 3.
+6. Em algum momento, decida se deseja implementar na [organização inteira](#na-organização-inteira).
+
+#### Em uma spin-off (nova estrutura derivada da estrutura principal)
+É possível iniciar [Contornos] em uma nova estrutura derivada da estrutura principal da organização.
+1. Siga os [passos para 'implementar'](#passos-para-implementar) apenas com esse grupo.
+2. Continue convidando grupos e pessoas da estrutura principal e estruturando novos contornos nessa derigavem, substituindo o escopo na estrutura principal, até que a nova estrutura se torne a principal. 
 
 #### Em um grupo local
 Se você deseja implementar apenas em um grupo local da organização:
 1. Siga os [passos para 'implementar'](#passos-para-implementar) apenas nesse grupo local.
-2. Caso, o grupo tenha subtimes atualmente e desejam usar o sistema neles também, siga os passos do tópico sobre como implementar na [organização inteira](#na-organização-inteira), porém foque apenas do grupo atual para dentro, nos subtimes.
+2. Caso, o grupo tenha subtimes atualmente e desejam usar o sistema neles, siga os passos do tópico sobre como implementar na [organização inteira](#na-organização-inteira), porém foque apenas do grupo atual para dentro, nos subtimes.
 
-#### Na organização inteira
-* **todas as pessoas à bordo sobre o que irá acontecer e 80% confirmando próximo passo**
+Abaixo estão  algumas possibilidades de grupos locais.
+
+* **iniciando por grupos que atendem público externo**
+1. Obtenha a aprovação da pessoa na liderança do nível mais alto da hierarquia. 
+2. Convide um time que tenha o contato mais direto com o público externo: atendimento, desenvolvimento de produto, vendas, etc.
+3. Siga os [passos para 'implementar'](#passos-para-implementar).
+4. Depois de um tempo de prática, inicie o uso do sistema nos contornos internos diretos. 
+5. Desdobre para outros contornos mais internos.
+6. Inicie por outras áreas da organização.
+
+* **iniciando por grupos que atendem público interno**
+1. Obtenha a aprovação da pessoa na liderança do nível mais alto da hierarquia. 
+2. Convide um time que atenda pessoas e times internos.
+3. Siga os [passos para 'implementar'](#passos-para-implementar).
+4. Depois de um tempo de prática, inicie o uso do sistema nos contornos internos diretos. 
+5. Desdobre para outros contornos mais internos.
+6. Inicie por outras áreas da organização.
+
+
+#### Na organização inteira - todas as pessoas à bordo sobre o que irá acontecer e 80% confirmando próximo passo
+Ao desejar de antemão 'implementar' na organização inteira de forma convidativa e tendo um acordo, pode experimentar os passos abaixo.
+
 1. Obtenha a aprovação da pessoa na liderança do nível mais alto da hierarquia.
 2. Convide a camada mais alta da hierarquia.
 3. Siga os [passos para 'implementar'](#passos-para-implementar) com esse grupo.
@@ -67,22 +97,6 @@ Se você deseja implementar apenas em um grupo local da organização:
 | Se aprovação igual ou acima de 80% na segunda rodada | Se não tiver aprovação por ao menos 80% das pessoas |
 | --- | --- |
 | 10. Celebrar com toda a organização um passo importante que tomarão. Lembrar que não será fácil e nem rápido, mas será possível com o apoio das pessoas.<br />11. Reconhecer as preocupações das pessoas que votaram "não" na segunda rodada, e não optaram por sair, e dizer que elas serão inclusas no processo para trazer feedback.<br />12. Crie um contorno de "Sistema Organizacional".<br />13. Determine quem será a guardiã do contorno "Sistema Organizacional" durante o período de 3 meses. Após isso, façam um novo processo de nomeação.<br />14. Pedir para as pessoas que tinham votado "não" e desejarem se identificar, para  escolherem 2 representantes.<br />  - as representante serão consultadas periodicamente para ajudar a mitigar riscos nos 3 primeiros meses, trazerem seus pontos de vista e até ajudarem a fazer o papel de advogado do diabo nas discussões sobre o andamento do experimento com o novo sistema. <br />  - adicione como agentes do novo contorno as 2 representantes. Faça um acordo de que essa participação será apenas por 3 meses.<br />15. Peça para a Guardiã nomear mais 3 pessoas para fazerem parte como agentes deste contorno. <br />16. A partir daqui a evolução do experimento com o sistema Contornos é coordenada pelo contorno "Sistema Organizacional".<br /> 17. Siga os [passos para 'implementar'](#passos-para-implementar), dessa vez na organização inteira. | 10. Celebrar com toda a organização uma decisão de não seguir pois conseguiram fazer isso envolvendo toda a organização. <br />11. Decidir se iniciarão o sistema apenas em um [grupo local](#em-um-grupo-local) (veja [aqui](#em-um-grupo-local)). <br />12. Avisar a organização que o experimento será feito em grupos locais. E se outros grupos desejarem, estão convidados também. |
-
-* **iniciando por grupos que atendem público externo**
-1. Obtenha a aprovação da pessoa na liderança do nível mais alto da hierarquia. 
-2. Convide um time que tenha o contato mais direto com o público externo: atendimento, desenvolvimento de produto, vendas, etc.
-3. Siga os [passos para 'implementar'](#passos-para-implementar).
-4. Depois de um tempo de prática, inicie o uso do sistema nos contornos internos diretos. 
-5. Desdobre para outros contornos mais internos.
-6. Inicie por outras áreas da organização.
-
-* **iniciando por grupos que atendem público interno**
-1. Obtenha a aprovação da pessoa na liderança do nível mais alto da hierarquia. 
-2. Convide um time que atenda pessoas e times internos.
-3. Siga os [passos para 'implementar'](#passos-para-implementar).
-4. Depois de um tempo de prática, inicie o uso do sistema nos contornos internos diretos. 
-5. Desdobre para outros contornos mais internos.
-6. Inicie por outras áreas da organização.
 
 ### Como mapear os primeiros contornos?
 #### Opções, podendo usar mais de uma de acordo com a necessidade e escopo
