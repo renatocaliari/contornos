@@ -14,15 +14,15 @@ Para que a decisão de usar o sistema seja duradoura e potencialize os benefíci
 #### Passos para 'implementar'
 1. Convide o público desejado: veja nos tópicos abaixo algumas opções. 
 2. Compartilhe sobre o sistema [Contornos] com esse público, a motivação de usá-lo, e faça uma sessão com espaço para discussão, perguntas e respostas.
-3. Faça [uma proposta com decisão integrativa](https://github.com/renatoac/contornos/wiki/Apps#processo-para-propostas-de-decis%C3%B5es-integrativas) para utilizar [Contornos] nesse público.
+3. Faça [uma proposta com decisão integrativa](apps#processo-para-propostas-de-decis%C3%B5es-integrativas) para utilizar [Contornos] nesse público.
 4. Conversem sobre o que muda de responsabilidades e autoridade da pessoa que era 'chefe' ou 'líder' do time, e agora se torna Guardiã, e quais são as responsabilidades do papel estrutural de Agente. Lembre que estar em um papel estrutural de Guardiã não tem mais relação com algum nível hierárquico, nem cargo e nem com estabilidade no papel, pois outras pessoas podem vir a ser alocadas como Guardiãs posteriormente.
-5. Faça um mapeamento [dos contornos internos do público convidado](https://github.com/renatoac/contornos/wiki/perguntas-&-respostas#como-mapear-os-primeiros-contornos) no passo 1.
+5. Faça um mapeamento [dos contornos internos do público convidado](perguntas#como-mapear-os-primeiros-contornos) no passo 1.
 6. Caso algum contorno é de um escopo que não havia uma pessoa responsável, defina quem será a Guardiã desse contorno através de decisão integrativa, caso já tinha alguém responsável pelo escopo, assuma essa pessoa como Guardiã do contorno.
-7. Inicie o uso do sistema Contornos nesse contorno. Faça uso de [impulsionadores](https://github.com/renatoac/contornos/wiki#6-impulsionadores), distribuição de decisões operacionais e decisões integrativas para adaptar a estrutura e acordos.
-8. Após 1 semana, faça uma dinâmica para discussão sobre o experimento em pequenos grupos. Sugestão: [world-cafe](http://www.theworldcafe.com/key-concepts-resources/world-cafe-method/). O resultado pode ser, além de reflexões e compreensão compartilhada, novos [impulsionadores](https://github.com/renatoac/contornos/wiki#6-impulsionadores) e novos acordos com decisão integrativa.
+7. Inicie o uso do sistema Contornos nesse contorno. Faça uso de [impulsionadores](contornos#impulsionadores), distribuição de decisões operacionais e decisões integrativas para adaptar a estrutura e acordos.
+8. Após 1 semana, faça uma dinâmica para discussão sobre o experimento em pequenos grupos. Sugestão: [world-cafe](http://www.theworldcafe.com/key-concepts-resources/world-cafe-method/). O resultado pode ser, além de reflexões e compreensão compartilhada, novos [impulsionadores](contornos#impulsionadores) e novos acordos com decisão integrativa.
 9. Repita o passo 8, porém, agora, de 15 em 15 dias, até chegarem em 3 meses de experimento.
 10. Em cada dinâmica, e em algum canal oficial do público envolvido, compartilhar evidências e métricas do experimento com o sistema [Contornos].
-10. A partir daí o experimento se torna uma prática padrão e pode continuar sendo adaptado a qualquer momento através de [impulsionadores](https://github.com/renatoac/contornos/wiki#6-impulsionadores).
+10. A partir daí o experimento se torna uma prática padrão e pode continuar sendo adaptado a qualquer momento através de [impulsionadores](contornos#impulsionadores).
 
 ### Quais as formas de começar com o sistema?
 
@@ -112,7 +112,7 @@ Exemplo:
   - Mediação de conflitos
   - Aconselhamento & Mentoria
   - Escuta
-- [Manutenção de parceria](https://github.com/renatoac/contornos/wiki/Apps#contorno-manuten%C3%A7%C3%A3o-de-parceria)
+- [Manutenção de parceria](apps#contorno-manuten%C3%A7%C3%A3o-de-parceria)
 - Financeiro
 - Produto ou Serviço A (exemplo: "Plataforma de cursos de Tecnologia")
   - Atendimento
