@@ -344,14 +344,14 @@ Crie e adapte novos acordos estruturais quando for necessário, conforme impulsi
 ### Acordos pessoais
 Acordos pessoais são relacionados às pessoas, como, por exemplo, comportamento e expectativas pessoais, não criando expectativas sobre estrutura.
 
-## Indicadores de saúde e resultado
+## Indicadores
 Cada contorno possui indicadores que podem ser compartilhados por mais de um contorno.
 
-Apesar de indicadores raramente fornecerem respostas definitivas, eles promovem conversas e apoiam tomadas de decisão e adaptações usando uma base em comum.
+Indicadores podem ser do tipo **mensuração** [1] de números e taxas ou **confirmação** [2] de prática recorrente.
+Apesar de indicadores raramente fornecerem respostas definitivas sobre algo, eles promovem conversas, descobertas, entendimento e apoiam tomadas de decisão e adaptações usando uma base em comum.
 
-Indicadores podem ser do tipo **métrica** ou **confirmação** de prática recorrente. 
-  - possivelmente um contorno possuirá indicadores do tipo **métricas**, decidido pelo contorno externo, para indicar sobre saúde e resultado do mesmo.
-  - e, se a estratégia também possui práticas recorrentes a serem realizadas, então provavelmente o próprio contorno definirá indicadores do tipo **confirmação** para informar se uma prática recorrente foi realizada na recorrência esperada (ex: diariamente, semanalmente, mensalmente, etc).
+1. um contorno possivelmente terá indicadores do tipo **métricas**, decidido pelo contorno externo, para indicar saúde e resultados.
+2. se a estratégia também possui práticas recorrentes a serem realizadas, provavelmente o próprio contorno definirá indicadores do tipo **confirmação** para informar se tal prática está sendo realizada na recorrência esperada (ex: diariamente, semanalmente, mensalmente, etc).
 
 Regras:
 - o contorno externo define por decisão integrativa os principais indicadores do contorno. Lembrando que a guardiã do contorno é participante do contorno externo.
@@ -361,9 +361,9 @@ Regras:
 
 ### Indicadores do tipo métricas
 Categorias:
-- de **resultado**, na perspectiva de clientes: indicadores que usam em suas tomadas de decisões e escolha dos serviços ou produtos. É possível ter delimitador inferior e/ou superior. Abaixo do limite inferior, não está atendendo necessidades de clientes. Acima do superior pode indicar que clientes não percebem os benefícios a mais e também pode estar super servindo desnecessariamente quando causa prejuízos em outros aspectos do negócio, serviço ou produto.
 - de **saúde**, para monitorar aspectos importantes do negócio, serviço, produto ou engajameno de pessoas em um contorno. É possível ter delimitador inferior e superior que indiquem o intervalo de saúde. 
-- de **urgência**, com um alvo, em caso excepcional apenas quando for necessário promover uma mudança rápida para salvar o negócio, produto ou serviço.
+- de **resultado**, indicadores que clientes - internos ou externos - utilizam em suas tomadas de decisões e escolha dos serviços ou produtos. É possível ter delimitador inferior e/ou superior. Abaixo do limite inferior, não está atendendo necessidades de clientes. Acima do superior pode indicar que clientes não percebem os benefícios a mais e também pode estar super servindo desnecessariamente quando causa prejuízos em outros aspectos do negócio, serviço ou produto.
+- de **sobrevivência**, contendo um alvo, em caso excepcional apenas quando for necessário promover uma mudança rápida para salvar o negócio, produto ou serviço.
 
 É recomendado que: 
 - sejam relacionados a aspectos de qualidade e quantidade com relação à razão de existir, estratégia, resultado gerado na perspectiva de clientes do contorno ou engajamento de pessoas.
