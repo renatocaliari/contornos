@@ -55,7 +55,7 @@ Se você deseja implementar apenas em um grupo local da organização:
 
 Abaixo estão  algumas possibilidades de grupos locais.
 
-* **iniciando por grupos que atendem público externo**
+* **grupos que atendem público externo**
 1. Obtenha a aprovação da pessoa na liderança do nível mais alto da hierarquia. 
 2. Convide um time que tenha o contato mais direto com o público externo: atendimento, desenvolvimento de produto, vendas, etc.
 3. Siga os [passos para 'implementar'](#passos-para-implementar).
@@ -63,14 +63,13 @@ Abaixo estão  algumas possibilidades de grupos locais.
 5. Desdobre para outros contornos mais internos.
 6. Inicie por outras áreas da organização.
 
-* **iniciando por grupos que atendem público interno**
+* **grupos que atendem público interno**
 1. Obtenha a aprovação da pessoa na liderança do nível mais alto da hierarquia. 
 2. Convide um time que atenda pessoas e times internos.
 3. Siga os [passos para 'implementar'](#passos-para-implementar).
 4. Depois de um tempo de prática, inicie o uso do sistema nos contornos internos diretos. 
 5. Desdobre para outros contornos mais internos.
 6. Inicie por outras áreas da organização.
-
 
 #### Na organização inteira - todas as pessoas à bordo sobre o que irá acontecer e 80% confirmando próximo passo
 Ao desejar de antemão 'implementar' na organização inteira de forma convidativa e tendo um acordo, pode experimentar os passos abaixo.
