@@ -21,8 +21,9 @@ Pense nisso como um sistema operacional enxuto 'open-source' (código aberto), q
 - [Curiosidades](curiosidades)
 - [Perguntas & Respostas](perguntas)
   - Como iniciar com o sistema Contornos?
+  - Como mapear e dividir os contornos?
   - Como medir o impacto de mudanças no design organizacional?
-  - e muitas outras respondidas.
+  - e muito mais.
 - [Referências](referencias)
 - [Comparação entre tecnologias sociais](tecnologias): Organizações Orgânicas (O2), Sociocracy For All, Sociocracia 3.0 e Holacracia.
 - [Ferramentas digitais](ferramentas) para apoiar no uso do sistema Contornos.
