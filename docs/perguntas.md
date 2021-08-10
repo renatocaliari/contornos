@@ -99,9 +99,10 @@ Ao desejar de antemão 'implementar' na organização inteira de forma convidati
 
 ### Como mapear e dividir os contornos?
 #### Opções - combine-as de acordo com necessidade e contexto
-- Em times de produto/serviço, levar em conta:
+- Em times de produto/serviço, é possível mapeamento e divisão baseado em:
    - **intenção*** do público que o grupo atende
-   - **estratégia** maior do contorno geral de produto/serviço
+   - **etapa da jornada** da pessoa ao realizar uma intenção*
+   - **estratégia** do contorno maior de produto/serviço
      - exemplos: "Conteúdo personalizado por membro"; "Membros conectado a pelo menos um outro membro na plataforma"; "Produtos encontrados na primeira tentativa de busca"; etc)
      - ou seja, criar contornos especializados por cada estratégia do contorno maior de produto. 
    - **complexidade** do escopo
