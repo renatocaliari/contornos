@@ -108,8 +108,8 @@ Ao desejar de antemão 'implementar' na organização inteira de forma convidati
 - Mapear [processo e fluxo de valor](#refer%C3%AAncias-sobre-mapeamento-de-processo) do contorno maior em relação à razão de existir da organização.
 - Mapear atividades que as pessoas fazem atualmente e [converter em responsabilidades](#defini%C3%A7%C3%A3o-de-responsabilidades). Após isso, definir os contornos e todos seus atributos.
 
-*A intenção pode ser entendida como um job de Jobs To Be Done, propósito de Fit For Purpose, padrões de torres ou agrupamento de torres do diagrama Mental Model da Indi Young, etc.
-Caso interesse, consulte materiais como [Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology-ebook/dp/B07NSF94PC), [Fit For Purpose](https://www.amazon.com/Fit-Purpose-Businesses-Satisfy-Customers/dp/0985305118) e [Jobs To Be Done](https://medium.com/tentaculus/jobs-to-be-done-parte-1-42bfdf4875c8).
+__*A intenção pode ser entendida como um job de Jobs To Be Done, propósito de Fit For Purpose, padrões de torres ou agrupamento de torres do diagrama Mental Model da Indi Young, etc.
+Caso interesse, consulte materiais como [Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology-ebook/dp/B07NSF94PC), [Fit For Purpose](https://www.amazon.com/Fit-Purpose-Businesses-Satisfy-Customers/dp/0985305118) e [Jobs To Be Done](https://medium.com/tentaculus/jobs-to-be-done-parte-1-42bfdf4875c8).__
 
 
 ### Exemplo de estrutura de contornos
@@ -130,7 +130,7 @@ Exemplo:
   - Escuta
 - [Manutenção de parceria](apps#contorno-manuten%C3%A7%C3%A3o-de-parceria)
 - Financeiro
-- Produto ou Serviço A (exemplo: "Plataforma de cursos de tecnologia")
+- Produto ou Serviço A (exemplo: "Plataforma de ensino de assuntos relacionados à tecnologia")
   - Atendimento
   - Vendas e Marketing
   - Pesquisa
