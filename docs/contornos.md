@@ -396,7 +396,7 @@ Impulsionadores é tudo aquilo que impulsiona o aprendizado ou adaptação da or
 Regras:
 - Qualquer participante de um contorno tem a responsabilidade de perceber e tratar impulsionadores relativos aos seus contornos ou à sua pessoa.
 - Registre os impulsionadores em alguma lista compartilhada para processamento. 
-- [Declarar o tipo do impulsionador](#declarar-tipo-do-impulsionador) para processamento.
+- [Declarar o tipo do impulsionador](#tipos-de-impulsionadores) para processamento.
 - Descreva a motivação e contexto do impulsionador.
 - Ao criar um impulsionador é necessário declarar a partir de qual contorno está criando o impulsionador e para qual contorno. Ex: "Impulsionador do contorno desenvolvimento para contorno produto". A única exceção, é quando for algo pessoal, não relacionado à estrutura organizacional (contorno, razão de existir, responsabilidades, estratégia, processo, indicador, elemento de controle exclusivo, acordos) ou ao trabalho operacional (projetos e tarefas), quando então não é necessário informar a partir de qual contorno está gerando o impulsionador.
 - É esperado que um impulsionador seja puxado por qualquer participante que tenha responsabilidade para lidar com o contexto do impulsionador.
@@ -405,10 +405,9 @@ Regras:
 
 ## Tipos de impulsionadores
 Ao registrar um impulsionador, explicite qual é o seu tipo:
-- **Aviso**: quando deseja avisar algo sem necessariamente esperar por reações.
+- **Aviso**: quando deseja avisar sobre algo sem necessariamente esperar por reações.
 - **Celebração**: quando deseja celebrar algo.
-- **Pedido de ação**: quando deseja pedir algo a um contorno ou alguém: projeto ou tarefa.
-- **Pedido de informação**: quando deseja alguma informação para entender algo.
+- **Pedido**: quando deseja pedir algo a um contorno ou alguém: informação, projeto ou tarefa.
 - **Escuta**: quando uma pessoa deseja ser escutada ou compreendida por outras. Exemplos de ferramentas para apoiar: perguntas abertas, sumário ou [reflexões](https://nelianafiglie.com.br/blog/tipos-de-reflexao-2/).
 - **Reação** (feedback): quando alguém deseja reações emocionais, opiniões ou ideias, mas não é esperado necessariamente respostas às reações.
 - **Discussão**: quando deseja discutir ideias e pontos de vista.
