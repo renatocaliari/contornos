@@ -98,25 +98,28 @@ Ao desejar de antemão 'implementar' na organização inteira de forma convidati
 | 10. Celebrar com toda a organização um passo importante que tomarão. Lembrar que não será fácil e nem rápido, mas será possível com o apoio das pessoas.<br />11. Reconhecer as preocupações das pessoas que votaram "não" na segunda rodada, e não optaram por sair, e dizer que elas serão inclusas no processo para trazer feedback.<br />12. Crie um contorno de "Sistema Organizacional".<br />13. Determine quem será a guardiã do contorno "Sistema Organizacional" durante o período de 3 meses. Após isso, façam um novo processo de nomeação.<br />14. Pedir para as pessoas que tinham votado "não" e desejarem se identificar, para  escolherem 2 representantes.<br />  - as representante serão consultadas periodicamente para ajudar a mitigar riscos nos 3 primeiros meses, trazerem seus pontos de vista e até ajudarem a fazer o papel de advogado do diabo nas discussões sobre o andamento do experimento com o novo sistema. <br />  - adicione como agentes do novo contorno as 2 representantes. Faça um acordo de que essa participação será apenas por 3 meses.<br />15. Peça para a Guardiã nomear mais 3 pessoas para fazerem parte como agentes deste contorno. <br />16. A partir daqui a evolução do experimento com o sistema Contornos é coordenada pelo contorno "Sistema Organizacional".<br /> 17. Siga os [passos para 'implementar'](#passos-para-implementar), dessa vez na organização inteira. | 10. Celebrar com toda a organização uma decisão de não seguir pois conseguiram fazer isso envolvendo toda a organização. <br />11. Decidir se iniciarão o sistema apenas em um [grupo local](#em-um-grupo-local) (veja [aqui](#em-um-grupo-local)). <br />12. Avisar a organização que o experimento será feito em grupos locais. E se outros grupos desejarem, estão convidados também. |
 
 ### Como mapear os primeiros contornos?
-#### Opções, podendo usar mais de uma de acordo com a necessidade e escopo
-- Times de produto/serviço: levar em conta a intenção* do público que o negócio atende, complexidade de um escopo e a modularização dos serviços tecnológicos. Para ajudar, pode consultar materiais de [Fit For Purpose](https://www.amazon.com/Fit-Purpose-Businesses-Satisfy-Customers/dp/0985305118), [Jobs To Be Done](https://medium.com/tentaculus/jobs-to-be-done-parte-1-42bfdf4875c8) e [Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology-ebook/dp/B07NSF94PC).
+#### Opções - podendo usar mais de uma de acordo com a necessidade e escopo
+- Em times de produto/serviço, levar em conta:
+   - intenção* do público que o grupo atende
+   - princípios do produto/serviço (exemplos: Conteúdo personalizado por membro; Membros conectados a outros membros na plataforma; Produtos encontrados na primeira tentativa de busca; etc)
+   - complexidade do escopo
+   - modularização dos serviços tecnológicos
 - Realizar uma ["Análise de Redes Organizacionais"](https://www2.deloitte.com/us/en/pages/human-capital/articles/organizational-network-analysis.html) e observar o tipo de conexões que existem atualmente.
 - Mapear [processo e fluxo de valor](#refer%C3%AAncias-sobre-mapeamento-de-processo) do contorno maior em relação à razão de existir da organização.
 - Mapear atividades que as pessoas fazem atualmente e [converter em responsabilidades](#defini%C3%A7%C3%A3o-de-responsabilidades). Após isso, definir os contornos e todos seus atributos.
 
 *A intenção pode ser entendida como um job de Jobs To Be Done, propósito de Fit For Purpose, padrões de torres ou agrupamento de torres do diagrama Mental Model da Indi Young, etc.
+Caso interesse, consulte materiais como [Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology-ebook/dp/B07NSF94PC), [Fit For Purpose](https://www.amazon.com/Fit-Purpose-Businesses-Satisfy-Customers/dp/0985305118) e [Jobs To Be Done](https://medium.com/tentaculus/jobs-to-be-done-parte-1-42bfdf4875c8).
+
 
 ### Exemplo de estrutura de contornos
-O desenho de contornos depende e varia pela intenção das pessoas e contexto de uma organização. 
 Qualquer modelo pré-fabricado sobre o desenho de times é falho por natureza justamente por não refletir ou se adequar à realidade. Porém, alguns podem ser úteis para inspirar e iniciar experimentos.
 
 Existem inúmeras possibilidades. Não existe receita de bolo ou algo universal.
 
-Para fins ilustrativos, a possibilidade abaixo mostra uma mistura de contornos de suporte da organização como um todo com contornos por intenção* do púbico que o negócio atende delimitado dentro do contorno de produtos/serviços, tendo também contornos de especialização internamente. 
+Para fins ilustrativos, a possibilidade abaixo mostra uma mistura de contornos de suporte da organização como um todo com contornos por intenção (veja mais acima) do púbico que o negócio atende delimitado dentro do contorno de produtos/serviços, tendo também contornos de especialização internamente. 
 
 É possível diversas outras alternativas, como por exemplo, alguns contornos do exemplo abaixo que estão dentro de produto/serviço - atendimento, vendas & marketing, pesquisa, etc - poderiam estar dentro de cada contorno de intenção, caso seja útil e mais eficiente, dependendo da escala da organização.
-
-*Intenção pode ser entendida como um job de Jobs To Be Done, propósito de Fit For Purpose, padrões de torres ou agrupamento de torres do diagrama Mental Model da Indi Young, etc.
 
 Exemplo:
 - Sistema Organizacional
@@ -127,23 +130,21 @@ Exemplo:
   - Escuta
 - [Manutenção de parceria](apps#contorno-manuten%C3%A7%C3%A3o-de-parceria)
 - Financeiro
-- Produto ou Serviço A (exemplo: "Plataforma de cursos de Tecnologia")
+- Produto ou Serviço A (exemplo: "Plataforma de cursos de tecnologia")
   - Atendimento
   - Vendas e Marketing
   - Pesquisa
   - Conteúdo
   - Parcerias
-  - Intenção A de cliente (exemplo: "Aprender tecnologia")
+  - Intenção A de cliente (exemplo: "Conseguir o primeiro emprego na área de tecnologia ou fazer transição de carreira")
     - Modelagem de iniciativas
     - Desenho da experiência de produto/serviço
     - Desenvolvimento
       - Interface gráfica/física
       - Implementação
-  - Intenção B de cliente (exemplo: "Conectar com profissionais do mercado de trabalho")
+  - Intenção B de cliente (exemplo: "Empreender na área de tecnologia")
     - [contornos internos]
-  - Intenção C de cliente (exemplo: "Conseguir o primeiro emprego ou fazer transição de carreira")
-    - [contornos internos]
-  - Intenção D de cliente (exemplo: "Empreender")
+  - Intenção C de cliente (exemplo: "Conectar com profissionais do mercado de trabalho de tecnologia")
     - [contornos internos]
 
 ## Como medir o impacto de mudanças no design organizacional?
