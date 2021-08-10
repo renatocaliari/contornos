@@ -100,10 +100,10 @@ Ao desejar de antemão 'implementar' na organização inteira de forma convidati
 ### Como mapear os primeiros contornos?
 #### Opções - podendo usar mais de uma de acordo com a necessidade e escopo
 - Em times de produto/serviço, levar em conta:
-   - intenção* do público que o grupo atende
-   - princípios do produto/serviço (exemplos: Conteúdo personalizado por membro; Membros conectados a outros membros na plataforma; Produtos encontrados na primeira tentativa de busca; etc)
-   - complexidade do escopo
-   - modularização dos serviços tecnológicos
+   - **intenção*** do público que o grupo atende
+   - **princípios** do produto/serviço (exemplos: Conteúdo personalizado por membro; Membros conectados a outros membros na plataforma; Produtos encontrados na primeira tentativa de busca; etc)
+   - **complexidade** do escopo
+   - **modularização** dos serviços tecnológicos
 - Realizar uma ["Análise de Redes Organizacionais"](https://www2.deloitte.com/us/en/pages/human-capital/articles/organizational-network-analysis.html) e observar o tipo de conexões que existem atualmente.
 - Mapear [processo e fluxo de valor](#refer%C3%AAncias-sobre-mapeamento-de-processo) do contorno maior em relação à razão de existir da organização.
 - Mapear atividades que as pessoas fazem atualmente e [converter em responsabilidades](#defini%C3%A7%C3%A3o-de-responsabilidades). Após isso, definir os contornos e todos seus atributos.
