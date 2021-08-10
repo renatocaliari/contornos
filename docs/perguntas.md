@@ -101,7 +101,9 @@ Ao desejar de antemão 'implementar' na organização inteira de forma convidati
 #### Opções - podendo usar mais de uma de acordo com a necessidade e escopo
 - Em times de produto/serviço, levar em conta:
    - **intenção*** do público que o grupo atende
-   - **princípios** do produto/serviço (exemplos: Conteúdo personalizado por membro; Membros conectados a outros membros na plataforma; Produtos encontrados na primeira tentativa de busca; etc)
+   - **estratégia** maior do contorno geral de produto/serviço
+     - exemplos: "Conteúdo personalizado por membro"; "Membros conectado a pelo menos um outro membro na plataforma"; "Produtos encontrados na primeira tentativa de busca"; etc)
+     - ou seja, criar contornos especializados por cada estratégia do contorno maior de produto. 
    - **complexidade** do escopo
    - **modularização** dos serviços tecnológicos
 - Realizar uma ["Análise de Redes Organizacionais"](https://www2.deloitte.com/us/en/pages/human-capital/articles/organizational-network-analysis.html) e observar o tipo de conexões que existem atualmente.
