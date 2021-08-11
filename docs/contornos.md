@@ -347,10 +347,10 @@ Acordos pessoais são relacionados às pessoas, como, por exemplo, comportamento
 ## Indicadores
 Cada contorno possui indicadores que podem ser compartilhados por mais de um contorno.
 
-Indicadores podem ser do tipo **mensuração** [1] ou **confirmação** [2] de prática recorrente.
+Indicadores podem ser do tipo **mensuração** (métricas) [1] ou **confirmação** [2] de prática recorrente.
 Apesar de indicadores raramente fornecerem respostas definitivas sobre algo, eles promovem conversas, descobertas, entendimento e apoiam tomadas de decisão e adaptações usando uma base em comum.
 
-1. um contorno possivelmente terá indicadores do tipo **métricas**, decidido pelo contorno externo, para indicar saúde e resultados.
+1. um contorno possivelmente terá indicadores do tipo **mensuração**, decidido pelo contorno externo, para indicar saúde e resultados.
 2. se a estratégia também possui práticas recorrentes a serem realizadas, provavelmente o próprio contorno definirá indicadores do tipo **confirmação** para informar se tal prática está sendo realizada na recorrência esperada (ex: diariamente, semanalmente, mensalmente, etc).
 
 Regras:
@@ -359,9 +359,10 @@ Regras:
 - os indicadores têm frequência de compartilhamento sobre atualização definida pelo contorno externo. A guardiã do contorno compartilha o último resultado dos indicadores na frequência acordada.
 
 
-### Indicadores do tipo métricas
+### Indicadores do tipo mensuração
 Categorias:
-- de **saúde**, para monitorar aspectos importantes do negócio, serviço, produto ou engajameno de pessoas em um contorno. É possível ter delimitador inferior e superior que indiquem o intervalo de saúde. 
+- de **saúde**, para monitorar aspectos importantes do negócio, serviço, produto ou engajameno de pessoas em um contorno. É possível ter delimitador inferior e superior que indiquem o intervalo de saúde. Um exemplo de modelo para indicador de mensuração, caso a ideia seja relacionada a engajamento de pessoas com um produto ou serviço:
+  - _"Porcentagem de (membros / novos clientes / clientes recorrentes) que fazem pelo menos (o limite mínimo para ação do usuário) por (período X)."_
 - de **resultado**, indicadores que clientes - internos ou externos - utilizam em suas tomadas de decisões e escolha dos serviços ou produtos. É possível ter delimitador inferior e/ou superior. Abaixo do limite inferior, não está atendendo necessidades de clientes. Acima do superior pode indicar que clientes não percebem os benefícios a mais e também pode estar super servindo desnecessariamente quando causa prejuízos em outros aspectos do negócio, serviço ou produto.
 - de **sobrevivência**, contendo um alvo, em caso excepcional apenas quando for necessário promover uma mudança rápida para salvar o negócio, produto ou serviço.
 
