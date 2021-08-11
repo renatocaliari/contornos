@@ -361,7 +361,7 @@ Regras:
 
 ### Indicadores do tipo mensuração
 Categorias:
-- de **saúde**, para monitorar aspectos importantes do negócio, serviço, produto ou engajameno de pessoas em um contorno. É possível ter delimitador inferior e superior que indiquem o intervalo de saúde. Um exemplo de modelo para indicador de mensuração, caso a ideia seja relacionada a engajamento de pessoas com um produto ou serviço:
+- de **saúde**, para monitorar aspectos importantes do negócio, serviço, produto ou engajamento de pessoas em um contorno. É possível ter delimitador inferior e superior que indiquem o intervalo de saúde. Um exemplo de modelo para indicador de mensuração, caso a ideia seja relacionada a engajamento de pessoas com um produto ou serviço:
   - _"Porcentagem de (membros / novos clientes / clientes recorrentes) que fazem pelo menos (o limite mínimo para ação do usuário) por (período X)."_
 - de **resultado**, indicadores que clientes - internos ou externos - utilizam em suas tomadas de decisões e escolha dos serviços ou produtos. É possível ter delimitador inferior e/ou superior. Abaixo do limite inferior, não está atendendo necessidades de clientes. Acima do superior pode indicar que clientes não percebem os benefícios a mais e também pode estar super servindo desnecessariamente quando causa prejuízos em outros aspectos do negócio, serviço ou produto.
 - de **sobrevivência**, contendo um alvo, em caso excepcional apenas quando for necessário promover uma mudança rápida para salvar o negócio, produto ou serviço.
