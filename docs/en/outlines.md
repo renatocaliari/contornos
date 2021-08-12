@@ -1,5 +1,7 @@
 @autoHeader:0
 
+?> Please note that, temporarily, the text below was translated using Google Translate and some manual refinement.
+
 # Principles
 - :cyclone: Take into account the organizational system as a whole and the value streams.
 - :loop: Amplify 'feedback loops'.
@@ -58,7 +60,7 @@ Any participant in an outline has these **common responsibilities**:
 * perceive and treat [boosters](#boosters) of its outline.
 * prioritize projects and tasks according to the reason for existing and the strategy of the outlines in which it participates.
 * share any information related to your outline ー projects, tasks, etc ー when someone asks, unless something is agreed to be confidential.
-* perform whatever is necessary to express the reason for existing and the strategy of the outlines in which it participates, respecting [agreements](#agreements), [strategy](#strateg%C3%A9gia-how), [process](#process- as) and [resources of exclusive control]#resources-of-exclusive-control-how).
+* perform whatever is necessary to express the reason for existing and the strategy of the outlines in which it participates, respecting [agreements](#agreements), [strategy](#strateg%C3%A9gia-how), [process](#process-how) and [resources of exclusive control]#resources-of-exclusive-control-how).
 * and, when necessary, carry out the above responsibility also for the outlines that **does not** participate, taking into account these rules:
   * consider the context and available information of the current structure and the risk or opportunity.
   * make the best judgment possible with what you have at your disposal.
@@ -480,7 +482,7 @@ When submitting a proposal for integrative decision, use this process:
 The integrative decision can be performed asynchronously using the [asynchronous integrative-decision of proposal] app (apps#integrative-asynchronous-of-proposal-decision).
 
 # Extraordinary action
-Extraordinary actions are expected to occur that violate strategy, process, resources of exclusive control or agreements.
+Extraordinary actions are expected to occur violanting strategy, process, resources of exclusive control or agreements.
 
 These actions meet two needs:
 * prevent or mitigate negative impacts or address a critical opportunity.
