@@ -5,7 +5,7 @@
 - [Questions & Answers](questions)
 - [References](references)
 - [Comparison between social technologies](technologies)
-- [Digital tools] (tools)
+- [Digital tools](tools)
 - [Outlines for Communities](communities)
 - **More**
 - [About the author](https://renatocaliari.com)
