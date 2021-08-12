@@ -10,4 +10,8 @@
 - ✔️ mais agilidade e experimentação
 - ✔️ mais adaptação fluída da estrutura 
 
-[Saiba mais](start) | [Read in 🇺🇸 English](https://renatocaliari.github.io/contornos/#/en/)
+---
+[Read in 🇺🇸 English](https://renatocaliari.github.io/contornos/#/en/)
+---
+
+[Saiba mais](start)
