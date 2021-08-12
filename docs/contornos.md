@@ -17,7 +17,7 @@ A estrutura organizacional é definida por contornos. As pessoas parceiras da or
 
 O sistema começa com a máxima de que _“tudo é permitido desde que não seja explicitamente proibido”_ em algum [acordo](#acordos) contendo restrição ou definido como [recursos de controle exclusivo](#recursos-de-controle-exclusivo-como) de algum contorno em vez do inverso comum em muitas organizações de que _“tudo é proibido desde que seja explicitamente permitido”_. 
 
-[Veja um exemplo de uma estrutura de contornos nas Perguntas & Respostas](perguntas#exemplo-de-estrutura-de-contornos).
+[Veja um exemplo de uma estrutura de contornos nas Perguntas & Respostas](questions#exemplo-de-estrutura-de-contornos).
 
 # Contornos
 Contorno é um escopo delimitado por razão de existir, responsabilidades, recursos de controle exclusivo e acordos próprios.
@@ -29,7 +29,7 @@ Uma pessoa pode estar em vários contornos e um contorno pode conter várias pes
 
 ## Quando criar novos contornos?
 
-Crie contornos quando perceber alguns padrões recorrentes para potencializar eficácia e compreensão compartilhada ou desejar delegar parte das responsabilidades e recursos de controle exclusivo. [Em Perguntas & Respostas, veja opções que podem ajudar no mapeamento de novos contornos](perguntas?id=como-mapear-os-primeiros-contornos).
+Crie contornos quando perceber alguns padrões recorrentes para potencializar eficácia e compreensão compartilhada ou desejar delegar parte das responsabilidades e recursos de controle exclusivo. [Em Perguntas & Respostas, veja opções que podem ajudar no mapeamento de novos contornos](questions#como-mapear-os-primeiros-contornos).
 
 Exemplos demonstrando contextos para criação de contornos: 
 - recorrentemente o contorno que você participa precisa realizar análise de dados de forma mais avançada. Por um tempo as participantes foram tentando se ajudar, cada hora uma fazendo, porém não era explícito quem tinha essa responsabilidade e quais outras responsabilidades poderiam existir. Então, devido a essa recorrência, alguém registrar um [impulsionador](#impulsionadores) pro contorno com uma proposta de criação de um contorno interno de "análise de dados", deixando explícito o que é esperado. E em seguida fazem uma proposta de alocação de uma pessoa como guardiã deste contorno. Daí em diante não precisarão mais decidir quem fará esse tipo de trabalho e quais responsabilidades são esperadas. 
@@ -48,7 +48,7 @@ A qualquer momento que alguém perceber que um contorno precisa, ou é desejáve
 
 Para remoção de um contorno, é necessário decisão integrativa pelo contorno externo, podendo decidir quais contornos internos ao contorno sendo excluído desejam trazer para o contorno que está tomando a decisão.
 
-Para adaptação do contorno, é necessário identificar qual é o [atributo](contornos?id=atributos-dos-contornos) que deseja alterar e quem tem autoridade para adaptá-lo.
+Para adaptação do contorno, é necessário identificar qual é o [atributo](outlines#atributos-dos-contornos) que deseja alterar e quem tem autoridade para adaptá-lo.
 
 # Participação em contornos
 A participação em contornos acontece por meio de alocação de pessoas. É possível indicar o [tipo de energia](apps#tipo-de-energia-em-contorno) que cada participante terá em um determinado contorno.
@@ -67,7 +67,7 @@ Qualquer participante de um contorno possui essas **responsabilidades em comum**
 ## Papéis estruturais
 Há apenas dois papéis estruturais básicos em Contornos: guardiã e agente.
 
-Além desses dois papéis estruturais, é possível instalar [papéis estruturais extras](apps#pap%C3%A9is-estruturais-extras), como: [Representante](apps?id=papel-estrutural-de-representante), [Sinapse](apps?id=papel-estrutural-de-sinapse), [Facilitadora](apps?id=papel-estrutural-de-facilitadora) e [Secretária](apps?id=papel-estrutural-de-secret%c3%a1ria).
+Além desses dois papéis estruturais, é possível instalar [papéis estruturais extras](apps#pap%C3%A9is-estruturais-extras), como: [Representante](apps#papel-estrutural-de-representante), [Sinapse](apps#papel-estrutural-de-sinapse), [Facilitadora](apps#papel-estrutural-de-facilitadora) e [Secretária](apps#papel-estrutural-de-secret%c3%a1ria).
 
 ### Guardiã do contorno
 
@@ -81,7 +81,7 @@ Além desses dois papéis estruturais, é possível instalar [papéis estruturai
   * _todas responsabilidades gerais de participantes de contorno_.
   * _todas responsabilidades do próprio contorno_ que não estejam delegadas a contornos internos.
   * trazer informações do contorno externo para todas participantes do seu contorno.
-  * agir sobre [impulsionadores](contornos?id=impulsionadores) sem andamento em seu contorno.
+  * agir sobre [impulsionadores](outlines#impulsionadores) sem andamento em seu contorno.
   * propôr estratégia do contorno, precisando de decisão integrativa.
   * propôr processo do contorno, precisando de decisão integrativa.
   * propôr pessoas para apoiar o contorno.
@@ -92,7 +92,7 @@ Além desses dois papéis estruturais, é possível instalar [papéis estruturai
 #### Responsabilidades da guardiã do maior contorno, a organização em si
   * _todas responsabilidades gerais de participantes de contorno_.
   * _todas responsabilidades do próprio contorno_ que não estejam delegadas a contornos internos.
-  * agir sobre [impulsionadores](contornos?id=impulsionadores) sem andamento em seu contorno.
+  * agir sobre [impulsionadores](outlines#impulsionadores) sem andamento em seu contorno.
   * propôr estratégia do contorno, precisando de decisão integrativa.
   * propôr processo do contorno, precisando de decisão integrativa.
   * propôr pessoas para apoiar o contorno.
@@ -133,7 +133,7 @@ A guardiã não tem autoridade para:
 | -- | -- | -- |
 | razão de existir | guardar o espaço do contorno e responder pela razão de existir do mesmo. | evoluir o contorno em direção à razão de existir. |
 | participação | toda guardiã de um contorno também é participante do contorno externo como [agente](#agente-do-contorno). | caso a agente não seja guardiã de algum contorno interno, sua participação é restrita ao contorno como agente.<br/>caso a agente seja guardiã de algum contorno interno, sua participção acontece tanto no contorno como agente quanto no contorno como guardiã. |
-| responsabilidades |  * _todas responsabilidades gerais de participantes de contorno_.<br/>* _todas responsabilidades do próprio contorno_ que não estejam delegadas a contornos internos.<br/>* trazer informações do contorno externo para todas participantes do seu contorno.<br/>* tomar ação sobre contornos sem participantes: convidar pessoas para eles ou remover o contorno, com decisão integrativa.<br/>* agir sobre [impulsionadores](contornos?id=impulsionadores) sem andamento em seu contorno.<br/>* propôr estratégia do contorno, precisando de decisão integrativa.<br/>* propôr processo do contorno, precisando de decisão integrativa.<br/>* propôr pessoas para apoiar o contorno.<br/>* compartilhar indicadores com o contorno externo, na frequência sugerida pelo contorno externo.<br/>* compartilhar sobre o progresso dos projetos com o contorno externo, na frequência sugerida pelo contorno externo, informando como isso se conecta à estratégia e propósito do contorno externo.| * _todas responsabilidades gerais de participante de contorno_.<br/>* _todas responsabilidades do próprio contorno_ que não estejam delegadas a contornos internos. | 
+| responsabilidades |  * _todas responsabilidades gerais de participantes de contorno_.<br/>* _todas responsabilidades do próprio contorno_ que não estejam delegadas a contornos internos.<br/>* trazer informações do contorno externo para todas participantes do seu contorno.<br/>* tomar ação sobre contornos sem participantes: convidar pessoas para eles ou remover o contorno, com decisão integrativa.<br/>* agir sobre [impulsionadores](outlines#impulsionadores) sem andamento em seu contorno.<br/>* propôr estratégia do contorno, precisando de decisão integrativa.<br/>* propôr processo do contorno, precisando de decisão integrativa.<br/>* propôr pessoas para apoiar o contorno.<br/>* compartilhar indicadores com o contorno externo, na frequência sugerida pelo contorno externo.<br/>* compartilhar sobre o progresso dos projetos com o contorno externo, na frequência sugerida pelo contorno externo, informando como isso se conecta à estratégia e propósito do contorno externo.| * _todas responsabilidades gerais de participante de contorno_.<br/>* _todas responsabilidades do próprio contorno_ que não estejam delegadas a contornos internos. | 
 
 ## Alocação de pessoas em contornos
 Para poder ser alocada em algum contorno, uma pessoa deve ser parceira da organização, seja qual for a forma: colaboradora contratada, parceira ou outra forma acordada. E para se tornar parceira, é esperado que exista algum contorno com essa responsabilidade, como o [contorno especial de Manutenção de Parceria](apps#contorno-manuten%C3%A7%C3%A3o-de-parceria).
@@ -205,7 +205,7 @@ Imagine que desejamos citar um contorno do escopo de "frontend" numa organizaç�
 Para identificar de forma exclusiva, poderíamos:
   * usar o atributo [apelido](#apelido) que o contorno definiu.
     * exemplo: ```Frontend XYZ Mestres do Javascript```. 
-  * usar [anotação de hierarquia](curiosidades#sobre-a-anota%C3%A7%C3%A3o-de-hierarquia-para-identifica%C3%A7%C3%A3o-de-contorno) com os escopos dos contornos.
+  * usar [anotação de hierarquia](curiosities#sobre-a-anota%C3%A7%C3%A3o-de-hierarquia-para-identifica%C3%A7%C3%A3o-de-contorno) com os escopos dos contornos.
     * Para utilizar esse formato de anotação, comece pelo nome do maior contorno da organização e vá até o contorno atual usando o "." (ponto) como conector. 
       * por exemplo, se você deseja citar o contorno "frontend", que está dentro do contorno de "implementação", que está dentro do contorno de "produto XYZ", e que por fim está dentro da "organização ABC", você pode usar a anotação: 
         * ```organização ABC.produto XYZ.implementação.frontend```.
@@ -219,7 +219,7 @@ Regras:
 * ela é decidida pelo contorno externo através de decisão integrativa. 
 
 ## Responsabilidades (’Como?’)
-[Responsabilidades](perguntas#como-definir-as-responsabilidades-de-um-contorno) são acordos de expectativas sobre as principais ações recorrentes que as pessoas de um contorno cuidarão. Elas deixam explícitas quaisquer coisas que não são facilmente deduzidas ao ler a razão de existir.
+[Responsabilidades](questions#como-definir-as-responsabilidades-de-um-contorno) são acordos de expectativas sobre as principais ações recorrentes que as pessoas de um contorno cuidarão. Elas deixam explícitas quaisquer coisas que não são facilmente deduzidas ao ler a razão de existir.
 
 As pessoas têm autoridade para agir e fazer o que for necessário para expressar a razão de existir de um contorno, mesmo que algo não esteja listado nas responsabilidades, sem necessidade de aprovação de outras pessoas de fora de seu contorno, sendo necessário respeitar [acordos](#acordos), [estratégia](#estrat%C3%A9gia-como), [processo](#processo-como) e [recursos de controle exclusivo](#recursos-de-controle-exclusivo-como) de outros contornos.
 
@@ -243,7 +243,7 @@ Evoluímos para tomar decisões muito rapidamente com base em uma varredura parc
 ## Estratégia (’Como?’)
 A estratégia é uma declaração explícita de diretrizes ou limites de segurança do contorno que facilitam tomadas de decisões, priorizações e experimentos à razão de existir do contorno e que se alinha com a estratégia atual do contorno externo. 
 
-Nela é possível conter [regras, renúncias ou práticas recorrentes (checklist)](refer%C3%AAncias#refer%C3%AAncias-sobre-estrat%C3%A9gias).
+Nela é possível conter [regras, renúncias ou práticas recorrentes (checklist)](references#refer%C3%AAncias-sobre-estrat%C3%A9gias).
 
 A estratégia é proposta pela guardiã do contorno, **alinhada com a estratégia do contorno externo** e definida em [decisão integrativa](#decis%C3%A3o-integrativa) no próprio contorno.
 
@@ -254,7 +254,7 @@ A partir daí priorize os projetos que estejam alinhados à nova estratégia.
 ## Processo (’Como?’)
 ![processo](assets/processo.png)
 
-Contornos que tenham processamento de demandas com expectativa de etapas a seguir, devem explicitar como [processo](refer%C3%AAncias#refer%C3%AAncias-sobre-mapeamento-de-processo).
+Contornos que tenham processamento de demandas com expectativa de etapas a seguir, devem explicitar como [processo](references#refer%C3%AAncias-sobre-mapeamento-de-processo).
 Um processo nada mais é que um acordo estrutural, por isso precisando de decisão integrativa. Contudo, ele é um atributo próprio do contorno.
 
 Entender as demandas e etapas auxiliará saber que tipo de outros contornos internos serão necessários para dar vazão ao trabalho e entregar o resultado.
@@ -414,7 +414,7 @@ Ao registrar um impulsionador, explicite qual é o seu tipo:
 - **Reação** (feedback): quando alguém deseja reações emocionais, opiniões ou ideias, mas não é esperado necessariamente respostas às reações.
 - **Discussão**: quando deseja discutir ideias e pontos de vista.
 - **Cocriação de proposta**: quando deseja fazer uma [ideação em grupo e criar uma proposta](#ideação-e-cocriação-de-proposta).
-- **[Decisão integrativa](contornos#decis%C3%A3o-integrativa)**: quando há uma proposta a ser decidida de forma integrativa. Se for necessário, explicite qual contorno tem autoridade para decidir ou de qual contorno é esperada a decisão.
+- **[Decisão integrativa](outlines#decis%C3%A3o-integrativa)**: quando há uma proposta a ser decidida de forma integrativa. Se for necessário, explicite qual contorno tem autoridade para decidir ou de qual contorno é esperada a decisão.
 
 ### Exemplos de uso
 | Imagine que... | Impulsionador com intenção de... |
@@ -476,7 +476,7 @@ Ao apresentar uma proposta para decisão integrativa, utilize esse processo:
   - se for uma objeção válida, a proponente deve adaptar a proposta para cuidar das objeções. e, em seguida, o processo volta para o estágio de **esclarecimento** mais acima, onde as pessoas poderão tirar dúvidas sobre as alterações e segue para próximos estágios: reações, ajustes e decisão integrativa.
 
 ### Decisão integrativa assíncrona
-A decisão integrativa pode ser realizada de forma assíncrona utiizando o app de [decisão integrativa assíncrona de proposta](apps?id=decisão-integrativa-assíncrona-de-proposta).
+A decisão integrativa pode ser realizada de forma assíncrona utiizando o app de [decisão integrativa assíncrona de proposta](apps#decisão-integrativa-assíncrona-de-proposta).
 
 # Ação extraordinária
 É previsto que ocorram ações extraordinárias que violem estratégia, processo, recursos de controle exclusivo ou acordos.
