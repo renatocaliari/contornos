@@ -44,13 +44,14 @@
     <script>
         var repovar = "https://github.com/renatoac/contornos";
 	window.$docsify = {
-	    name: 'div class="sidebar-logo">' +
+	    name: '<div class="sidebar-logo">' +
     '  <span class="sidebar-logo-title">Contornos</span>' +
     "</div>" +
     '<select id="lang-selector" name="language" class="sidebar-version-select">' +
     '<option value="pt-BR">Português</value>' +
     '<option value="en-US">English</value>' +
     "</select>",
+            nameLink: false,
 	    repo: repovar,
 	    coverpage: ['/','/en-US/'],		
 	    homepage: "inicio.md",
@@ -113,7 +114,7 @@
 		)
 	    , function (hook, vm) {
 		      hook.mounted(function () {
-			Docsify.dom.find("#language-selector", function (e) {
+			Docsify.dom.find("#lang-selector", function (e) {
 			  // I'm using the "hash" router mode
 			  window.location.hash = e.target.value;
 			});
