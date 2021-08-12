@@ -10,6 +10,6 @@
 - ✔️ mais agilidade e experimentação
 - ✔️ mais adaptação fluída da estrutura 
 
-[Read in 🇺🇸 English](en)
+[Read in 🇺🇸 English](en/)
 
 [Saiba mais](start)
