@@ -118,9 +118,9 @@
 		    '📝 Editar no GitHub'
 		),
 		    function (hook, vm) {
-		      hook.doneEach(function() {
+		      hook.mounted(function() {
 		          selector = Docsify.dom.find("#lang-selector");
-			  window.location.hash = selector.target.value;
+			  window.location.hash = selector.value;
 		      });
 		    },
 	   ]
