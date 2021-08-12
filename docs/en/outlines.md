@@ -1,7 +1,5 @@
 @autoHeader:0
 
-?> Please note that, temporarily, the text below was translated using Google Translate and some manual refinement.
-
 # Principles
 - :cyclone: Take into account the organizational system as a whole and the value streams.
 - :loop: Amplify 'feedback loops'.
