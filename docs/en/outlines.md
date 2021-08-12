@@ -17,7 +17,7 @@ The organizational structure is defined by outlines. The people in the organizat
 
 The system starts with the maxim that _"everything is allowed as long as it is not explicitly forbidden"_ in some [agreement](#agreements) containing restriction or defined as [resources o exclusive control](#resources-of-exclusive-control-how) of some outline instead of the common inverse in many organizations that _"everything is forbidden as long as it is explicitly allowed"_. 
 
-[See an example of a outline structure in the Questions & Answers](questions#example-of-outline-structure).
+[See an example of an outline structure in the Questions & Answers](questions#example-of-outline-structure).
 
 # Outlines
 A outline is a scope delimited by reason for existence, responsibilities, resources of exclusive control, and proper agreements.
@@ -38,16 +38,16 @@ Examples demonstrating contexts for outline creation:
 
 **Rules**:
 - Draw new outlines based on the demands of the public, internal or external.
-- minimize the creation of outlines that depend on recurrent, planned and necessary deliveries (_handover_ or _handoff_) of other outlines that are not within the same external outline. Encourage the participants of the outlines that have dependence to have a close context in common - an external outline, favoring that they participate in meetings, decisions and treatment of [drivers](#drivers) together.
+- minimize the creation of outlines that depend on recurrent, planned and necessary deliveries (_handover_ or _handoff_) of other outlines that are not within the same external outline. Encourage the participants of the outlines that have dependence to have a close context in common - an external outline, favoring that they participate in meetings, decisions and treatment of [boosters](#boosters) together.
   - example of dependency in a different context and in the same context
     - ![Image exemplifying Handover or Handoff](./assets/handoffhandover.png ':size=480')
   - if a dependency between outlines that are in different external outlines is desired or necessary, it is recommended to create a structural role of [representative](apps#representing-structural-paper) so that the outlines have some connection.
  
 
 ## How to adapt or remove an outline?
-Anytime someone perceives that a outline needs, or is desirable, to be adapted, whatever the attribute, or that it no longer has a reason to exist, a proposal can be made to carry out this alteration or removal of the outline.
+Anytime someone perceives that an outline needs, or is desirable, to be adapted, whatever the attribute, or that it no longer has a reason to exist, a proposal can be made to carry out this alteration or removal of the outline.
 
-To remove a outline, an integrative decision by the external outline is necessary, being able to decide which outlines internal to the outline being deleted they want to bring to the outline that is making the decision.
+To remove an outline, an integrative decision by the external outline is necessary, being able to decide which outlines internal to the outline being deleted they want to bring to the outline that is making the decision.
 
 To adapt the outline, it is necessary to identify which [attribute](outlines#outline-attributes) you want to change and who has the authority to adapt it.
 
@@ -76,15 +76,15 @@ In addition to these two structural roles, it is possible to install [extra stru
   * keep the outline space and answer for its reason for existing.
 
 #### Participation
-  * every guardian of a outline is also a participant in the outer outline as [agent](#agent).
+  * every guardian of an outline is also a participant in the outer outline as [agent](#agent).
 
 #### Responsibilities
   * _all general responsibilities of outline participants_.
   * _all own outline responsibilities_ that are not delegated to internal outlines.
   * bring information from the external outline to all participants of your outline.
   * act on [boosters](outlines#boosters) without progress in its outline.
-  * to propose a outline strategy, requiring an integrative decision.
-  * to propose a outline process, needing an integrative decision.
+  * to propose an outline strategy, requiring an integrative decision.
+  * to propose an outline process, needing an integrative decision.
   * propose people to support the outline.
   * take action on direct internal outlines without participants: invite people to them or remove the outline, with integrative decision.
   * share indicators with the outer outline, at the frequency suggested by the outer outline.
@@ -94,8 +94,8 @@ In addition to these two structural roles, it is possible to install [extra stru
   * _all general responsibilities of outline participants_.
   * _all own outline responsibilities_ that are not delegated to internal outlines.
   * act on [boosters](outlines#boosters) without progress in its outline.
-  * to propose a outline strategy, requiring an integrative decision.
-  * to propose a outline process, needing an integrative decision.
+  * to propose an outline strategy, requiring an integrative decision.
+  * to propose an outline process, needing an integrative decision.
   * propose people to support the outline.
   * take action on direct internal outlines without participants: invite people to them or remove the outline, with integrative decision.
   * share indicators with the organization, at the frequency defined with participants of the highest profile.
@@ -111,7 +111,7 @@ The guardian has no authority to:
   * add new responsibilities to your role.
   * hire new people into the organization or fire people.
     * to solve both cases there may be a [special outline](apps#special-outlines) for this or a [structural agreement](#structural-agreements) that determines how hiring and firing will be done. But this is not a responsibility of the structural Guardian role, nor is it in its authority.
-  * micromanage or violate other outline agreements or exclusive control features, including internal outlines.
+  * micromanage or violate other outline agreements or resources of exclusive control, including internal outlines.
   * require **exclusive** detailed reporting from someone about tasks.
     * if someone's intention, including those in the structural guardian role, is to have updates, specifics, or projections of something on demand, they can ask these questions of anyone directly.
     * if the outline so desires, it is possible to create a structural agreement about group sharing rituals, either in meetings or through some tool, determining the frequency to be performed.
@@ -133,8 +133,8 @@ The guardian has no authority to:
 | | Guardian | Agent |
 | -- | -- | -- |
 | reason to exist | save the outline space and answer for the reason it exists. | evolve the outline towards the reason for existing. |
-| participation | every guardian of a outline is also a participant in the outer outline as [agent](#agent). | if the agent is not the guardian of some internal outline, her participation is restricted to the outline as an agent.<br/>If the agent is the guardian of some internal outline, her participation happens both in the outline as agent and in the outline as guardian. |
-| responsibilities | * _all overall responsibilities of outline participants_.<br/>* _all responsibilities of the outline itself_ that are not delegated to inner outlines.<br/>* bring information from the outer outline to all outline participants.<br/>* take action on outlines without participants: invite people to join them or remove the outline, with integrative decision.<br/>* act on [drivers](outlines#drivers) without progress in its outline.<br/>* propose outline strategy, needing integrative decision.<br/>* propose outline process, needing integrative decision.<br/>* propose people to support the outline.<br/>* share indicators with the external outline, in the frequency suggested by the external outline .<br/>* share about the progress of projects with the external outline, as often as suggested by the external outline, stating how this connects to the strategy and purpose of the external outline.| * _all outline participant general responsibilities_.<br/>* _all outline own responsibilities_ that are not delegated to internal outlines. |
+| participation | every guardian of an outline is also a participant in the outer outline as [agent](#agent). | if the agent is not the guardian of some internal outline, her participation is restricted to the outline as an agent.<br/>If the agent is the guardian of some internal outline, her participation happens both in the outline as agent and in the outline as guardian. |
+| responsibilities | * _all overall responsibilities of outline participants_.<br/>* _all responsibilities of the outline itself_ that are not delegated to inner outlines.<br/>* bring information from the outer outline to all outline participants.<br/>* take action on outlines without participants: invite people to join them or remove the outline, with integrative decision.<br/>* act on [boosters](outlines#boosters) without progress in its outline.<br/>* propose outline strategy, needing integrative decision.<br/>* propose outline process, needing integrative decision.<br/>* propose people to support the outline.<br/>* share indicators with the external outline, in the frequency suggested by the external outline .<br/>* share about the progress of projects with the external outline, as often as suggested by the external outline, stating how this connects to the strategy and purpose of the external outline.| * _all outline participant general responsibilities_.<br/>* _all outline own responsibilities_ that are not delegated to internal outlines. |
 
 ## Allocation of people in outlines
 To be able to be allocated in any way, a person must be a partner of the organization, whatever the form: hired collaborator, partner or other agreed form. And to become a partner, it is expected that there is some outline with this responsibility, such as the [Partnership Maintenance special outline](apps#contorno-manuten%C3%A7%C3%A3o-de-partnership).
@@ -152,7 +152,7 @@ A guardian for a new inner outline is appointed by integrative decision by all p
 #### Agent
 To allocate new agents in the outline, the guardian makes a proposal or asks for a [nomination process] (apps#namea%C3%A7%C3%A3o-of-people-for-a-outline), requiring an integrative decision between participants of the outline.
 
-Anyone can apply as an agent of a outline at any time, taking the matter to the guardian of the outline. The guardian of the outline can deny the request or bring the outline to an integrative decision, if it considers the person's inclusion.
+Anyone can apply as an agent of an outline at any time, taking the matter to the guardian of the outline. The guardian of the outline can deny the request or bring the outline to an integrative decision, if it considers the person's inclusion.
 
 Also, anyone can appoint a person to the structural role of agent and make an integrative decision.
 
@@ -164,18 +164,18 @@ When making an integrative decision of [naming](apps#namea%C3%A7%C3%A3o-of-peopl
 - does the person have the time and focus necessary for this other outline? It is indicated that the person himself also assess for possible objection if he is with cognitive overload to be in many different contexts that require routine activities.
 
 ### Allocation revaluation
-When allocating a person to a outline, it is necessary to define the frequency of revaluation of this allocation.
+When allocating a person to an outline, it is necessary to define the frequency of revaluation of this allocation.
 Guardians and agents will have their participation [evaluated periodically] (apps#evaluation-in-a-outline), according to the definition of frequency, in the outlines in which they participate.
 
 It is recommended to use the [Appraisal in an outline](apps#appraisal-in-a-outline).
 
 ### Withdrawal of people from outlines
-Anyone can opt out of a outline by notifying the participants of the outline in advance.
-And anyone can suggest that a person is removed from a outline, however, in this case, needing an integrative decision in it.
+Anyone can opt out of an outline by notifying the participants of the outline in advance.
+And anyone can suggest that a person is removed from an outline, however, in this case, needing an integrative decision in it.
 
 Withdrawing from an outline is different from terminating a partnership contract with the organization. It just means that the person will come out of an outline.
 
-If a person no longer participates in any other outline or is in outlines that do not use the agreed time to hire the person, they must take this issue to a outline that has responsibility for allocating people throughout the organization, such as [Special Advice outline of Allocation](apps#outline-advice-of-allocation%C3%A7%C3%A3o).
+If a person no longer participates in any other outline or is in outlines that do not use the agreed time to hire the person, they must take this issue to an outline that has responsibility for allocating people throughout the organization, such as [Special Advice outline of Allocation](apps#outline-advice-of-allocation%C3%A7%C3%A3o).
 Or, if the intention is to end the partnership, take the issue directly to an outline responsible for this scope, such as the [Partnership Maintenance special outline](apps#contorno-manuten%C3%A7%C3%A3o-de-partnership) .
 
 If these special outlines do not exist, the case should be taken to the larger outline of the organization, asking to know about outlines that it could participate in or, if it is her intention, asking to end the partnership.
@@ -184,7 +184,7 @@ If these special outlines do not exist, the case should be taken to the larger o
 Each outline has a list of attributes. Several of the attributes listed below are connected by the 'Why' questions will we do something? -> 'How' will we do something? -> 'What' will we do?.
 
 Rule:
-- for any change of attribute of a outline it is necessary to notify its external outline and internal outlines.
+- for any change of attribute of an outline it is necessary to notify its external outline and internal outlines.
 
 ## Surname and Scope
 
@@ -212,7 +212,7 @@ To uniquely identify, we could:
         * ```ABC organization.XYZ product.implementation.frontend```.
 
 ## Reason for existing (’Why?’)
-The reason for existing tells why a outline exists. The outlines are aligned and nested by it.
+The reason for existing tells why an outline exists. The outlines are aligned and nested by it.
 
 Rules:
 * the statement must be made from the perspective that the outline meets and, preferably, measurable. In the case of the largest outline, the organization, the statement of the reason for existing must be made from the perspective of the audience that the organization serves. In the case of other outlines, they can be from the external or internal audience, depending on the outline.
@@ -220,21 +220,21 @@ Rules:
 * it is decided by the external outline through integrative decision.
 
 ## Responsibilities (’How?’)
-[Responsibilities](questions#how-to-define-a-outline-responsibilities) are expectations agreements about the main recurring actions that the people of a outline will take care of. They make explicit any things that are not easily deduced from reading the reason for existing.
+[Responsibilities](questions#how-to-define-a-outline-responsibilities) are expectations agreements about the main recurring actions that the people of an outline will take care of. They make explicit any things that are not easily deduced from reading the reason for existing.
 
 People have the authority to act and do whatever is necessary to express the reason for the existence of an outline, even if something is not listed in the responsibilities, without the need for approval from other people outside their outline, and it is necessary to respect [agreements] (#agreements), [strategy](#strateg%C3%A9gia-how), [process](#process-how) and [resources of exclusive control](#resources-of-exclusive-control-how) of other outlines .
 
 It is important to know that, intentionally, the responsibilities **do not prevent other outlines from doing something described in the responsibilities**.
 To prevent this from happening it is necessary to create a structural [agreement](#agreements) that prevents other outlines from doing anything or assign [resource of exclusive control](#resources-of-exclusive-control-how) to the outline itself.
 
-The responsibilities of a outline are decided by the external outline through integrative decision.
+The responsibilities of an outline are decided by the external outline through integrative decision.
 
 ### Operational decisions
 They are situational decisions, not foreseen and defined in agreements, strategy and process, and which are within the scope of reason to exist and responsibilities of some kind.
 
 ![Operating decisions](assets/decisions.png)
 
-If an operational decision of a outline:
+If an operational decision of an outline:
 - It is safe, whether reversible or irreversible, the outline participant makes the decision, without the need to consult other people. Outline participants already have the authority to decide. **Most decisions will likely fit here. The idea of ​​the [Outlines] system is precisely to distribute decisions and authority.**
 - It is risky and reversible, it is recommended that the outline participant consults with more people, but still has authority over the decision. That is, she doesn't need to try to please, adapt or justify her decision. The intention is for her to have more knowledge and perspective on the subject and context before making a decision.
 - It is irreversible and risky, it is recommended that the outline participant makes an [integrative decision](#integrative-decisions) with the other outline participants.
@@ -268,16 +268,16 @@ Rules:
 * capture all the necessary steps in a flow without getting to the level of predicting small tasks.
 * start with the question: what is the first thing that is done or needs to be done when a demand arrives? And then ask: what's the next thing? Continue with this question until you answer the question: What needs to be completed to deliver the result?
 
-## Exclusive Control Features (’How?’)
-Each outline can have resources (material, digital or conceptual) of exclusive control. Anyone from another outline wishing to manipulate this feature will need to ask for the desired action from the outline's participants who have exclusive control.
+## Resources of exclusive control (’How?’)
+Each outline can have resources (material, digital or conceptual) of exclusive control. Anyone from another outline wishing to manipulate this resource will need to ask for the desired action from the outline's participants who have exclusive control.
 
-The inner outlines inherit the exclusive control features of the outer outline.
+The inner outlines inherit the resources of exclusive control of the outer outline.
 
 It is important to remember that no one person in the organization has control over the resources, but the very outline in which it belongs. If at any point she leaves the outline, she loses exclusive control of the resource.
 
-For some outline to have exclusive control over some feature it is necessary [integrative decision](#decis%C3%A3o-integrative) by the external outline.
+For some outline to have exclusive control over some resource it is necessary [integrative decision](#decis%C3%A3o-integrative) by the external outline.
 
-If a outline has exclusive control over the organization's resources as a whole (eg, hiring process or official tools), it can make decisions without the need for an integrative decision on the impacted outlines. However, it is recommended to ask for reactions about possible changes when something impacts too many outlines or when there is a great risk.
+If an outline has exclusive control over the organization's resources as a whole (eg, hiring process or official tools), it can make decisions without the need for an integrative decision on the impacted outlines. However, it is recommended to ask for reactions about possible changes when something impacts too many outlines or when there is a great risk.
 
 Simple rule:
 - encourage the resources of exclusive control to belong to the outlines that have the responsibilities of caring for and using the resources.
@@ -319,3 +319,182 @@ The [Outlines] system itself is an agreement for the development of the organiza
 However, from then onwards, new agreements may be necessary.
 
 There are two types of agreements: structural and personal. Both can be adapted, and any participant in the outline can suggest a modification proposal.
+
+Rules:
+* Create agreements when recurring issues arise that require the same type of decision.
+* Avoid trying to predict something in agreements without evidence or knowledge.
+* Agreements are made to define structural or personal expectations to be met.
+* An agreement must be created only with [integrative decision](#decis%C3%A3o-integrative) between the outline participants.
+* Agreements can only restrict or create expectations within their own inner outline and outlines as long as they do not violate the exclusive control of other outer outlines.
+* If an agreement proposal is also related to the reason for existing, responsibilities, strategy, process or resources of exclusive control of other outlines outside the current outline, it is indicated that there is an evaluation of the proposal with the guardians of these other outlines and that a integrative decision with them.
+
+**Time for reassessment**
+
+It is indicated that agreements have defined the time for revaluation. And when the date arrives, the agreement is evaluated to understand if it still makes sense in the new context and goes through an integrative decision to remain valid.
+
+### Structural Agreements
+Structural agreements are related to the organizational structure and its outlines, not creating expectations about people.
+
+Examples of structural agreements:
+- creation or adaptation of outlines, outline attributes, protocols, strategy, processes, ceremonies
+- [apps](apps)
+- and even the [Outlines] system itself.
+
+Create and adapt new framework agreements as needed, as per boosterrs.
+
+### Personal Agreements
+Personal agreements are related to people, such as behavior and personal expectations, not creating expectations about structure.
+
+## Indicators
+Each outline has indicators that can be shared by more than one outline.
+
+Indicators can be **metric** (metrics) [1] or **confirmation** [2] of recurrent practice.
+Although indicators rarely provide definitive answers about something, they promote conversations, discoveries, understanding and support decision-making and adaptations using a common base.
+
+1. an outline will possibly have indicators of the **metric** type, decided by the outer outline, to indicate health and results.
+2. if the strategy also has recurrent practices to be carried out, probably the outline itself will define **confirmation** type indicators to inform whether such practice is being carried out in the expected recurrence (eg, daily, weekly, monthly, etc.).
+
+Rules:
+- the external outline defines, by integrative decision, the main outline indicators. Remembering that the guardian of the outline is a participant in the external outline.
+- the outline itself can also add other indicators of the metric or confirmation type, related to your strategy.
+- Indicators have frequency of sharing on update defined by the outer outline. The outline guardian shares the last result of the indicators at the agreed frequency.
+
+
+### Metric type indicators
+Categories:
+- **health**, to monitor important aspects of the business, service, product or people engagement in an outline. It is possible to have lower and upper bound that indicate the range of health. Examples of metrics indicator model, without delimiters, related to people engagement with a product or service:
+  - _"Percentage of (members / new customers / recurring customers) that perform at least (the minimum threshold for user action) for (period X)."_
+  - _"Percentage of (customer segment) that perform (action) in (a given context)."_
+- **result**, indicators that customers - internal or external - use in their decision-making and choice of services or products. It is possible to have a lower and/or higher delimiter. Below the lower limit, it is not meeting customer needs. Above superior may indicate that customers do not perceive the added benefits and may also be overserving unnecessarily when it causes harm to other aspects of the business, service or product.
+- **survival**, containing a target, in an exceptional case only when it is necessary to promote a quick change to save the business, product or service.
+
+It is recommended that:
+- are related to aspects of quality and quantity in relation to the reason for existing, strategy, result generated from the perspective of customers, the outline or engagement of people.
+  - changes in the strategy of an outline lead to adaptations of some indicators that may reflect the execution and result of the strategy.
+  - changes in the way that customers evaluate a result lead to adaptations of some indicators that may reflect the evaluation of that result.
+- are based on results and not on activities (outcome-based and not activity-based).
+- are composed of leading and lagging indicators. Early indicators tell us about trends and predictive signals. Late indicators confirm an ongoing trend, related to throughput measurement. This includes, for example, information on whether an outline is solving your demands.
+
+# Who defines each outline attribute?
+
+| attribute | the outer outline | the outline itself |
+| -- | -- | -- |
+| nickname | | ✔️ |
+| scope | ✔️ | |
+| reason to exist | ✔️ | |
+| responsibilities | ✔️ | |
+| resources of exclusive control | ✔️ | |
+| strategy | | ✔️ |
+| process | | ✔️ |
+| indicators | ✔️ (defines the main ones) | ✔️ (can add others) |
+
+## Exception: greater outline, the organization itself
+
+If the outline in question is the largest outline, the organization itself, then everything that depends on the external outline - which does not exist in this case - is carried out by the participants of the outline itself with an integrative decision.
+
+# Boosters
+Boosters is everything that boosts the organization's learning or adaptation or the learning and care of people.
+The boosters are expected to flow continuously.
+
+Rules:
+- Any participant of an outline has the responsibility to understand and deal with boosters related to its outlines or its person.
+- Register boosters in some shared list for processing.
+- [Declare booster type](#booster-types) for processing.
+- Describe the motivation and context of the booster.
+- When creating a booster it is necessary to declare which outline you are creating the booster from and for which outline. Ex: "Development outline booster for product outline". The only exception is when it is something personal, unrelated to the organizational structure (outline, reason for existing, responsibilities, strategy, process, indicator, resources of exclusive control, agreements) or operational work (projects and tasks), when not it is necessary to inform from which outline the booster is generating.
+- A trigger is expected to be pulled by any participant who has responsibility for dealing with the trigger context.
+- It is necessary that the boosters are pulled and dealt with one by one, with a focus on the context and intention of the booster. Do not collectivize the booster by seeking to modify what is expected, bringing in other people's concerns and intentions, unless it is a request from the person who opened the original booster.
+  - When dealing with a booster, as soon as someone realizes that the focus left that booster or the person who brought it, it deviated from the subject, left the expected type of the booster or started to add boosters from other people in the booster of the person who shared it, ** it is necessary to warn and interrupt to bring the focus back to the subject, type and person who shared the booster**.
+
+## Types of boosters
+When registering a booster, specify its type:
+- **Warning**: when you want to notify about something without necessarily waiting for reactions.
+- **Celebration**: when you want to celebrate something.
+- **Request**: when you want to request something from an outline or someone: information, project or task.
+- **Listens**: when a person wants to be heard or understood by others. Examples of supporting tools: open questions, summary or [reflections](https://nelianafiglie.com.br/blog/tipos-de-reflexao-2/).
+- **Reaction** (feedback): when someone wants emotional reactions, opinions or ideas, but is not necessarily expected to respond to the reactions.
+- **Discussion**: when you want to discuss ideas and points of view.
+- **Proposal co-creation**: when you want to make a [group ideation and create a proposal](#ideation-and-proposal-co-creation).
+- **[Integrative decision](outlines#decis%C3%A3o-integrative)**: when there is a proposal to be decided in an integrative way. If necessary, specify which outline has the authority to decide or which outline the decision is expected from.
+
+### Usage examples
+| Imagine that... | Booster with intention to... |
+| -- | -- |
+| there is an agreed recurring meeting that no longer makes sense to one person and there is a desire to modify or cancel that meeting | [integrative decision](apps#declare-inten%C3%A7%C3%A3o) with the proposed modification or cancellation. |
+| a person wants to create a proposal about a project that is already in charge of its outline but wants to make the proposal in a collaborative way | [co-creation of proposal](apps#declare-inten%C3%A7%C3%A3o). |
+| a participant needs to make an integration between two company software and there is an outline that takes care of integrations or company technology | [action request](apps#declare-inten%C3%A7%C3%A3o) by a project for this. |
+| a participant needs to make an integration between two company software and there is no outline to take care of it | [action request](apps#declare-inten%C3%A7%C3%A3o) for a project to the guardian of some outline that encompasses the larger scope of the booster (eg product) to process that booster and in parallel [decision integrative] (apps#declarar-inten%C3%A7%C3%A3o) proposing the creation of a specific outline for this, if it is a recurring project type. |
+| a participant left an outline and would like to notify the participants of this outline | [warning](apps#declare-inten%C3%A7%C3%A3o). |
+| a person of a certain outline is feeling overwhelmed and has the perception that it is necessary to have someone else as an agent in the outline to divide projects and tasks. | [integrative decision](apps#declare-inten%C3%A7%C3%A3o) for a proposal to allocate a person as an agent in the outline. |
+| a person has gained a child and would like to share the news with the participants of the outlines in which he works. | [celebration](apps#declare-inten%C3%A7%C3%A3o). |
+| a person is having difficulty discussing important matters through the company's official tool because there are messages sent to other people in the area that go over 5 days without replies. | [integrative decision](apps#declarar-inten%C3%A7%C3%A3o) with a proposal for a personal agreement that foresees the need to respond to messages that other people have marked you within 48 hours. |
+
+The possibilities of boosters are almost endless, appearing all the time in the complexity of daily life and favoring the organization's continuous adaptation.
+
+# Integrative decision
+Integrative decision is a type of decision **in consent** involving all participants in a decision. When not specified, by default, an integrative decision involves all participants in an outline.
+
+Consent is not a matter of personal preference, but whether there are objections.
+
+## Valid objections
+In outline, there are 3 criteria to consider a valid objection:
+  1. **Violation or Obstacle**: reveals a violation of the organization's agreements or reveals obstacles, specifically for the outlines of who raised the objection, to expressing their reason for existing and carrying out their responsibilities. If the person raises an objection on behalf of outlines he does not participate in, do not consider a valid objection. The guardians of each outline may raise their own objections.
+  2. **Damage caused by the proposal**: reveals damage that will only exist if the proposal is put into practice and that there will not be adequate opportunity for adaptation before the proposal causes the damage.
+  3. **Evidence**: is based on evidence. If it is predictive and does not pass criterion 2, do not consider it a valid objection in this process.
+
+If there are objections, the person making the proposal must adapt it to integrate the objections. If this is not possible, the proposal is filed.
+If there is adaptation, it is necessary to consent to the change with the outline participants.
+
+An integrative decision, by default, is made for all structural agreements.
+
+It is recommended that you use the [proposal integrative decision] app (apps#integrative-proposal-decision).
+ 
+If a decision impacts other outlines, it is recommended that you share the proposal for the reactions of people from the impacted outlines, and only then make an integrative decision on the outline that created the proposal.
+
+## Process for proposal with integrative decision
+### Ideation and proposal co-creation
+To create a collaborative proposal, use this process:
+
+- **Introduction of the booster with context**
+- **Clarification**: make a round where everyone will have the opportunity, one by one, to ask questions to fully understand the proposal. One question at a time. As soon as questions arise, the person who proposes can answer. If anyone has an opinion or suggestion, let them know to save it for the next step. The step is for clarification only.
+- **Reactions**: make a round where everyone will have the opportunity, one by one, to offer any reaction on the proposal or suggestion that could help improve the proposal. The proposing person listens to all reactions but does not respond to them.
+- **Criteria discovery**: Run a round so people can share criteria they feel they need to take into account. (eg budget, time, entertainment level, schedule, screen design, flow)
+- **Criteria selection**: the person who brought the booster selects the criteria they consider important and makes an integrative decision. If she wishes, she can delegate this selection of criteria to someone else.
+- **Ideation for selected criteria**: make a round where each person presents ideas for any of the selected criteria. Ideas can be contradictory. The intention is to create options.
+- **Nomination of bidders**: whoever brought the booster, nominates 1 to 3 people to prepare the proposal and makes an integrative decision. She can volunteer. If she wishes, she can delegate this appointment of people to someone else.
+- **Preparation of proposal**: moment in which the person(s) nominated seek inspiration in what was conceived and prepare a proposal. It is possible to choose some ideas, forgo others and invent others.
+- **[Integrative proposal decision](#integrative-proposal-decision)**
+
+### Integrative proposal decision
+When submitting a proposal for integrative decision, use this process:
+- **Proposal**: a written proposal is created to deal with some issue.
+- **Clarification**: make a round where everyone will have the opportunity, one by one, to ask questions to fully understand the proposal. One question at a time. As soon as questions arise, the person who proposes can answer. If anyone has an opinion or suggestion, let them know to save it for the next step. The step is for clarification only.
+- **Reactions**: make a round where everyone will have the opportunity, one by one, to offer any reaction on the proposal or suggestion that could help improve the proposal. The person proposing listens to all reactions but does not need to respond to them.
+- **Adjustments**: based on the questions and reactions, the proposing person can change the proposal (or not) and clarify anything that was not already explicit and specific.
+- **Integrative decision**:
+  - the proposing person seeks consent to his/her proposal, adjusted or not.
+  - if any participant has an objection, she declares it to the bidder.
+  - if it is a valid objection, the tenderer must adapt the proposal to address the objections. and then the process goes back to the **clarification** stage above, where people can ask questions about the changes and goes to the next stages: reactions, adjustments and integrative decision.
+
+### Asynchronous integrative decision
+The integrative decision can be performed asynchronously using the [asynchronous integrative-decision of proposal] app (apps#integrative-asynchronous-of-proposal-decision).
+
+# Extraordinary action
+Extraordinary actions are expected to occur that violate strategy, process, resources of exclusive control or agreements.
+
+These actions meet two needs:
+* prevent or mitigate negative impacts or address a critical opportunity.
+* shed light on limitations of the current structure.
+
+Condition for extraordinary actions:
+* negative impacts or critical opportunities that, in anyone's judgment, cannot wait for the adaptation of attributes from one outline or processing one booster on the authority of another outline.
+
+Rules for performing an extraordinary action:
+* consider the context and available information of the current structure and the risk or opportunity.
+* make the best judgment possible with what you have at your disposal.
+* perform the actions you deem appropriate.
+
+Rules after extraordinary action:
+* reveal the extraordinary action to the guardians of the impacted outlines, through a [booster](#boosters) with [warning intent](apps#declare-inten%C3%A7%C3%A3o).
+* create a [booster](#boosters) of [integrative decision](#booster-types), proposing adaptations in outlines or agreements, if that resolves the issue when something similar comes up again.
+
