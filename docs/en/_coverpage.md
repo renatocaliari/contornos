@@ -10,6 +10,6 @@
 - ✔️ more agility and experimentation
 - ✔️ more fluid adaptation of the structure 
  
-[Leia em 🇧🇷 Português](/)
+[Leia em 🇧🇷 Português]()
  
 [Know more](start)
