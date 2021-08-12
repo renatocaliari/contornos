@@ -47,7 +47,7 @@
 	    name: '<div class="sidebar-logo">' +
     '<span class="sidebar-logo-title" style="cursor: pointer;" onclick="window.location.hash=\'#\'">Contornos</span>' +
     "</div>" +
-    '<select id="lang-selector" name="language" class="sidebar-lang-select">' +
+    '<select id="lang-selector" name="lang-selector" class="sidebar-lang-select">' +
     '<option value="" selected="selected">Português</value>' +
     '<option value="en">English</value>' +
     "</select>",
@@ -117,16 +117,18 @@
 		    null,
 		    '📝 Editar no GitHub'
 		)
-	    , function (hook, vm) {
+	    
+	}
+
+	window.$docsify.plugins = [].concat(
+		  function (hook, vm) {
 		      hook.mounted(function () {
 		          selector = Docsify.dom.find("#lang-selector");
 			  window.location.hash = selector.target.value;
 		      });
 		    },
-		  ]
-	}
-
-
+		  ]		
+		, $docsify.plugins);
     </script>
 
     <script src="//unpkg.com/docsify-share/build/index.min.js"></script>
