@@ -1,4 +1,4 @@
-[Start](start)
+- [Start](start)
 - [Outlines](outlines)
 - [Apps - Extra Agreements](apps)
 - [Curiosities](curiosities)
