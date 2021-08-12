@@ -12,3 +12,4 @@
 
 [Saiba mais](start)
 
+[Read in 🇺🇸 English](https://renatocaliari.github.io/contornos/#/en/)
