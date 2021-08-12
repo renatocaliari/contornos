@@ -10,5 +10,5 @@
 - ✔️ mais agilidade e experimentação
 - ✔️ mais adaptação fluída da estrutura 
 
-[Saiba mais](inicio)
+[Saiba mais](start)
 
