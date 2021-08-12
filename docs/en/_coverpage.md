@@ -10,6 +10,6 @@
 - ✔️ more agility and experimentation
 - ✔️ more fluid adaptation of the structure 
  
-[Leia em 🇧🇷 Português](https://renatocaliari.github.io/contornos/#/)
+[Leia em 🇧🇷 Português](#)
 
 [Know more](start)
