@@ -116,19 +116,17 @@
 		    repovar + '/blob/master/docs/',
 		    null,
 		    '📝 Editar no GitHub'
-		)
-	    
-	}
-
-	window.$docsify.plugins = [].concat(
-		  function (hook, vm) {
-		      hook.mounted(function () {
+		),
+		    function (hook, vm) {
+		      hook.ready(function () {
 		          selector = Docsify.dom.find("#lang-selector");
 			  window.location.hash = selector.target.value;
 		      });
 		    },
-		  ]		
-		, $docsify.plugins);
+	   ]
+	    
+	}
+
     </script>
 
     <script src="//unpkg.com/docsify-share/build/index.min.js"></script>
