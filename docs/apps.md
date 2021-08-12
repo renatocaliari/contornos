@@ -2,14 +2,14 @@
 
 # Apps
 
-Apps são [acordos estruturais](https://github.com/renatoac/contornos/wiki#491-acordos-estruturais) extras pré-definidos prontos para resolver algumas necessidades não contempladas, intencionalmente, no coração do sistema operacional [[Contornos]](https://github.com/renatoac/contornos/wiki).
+Apps são [acordos estruturais](outlines#acordos-estruturais) extras pré-definidos prontos para resolver algumas necessidades não contempladas, intencionalmente, no coração do sistema operacional [Contornos](#outlines).
 
 Um app pode ter dependência de outros app, caso seja especificado.
 
 Além dos Apps contemplados aqui, consulte também: 
-- [Curiosidades](https://github.com/renatoac/contornos/wiki/curiosidades)
-- [Perguntas e Respostas](https://github.com/renatoac/contornos/wiki/Perguntas-&-Respostas)
-- [Referências](https://github.com/renatoac/contornos/wiki/referências)
+- [Curiosidades](curiosities)
+- [Perguntas e Respostas](questions)
+- [Referências](references)
 
 # Como utilizar os Apps
 Faça uma decisão integrativa no contorno que deseja utilizar e importe-o nos acordos estruturais. 
@@ -191,7 +191,7 @@ Contorno com pessoas com intenção de fazer escuta empática, sem aconselhament
 ## Decisão integrativa assíncrona de proposta
 [Em desenvolvimento]
 
-Uma das dificuldade em decisão integrativa assíncrona é conseguir passar pelo processo de [decisão integrativa de uma proposta](contornos#decisão-integrativa-de-proposta) em um tempo razoável e sem cair no esquecimento, por isso aqui há dois modelos para inspiração.
+Uma das dificuldade em decisão integrativa assíncrona é conseguir passar pelo processo de [decisão integrativa de uma proposta](outlines#decisão-integrativa-de-proposta) em um tempo razoável e sem cair no esquecimento, por isso aqui há dois modelos para inspiração.
 
 #### Modelo 1
 
@@ -201,7 +201,7 @@ Para conseguir fluidez no processo assíncrono de decisão integrativa:
   * **Esclarecimento**: 48h.
   * **Reação**: 48h.
   * **Ajuste**: 72h.
-  * **[Decisão integrativa](contornos#decis%C3%A3o-integrativa)**: o tempo restante antes de vencer os 30 dias. Caso passe os dias de validade a proposta é arquivada.
+  * **[Decisão integrativa](outlines#decis%C3%A3o-integrativa)**: o tempo restante antes de vencer os 30 dias. Caso passe os dias de validade a proposta é arquivada.
 
 #### Modelo 2
 
@@ -211,7 +211,7 @@ Para conseguir fluidez no processo assíncrono de decisão integrativa:
   * **Esclarecimento**: 48h.
   * **Reação**: 48h.
   * **Ajuste**: 72h.
-  * **[Decisão integrativa](contornos#decis%C3%A3o-integrativa)**: 72h.
+  * **[Decisão integrativa](outlines#decis%C3%A3o-integrativa)**: 72h.
     * critérios:
        * 70% de pessoas do contorno precisam declarar que não possuem objeção, desde que 70% equivalha no mínimo a 5 pessoas. 
        * caso contrário, é necessária a participação de 100% das pessoas nessa etapa e a proposta fica aguardando até vencer os 30 dias.
@@ -482,7 +482,7 @@ A remuneração pode ser por horas fixas pré-definidas na contratação relacio
 
 ## Processo seletivo
 [A ser desenvolvido]
-Enquanto isso, consulte [Referências sobre processo seletivo](refer%C3%AAncias#refer%C3%AAncias-sobre-processo-seletivo)
+Enquanto isso, consulte [Referências sobre processo seletivo](references#refer%C3%AAncias-sobre-processo-seletivo)
 
 ## Combinação com outros processos ou tecnologias existentes
 É possível combinar [Contornos] com a adaptação de outros processos já existentes.
