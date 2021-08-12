@@ -66,6 +66,21 @@
 		responsiveTables: false  // default
 	    },    
 
+  alias: {    
+    "/(.*)": "https://github.com/renatocaliari/contornos/tree/master/docs/$1",
+    "/pt-BR/(.*)": "https://github.com/renatocaliari/contornos/tree/master/docs/$1",
+    "/en-US/(.*)": "https://github.com/renatocaliari/contornos/tree/master/docs/$1",
+  },
+  fallbackLanguages: ["pt-BR", "en-US"],
+  namespaces: [
+    {
+      id: "lang",
+      values: ["pt-BR", "en-US"],
+      optional: true,
+      selector: "#lang-selector",
+    }
+  ],		
+		
         share: {
             reddit: true,
             linkedin: true,
@@ -109,6 +124,7 @@
     <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/external-script.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
+    <script src="https://unpkg.com/docsify-namespaced"></script>	
     <!-- Syntax highlighting -->
     <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-markdown.min.js"></script>
 
