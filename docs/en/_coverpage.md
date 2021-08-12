@@ -1,4 +1,4 @@
-![Outlines](./assets/outlines.png ':size=220')
+![Outlines](https://raw.githubusercontent.com/renatocaliari/contornos/master/docs/en/assets/outlines.png ':size=220')
 	
 <h1 id="cover-heading">
 <span>Outlines<small>0.8.7</small></span>
