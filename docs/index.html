@@ -46,12 +46,9 @@
 	window.$docsify = {
 	    name: "Contornos",
 	    repo: repovar,
-	    coverpage: {
-	       '/': 'coverpage.md',
-	       '/en-US/': 'coverpage.md'
-	    },		
+	    coverpage: ['/','/en-US/'],		
 	    homepage: "inicio.md",
-	    loadSidebar: "sidebar.md",
+	    loadSidebar: true,
 	    auto2top: true,
 
 	    maxLevel: 20,
