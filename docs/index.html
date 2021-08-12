@@ -119,10 +119,8 @@
 		)
 	    , function (hook, vm) {
 		      hook.mounted(function () {
-			Docsify.dom.find("#lang-selector", function (e) {
-			  // I'm using the "hash" router mode
-			  window.location.hash = e.target.value;
-			});
+		          selector = Docsify.dom.find("#lang-selector");
+			  window.location.hash = selector.target.value;
 		      });
 		    },
 		  ]
