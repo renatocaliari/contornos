@@ -16,17 +16,17 @@ Pense nisso como um sistema operacional enxuto 'open-source' (código aberto), q
 
 ---
 ### Saiba mais
-- [Contornos](contornos) - todas as regras do sistema Contornos.
+- [Contornos](outlines) - todas as regras do sistema Contornos.
 - [Apps](apps) - biblioteca de acordos extras pré-definidos para implementar no sistema [Contornos].
-- [Curiosidades](curiosidades)
-- [Perguntas & Respostas](perguntas)
+- [Curiosidades](curiosities)
+- [Perguntas & Respostas](questions)
   - Como iniciar com o sistema Contornos?
   - Como mapear e dividir os contornos?
   - Como medir o impacto de mudanças no design organizacional?
   - e muito mais.
-- [Referências](referencias)
-- [Comparação entre tecnologias sociais](tecnologias): Organizações Orgânicas (O2), Sociocracy For All, Sociocracia 3.0 e Holacracia.
-- [Ferramentas digitais](ferramentas) para apoiar no uso do sistema Contornos.
+- [Referências](references)
+- [Comparação entre tecnologias sociais](technologies): Organizações Orgânicas (O2), Sociocracy For All, Sociocracia 3.0 e Holacracia.
+- [Ferramentas digitais](tools) para apoiar no uso do sistema Contornos.
   - Você poderá experimentar um modelo básico para aplicação de [Contornos] configurado na ferramenta Fibery.io.
 
 ---
