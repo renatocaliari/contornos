@@ -10,5 +10,5 @@
 - ✔️ more agility and experimentation
 - ✔️ more fluid adaptation of the structure 
 - 
-[Know more](begin)
+[Know more](start)
 
