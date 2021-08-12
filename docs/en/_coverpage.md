@@ -9,8 +9,7 @@
 - ✔️ more autonomy with responsibility
 - ✔️ more agility and experimentation
 - ✔️ more fluid adaptation of the structure 
-- 
-[Know more](start)
-
+ 
 [Leia em 🇧🇷 Português](https://renatocaliari.github.io/contornos/#/)
 
+[Know more](start)
