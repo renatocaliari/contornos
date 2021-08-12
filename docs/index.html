@@ -49,11 +49,11 @@
     "</div>" +
     '<select id="lang-selector" name="language" class="sidebar-lang-select">' +
     '<option value="" selected="selected">Português</value>' +
-    '<option value="en-US">English</value>' +
+    '<option value="en">English</value>' +
     "</select>",
             nameLink: false,
 	    repo: repovar,
-	    coverpage: ['/','/en-US/'],		
+	    coverpage: ['/','/en/'],		
 	    homepage: "inicio.md",
 	    loadSidebar: true,
 	    auto2top: true,
@@ -74,19 +74,19 @@
 	    },    
 
   alias: {   
-    "/(en-US)/.*_sidebar.md":
-      "https://raw.githubusercontent.com/renatocaliari/contornos/master/docs/en-US/_sidebar.md",
+    "/en/.*_sidebar.md":
+      "https://raw.githubusercontent.com/renatocaliari/contornos/master/docs/en/_sidebar.md",
     "/.*/_sidebar.md":
       "https://raw.githubusercontent.com/renatocaliari/contornos/master/docs/_sidebar.md",
 	  
     "/(.*)": "https://raw.githubusercontent.com/renatocaliari/contornos/master/docs/$1",
-    "/en-US/(.*)": "https://raw.githubusercontent.com/renatocaliari/contornos/master/docs/en-US/$1",
+    "/en/(.*)": "https://raw.githubusercontent.com/renatocaliari/contornos/master/docs/en/$1",
   },
-  fallbackLanguages: ["", "en-US"],
+  fallbackLanguages: ["", "en"],
   namespaces: [
     {
       id: "lang",
-      values: ["", "en-US"],
+      values: ["", "en"],
       optional: true,
       selector: "#lang-selector",
     }
