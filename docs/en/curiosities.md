@@ -22,7 +22,7 @@ The idea of [synapse structural role](apps#synapse-structural-paper) and drawing
 The [hierarchy](outlines#scope) of scopes used to identify an outline in a unique way was inspired by [namespace](https://pt.wikipedia.org/wiki/Espa%C3%A7o_de_nomes), a concept used in several programming languages.
 
 ## Language in the female
-Throughout the [Outlines] system, I sought to use female language as a socializing agent of gender, in order to avoid that, using male language, there was an interpretation of discrimination based on sex.
+Throughout the [Outlines] system, I sought to use female language as a socializing agent of gender, in order to avoid that there was an interpretation of discrimination based on sex using male language.
 
 If you notice any passage in the male, please notify me.
 
