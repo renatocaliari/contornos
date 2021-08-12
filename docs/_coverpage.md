@@ -11,7 +11,7 @@
 - ✔️ mais adaptação fluída da estrutura 
 
 
-[Read in 🇺🇸 English](https://renatocaliari.github.io/contornos/#/en/)
+[Read in 🇺🇸 English](en)
 
 
 
