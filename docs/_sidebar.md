@@ -3,7 +3,7 @@
 - [Apps - Acordos Extras](apps)
 - [Curiosidades](curiosidades)
 - [Perguntas & Respostas](perguntas)
-- [Referências](referências)
+- [Referências](referencias)
 - [Comparação entre tecnologias sociais](tecnologias)
 - [Ferramentas digitais](ferramentas)
 - [Contornos para Comunidades](comunidades)
