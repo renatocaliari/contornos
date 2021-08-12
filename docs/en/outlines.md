@@ -1,5 +1,7 @@
 @autoHeader:0
 
+?> Please note that, temporarily, the text below was translated using Google Translate and some manual refinement.
+
 # Principles
 - :cyclone: Take into account the organizational system as a whole and the value streams.
 - :loop: Amplify 'feedback loops'.
@@ -186,9 +188,9 @@ Each outline has a list of attributes. Several of the attributes listed below ar
 Rule:
 - for any change of attribute of an outline it is necessary to notify its external outline and internal outlines.
 
-## Surname and Scope
+## Nickname and Scope
 
-### Surname
+### Nickname
 This attribute is intended to uniquely identify the outline, and therefore cannot have its name repeated by more than one outline.
 Any nickname can be used, from real names to invented names.
 
