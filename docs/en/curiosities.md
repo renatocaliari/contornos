@@ -15,8 +15,8 @@ Learn more about the author's book in the article in portuguese [Enxergando orga
 
 In addition to this curiosity about the source of inspiration, I used the name 'Guardian' to try to minimize hierarchy bias. Keeping an outline, a scope or a space, I believe prevents any possibility from looking like a 'boss' or someone 'above'. The relationship of being a guardian is with some outline and not with some person.
 
-## Where did the idea for [Synapse structural role](apps#synapse-structural-paper) come from?
-The idea of drawing people was inspired by the [Wisdom Council](https://www.wisedemocracy.org/3-wisdom-council-process.html) process.
+## Where did the idea for synapse structural role come from?
+The idea of [synapse structural role](apps#synapse-structural-paper) and drawing people was inspired by the [Wisdom Council](https://www.wisedemocracy.org/3-wisdom-council-process.html) process.
 
 ## About Hierarchy Annotation for Outline Identification
 The [hierarchy](outlines#scope) of scopes used to identify an outline in a unique way was inspired by [namespace](https://pt.wikipedia.org/wiki/Espa%C3%A7o_de_nomes), a concept used in several programming languages.
