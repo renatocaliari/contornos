@@ -6,7 +6,7 @@
 
 >  Social Technology for Organizations
 
-- ✔️ more autonomy with responsibility
+- ✔️ more autonomy with responsibility and accountability
 - ✔️ more agility and experimentation
 - ✔️ more fluid adaptation of the structure 
  
