@@ -73,7 +73,12 @@
 		responsiveTables: false  // default
 	    },    
 
-  alias: {    
+  alias: {   
+    "/(en-US)/.*_sidebar.md":
+      "https://raw.githubusercontent.com/renatocaliari/contornos/master/docs/en-US/_sidebar.md",
+    "/.*/_sidebar.md":
+      "https://raw.githubusercontent.com/renatocaliari/contornos/master/docs/_sidebar.md",
+	  
     "/(.*)": "https://raw.githubusercontent.com/renatocaliari/contornos/master/docs/$1",
     "/en-US/(.*)": "https://raw.githubusercontent.com/renatocaliari/contornos/master/docs/en-US/$1",
   },
