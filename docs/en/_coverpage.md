@@ -12,4 +12,4 @@
  
 [Leia em 🇧🇷 Português]()
  
-[Know more](start)
+[Know more](start) - select the language after click
