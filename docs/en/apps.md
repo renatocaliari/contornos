@@ -1,5 +1,7 @@
 @autoHeader:1
 
+?> Please note that, temporarily, the text below was translated using Google Translate and some manual refinement. If you would like to help fix and refine the translation, please contact me via [linkedin](https://www.linkedin.com/in/renatocaliari/) (it's in English) or via the website [renatocaliari.com](https://www.renatocaliari.com) (it's in Portuguese) 
+
 # Apps
 
 Apps are pre-defined extra [structural agreements](contornos#structural-agreements) ready to solve some intentionally unmet needs at the heart of the operating system [Contornos](#contornos).
