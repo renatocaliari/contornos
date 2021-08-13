@@ -1,3 +1,3 @@
 - Translations
-  - [:en-US: English](/en/)
-  - [:pt-Br: Português](/)
+  - [:us: English](/en/)
+  - [:brazil: Português](/)
