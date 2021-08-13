@@ -16,7 +16,7 @@ Pense nisso como um sistema operacional enxuto 'open-source' (código aberto), q
 
 ---
 ### Saiba mais
-- [Contornos](outlines) - todas as regras do sistema Contornos.
+- [Contornos](contornos) - todas as regras do sistema Contornos.
 - [Apps](apps) - biblioteca de acordos extras pré-definidos para implementar no sistema [Contornos].
 - [Curiosidades](curiosities)
 - [Perguntas & Respostas](questions)
