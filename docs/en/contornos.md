@@ -43,7 +43,7 @@ Examples demonstrating contexts for contorno creation:
 - minimize the creation of contornos that depend on recurrent, planned and necessary deliveries (_handover_ or _handoff_) of other contornos that are not within the same external contorno. Encourage the participants of the contornos that have dependence to have a close context in common - an external contorno, favoring that they participate in meetings, decisions and treatment of [boosters](#boosters) together.
   - example of dependency in a different context and in the same context
     - ![Image exemplifying Handover or Handoff](./assets/handoffhandover.png ':size=480')
-  - if a dependency between contornos that are in different external contornos is desired or necessary, it is recommended to create a structural role of [representative](apps#representing-structural-paper) so that the contornos have some connection.
+  - if a dependency between contornos that are in different external contornos is desired or necessary, it is recommended to create a structural role of [representative](apps#representative) so that the contornos have some connection.
  
 
 ## How to adapt or remove an contorno?
@@ -67,10 +67,10 @@ Any participant in an contorno has these **common responsibilities**:
   * perform the actions you deem appropriate and necessary.
   * notify participants of this contorno.
 
-## Structural Papers
+## Structural Roles
 There are only two basic structural roles in Contornos: guardian and agent.
 
-In addition to these two structural roles, it is possible to install [extra structural roles](apps#pap%C3%A9is-structural-extras), such as: [Representative](apps#representing-structural-paper), [Synapse](apps #synapse-structural-paper), [Facilitator](apps#facilitator-structural-paper) and [Secretary](apps#secret-structural-paper%c3%a1ria).
+In addition to these two structural roles, it is possible to install [extra structural roles](apps#extra-structural-roles), such as: [Representative](apps#representative), [Synapse](apps #synapse), [Facilitator](apps#facilitator) and [Secretary](apps#secretary).
 
 ### Guardian
 
@@ -145,7 +145,7 @@ After becoming a partner, people can be dynamically allocated to contornos over 
 
 The allocation of people differs depending on the structural role that will be played in the contorno.
 
-When the revaluation period arrives, or when any contorno participant creates a booster with this order, it is necessary to carry out a [revaluation](#revaluation%C3%A7%C3%A3o-de-aloca%C3%A7%C3%A3o ).
+When the revaluation period arrives, or when any contorno participant creates a booster with this order, it is necessary to carry out a [evaluation](#general-evaluation).
 
 ### Guardian and agent allocation
 #### Guardian
@@ -224,7 +224,7 @@ Rules:
 ## Responsibilities (’How?’)
 [Responsibilities](questions#how-to-define-a-contorno-responsibilities) are expectations agreements about the main recurring actions that the people of an contorno will take care of. They make explicit any things that are not easily deduced from reading the reason for existing.
 
-People have the authority to act and do whatever is necessary to express the reason for the existence of an contorno, even if something is not listed in the responsibilities, without the need for approval from other people outside their contorno, and it is necessary to respect [agreements] (#agreements), [strategy](#strateg%C3%A9gia-how), [process](#process-how) and [resources of exclusive control](#resources-of-exclusive-control-how) of other contornos .
+People have the authority to act and do whatever is necessary to express the reason for the existence of an contorno, even if something is not listed in the responsibilities, without the need for approval from other people outside their contorno, and it is necessary to respect [agreements] (#agreements), [strategy](#strategy-how), [process](#process-how) and [resources of exclusive control](#resources-of-exclusive-control-how) of other contornos .
 
 It is important to know that, intentionally, the responsibilities **do not prevent other contornos from doing something described in the responsibilities**.
 To prevent this from happening it is necessary to create a structural [agreement](#agreements) that prevents other contornos from doing anything or assign [resource of exclusive control](#resources-of-exclusive-control-how) to the contorno itself.
@@ -266,7 +266,7 @@ The process must be done from the perspective of demand and the value delivered 
 
 Rules:
 * process mapping is the responsibility of the guardian, consulting people involved in the process.
-* [integrative decision](#decis%C3%A3o-integrative) is required to use it in the contorno.
+* [integrative decision](#integrative-decisions) is required to use it in the contorno.
 * capture all the necessary steps in a flow without getting to the level of predicting small tasks.
 * start with the question: what is the first thing that is done or needs to be done when a demand arrives? And then ask: what's the next thing? Continue with this question until you answer the question: What needs to be completed to deliver the result?
 
@@ -277,7 +277,7 @@ The inner contornos inherit the resources of exclusive control of the outer cont
 
 It is important to remember that no one person in the organization has control over the resources, but the very contorno in which it belongs. If at any point she leaves the contorno, she loses exclusive control of the resource.
 
-For some contorno to have exclusive control over some resource it is necessary [integrative decision](#decis%C3%A3o-integrative) by the external contorno.
+For some contorno to have exclusive control over some resource it is necessary [integrative decision](#integrative-decisions) by the external contorno.
 
 If an contorno has exclusive control over the organization's resources as a whole (eg, hiring process or official tools), it can make decisions without the need for an integrative decision on the impacted contornos. However, it is recommended to ask for reactions about possible changes when something impacts too many contornos or when there is a great risk.
 
@@ -326,7 +326,7 @@ Rules:
 * Create agreements when recurring issues arise that require the same type of decision.
 * Avoid trying to predict something in agreements without evidence or knowledge.
 * Agreements are made to define structural or personal expectations to be met.
-* An agreement must be created only with [integrative decision](#decis%C3%A3o-integrative) between the contorno participants.
+* An agreement must be created only with [integrative decision](#integrative-decisions) between the contorno participants.
 * Agreements can only restrict or create expectations within their own inner contorno and contornos as long as they do not violate the exclusive control of other outer contornos.
 * If an agreement proposal is also related to the reason for existing, responsibilities, strategy, process or resources of exclusive control of other contornos outside the current contorno, it is indicated that there is an evaluation of the proposal with the guardians of these other contornos and that a integrative decision with them.
 
@@ -401,7 +401,7 @@ The boosters are expected to flow continuously.
 Rules:
 - Any participant of an contorno has the responsibility to understand and deal with boosters related to its contornos or its person.
 - Register boosters in some shared list for processing.
-- [Declare booster type](#booster-types) for processing.
+- [Declare booster type](#types-of-boosters) for processing.
 - Describe the motivation and context of the booster.
 - When creating a booster it is necessary to declare which contorno you are creating the booster from and for which contorno. Ex: "Development contorno booster for product contorno". The only exception is when it is something personal, unrelated to the organizational structure (contorno, reason for existing, responsibilities, strategy, process, indicator, resources of exclusive control, agreements) or operational work (projects and tasks), when not it is necessary to inform from which contorno the booster is generating.
 - A trigger is expected to be pulled by any participant who has responsibility for dealing with the trigger context.
@@ -497,6 +497,6 @@ Rules for performing an extraordinary action:
 * perform the actions you deem appropriate.
 
 Rules after extraordinary action:
-* reveal the extraordinary action to the guardians of the impacted contornos, through a [booster](#boosters) with [warning intent](apps#declare-inten%C3%A7%C3%A3o).
-* create a [booster](#boosters) of [integrative decision](#booster-types), proposing adaptations in contornos or agreements, if that resolves the issue when something similar comes up again.
+* reveal the extraordinary action to the guardians of the impacted contornos, through a [booster](#boosters) with [warning intent](apps#declare-intention).
+* create a [booster](#boosters) of [integrative decision](#types-of-boosters), proposing adaptations in contornos or agreements, if that resolves the issue when something similar comes up again.
 
