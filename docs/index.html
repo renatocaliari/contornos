@@ -47,83 +47,75 @@
       var lang = location.hash.match(/#\/(en)\//);
 
       if (lang) {
-        document.documentElement.setAttribute('lang', lang[1]);
-      }	    
-        var repovar = "https://github.com/renatoac/contornos";
-	window.$docsify = {
-	    name: '<div class="sidebar-logo">' +
-    '<span class="sidebar-logo-title">Contornos</span>' +
-    "</div>" +
-    "</select>",
-	  nameLink: {
-	    '/en/': '/en/',
-	    '/': '/',
-	  },
-	    repo: repovar,
-	    coverpage: ['/','/en/'],		
-	    homepage: "start.md",
-	    loadSidebar: true,
-            mergeNavbar: true,
-            loadNavbar: true,
-	    auto2top: true,
-
-	    maxLevel: 20,
-	    subMaxLevel: 3,
-
-	    executeScript: true,
-	    search: {
-		  noData: {
-		    '/en/': 'No results!',
-		    '/': 'Nenhum resultado!',
-		  },
-		  paths: 'auto',
-		  placeholder: {
-		    '/en/': 'Search',
-		    '/': 'Buscar',
-		  },
-		  pathNamespaces: ['/en', '/'],
-		  depth: 3
-	    },  
-	    themeable: {
-		readyTransition : true, // default
-		responsiveTables: false  // default
-	    },    
-
-  alias: {   
-    "/en/_sidebar.md": "https://raw.githubusercontent.com/renatocaliari/contornos/master/docs/en/_sidebar.md",
-    "/en/(.*)": "https://raw.githubusercontent.com/renatocaliari/contornos/master/docs/en/$1",	  
-  },
-  fallbackLanguages: ["", "en"],
-  namespaces: [
-    {
-      id: "lang",
-      values: ["", "en"],
-      optional: true,
-      selector: "#lang-selector",
-    }
-  ],		
-		
-        share: {
-            reddit: true,
-            linkedin: true,
-            facebook: true,
-            twitter: true,
-            whatsapp: true,
-            telegram: true,
-        },
-
-	  autoHeaders: {
-	    separator: 'decimal',
-            levels: {start:  '1', finish: '6'},
-   	    scope:     '#main',
-	    debug:     false
-	    
-	  },
-	  
-	    plugins: []
-	    
-	}
-
+          document.documentElement.setAttribute('lang', lang[1]);
+      }
+      var repovar = "https://github.com/renatoac/contornos";
+      window.$docsify = {
+          name: '<div class="sidebar-logo">' +
+              '<span class="sidebar-logo-title">Contornos</span>' +
+              "</div>" +
+              "</select>",
+          nameLink: {
+              '/en/': '/en/',
+              '/': '/',
+          },
+          repo: repovar,
+          coverpage: ['/', '/en/'],
+          homepage: "start.md",
+          loadSidebar: true,
+          mergeNavbar: true,
+          loadNavbar: true,
+          auto2top: true,
+          maxLevel: 20,
+          subMaxLevel: 3,
+          executeScript: true,
+          search: {
+              noData: {
+                  '/en/': 'No results!',
+                  '/': 'Nenhum resultado!',
+              },
+              paths: 'auto',
+              placeholder: {
+                  '/en/': 'Search',
+                  '/': 'Buscar',
+              },
+              pathNamespaces: ['/en', '/'],
+              depth: 3
+          },
+          themeable: {
+              readyTransition: true, // default
+              responsiveTables: false // default
+          },
+          alias: {
+              "/en/_sidebar.md": "https://raw.githubusercontent.com/renatocaliari/contornos/master/docs/en/_sidebar.md",
+              "/en/(.*)": "https://raw.githubusercontent.com/renatocaliari/contornos/master/docs/en/$1",
+          },
+          fallbackLanguages: ["", "en"],
+          namespaces: [{
+              id: "lang",
+              values: ["", "en"],
+              optional: true,
+              selector: "#lang-selector",
+          }],
+          share: {
+              reddit: true,
+              linkedin: true,
+              facebook: true,
+              twitter: true,
+              whatsapp: true,
+              telegram: true,
+          },
+          autoHeaders: {
+              separator: 'decimal',
+              levels: {
+                  start: '1',
+                  finish: '6'
+              },
+              scope: '#main',
+              debug: false
+          },
+          plugins: []
+      }
     </script>
 
     <script src="//unpkg.com/docsify-share/build/index.min.js"></script>
