@@ -7,7 +7,7 @@
 - ✔️ more autonomy with responsibility and accountability
 - ✔️ more agility and experimentation
 - ✔️ more fluid adaptation of the structure 
+
+[Read in 🇧🇷 Portuguese]()
  
 [Know more](en/start)
-
-_*Contornos is a portuguese word meaning outlines or contours in English._
