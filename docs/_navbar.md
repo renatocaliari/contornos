@@ -1,3 +1,3 @@
-- Languages - Translations
+- :us: :brazil: Languages
   - [:us: English](/en/)
   - [:brazil: Português](/)
