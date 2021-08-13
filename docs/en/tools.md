@@ -2,9 +2,9 @@
 
 # Digital tools
 
-## For the use the Outlines system
+## For the use the Contornos
 - [Fibery.io](fibery.io/) - Build your own workspace to replace isolated tools and bring everyone together.
-  - There is a **basic template** prepared in Fibery.io based on [Outlines] ready to customize and experiment. To download, simply submit your email in this form and you will see the link in the confirmation: https://forms.gle/AuVo49gxuXBhBS4QA
+  - There is a **basic template** prepared in Fibery.io based on [Contornos] ready to customize and experiment. To download, simply submit your email in this form and you will see the link in the confirmation: https://forms.gle/AuVo49gxuXBhBS4QA
   -   - See also a **video, without audio, for an example of use**: https://app.usebubbles.com/xoUd34W3Hx5eskxSZtdm1u/modelo-basico-de-contornos-no-fibery-io
 - [Murmur](https://www.murmur.com/) - Agree to work better together.
 - [Loomio](https://www.loomio.org/) - Loomio helps your group make better decisions together.
