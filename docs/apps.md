@@ -31,7 +31,6 @@ Faça uma decisão integrativa no contorno que deseja utilizar e importe-o nos a
 - [Decisão integrativa assíncrona de proposta](#decisão-integrativa-assíncrona-de-proposta)
 - [Reuniões e Cerimônias](#reuniões-e-cerimônias)
 - [Colaboração & Comunicação](#colabora%C3%A7%C3%A3o-comunica%C3%A7%C3%A3o)
-  - [Declarar intenção](#declarar-inten%C3%A7%C3%A3o)
   - [Rodadas de fala](#rodadas-de-fala)
 - [Manual da pessoa](#manual-da-pessoa)
 - [Cuidar das pessoas](#cuidar-das-pessoas) 
