@@ -11,3 +11,5 @@
 [Read in 🇧🇷 Portuguese]()
  
 [Know more](en/start)
+
+*Contornos is a portuguese word meaning outlines or contours in English.
