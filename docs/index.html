@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no, viewport-fit=cover">
     
 <!--    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">-->
-    <title>Contornos - Tecnologia Social para Organizações</title>
+    <title>Contornos</title>
     <meta name="description" content="Tecnologia social para organizações">
 
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">    
@@ -35,6 +35,7 @@
 
     <!-- Plugins that are needed before app configuration. -->
     <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
+    <script src="https://unpkg.com/docsify-namespaced"></script>	
 
 </head>
 
@@ -75,10 +76,10 @@
 	    },    
 
   alias: {   
-    "/en/.*/_sidebar.md": "https://raw.githubusercontent.com/renatocaliari/contornos/master/docs/en/_sidebar.md",
-    "/en/_sidebar.md": "https://raw.githubusercontent.com/renatocaliari/contornos/master/docs/en/_sidebar.md",
-    "/.*/_sidebar.md": "https://raw.githubusercontent.com/renatocaliari/contornos/master/docs/_sidebar.md",
     "/_sidebar.md": "https://raw.githubusercontent.com/renatocaliari/contornos/master/docs/_sidebar.md",	  
+    "/en/_sidebar.md": "https://raw.githubusercontent.com/renatocaliari/contornos/master/docs/en/_sidebar.md",
+    "/en/.*/_sidebar.md": "https://raw.githubusercontent.com/renatocaliari/contornos/master/docs/en/_sidebar.md",
+    "/.*/_sidebar.md": "https://raw.githubusercontent.com/renatocaliari/contornos/master/docs/_sidebar.md",
     "/en/(.*)": "https://raw.githubusercontent.com/renatocaliari/contornos/master/docs/en/$1",	  
     "/(.*)": "https://raw.githubusercontent.com/renatocaliari/contornos/master/docs/$1",
   },
@@ -129,7 +130,6 @@
     </script>
 
     <script src="//unpkg.com/docsify-share/build/index.min.js"></script>
-    <script src="https://unpkg.com/docsify-namespaced"></script>	
 
 <!-- jsDelivr -->    <script src="https://cdn.jsdelivr.net/npm/@markbattistella/docsify-autoheaders@latest"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
