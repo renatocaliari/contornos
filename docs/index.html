@@ -75,13 +75,12 @@
 	    },    
 
   alias: {   
-    "/en/.*/_sidebar.md":
-      "https://raw.githubusercontent.com/renatocaliari/contornos/master/docs/en/_sidebar.md",
-    "/.*/_sidebar.md":
-      "https://raw.githubusercontent.com/renatocaliari/contornos/master/docs/_sidebar.md",
-	  
+    "/en/.*/_sidebar.md": "https://raw.githubusercontent.com/renatocaliari/contornos/master/docs/en/_sidebar.md",
+    "/en/_sidebar.md": "https://raw.githubusercontent.com/renatocaliari/contornos/master/docs/en/_sidebar.md",
+    "/.*/_sidebar.md": "https://raw.githubusercontent.com/renatocaliari/contornos/master/docs/_sidebar.md",
+    "/_sidebar.md": "https://raw.githubusercontent.com/renatocaliari/contornos/master/docs/_sidebar.md",	  
+    "/en/(.*)": "https://raw.githubusercontent.com/renatocaliari/contornos/master/docs/en/$1",	  
     "/(.*)": "https://raw.githubusercontent.com/renatocaliari/contornos/master/docs/$1",
-    "/en/(.*)": "https://raw.githubusercontent.com/renatocaliari/contornos/master/docs/en/$1",
   },
   fallbackLanguages: ["", "en"],
   namespaces: [
