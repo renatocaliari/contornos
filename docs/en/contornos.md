@@ -1,6 +1,6 @@
 @autoHeader:0
 
-?> Please note that, temporarily, the text below was translated using Google Translate and some manual refinement.
+?> Please note that, temporarily, the text below was translated using Google Translate and some manual refinement. If you would like to help fix and refine the translation, please contact me via [linkedin](https://www.linkedin.com/in/renatocaliari/) (it's in English) or via the website [renatocaliari.com](https://www.renatocaliari.com) (it's in Portuguese) 
 
 # Principles
 - :cyclone: Take into account the organizational system as a whole and the value streams.
