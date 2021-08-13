@@ -1,5 +1,5 @@
 - [Início](start)
-- [Contornos](outlines)
+- [Contornos](contornos)
 - [Apps - Acordos Extras](apps)
 - [Curiosidades](curiosities)
 - [Perguntas & Respostas](questions)
