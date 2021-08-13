@@ -1,6 +1,6 @@
 # Start
 
-[Outlines] is a system containing basic rules that takes care of organizational aspects to give more agility to the organization, distribution of decisions giving more autonomy with responsibility and continuous organizational adaptation that encourage more experimentation inside and outside.
+[Contornos] is a system containing basic rules that takes care of organizational aspects to give more agility to the organization, distribution of decisions giving more autonomy with responsibility and continuous organizational adaptation that encourage more experimentation inside and outside.
 
 It makes it unnecessary:
 - hierarchical and rigid organizational charts where people have **power over** others
@@ -10,7 +10,7 @@ In this system, there is a hierarchy of scopes through outlines, where people ha
 
 Think of it as a lean 'open-source' operating system, which allows you to import [apps](apps) (extra pre-defined agreements) into your context, as well as adapt the system itself if necessary.
 
-[Outlines] was inspired by [validated social technologies](technologies), other existing concepts and practical experience.
+[Contornos] was inspired by [validated social technologies](technologies), other existing concepts and practical experience.
 
 ?> It is worth remembering that this social technology, or any other, does not work like magic, that when you use, everything is solved. No, far from it. It is just a tool and a means, like so many others, that makes sense when used in conjunction with other tools and practices, supported by many interpersonal discussions and ongoing experiments.
 
