@@ -417,16 +417,16 @@ Ao registrar um impulsionador, explicite qual é o seu tipo:
 - **[Decisão integrativa](outlines#decis%C3%A3o-integrativa)**: quando há uma proposta a ser decidida de forma integrativa. Se for necessário, explicite qual contorno tem autoridade para decidir ou de qual contorno é esperada a decisão.
 
 ### Exemplos de uso
-| Imagine que... | Impulsionador com intenção de... |
+| Imagine que... | Tipo do impulsionador... |
 | -- | -- |
-| há uma reunião recorrente acordada que não faz mais sentido para uma pessoa e há o desejo de modificar ou cancelar essa reunião | [decisão integrativa](apps#declarar-inten%C3%A7%C3%A3o) com a proposta de modificação ou cancelamento. |
-| uma pessoa deseje criar uma proposta sobre um projeto que já está na responsabilidade de seu contorno porém deseja fazer a proposta de forma colaborativa | [cocriação de proposta](apps#declarar-inten%C3%A7%C3%A3o). |
-| uma participante precise fazer uma integração entre dois softwares da empresa e há um contorno que cuide de integrações ou tecnologia da empresa | [pedido de ação](apps#declarar-inten%C3%A7%C3%A3o) por um projeto para isso. |
-| uma participante precise fazer uma integração entre dois softwares da empresa e não há um contorno que cuide disso | [pedido de ação](apps#declarar-inten%C3%A7%C3%A3o) por um projeto para a guardiã de algum contorno que englobe o escopo maior do impulsionador (ex: produto) para processar esse impulsionador e em paralelo [decisão integrativa](apps#declarar-inten%C3%A7%C3%A3o) propondo a criação de um contorno específico para isso, caso seja um tipo de projeto recorrente. |
-| uma participante saiu de um contorno e gostaria de avisar as partcipantes desse contornos | [aviso](apps#declarar-inten%C3%A7%C3%A3o). |
-| uma pessoa de um determinado contorno está se sentindo sobrecarregada e tem a percepção de que é necessário ter mais alguma pessoa como agente no contorno para dividir projetos e tarefas. | [decisão integrativa](apps#declarar-inten%C3%A7%C3%A3o) para uma proposta de alocação de uma pessoa como agente no contorno. |
-| uma pessoa ganhou um filho e gostaria de compartilhar a novidade com as participantes dos contornos em que atua. | [celebração](apps#declarar-inten%C3%A7%C3%A3o). |
-| uma pessoa esteja tendo dificuldade para discutir assuntos importantes pela ferramenta oficial da empresa pois há mensagens enviadas a outras pessoas do contorno que passam mais de 5 dias sem respostas. | [decisão integrativa](apps#declarar-inten%C3%A7%C3%A3o) com uma proposta de acordo pessoal que prevê a necessidade de responder mensagens que outras pessoas te marcaram em até 48h. |
+| há uma reunião recorrente acordada que não faz mais sentido para uma pessoa e há o desejo de modificar ou cancelar essa reunião | **decisão integrativa** com a proposta de modificação ou cancelamento. |
+| uma pessoa deseje criar uma proposta sobre um projeto que já está na responsabilidade de seu contorno porém deseja fazer a proposta de forma colaborativa | **cocriação de proposta** |
+| uma participante precise fazer uma integração entre dois softwares da empresa e há um contorno que cuide de integrações ou tecnologia da empresa | **pedido de ação** por um projeto para isso. |
+| uma participante precise fazer uma integração entre dois softwares da empresa e não há um contorno que cuide disso | **pedido de ação** por um projeto para a guardiã de algum contorno que englobe o escopo maior do impulsionador (ex: produto) para processar esse impulsionador e em paralelo **decisão integrativa** propondo a criação de um contorno específico para isso, caso seja um tipo de projeto recorrente. |
+| uma participante saiu de um contorno e gostaria de avisar as partcipantes desse contornos | **aviso**. |
+| uma pessoa de um determinado contorno está se sentindo sobrecarregada e tem a percepção de que é necessário ter mais alguma pessoa como agente no contorno para dividir projetos e tarefas. | **decisão integrativa** para uma proposta de alocação de uma pessoa como agente no contorno. |
+| uma pessoa ganhou um filho e gostaria de compartilhar a novidade com as participantes dos contornos em que atua. | **celebração**. |
+| uma pessoa esteja tendo dificuldade para discutir assuntos importantes pela ferramenta oficial da empresa pois há mensagens enviadas a outras pessoas do contorno que passam mais de 5 dias sem respostas. | **decisão integrativa** com uma proposta de acordo pessoal que prevê a necessidade de responder mensagens que outras pessoas te marcaram em até 48h. |
 
 As possibilidades de impulsionadores são quase que infinitas, surgindo a todo momento na complexidade do dia-a-dia e favorecendo a adaptação contínua da organização.
 
