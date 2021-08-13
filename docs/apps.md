@@ -39,8 +39,8 @@ Faça uma decisão integrativa no contorno que deseja utilizar e importe-o nos a
 - [Mentoria de Aprendizes](#mentoria-de-aprendizes)
 - [Nomeação de pessoas para um contorno](#nomeação-de-pessoas-para-um-contorno)
 - [Avaliação de pessoas](#avalia%C3%A7%C3%A3o-de-pessoas)
-  * [Geral: influenciar expectativas de mentoria, parceria ou variações de bônus](#avaliação-geral)
-  * [Avaliação em um contorno](#avaliação-em-um-contorno)
+  * [Influenciar expectativas de mentoria, parceria ou variações de bônus](#influenciar-expectativas-de-mentoria-parceria-ou-variações-de-bônus)
+  * [Avaliação geral](#avaliação-geral)
   * [Nomeação de Guardiã em processo de avaliação em um contorno](#nomeação-de-guardiã-em-processo-de-avaliação-em-um-contorno)
 - [Remuneração e salários](#remunera%C3%A7%C3%A3o-e-sal%C3%A1rios)
 - [Processo seletivo](#processo-seletivo)
@@ -337,7 +337,7 @@ Veja os passos para nomeação:
 
 A intenção desse processo é reconhecer e avaliar a participação de pessoas na organização.
 
-### Avaliação Geral
+### Influenciar expectativas de mentoria, parceria ou variações de bônus
 
 Participantes do processo:
 - participantes dos contornos da pessoa a ser avaliada
@@ -373,7 +373,7 @@ Caso decida atrelar a avaliação à mentoria, manutenção de parceria ou varia
 Cuidados:
 - Caso perceba que a média da maior parte das pessoas costuma ser baixa com relação aos princípios da organização, se questione sobre os princípios e sobre a compreensão dos mesmos.
 
-### Avaliação em um contorno
+### Avaliação geral
 Pessoas oferecerão reações subjetivas para uma determinada pessoa com quem colabora a respeito da participação em um determinado contorno. Queremos avaliações subjetivas para não cair na ficção de uma [avaliação de desempenho](https://medium.com/tentaculus/os-perigos-da-avalia%C3%A7%C3%A3o-de-desempenho-nas-organiza%C3%A7%C3%B5es-21a92e261fe3) objetiva.
 
 #### Participação 
@@ -478,7 +478,7 @@ A remuneração pode ser por horas fixas pré-definidas na contratação relacio
   - Cada nível poderia exigir não só evidências de trabalho mas também uma permanência mínima no nível antes de aplicar para o próximo. Podem existir medalhas para ser conquistadas de forma geral na organização, independente de uma trilha de progressão e que poderiam refletir um acréscimo variável na remuneração. 
   - Tanto a trilha de progressão quanto as medalhas poderiam ter tempo de validade das evidência, pedindo reaplicação de tanto em tanto tempo.
 - Mistura de opções
-  - Além de poder misturar as opções acima para criar um acordo, é possível utilizar também a opção de [avaliação geral](#avaliação-geral), porém, adaptando para variar o salário, se for possível (levar em conta se é contratação PJ ou CLT). Lembre-se de acordar isso com as pessoas previamente.
+  - Além de poder misturar as opções acima para criar um acordo, é possível utilizar também a opção de [influenciar expectativas](#influenciar-expectativas-de-mentoria-parceria ou-variações-de-bônus), adaptando para variar o salário, se for possível (levar em conta se é contratação PJ ou CLT). Lembre-se de acordar isso com as pessoas previamente.
 
 ## Processo seletivo
 [A ser desenvolvido]
