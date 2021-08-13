@@ -40,9 +40,15 @@
 </head>
 
 <body>
-    <div id="app">Carregando... | Loading...</div>
+    <div id="app">Loading...</div>
 
     <script>
+      // Set html "lang" attribute based on URL
+      var lang = location.hash.match(/#\/(en)\//);
+
+      if (lang) {
+        document.documentElement.setAttribute('lang', lang[1]);
+      }	    
         var repovar = "https://github.com/renatoac/contornos";
 	window.$docsify = {
 	    name: '<div class="sidebar-logo">' +
@@ -67,11 +73,17 @@
 
 	    executeScript: true,
 	    search: {
-		paths: ['/start', '/outlines', '/technologies', '/curiosities','/references','/communities','/tools','/questions', 
-		       '/en/start', '/en/outlines', '/en/technologies', '/en/curiosities','/en/references','/en/communities','/tools','/en/questions'],
-		placeholder: 'Digite para pesquisar',
-		noData: 'Nenhum resultado!',
-		depth: 3
+		  noData: {
+		    '/en/': 'No results!',
+		    '/': 'Nenhum resultado!',
+		  },
+		  paths: 'auto',
+		  placeholder: {
+		    '/en/': 'Search',
+		    '/': 'Buscar',
+		  },
+		  pathNamespaces: ['/en', '/'],
+		  depth: 3
 	    },  
 	    themeable: {
 		readyTransition : true, // default
