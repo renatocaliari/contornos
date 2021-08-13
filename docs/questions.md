@@ -18,11 +18,11 @@ Para que a decisão de usar o sistema seja duradoura e potencialize os benefíci
 4. Conversem sobre o que muda de responsabilidades e autoridade da pessoa que era 'chefe' ou 'líder' do time, e agora se torna Guardiã, e quais são as responsabilidades do papel estrutural de Agente. Lembre que estar em um papel estrutural de Guardiã não tem mais relação com algum nível hierárquico, nem cargo e nem com estabilidade no papel, pois outras pessoas podem vir a ser alocadas como Guardiãs posteriormente.
 5. Faça um mapeamento [dos contornos internos do público convidado](questions#como-mapear-os-primeiros-contornos) no passo 1.
 6. Caso algum contorno é de um escopo que não havia uma pessoa responsável, defina quem será a Guardiã desse contorno através de decisão integrativa, caso já tinha alguém responsável pelo escopo, assuma essa pessoa como Guardiã do contorno.
-7. Inicie o uso do sistema Contornos nesse contorno. Faça uso de [impulsionadores](outlines#impulsionadores), distribuição de decisões operacionais e decisões integrativas para adaptar a estrutura e acordos.
-8. Após 1 semana, faça uma dinâmica para discussão sobre o experimento em pequenos grupos. Sugestão: [world-cafe](http://www.theworldcafe.com/key-concepts-resources/world-cafe-method/). O resultado pode ser, além de reflexões e compreensão compartilhada, novos [impulsionadores](outlines#impulsionadores) e novos acordos com decisão integrativa.
+7. Inicie o uso do sistema Contornos nesse contorno. Faça uso de [impulsionadores](contornos#impulsionadores), distribuição de decisões operacionais e decisões integrativas para adaptar a estrutura e acordos.
+8. Após 1 semana, faça uma dinâmica para discussão sobre o experimento em pequenos grupos. Sugestão: [world-cafe](http://www.theworldcafe.com/key-concepts-resources/world-cafe-method/). O resultado pode ser, além de reflexões e compreensão compartilhada, novos [impulsionadores](contornos#impulsionadores) e novos acordos com decisão integrativa.
 9. Repita o passo 8, porém, agora, de 15 em 15 dias, até chegarem em 3 meses de experimento.
 10. Em cada dinâmica, e em algum canal oficial do público envolvido, compartilhar evidências e métricas do experimento com o sistema [Contornos].
-10. A partir daí o experimento se torna uma prática padrão e pode continuar sendo adaptado a qualquer momento através de [impulsionadores](outlines#impulsionadores).
+10. A partir daí o experimento se torna uma prática padrão e pode continuar sendo adaptado a qualquer momento através de [impulsionadores](contornos#impulsionadores).
 
 ### Quais as formas de começar com o sistema?
 
@@ -160,14 +160,14 @@ De forma simplista e limitada, é possível tentar comparar antes e depois:
   - alternativa como exemplo: usar o [Mapa Tentaculus](https://medium.com/tentaculus/mapear-oportunidades-organizacoes-ad66f1b9a913) ou o [OS Canvas](https://medium.com/the-ready/the-operating-system-canvas-420b8b4df062), perguntando para cada aspecto o que tem funcionado bem e o que não tem funcionado bem.
 
 ## Como definir as responsabilidades de um contorno?
-- Não coloque expectativas de comportamento em responsabilidades. Para isso veja sobre [acordos pessoais](outlines#acordos-pessoais).
+- Não coloque expectativas de comportamento em responsabilidades. Para isso veja sobre [acordos pessoais](contornos#acordos-pessoais).
 - Evite responsabilidades que são esperadas de qualquer pessoa da organização.
 - Comece com verbo no infinitivo: Corrigir, Definir, Realizar, etc.
 - Explicite e especifique o que é ambíguo
 - Na responsabilidade descreva qual é a participação **ativa** em uma atividade.
 
 **Evite esses verbos:**
-* Aprovar → não use esse verbo ou espere esse tipo de responsabilidade. Responsabilidades não limitam outros contornos. Se deseja limitar o tipo de interação com qualquer artefato organizacional, então utilize-se de [recursos de controle exclusivo](outlines#recursos-de-controle-exclusivo-como), [processo](outlines#processo-como) ou [acordos estruturais](outlines#acordos-estruturais).
+* Aprovar → não use esse verbo ou espere esse tipo de responsabilidade. Responsabilidades não limitam outros contornos. Se deseja limitar o tipo de interação com qualquer artefato organizacional, então utilize-se de [recursos de controle exclusivo](contornos#recursos-de-controle-exclusivo-como), [processo](contornos#processo-como) ou [acordos estruturais](contornos#acordos-estruturais).
 * Alinhar → alinhamento é ambíguo. O que é esperado com o alinhamento? Se aconselhar ou aconselhar alguém? Consultar? Compartilhar informação?
 * Colaborar / Responder pessoas (ou mensagens de pessoas) → já é esperado que elas colaborem e se comuniquem. O que mais é esperado especificamente na colaboração?
 * Garantir / Assegurar → em vez disso explicite como deseja garantir ou assegurar algo para chegar em algo mais específico e prático?
@@ -201,7 +201,7 @@ Crie um acordo estrutural no contorno, informando que todas decisões serão tom
 ## O que faço se me sentir insegura para tomar uma decisão, mesmo sabendo que o contorno que participo tem autoridade para a decisão?
 A qualquer momento você pode se aconselhar com as pessoas que parecem ter conhecimento sobre o assunto ou que mais se engajam com o assunto.
 
-Leia sobre [impulsionadores](outlines#impulsionadores).
+Leia sobre [impulsionadores](contornos#impulsionadores).
 
 ## O que faço se alguma pessoa me mandar fazer algo?
 Lembre-a dos seus contornos e que neles constam sobre o que você tem responsabilidade e autoridade para decidir, e sua autonomia em  priorizar conforme a estratégia do contorno. 
