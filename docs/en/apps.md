@@ -32,11 +32,10 @@ Make an integrative decision on the contorno you want to use and import it into 
   * [Listening](#listening)
 - [Asynchronous integrative proposal decision](#asynchronous-integrative-proposal-decision)
 - [Meetings and Ceremonies](#meetings-and-ceremonies)
-- [Collaboration & Communication](#collaboration-and-communication)
-  - [Declare intention](#declare-intention)
+- [Collaboration and Communication](#collaboration-and-communication)
   - [Talking in Rounds](#talking-in-rounds)
 - [Person's manual](#persons-manual)
-- [Caring for people](#caring-for-people)
+- [Taking care of people](#taking-care-of-people)
 - [Type of energy in contorno](#type-of-energy-in-contorno)
 - [Apprentice Mentoring](#apprentice-mentoring)
 - [Nominating people to a contorno](#nominating-people-to-a-contorno)
@@ -221,9 +220,9 @@ To achieve fluidity in the asynchronous integrative decision process:
 ## Meetings and Ceremonies
 Get inspired here: [References on meeting formats and possible templates to use for contorno meetings](references#references-about-meeting-formats-and-possible-templates-to-use-for-contorno-meetings)
 
-## Collaboration & Communication
+## Collaboration and Communication
 
-### Speech Rounds
+### Talking in Rounds
 Use speaking rounds to provide greater group equivalence and prevent more outgoing or influential people from having more power, or speaking time.
 
 Process:
@@ -295,12 +294,14 @@ _Remember, the results do not say who I am. Keep your curiosity active about me.
 - B
 - ç
 
-## Taking care of people (in development)
+## Taking care of people
+[Under development]
+
   - Non-Violent Communication
   - Empathic listening
   - Mediation of conflicts
 
-## Contorno energy type
+## Type of energy in contorno
 By installing this app, a person can define one or more types of energy in a contorno.
 
 Below are the types a person can have in a contorno:
