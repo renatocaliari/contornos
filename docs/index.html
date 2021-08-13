@@ -46,13 +46,16 @@
         var repovar = "https://github.com/renatoac/contornos";
 	window.$docsify = {
 	    name: '<div class="sidebar-logo">' +
-    '<span class="sidebar-logo-title" style="cursor: pointer;" onclick="window.location.hash=\'#\'">Contornos</span>' +
+    '<span class="sidebar-logo-title">Contornos</span>' +
     "</div>" +
     '<select id="lang-selector" name="lang-selector" class="sidebar-lang-select">' +
     '<option value="" selected="selected">Português</value>' +
     '<option value="en">English</value>' +
     "</select>",
-            nameLink: false,
+	  nameLink: {
+	    '/en/': '/en/',
+	    '/': '/',
+	  },
 	    repo: repovar,
 	    coverpage: ['/','/en/'],		
 	    homepage: "start.md",
