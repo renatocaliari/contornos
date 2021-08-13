@@ -54,9 +54,6 @@
 	    name: '<div class="sidebar-logo">' +
     '<span class="sidebar-logo-title">Contornos</span>' +
     "</div>" +
-    '<select id="lang-selector" name="lang-selector" class="sidebar-lang-select">' +
-    '<option value="" selected="selected">Português</value>' +
-    '<option value="en">English</value>' +
     "</select>",
 	  nameLink: {
 	    '/en/': '/en/',
@@ -125,15 +122,7 @@
 	    
 	  },
 	  
-	  
-	    plugins: [
-		    function (hook, vm) {
-		      hook.mounted(function() {
-		          selector = Docsify.dom.find("#lang-selector");
-			  window.location.hash = selector.value;
-		      });
-		    },
-	   ]
+	    plugins: []
 	    
 	}
 
