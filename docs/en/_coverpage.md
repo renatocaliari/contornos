@@ -8,8 +8,8 @@
 - ✔️ more agility and experimentation
 - ✔️ more fluid adaptation of the structure 
 
-[Read in 🇧🇷 Portuguese]()
+[Read in 🇧🇷 Portuguese](#)
  
 [Know more](en/start)
 
-*Contornos is a portuguese word meaning outlines or contours in English.
+_*Contornos is a portuguese word meaning outlines or contours in English._
