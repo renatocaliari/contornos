@@ -8,7 +8,7 @@
 - ✔️ more agility and experimentation
 - ✔️ more fluid adaptation of the structure 
 
-[Read in 🇧🇷 Portuguese](https://renatocaliari.github.io/contornos/#/)
+[Read in 🇧🇷 Portuguese](/)
  
 [Know more](en/start)
 
