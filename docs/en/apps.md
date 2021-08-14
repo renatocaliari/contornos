@@ -212,13 +212,13 @@ To achieve fluidity in the asynchronous integrative decision process:
   * **Clarification**: 48h.
   * **Reaction**: 48h.
   * **Adjustment**: 72h.
-  * **[Integrative decision](contornos#dintegrative-decisions)**: 72h.
+  * **[Integrative decision](en/contornos#dintegrative-decisions)**: 72h.
     * criteria:
        * 70% of people in the contorno must declare that they have no objection, as long as 70% equals at least 5 people.
        * otherwise, the participation of 100% of people in this stage is required and the proposal is waiting until the 30 days expire.
 
 ## Meetings and Ceremonies
-Get inspired here: [References on meeting formats and possible templates to use for contorno meetings](references#references-about-meeting-formats-and-possible-templates-to-use-for-contorno-meetings)
+Get inspired here: [References on meeting formats and possible templates to use for contorno meetings](en/references#references-about-meeting-formats-and-possible-templates-to-use-for-contorno-meetings)
 
 ## Collaboration and Communication
 
@@ -380,7 +380,7 @@ Cautions:
 People will offer subjective reactions to a particular person they collaborate with regarding participation in a particular contorno. We want subjective evaluations so as not to fall into the fiction of a [performance evaluation](https://medium.com/tentaculus/os-perigos-da-avalia%C3%A7%C3%A3o-de-desempenho-nas-organiza%C3%A7%C3%B5es-21a92e261fe3) objective.
 
 #### Participation
-* if you are evaluating the guardian of a contorno, it will be evaluated by the guardian of the outer contorno and by participants of the contorno you are in as guardian. If the re-evaluated person is the guardian of the organization's largest contorno and the organization has the ["North" contorno](#north contorno), people from that contorno will also be invited.
+* if you are evaluating the guardian of a contorno, it will be evaluated by the guardian of the outer contorno and by participants of the contorno you are in as guardian. If the re-evaluated person is the guardian of the organization's largest contorno and the organization has the ["North" contorno](#north), people from that contorno will also be invited.
 * if you are evaluating an agent of a contorno, it will be evaluated by the participants of the contorno.
 * in both cases: you can invite any other person who has recurring interaction in the organization to participate in the assessment.
 
@@ -485,7 +485,7 @@ Compensation can be for fixed pre-defined hours in the hiring related or not to 
 
 ## Selective process
 [To be developed]
-In the meantime, see [References about selective-process](references#references-about-selective-process)
+In the meantime, see [References about selective-process](en/references#references-about-selective-process)
 
 ## Combination with other existing processes or technologies
 It is possible to combine [Contornos] with the adaptation of other existing processes.
