@@ -1,5 +1,5 @@
 
-?> Please note that, temporarily, the text below was translated using Google Translate and some manual refinement. If you would like to help fix and refine the translation, please contact me via [linkedin](https://www.linkedin.com/in/renatocaliari/) (it's in English) or via the website [renatocaliari.com](https://www.renatocaliari.com) (it's in Portuguese) 
+?> Please note that, temporarily, the text below was translated using Google Translate and some manual refinement. If you would like to help fix and refine the translation, please contact me via [LinkedIn](https://www.linkedin.com/in/renatocaliari/) (it's in English) or via the website [renatocaliari.com](https://www.renatocaliari.com) (it's in Portuguese) 
 
 # Comparison between social technologies
 This table is a risky and simplistic attempt so that people who are familiar with the other technologies listed can have a superficial notion of comparison about the elements foreseen in the core of each technology.
