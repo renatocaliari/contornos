@@ -8,6 +8,4 @@
 - ✔️ mais agilidade e experimentação
 - ✔️ mais adaptação fluída da estrutura 
 
-[Read in 🇺🇸 English](en/)
-
 [Saiba mais](start)
