@@ -9,9 +9,9 @@ Apps are pre-defined extra [structural agreements](contornos#structural-agreemen
 An app can have a dependency on other apps, if specified.
 
 In addition to the Apps included here, see also:
-- [Curiosities](curiosities)
-- [Questions and Answers](questions)
-- [References](references)
+- [Curiosities](en/curiosities)
+- [Questions and Answers](en/questions)
+- [References](en/references)
 
 # How to use the Apps
 Make an integrative decision on the contorno you want to use and import it into the structural agreements.
