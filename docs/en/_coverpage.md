@@ -8,4 +8,5 @@
 - ✔️ more agility and experimentation
 - ✔️ more fluid adaptation of the structure 
  
-[Know more](en/start)
+[Know more](/en/start)
+
