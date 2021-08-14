@@ -416,7 +416,7 @@ When registering a booster, specify its type:
 - **Listening**: when a person wants to be heard or understood by others. Examples of supporting tools: open questions, summary or [reflections](https://nelianafiglie.com.br/blog/tipos-de-reflexao-2/).
 - **Reaction** (feedback): when someone wants emotional reactions, opinions or ideas, but is not necessarily expected to respond to the reactions.
 - **Discussion**: when you want to discuss ideas and points of view.
-- **Proposal co-creation**: when you want to make a [group ideation and create a proposal](#ideation-and-proposal-co-creation).
+- **Co-creation of proposal**: when you want to make a [group ideation and create a proposal](#ideation-and-proposal-co-creation).
 - **[Integrative decision](contornos#integrative-decision)**: when there is a proposal to be decided in an integrative way. If necessary, specify which contorno has the authority to decide or which contorno the decision is expected from.
 
 ### Usage examples
@@ -442,7 +442,7 @@ Consent is not a matter of personal preference, but whether there are objections
 In contorno, there are 3 criteria to consider a valid objection:
   1. **Violation or Obstacle**: reveals a violation of the organization's agreements or reveals obstacles, specifically for the contornos of who raised the objection, to expressing their reason for existing and carrying out their responsibilities. If the person raises an objection on behalf of contornos he does not participate in, do not consider a valid objection. The guardians of each contorno may raise their own objections.
   2. **Damage caused by the proposal**: reveals damage that will only exist if the proposal is put into practice and that there will not be adequate opportunity for adaptation before the proposal causes the damage.
-  3. **Evidence**: is based on evidence. If it is predictive and does not pass criterion 2, do not consider it a valid objection in this process.
+  3. **Evidence**: it needs to based on evidence. If it is predictive and does not pass on criteria 2, do not consider it a valid objection in this process.
 
 If there are objections, the person making the proposal must adapt it to integrate the objections. If this is not possible, the proposal is filed.
 If there is adaptation, it is necessary to consent to the change with the contorno participants.
@@ -454,7 +454,7 @@ It is recommended that you use the [proposal integrative decision] app (apps#int
 If a decision impacts other contornos, it is recommended that you share the proposal for the reactions of people from the impacted contornos, and only then make an integrative decision on the contorno that created the proposal.
 
 ## Process for proposal with integrative decision
-### Ideation and proposal co-creation
+### Ideation and co-creation of proposal
 To create a collaborative proposal, use this process:
 
 - **Introduction of the booster with context**
