@@ -6,7 +6,7 @@ Essa tabela não traz informações contextuais para quem não conhece tais tecn
 
 Se você não conhece as outras tecnologias sociais, deixo aqui o meu convite para conhecer, aprender e se inspirar nelas também. Vá à [tabela comparativa](#tabela-comparativa-de-outras-diferen%C3%A7as) mais abaixo e clique no link que contém o nome da tecnologia social.
 
-❤️ Agradeço a todas as pessoas e organizações que ajudaram e ajudam a evoluir todas essas tecnologias sociais.
+❤️ Agradeço a todas as pessoas e organizações que ajudaram a evoluir todas essas tecnologias sociais.
 
 ## Importante
 
@@ -15,14 +15,14 @@ Se você não conhece as outras tecnologias sociais, deixo aqui o meu convite pa
 ---
 
 ## Diferença no favorecimento de número de participantes
-Uma outra diferença entre o sistema [Contornos] e as outras tecnologias é a forma de crescimento do número de participantes de um contorno.
+Uma diferença entre o sistema [Contornos] e as outras tecnologias é a forma de crescer o número de participantes de um contorno.
 Em [Contornos], para delimitar um novo escopo dentro de um contorno, só existe a possibilidade de criar um novo contorno. Então, ao alocar mais pessoas para trabalhar nesse novo escopo, no contorno interno, elas participarão apenas desse contorno, como agentes, e por isso não participarão do contorno externo, onde a guardiã participará.
 
 Já nas outras tecnologias, ao delimitar um escopo, é possível criar papel ou círculo. E é comum começar com a criação de um papel em vez de um círculo. Por isso, caso se delimite um novo escopo como papel e aloque várias pessoas no papel, todas elas estarão participando do mesmo círculo maior, favorecendo o crescimento do número de participantes por círculos na organização.
 
 ### Resumo:
 - [Contornos] favorece ter menos participantes por contorno. Porém, é possível convidar pessoas de contornos internos para participarem como agentes de um contorno externo. Ou, criar acordos para cerimônias que envolvam guardiãs ou agentes de outros contornos mais internos.
-  - Por padrão, a tendência é ter menos participantes com alternativa de alocar mais participantes em um contorno de forma intencional e selecionada. 
+  - Por padrão, a tendência é ter menos participantes com alternativa de alocar mais participantes em um contorno de forma intencional.
 - Outras tecnologias sociais favorecem ter mais participantes por contorno quando usam papéis. Porém, é possível criar um círculo para englobar as responsabilidades de um papel, alocando as participantes do papel nesse círculo, e deixando apenas uma pessoa participando no círculo externo como elo externo.
   - O que parece ser comum, é a criação de papel antes de criação de um círculo, e por isso, a tendência é ter mais participantes por círculo.  
 
