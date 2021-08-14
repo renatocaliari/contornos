@@ -8,5 +8,5 @@
 - ✔️ more agility and experimentation
 - ✔️ more fluid adaptation of the structure 
  
-[Know more](/en/start)
+[Read about Contornos](/en/start)
 
