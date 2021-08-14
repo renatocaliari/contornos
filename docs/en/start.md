@@ -2,6 +2,8 @@
 
 ?> Please note that, temporarily, the text below was translated using Google Translate and some manual refinement. If you would like to help fix and refine the translation, please contact me via [linkedin](https://www.linkedin.com/in/renatocaliari/) (it's in English) or via the website [renatocaliari.com](https://www.renatocaliari.com) (it's in Portuguese) 
 
+?> **Contornos** is a portuguese word meaning outlines or contours in English.
+
 [Contornos] is a system containing basic rules that takes care of organizational aspects to give more agility to the organization, distribution of decisions giving more autonomy with responsibility and continuous organizational adaptation that encourage more experimentation inside and outside.
 
 It makes it unnecessary:
