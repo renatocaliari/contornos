@@ -19,7 +19,7 @@ The organizational structure is defined by contornos. The people in the organiza
 
 The system starts with the maxim that _"everything is allowed as long as it is not explicitly forbidden"_ in some [agreement](#agreements) containing restriction or defined as [resources o exclusive control](#resources-of-exclusive-control-how) of some contorno instead of the common inverse in many organizations that _"everything is forbidden as long as it is explicitly allowed"_. 
 
-[See an example of a contorno structure in the Questions & Answers](questions#example-of-contorno-structure).
+[See an example of a contorno structure in the Questions & Answers](en/questions#example-of-contorno-structure).
 
 # Contornos
 A contorno is a scope delimited by reason for existence, responsibilities, resources of exclusive control, and proper agreements.
@@ -31,7 +31,7 @@ One person can be on several contornos, and one contorno can contain several peo
 
 ## When to create new contornos?
 
-Create contornos when you notice some recurring patterns to leverage effectiveness and shared understanding or when you want to delegate some of the responsibilities and resources of exclusive control. [In Questions & Answers, see options that may help in mapping new contornos](questions#how-to-map-and-divide-the-contornos).
+Create contornos when you notice some recurring patterns to leverage effectiveness and shared understanding or when you want to delegate some of the responsibilities and resources of exclusive control. [In Questions & Answers, see options that may help in mapping new contornos](en/questions#how-to-map-and-divide-the-contornos).
 
 Examples demonstrating contexts for contorno creation: 
 - Recurrently the contorno you participate needs to perform data analysis in a more advanced way. For a while the participants were trying to help each other, each time doing something, but it was not explicit who had this responsibility and what other responsibilities there might be. Then, because of this recurrence, someone registers a [booster](#boosters) for the contorno with a proposal to create an internal "data analysis" contorno, making explicit what is expected. And then they make a proposal to allocate one person as guardian of this contorno. From then on they will no longer need to decide who will do this kind of work and what responsibilities are expected. 
@@ -43,7 +43,7 @@ Examples demonstrating contexts for contorno creation:
 - minimize the creation of contornos that depend on recurrent, planned and necessary deliveries (_handover_ or _handoff_) of other contornos that are not within the same external contorno. Encourage the participants of the contornos that have dependence to have a close context in common - an external contorno, favoring that they participate in meetings, decisions and treatment of [boosters](#boosters) together.
   - example of dependency in a different context and in the same context
     - ![Image exemplifying Handover or Handoff](./assets/handoffhandover.png ':size=480')
-  - if a dependency between contornos that are in different external contornos is desired or necessary, it is recommended to create a structural role of [representative](apps#representative) so that the contornos have some connection.
+  - if a dependency between contornos that are in different external contornos is desired or necessary, it is recommended to create a structural role of [representative](en/apps#representative) so that the contornos have some connection.
  
 
 ## How to adapt or remove a contorno?
@@ -51,10 +51,10 @@ Anytime someone perceives that a contorno needs, or is desirable, to be adapted,
 
 To remove a contorno, an integrative decision by the external contorno is necessary, being able to decide which contornos internal to the contorno being deleted they want to bring to the contorno that is making the decision.
 
-To adapt the contorno, it is necessary to identify which [attribute](contornos#contorno-attributes) you want to change and who has the authority to adapt it.
+To adapt the contorno, it is necessary to identify which [attribute](en/contornos#contorno-attributes) you want to change and who has the authority to adapt it.
 
 # Participation in contornos
-Participation in contornos happens through the allocation of people. It is possible to indicate the [type of energy](apps#type-of-energy-in-contorno) that each participant will have in a certain contorno.
+Participation in contornos happens through the allocation of people. It is possible to indicate the [type of energy](en/apps#type-of-energy-in-contorno) that each participant will have in a certain contorno.
 
 Any participant in a contorno has these **common responsibilities**:
 * perceive and treat [boosters](#boosters) of its contorno.
@@ -70,7 +70,7 @@ Any participant in a contorno has these **common responsibilities**:
 ## Structural Roles
 There are only two basic structural roles in Contornos: guardian and agent.
 
-In addition to these two structural roles, it is possible to install [extra structural roles](apps#extra-structural-roles), such as: [Representative](apps#representative), [Synapse](apps #synapse), [Facilitator](apps#facilitator) and [Secretary](apps#secretary).
+In addition to these two structural roles, it is possible to install [extra structural roles](en/apps#extra-structural-roles), such as: [Representative](en/apps#representative), [Synapse](en/apps #synapse), [Facilitator](en/apps#facilitator) and [Secretary](en/apps#secretary).
 
 ### Guardian
 
@@ -84,7 +84,7 @@ In addition to these two structural roles, it is possible to install [extra stru
   * _all general responsibilities of contorno participants_.
   * _all own contorno responsibilities_ that are not delegated to internal contornos.
   * bring information from the external contorno to all participants of your contorno.
-  * act on [boosters](contornos#boosters) without progress in its contorno.
+  * act on [boosters](en/contornos#boosters) without progress in its contorno.
   * to propose a contorno strategy, requiring an integrative decision.
   * to propose a contorno process, needing an integrative decision.
   * propose people to support the contorno.
@@ -95,7 +95,7 @@ In addition to these two structural roles, it is possible to install [extra stru
 #### Responsibilities of the guardian of the greatest contorno, the organization itself
   * _all general responsibilities of contorno participants_.
   * _all own contorno responsibilities_ that are not delegated to internal contornos.
-  * act on [boosters](contornos#boosters) without progress in its contorno.
+  * act on [boosters](#boosters) without progress in its contorno.
   * to propose a contorno strategy, requiring an integrative decision.
   * to propose a contorno process, needing an integrative decision.
   * propose people to support the contorno.
@@ -112,7 +112,7 @@ It is possible to delegate Guardian responsibilities to other internal contornos
 The guardian has no authority to:
   * add new responsibilities to your role.
   * hire new people into the organization or fire people.
-    * to solve both cases there may be a [special contorno](apps#special-contornos) for this or a [structural agreement](#structural-agreements) that determines how hiring and firing will be done. But this is not a responsibility of the structural Guardian role, nor is it in its authority.
+    * to solve both cases there may be a [special contorno](en/apps#special-contornos) for this or a [structural agreement](#structural-agreements) that determines how hiring and firing will be done. But this is not a responsibility of the structural Guardian role, nor is it in its authority.
   * micromanage or violate other contorno agreements or resources of exclusive control, including internal contornos.
   * require **exclusive** detailed reporting from someone about tasks.
     * if someone's intention, including those in the structural guardian role, is to have updates, specifics, or projections of something on demand, they can ask these questions of anyone directly.
@@ -136,10 +136,10 @@ The guardian has no authority to:
 | -- | -- | -- |
 | reason to exist | save the contorno space and answer for the reason it exists. | evolve the contorno towards the reason for existing. |
 | participation | every guardian of a contorno is also a participant in the outer contorno as [agent](#agent). | if the agent is not the guardian of some internal contorno, her participation is restricted to the contorno as an agent.<br/>If the agent is the guardian of some internal contorno, her participation happens both in the contorno as agent and in the contorno as guardian. |
-| responsibilities | * _all overall responsibilities of contorno participants_.<br/>* _all responsibilities of the contorno itself_ that are not delegated to inner contornos.<br/>* bring information from the outer contorno to all contorno participants.<br/>* take action on contornos without participants: invite people to join them or remove the contorno, with integrative decision.<br/>* act on [boosters](contornos#boosters) without progress in its contorno.<br/>* propose contorno strategy, needing integrative decision.<br/>* propose contorno process, needing integrative decision.<br/>* propose people to support the contorno.<br/>* share indicators with the external contorno, in the frequency suggested by the external contorno .<br/>* share about the progress of projects with the external contorno, as often as suggested by the external contorno, stating how this connects to the strategy and purpose of the external contorno.| * _all contorno participant general responsibilities_.<br/>* _all contorno own responsibilities_ that are not delegated to internal contornos. |
+| responsibilities | * _all overall responsibilities of contorno participants_.<br/>* _all responsibilities of the contorno itself_ that are not delegated to inner contornos.<br/>* bring information from the outer contorno to all contorno participants.<br/>* take action on contornos without participants: invite people to join them or remove the contorno, with integrative decision.<br/>* act on [boosters](#boosters) without progress in its contorno.<br/>* propose contorno strategy, needing integrative decision.<br/>* propose contorno process, needing integrative decision.<br/>* propose people to support the contorno.<br/>* share indicators with the external contorno, in the frequency suggested by the external contorno .<br/>* share about the progress of projects with the external contorno, as often as suggested by the external contorno, stating how this connects to the strategy and purpose of the external contorno.| * _all contorno participant general responsibilities_.<br/>* _all contorno own responsibilities_ that are not delegated to internal contornos. |
 
 ## Allocation of people in contornos
-To be able to be allocated in any way, a person must be a partner of the organization, whatever the form: hired collaborator, partner or other agreed form. And to become a partner, it is expected that there is some contorno with this responsibility, such as the [Partnership Maintenance](apps#partnership-maintainance).
+To be able to be allocated in any way, a person must be a partner of the organization, whatever the form: hired collaborator, partner or other agreed form. And to become a partner, it is expected that there is some contorno with this responsibility, such as the [Partnership Maintenance](en/apps#partnership-maintainance).
 
 After becoming a partner, people can be dynamically allocated to contornos over time.
 
@@ -152,7 +152,7 @@ When the revaluation period arrives, or when any contorno participant creates a 
 A guardian for a new inner contorno is appointed by integrative decision by all participants of the **external** contorno.
  
 #### Agent
-To allocate new agents in the contorno, the guardian makes a proposal or asks for a [nomination process] (apps#nominating-people-to-a-contorno), requiring an integrative decision between participants of the contorno.
+To allocate new agents in the contorno, the guardian makes a proposal or asks for a [nomination process] (en/apps#nominating-people-to-a-contorno), requiring an integrative decision between participants of the contorno.
 
 Anyone can apply as an agent of a contorno at any time, taking the matter to the guardian of the contorno. The guardian of the contorno can deny the request or bring the contorno to an integrative decision, if it considers the person's inclusion.
 
@@ -162,14 +162,14 @@ Also, anyone can appoint a person to the structural role of agent and make an in
 Before making an allocation proposal to a new contorno, ask yourself:
 - How many hours do you want to be invested in this contorno? and how often?
 
-When making an integrative decision of [naming](apps#nominating-of-people-to-a-contorno), question yourself as an objection enhancer:
+When making an integrative decision of [naming](en/apps#nominating-of-people-to-a-contorno), question yourself as an objection enhancer:
 - does the person have the time and focus necessary for this other contorno? It is indicated that the person himself also assess for possible objection if he is with cognitive overload to be in many different contexts that require routine activities.
 
 ### Allocation revaluation
 When allocating a person to a contorno, it is necessary to define the frequency of revaluation of this allocation.
-Guardians and agents will have their participation [evaluated periodically] (apps#evaluation-in-a-contorno), according to the definition of frequency, in the contornos in which they participate.
+Guardians and agents will have their participation [evaluated periodically] (en/apps#evaluation-in-a-contorno), according to the definition of frequency, in the contornos in which they participate.
 
-It is recommended to use the [Appraisal in a contorno](apps#appraisal-in-a-contorno).
+It is recommended to use the [Appraisal in a contorno](en/apps#appraisal-in-a-contorno).
 
 ### Withdrawal of people from contornos
 Anyone can opt out of a contorno by notifying the participants of the contorno in advance.
@@ -177,8 +177,8 @@ And anyone can suggest that a person is removed from a contorno, however, in thi
 
 Withdrawing from a contorno is different from terminating a partnership contract with the organization. It just means that the person will come out of a contorno.
 
-If a person no longer participates in any other contorno or is in contornos that do not use the agreed time to hire the person, they must take this issue to a contorno that has responsibility for allocating people throughout the organization, such as [Allocation Advice](apps#allocation-advice).
-Or, if the intention is to end the partnership, take the issue directly to a contorno responsible for this scope, such as the [Partnership Maintenance special contorno](apps#partnership-maintenance) .
+If a person no longer participates in any other contorno or is in contornos that do not use the agreed time to hire the person, they must take this issue to a contorno that has responsibility for allocating people throughout the organization, such as [Allocation Advice](en/apps#allocation-advice).
+Or, if the intention is to end the partnership, take the issue directly to a contorno responsible for this scope, such as the [Partnership Maintenance special contorno](en/apps#partnership-maintenance) .
 
 If these special contornos do not exist, the case should be taken to the larger contorno of the organization, asking to know about contornos that it could participate in or, if it is her intention, asking to end the partnership.
 
@@ -208,7 +208,7 @@ Suppose we want to cite a "frontend" scope loop in an organization that already 
 To uniquely identify, we could:
   * use the [nickname](#nickname) attribute that the contorno defined.
     * example: ```Frontend XYZ Javascript Masters```.
-  * use [hierarchy annotation](curiosities#about-hierarchy-annotation-for-contorno-dentification) with the scopes of the contornos.
+  * use [hierarchy annotation](en/curiosities#about-hierarchy-annotation-for-contorno-dentification) with the scopes of the contornos.
     * To use this annotation format, start with the name of the largest contorno in the organization and move to the current contorno using the "." (dot) as a connector.
       * for example, if you want to quote the "frontend" contorno, which is inside the "implementation" contorno, which is inside the "XYZ product" contorno, and which ultimately is inside the "ABC organization", you can use the note:
         * ```ABC organization.XYZ product.implementation.frontend```.
@@ -222,7 +222,7 @@ Rules:
 * it is decided by the external contorno through integrative decision.
 
 ## Responsibilities (’How?’)
-[Responsibilities](questions#how-to-define-a-contorno-responsibilities) are expectations agreements about the main recurring actions that the people of a contorno will take care of. They make explicit any things that are not easily deduced from reading the reason for existing.
+[Responsibilities](en/questions#how-to-define-a-contorno-responsibilities) are expectations agreements about the main recurring actions that the people of a contorno will take care of. They make explicit any things that are not easily deduced from reading the reason for existing.
 
 People have the authority to act and do whatever is necessary to express the reason for the existence of a contorno, even if something is not listed in the responsibilities, without the need for approval from other people outside their contorno, and it is necessary to respect [agreements] (#agreements), [strategy](#strategy-how), [process](#process-how) and [resources of exclusive control](#resources-of-exclusive-control-how) of other contornos .
 
@@ -246,7 +246,7 @@ We evolved to make decisions very quickly based on a partial data scan, favoring
 ## Strategy (’How?’)
 A strategy is an explicit statement of contorno safety guidelines or contornos that facilitate decision making, prioritization, and contorno-reasoning experiments and that aligns with the current external contorno strategy.
 
-It is possible to contain [recurring rules, disclaimers or practices (checklist)](references#references-about-strategy).
+It is possible to contain [recurring rules, disclaimers or practices (checklist)](en/references#references-about-strategy).
 
 The strategy is proposed by the contorno guardian, **aligned with the external contorno strategy** and defined in [integrative decision](#integrative-decision) in the contorno itself.
 
@@ -257,7 +257,7 @@ From there, prioritize projects that are aligned with the new strategy.
 ## Process (’How?’)
 ![process](assets/process.png)
 
-Contornos that have demand processing with expected steps to follow, must specify as [process](references#references-about-process-mapping).
+Contornos that have demand processing with expected steps to follow, must specify as [process](en/references#references-about-process-mapping).
 A process is nothing more than a structural agreement, which is why it needs an integrative decision. However, it is an attribute of the contorno.
 
 Understanding the demands and steps will help to know what kind of other internal contornos will be needed to deliver the work and deliver the result.
@@ -417,7 +417,7 @@ When registering a booster, specify its type:
 - **Reaction** (feedback): when someone wants emotional reactions, opinions or ideas, but is not necessarily expected to respond to the reactions.
 - **Discussion**: when you want to discuss ideas and points of view.
 - **Co-creation of proposal**: when you want to make a [group ideation and create a proposal](#ideation-and-proposal-co-creation).
-- **[Integrative decision](contornos#integrative-decision)**: when there is a proposal to be decided in an integrative way. If necessary, specify which contorno has the authority to decide or which contorno the decision is expected from.
+- **[Integrative decision](#integrative-decision)**: when there is a proposal to be decided in an integrative way. If necessary, specify which contorno has the authority to decide or which contorno the decision is expected from.
 
 ### Usage examples
 | Imagine that... | Type of booster... |
@@ -449,7 +449,7 @@ If there is adaptation, it is necessary to consent to the change with the contor
 
 An integrative decision, by default, is made for all structural agreements.
 
-It is recommended that you use the [proposal integrative decision] app (apps#integrative-proposal-decision).
+It is recommended that you use the [proposal integrative decision] app (en/apps#integrative-proposal-decision).
  
 If a decision impacts other contornos, it is recommended that you share the proposal for the reactions of people from the impacted contornos, and only then make an integrative decision on the contorno that created the proposal.
 
@@ -479,7 +479,7 @@ When submitting a proposal for integrative decision, use this process:
   - if it is a valid objection, the tenderer must adapt the proposal to address the objections. and then the process goes back to the **clarification** stage above, where people can ask questions about the changes and goes to the next stages: reactions, adjustments and integrative decision.
 
 ### Asynchronous integrative decision
-The integrative decision can be performed asynchronously using the [asynchronous integrative-decision of proposal] app (apps#integrative-asynchronous-of-proposal-decision).
+The integrative decision can be performed asynchronously using the [asynchronous integrative-decision of proposal] app (en/apps#integrative-asynchronous-of-proposal-decision).
 
 # Extraordinary action
 Extraordinary actions are expected to occur violanting strategy, process, resources of exclusive control or agreements.
@@ -497,6 +497,6 @@ Rules for performing an extraordinary action:
 * perform the actions you deem appropriate.
 
 Rules after extraordinary action:
-* reveal the extraordinary action to the guardians of the impacted contornos, through a [booster](#boosters) with [warning intent](apps#declare-intention).
+* reveal the extraordinary action to the guardians of the impacted contornos, through a [booster](#boosters) with [warning intent](en/apps#declare-intention).
 * create a [booster](#boosters) of [integrative decision](#types-of-boosters), proposing adaptations in contornos or agreements, if that resolves the issue when something similar comes up again.
 
