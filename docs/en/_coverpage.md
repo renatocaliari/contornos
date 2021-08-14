@@ -9,5 +9,3 @@
 - ✔️ more fluid adaptation of the structure 
  
 [Know more](en/start)
-
-_*Contornos is a portuguese word meaning outlines or contours in English._
