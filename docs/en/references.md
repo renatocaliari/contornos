@@ -1,10 +1,9 @@
 @autoHeader:1
 
-?> Plea
-se note that, temporarily, the text below was translated using Google Translate and some manual refinement. If you would like to help fix and refine the translation, please contact me via [linkedin](https://www.linkedin.com/in/renatocaliari/) (it's in English) or via the website [renatocaliari.com](https://www.renatocaliari.com) (it's in Portuguese) 
+?> Please note that, temporarily, the text below was translated using Google Translate and some manual refinement. If you would like to help fix and refine the translation, please contact me via [linkedin](https://www.linkedin.com/in/renatocaliari/) (it's in English) or via the website [renatocaliari.com](https://www.renatocaliari.com) (it's in Portuguese) 
 # References
 
-## References on meeting formats and possible templates to use for contorno meetings
+## Meeting formats and possible templates to use for contorno meetings
 * [The sociocratic meeting format](https://www.sociocracyforall.org/meeting-format/)
 * [Level 10 Meeting Agenda Template](https://fellow.app/meeting-templates/level-10-meeting-agenda-template/)
 
