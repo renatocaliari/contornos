@@ -4,7 +4,7 @@
 
 # Apps
 
-Apps are pre-defined extra [structural agreements](contornos#structural-agreements) ready to solve some intentionally unmet needs at the heart of the operating system [Contornos](#contornos).
+Apps are pre-defined extra [structural agreements](en/contornos#structural-agreements) ready to solve some intentionally unmet needs at the heart of the operating system [Contornos](#contornos).
 
 An app can have a dependency on other apps, if specified.
 
@@ -184,7 +184,7 @@ I get around people with the intention of listening empathically, without counse
 ## Asynchronous integrative proposal decision
 [Under development]
 
-One of the difficulties in asynchronous integrative decision is being able to go through the process of [integrative decision of a proposal] (contornos#integrative-decision-of-proposal) in a reasonable time and without being forgotten, so here there are two models for inspiration.
+One of the difficulties in asynchronous integrative decision is being able to go through the process of [integrative decision of a proposal] (en/contornos#integrative-decision-of-proposal) in a reasonable time and without being forgotten, so here there are two models for inspiration.
 
 #### Model 1
 
@@ -194,7 +194,7 @@ To achieve fluidity in the asynchronous integrative decision process:
   * **Clarification**: 48h.
   * **Reaction**: 48h.
   * **Amends**: 72h.
-  * **[Integrative decision](contornos#integrative-decisions)**: the time remaining before the 30 days expire. If the validity days pass, the proposal is filed.
+  * **[Integrative decision](en/contornos#integrative-decisions)**: the time remaining before the 30 days expire. If the validity days pass, the proposal is filed.
 
 #### Model 2
 
