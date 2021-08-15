@@ -25,7 +25,7 @@ Think of it as a lean 'open-source' operating system, which allows you to import
 - [Curiosities](en/curiosities)
 - [Questions & Answers](en/questions)
   - How to get started with the Contornos system?
-  - How to map and divide the contornos?
+  - How to map and split the contornos?
   - How to measure the impact of changes in organizational design?
   - and much more.
 - [References](en/references)
