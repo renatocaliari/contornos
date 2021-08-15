@@ -472,11 +472,11 @@ When submitting a proposal for integrative decision, use this process:
 - **Proposal**: a written proposal is created to deal with some issue.
 - **Clarification**: make a round where everyone will have the opportunity, one by one, to ask questions to fully understand the proposal. One question at a time. As soon as questions arise, the person who proposes can answer. If anyone has an opinion or suggestion, let them know to save it for the next step. The step is for clarification only.
 - **Reactions**: make a round where everyone will have the opportunity, one by one, to offer any reaction on the proposal or suggestion that could help improve the proposal. The person proposing listens to all reactions but does not need to respond to them.
-- **Adjustments**: based on the questions and reactions, the proposing person can change the proposal (or not) and clarify anything that was not already explicit and specific.
+- **Amends**: based on the questions and reactions, the proposing person can change the proposal (or not) and clarify anything that was not already explicit and specific.
 - **Integrative decision**:
   - the proposing person seeks consent to his/her proposal, adjusted or not.
   - if any participant has an objection, she declares it to the bidder.
-  - if it is a valid objection, the tenderer must adapt the proposal to address the objections. and then the process goes back to the **clarification** stage above, where people can ask questions about the changes and goes to the next stages: reactions, adjustments and integrative decision.
+  - if it is a valid objection, the tenderer must adapt the proposal to address the objections. and then the process goes back to the **clarification** stage above, where people can ask questions about the changes and goes to the next stages: reactions, amends and integrative decision.
 
 ### Asynchronous integrative decision
 The integrative decision can be performed asynchronously using the [asynchronous integrative-decision of proposal] app (en/apps#integrative-asynchronous-of-proposal-decision).
