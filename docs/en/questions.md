@@ -2,7 +2,7 @@
 
 ?> Please note that, temporarily, the text below was translated using Google Translate and some manual refinement. If you would like to help fix and refine the translation, please contact me via [LinkedIn](https://www.linkedin.com/in/renatocaliari/) (it's in English) or via the website [renatocaliari.com](https://www.renatocaliari.com) (it's in Portuguese) 
 
-# Questions answers
+# Questions & Answers
 
 ## How to get started with the Contornos system?
 
