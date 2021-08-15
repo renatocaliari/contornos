@@ -107,10 +107,10 @@ If the contorno that will offer a delegate already has a named delegate, it will
   * etc
   
 ### Facilitator
-(To be developed)
+[To be developed]
 
 ### Secretary
-(To be developed)
+[To be developed]
 
 ## Special contornos
 ### "North" Contorno
