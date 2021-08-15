@@ -401,12 +401,12 @@ The boosters are expected to flow continuously.
 Rules:
 - Any participant of a contorno has the responsibility to realize and deal with boosters related to its contornos or its person.
 - Register boosters in some shared list for processing.
-- [Declare booster type](#types-of-boosters) for processing.
+- [Declare type of the booster](#types-of-boosters) for processing.
 - Describe the motivation and context of the booster.
-- When creating a booster it is necessary to declare which contorno you are creating the booster from and for which contorno. Ex: "Development contorno booster for product contorno". The only exception is when it is something personal, unrelated to the organizational structure (contorno, reason for existing, responsibilities, strategy, process, indicator, resources of exclusive control, agreements) or operational work (projects and tasks), when not it is necessary to inform from which contorno the booster is generating.
+- When creating a booster it is necessary to declare from which contorno you are creating the booster and for which contorno. Ex: "Development contorno for Product contorno". The only exception is when it is something personal, unrelated to the organizational structure (contorno, reason for existing, responsibilities, strategy, process, indicator, resources of exclusive control, agreements) or operational work (projects and tasks).
 - A trigger is expected to be pulled by any participant who has responsibility for dealing with the trigger context.
 - It is necessary that the boosters are pulled and dealt with one by one, with a focus on the context and intention of the booster. Do not collectivize the booster by seeking to modify what is expected, bringing in other people's concerns and intentions, unless it is a request from the person who opened the original booster.
-  - When dealing with a booster, as soon as someone realizes that the focus left that booster or the person who brought it, it deviated from the subject, left the expected type of the booster or started to add boosters from other people in the booster of the person who shared it, ** it is necessary to warn and interrupt to bring the focus back to the subject, type and person who shared the booster**.
+  - When dealing with a booster, as soon as someone realizes that the focus left that booster or the person who brought it, it deviated from the subject, left the expected type of the booster or started to add boosters from other people in the booster of the person who shared it, **it is necessary to warn and interrupt to bring the focus back to the subject, type and person who shared the booster**.
 
 ## Types of boosters
 When registering a booster, specify its type:
