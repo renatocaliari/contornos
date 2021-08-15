@@ -24,7 +24,7 @@ Make an integrative decision on the contorno you want to use and import it into 
   - [Secretary](#secretary)
 - [Special contornos](#special-contornos)
   * [North](#north)
-  * [Partnership Maintenance](#partnership-maintenance)
+  * [Partnership](#partnership)
   * [Organizational System](#organizational-system)
   * [Allocation Advice](#allocation-advice)
   * [Mentoring](#mentoring)
@@ -113,7 +113,7 @@ If the contorno that will offer a delegate already has a named delegate, it will
 [To be developed]
 
 ## Special contornos
-### "North" Contorno
+### North
 **Reason for existing:**
 - define the north of the organization
 
@@ -138,7 +138,7 @@ If the contorno that will offer a delegate already has a named delegate, it will
 **To define:**
 - criteria that inform which people will participate in this contorno, in addition to those drawn. Example: first and second level contorno guardians; people with more than X years in the organization + people who invested more than X in the organization + people invited by the contorno participants who go through an integrative decision.
 
-### Contorno "Partnership Maintenance"
+### Partnership
 
 **Reason for existing:**
 - take care of hiring, contract closures and salary changes.
@@ -155,7 +155,7 @@ If the contorno that will offer a delegate already has a named delegate, it will
 **To define:**
 - which guardians of the organization's contornos participate in this contorno.
 
-### Contorno Organizational System
+### Organizational System
 
 **Reason for existing:**
 - support the understanding of context and experimentation with organizational artifacts
@@ -175,18 +175,18 @@ If the contorno that will offer a delegate already has a named delegate, it will
   - the most suitable people are evaluated and proposed by the Organizational System contorno and undergo an integrative decision with each person selected in turn.
 
 
-### Contorno Allocation advice
+### Allocation advice
 Contorno to advise people who wish to participate in other contornos or are no longer participating in any contorno.
 
-If they do not jointly discover some other contorno for participation or fail to decide the contornos, the "Allocation Advice" participants combine with the "Partnership Maintenance" contorno to handle the case.
+If they do not jointly discover some other contorno for participation or fail to decide the contornos, the "Allocation Advice" participants combine with the Partnership contorno to handle the case.
 
-### Contorno Mentoring
+### Mentoring
 Contorno to advise, direct and train in specific skills.
 
-### Conflict Mediation Conflict
+### Conflict Mediation
 [To be developed]
 
-### Contorno Listen
+### Listening
 I get around people with the intention of listening empathically, without counseling.
 
 ## Asynchronous integrative proposal decision
@@ -363,13 +363,13 @@ Learn more about this information [in the article on performance evaluation](htt
 When installing the app (importing the agreement), please describe the desired and necessary details:
 - what is the frequency of this assessment. Example: bimonthly.
 - what is the minimum expected mean of all people, regardless of contorno or structural role.
-- How will the average be calculated: between the 3 questions?
-- Will the evaluation result be linked to the maintenance of the partnership (closure, promotion, or bonus variation)?
+- how will the average be calculated: between the 3 questions?
+- will the evaluation result be linked to the Partnership contorno (closure, promotion, or bonus variation)?
 - what is the minimum number of answers for an assessment per person to consider on average? ex: "only averages that have at least 3 answers per person's evaluation will be calculated. If you have less answers, consider the agreed minimum average as the average of the person's evaluation".
 
-If you decide to link the assessment to mentoring, partnership maintenance or bonus variation, try a few more items in the agreement:
+If you decide to link the assessment to Mentoring, Partnership or bonus variation, try a few more items in the agreement:
 - every time a person falls below the minimum average, he will be invited to seek advice with the [Contorno Mentoring](#mentoring).
-- below average for 2 times in a row, an automatic proposal is made to close a partnership in the contorno ["Maintenance of partnership"](#maintenance-of-partnership) passing through an integrative decision.
+- below average for 2 times in a row, an automatic proposal is made to close a partnership in the contorno [Partnership](#partnership) passing through an integrative decision.
 - the global average of the organization's evaluation result will serve as a guide for the bonus variation.
 - the % of the difference from the personal average to the global average of the company, will be the variation of the bonus, up or down.
 
