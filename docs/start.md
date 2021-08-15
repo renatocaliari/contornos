@@ -20,9 +20,9 @@ Pense nisso como um sistema operacional enxuto 'open-source' (código aberto), q
 - [Apps](apps) - biblioteca de acordos extras pré-definidos para implementar no sistema [Contornos].
 - [Curiosidades](curiosities)
 - [Perguntas & Respostas](questions)
-  - Como iniciar com o sistema Contornos?
-  - Como mapear e dividir os contornos?
-  - Como medir o impacto de mudanças no design organizacional?
+  - [Como iniciar com o sistema Contornos?](questions#como-iniciar-com-o-sistema-contornos)
+  - [Como mapear e dividir os contornos?](questions#como-mapear-e-dividir-os-contornos)
+  - [Como medir o impacto de mudanças no design organizacional?](questions#como-medir-o-impacto-de-mudanças-no-design-organizacional)
   - e muito mais.
 - [Referências](references)
 - [Comparação entre tecnologias sociais](technologies): Organizações Orgânicas (O2), Sociocracy For All, Sociocracia 3.0 e Holacracia.
