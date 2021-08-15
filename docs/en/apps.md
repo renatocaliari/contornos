@@ -218,7 +218,7 @@ To achieve fluidity in the asynchronous integrative decision process:
        * otherwise, the participation of 100% of people in this stage is required and the proposal is waiting until the 30 days expire.
 
 ## Meetings and Ceremonies
-Get inspired here: [References on meeting formats and possible templates to use for contorno meetings](en/references#references-about-meeting-formats-and-possible-templates-to-use-for-contorno-meetings)
+Get inspired here: [References on meeting formats and possible templates to use for contorno meetings](en/references#meeting-formats-and-possible-templates-to-use-for-contorno-meetings)
 
 ## Collaboration and Communication
 
@@ -241,40 +241,40 @@ Model inspired and adapted [from here](https://medium.com/manuelkublbock/user-ma
 --
 
 `Strengths and weaknesses in issues related to what you do at work`
-`A strength is not something you are good at and a weakness is not something you are bad at doing. A strength is an activity that strengthens you. It draws you in, makes time fly while you're doing it, and makes you feel strong. [see more about it here](https://www.marcusbuckingham.com/defining-strengths/). And a weakness, it's the reverse of that.`
+`A strength is not something you are good at and a weakness is not something you are bad at doing. A strength is an activity that strengthens and energizes you. It draws you in, makes time fly while you're doing it, and makes you feel strong. [see more about it here](https://www.marcusbuckingham.com/defining-strengths/). And a weakness, it's the reverse of that.`
 
 **Forces:**
 - a
-- B
-- ç
+- b
+- c
 
 **Weaknesses:**
 - a
-- B
-- ç
+- b
+- c
 
 **Picture that represents me ❤️**
 - []
 
 **What Challenges My Patience**
 - a
-- B
-- ç
+- b
+- c
 
 **How ​​can you help me (my request about conditions I don't do well)**
 - a
-- B
-- ç
+- b
+- c
 
 **What people misunderstand about me**
 - a
-- B
-- ç
+- b
+- c
 
 **What I value and maxims that drive my actions**
 - a
-- B
-- ç
+- b
+- c
 
 **What Tests Say About Me**
 
@@ -286,13 +286,13 @@ _Remember, the results do not say who I am. Keep your curiosity active about me.
 
 **Habits I intentionally maintain:**
 - a
-- B
-- ç
+- b
+- c
 
 **Other things worth knowing about me:**
 - a
-- B
-- ç
+- b
+- c
 
 ## Taking care of people
 [Under development]
@@ -323,7 +323,7 @@ In addition, these people need to set a frequency of individual or group meeting
 
 **Apps Dependency:**
 - [Type of energy in contorno](#type-of-energy-in-contorno)
-- [Contorno Mentoring](#mentoring)
+- [Mentoring](#mentoring)
 
 ## Naming people for a contorno
 The process of naming people serves any structural role, except for Guardian, for which [another process is applied](#guardian-nomination-in-a-contorno-evaluation-process).
