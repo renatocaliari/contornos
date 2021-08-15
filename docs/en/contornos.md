@@ -43,7 +43,7 @@ Examples demonstrating contexts for contorno creation:
 - minimize the creation of contornos that depend on recurrent, planned and necessary deliveries (_handover_ or _handoff_) of other contornos that are not within the same external contorno. Encourage the participants of the contornos that have dependence to have a close context in common - an external contorno, favoring that they participate in meetings, decisions and treatment of [boosters](#boosters) together.
   - example of dependency in a different context and in the same context
     - ![Image exemplifying Handover or Handoff](./assets/handoffhandover.png ':size=480')
-  - if a dependency between contornos that are in different external contornos is desired or necessary, it is recommended to create a structural role of [representative](en/apps#representative) so that the contornos have some connection.
+  - if a dependency between contornos that are in different external contornos is desired or necessary, it is recommended to create a structural role of [delegate](en/apps#delegate) so that the contornos have some connection.
  
 
 ## How to adapt or remove a contorno?
@@ -70,7 +70,7 @@ Any participant in a contorno has these **common responsibilities**:
 ## Structural Roles
 There are only two basic structural roles in Contornos: guardian and agent.
 
-In addition to these two structural roles, it is possible to install [extra structural roles](en/apps#extra-structural-roles), such as: [Representative](en/apps#representative), [Synapse](en/apps #synapse), [Facilitator](en/apps#facilitator) and [Secretary](en/apps#secretary).
+In addition to these two structural roles, it is possible to install [extra structural roles](en/apps#extra-structural-roles), such as: [Delegate](en/apps#delegate), [Synapse](en/apps #synapse), [Facilitator](en/apps#facilitator) and [Secretary](en/apps#secretary).
 
 ### Guardian
 
