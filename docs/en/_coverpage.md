@@ -4,8 +4,8 @@
 
 >  Social Technology for Organizations
 
-- more autonomy with responsibility and accountability
-- more agility and experimentation
-- more fluid adaptation of the structure
+- ✔️ more autonomy with responsibility and accountability
+- ✔️ more agility and experimentation
+- ✔️ more fluid adaptation of the structure
  
-[Read more](/en/start)
+[Getting Started](/en/start)
