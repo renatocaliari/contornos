@@ -201,7 +201,7 @@ To achieve fluidity in the asynchronous integrative decision process:
 * we determine the minimum waiting period at each stage:
   * **Clarification**: 48h.
   * **Reaction**: 48h.
-  * **Adjustment**: 72h.
+  * **Amends**: 72h.
   * **[Integrative decision](contornos#integrative-decisions)**: the time remaining before the 30 days expire. If the validity days pass, the proposal is filed.
 
 #### Model 2
@@ -211,7 +211,7 @@ To achieve fluidity in the asynchronous integrative decision process:
 * we determine the minimum waiting period at each stage:
   * **Clarification**: 48h.
   * **Reaction**: 48h.
-  * **Adjustment**: 72h.
+  * **Amends**: 72h.
   * **[Integrative decision](en/contornos#dintegrative-decisions)**: 72h.
     * criteria:
        * 70% of people in the contorno must declare that they have no objection, as long as 70% equals at least 5 people.
