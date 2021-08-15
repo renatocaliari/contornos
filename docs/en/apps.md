@@ -20,8 +20,6 @@ Make an integrative decision on the contorno you want to use and import it into 
 - [Extra structural roles](#extra-structural-roles)
   - [Delegate](#delegate)
   - [Synapse](#synapse)
-  - [Facilitator](#facilitator)
-  - [Secretary](#secretary)
 - [Special contornos](#special-contornos)
   * [North](#north)
   * [Partnership](#partnership)
@@ -106,12 +104,6 @@ If the contorno that will offer a delegate already has a named delegate, it will
   * behavioral agreements of the organization as a whole
   * etc
   
-### Facilitator
-[To be developed]
-
-### Secretary
-[To be developed]
-
 ## Special contornos
 ### North
 **Reason for existing:**
