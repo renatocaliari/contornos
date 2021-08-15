@@ -102,7 +102,7 @@ If you want to 'implement' in advance across the organization in an inviting way
 ### How to map and split the contornos?
 #### Options - combine them according to need and context
 - In product/service teams, mapping and division based on:
-   - **intentions**(*) of the audience that the group serves
+   - **intentions**(*) of the audience that the organization serves
    - **stages of the journey** of the person when carrying out an intention(*)
    - **strategies** of the larger product/service contorno
      - examples: "Custom content per member"; "Members connected to at least one other member on the platform"; "Products found on first search attempt"; etc)
