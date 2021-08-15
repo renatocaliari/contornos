@@ -399,7 +399,7 @@ Boosters is everything that boosts the organization's learning or adaptation or 
 The boosters are expected to flow continuously.
 
 Rules:
-- Any participant of a contorno has the responsibility to understand and deal with boosters related to its contornos or its person.
+- Any participant of a contorno has the responsibility to realize and deal with boosters related to its contornos or its person.
 - Register boosters in some shared list for processing.
 - [Declare booster type](#types-of-boosters) for processing.
 - Describe the motivation and context of the booster.
