@@ -18,7 +18,7 @@ Make an integrative decision on the contorno you want to use and import it into 
 
 # Apps available
 - [Extra structural roles](#extra-structural-roles)
-  - [Representative](#representative)
+  - [Delegate](#delegate)
   - [Synapse](#synapse)
   - [Facilitator](#facilitator)
   - [Secretary](#secretary)
@@ -48,7 +48,7 @@ Make an integrative decision on the contorno you want to use and import it into 
 - [Combination with other existing processes or technologies](#combination-with-other-processes-or-existing-technology)
 
 ## Extra structural roles
-### Representative
+### Delegate
 
 #### Reason for existing
   * represent needs and perspectives of the current contorno in other contornos, in addition to perceiving needs of other contornos where it has participation.
@@ -57,7 +57,7 @@ Make an integrative decision on the contorno you want to use and import it into 
   * 6 months
 
 #### Participation
-  * the representative of a contorno becomes a participant in the external contorno.
+  * the delegate of a contorno becomes a participant in the external contorno.
 
 #### Responsibilities
   * _all general contorno participant responsibilities_.
@@ -66,20 +66,20 @@ Make an integrative decision on the contorno you want to use and import it into 
   * participate in integrative decisions of the contornos in which it participates.
 
 #### Simple rules
-* Every contorno that has participants in addition to the guardian will also have a representative, except for the larger contorno, the organization itself.
-* The representative must be a participant in the contorno and cannot be the same person assigned to guardian role.
-* The representative becomes an automatic participant in the external contorno. The representative enhances more perspectives about her contorno in the decisions of the external contorno together with the guardian.
-* A representative is nominated by integrative decision by the participants of the contorno in which she will be allocated.
-* A representative will have her participation evaluated periodically, according to the definition of frequency, in the circumstances in which she participates.
+* Every contorno that has participants in addition to the guardian will also have a delegate, except for the larger contorno, the organization itself.
+* The delegate must be a participant in the contorno and cannot be the same person assigned to guardian role.
+* The delegate becomes an automatic participant in the external contorno. The delegate enhances more perspectives about her contorno in the decisions of the external contorno together with the guardian.
+* A delegate is nominated by integrative decision by the participants of the contorno in which she will be allocated.
+* A delegate will have her participation evaluated periodically, according to the definition of frequency, in the circumstances in which she participates.
 
-#### Representative in other parts of the organization
-- Any contorno can create a booster and generate a proposal for the contorno where you want to have a representative, allocating a person from your contorno in that other contorno.
-- Any contorno of the organization can generate a booster with a proposal for itself and create a representative, requesting allocation of a person of the contorno who wants a representative.
+#### Delegate in other parts of the organization
+- Any contorno can create a booster and generate a proposal for the contorno where you want to have a delegate, allocating a person from your contorno in that other contorno.
+- Any contorno of the organization can generate a booster with a proposal for itself and create a delegate, requesting allocation of a person of the contorno who wants a delegate.
 
-If the contorno that will offer a representative already has a named representative, it will automatically be allocated to this new structural role of the contorno that generated the booster. Otherwise, the contorno that a representative will offer, needs to name and allocate a person in that structural role.
+If the contorno that will offer a delegate already has a named delegate, it will automatically be allocated to this new structural role of the contorno that generated the booster. Otherwise, the contorno that a delegate will offer, needs to name and allocate a person in that structural role.
 
 #### Nomination
-- Each person in the contorno writes in private who they nominate as representative: I nominate PERSON X to act in that contorno as Representative. Remind everyone that each of them can nominate themselves.
+- Each person in the contorno writes in private who they nominate as delegate: I nominate PERSON X to act in that contorno as Delegate. Remind everyone that each of them can nominate themselves.
 - Nomination Announcement Round: In one round, ask each person to briefly announce their nomination and reasons.
 - Change round: in a round, offer people the opportunity to change their nomination. If anyone changes their nomination, ask if they want to share what led to the change.
 - Proposal and integrative decision: the guardian makes a proposal taking into account the names and reasons that other people brought in the nominations. Participants make an integrative decision.
