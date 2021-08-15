@@ -125,7 +125,7 @@ The guardian has no authority to:
 
 #### Participation
   * if the agent is not also the guardian of some internal contorno, its participation is restricted to the contorno as an agent.
-  * if the agent is also the guardian of some internal contorno, its participation happens both in the contorno as agent and in the contorno as guardian.
+  * if the agent is also the guardian of some internal contorno, its participation happens both in the contorno as agent and in the internal contorno as guardian.
 
 #### Responsibilities
   * _all general contorno participant responsibilities_.
