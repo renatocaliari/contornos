@@ -73,7 +73,7 @@ Below are some possibilities for local groups.
 5. Unfold to other inner contornos.
 6. Start with other areas of the organization.
 
-#### Organization-wide - everyone on board about what's going to happen and 80% confirming next step
+#### Organization-wide: everyone on board about what's going to happen and 80% confirming next step
 If you want to 'implement' in advance across the organization in an inviting way and have an agreement, you can try the steps below.
 
 1. Obtain approval from the person at the highest level of leadership in the hierarchy.
