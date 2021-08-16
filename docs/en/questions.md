@@ -107,11 +107,12 @@ If you want to 'implement' in advance across the organization in an inviting way
    - by **strategies** of the larger product/service contorno
      - examples: "Custom content per member"; "Members connected to at least one other member on the platform"; "Products found on first search attempt"; etc)
      - that is, create specialized contornos for each strategy of the larger product contorno.
-  - by **bets on projects**.
+   - by **bets on projects**.
    - by sides or **actors of a marketplace** 
    - based on **complexity** of scopes
    - based on **dependence** between scopes
    - based on **modularization** of technological services
+   - etc
 
 It is possible to make combinations depending on the level of abstraction, with stable and/or temporary teams.
 **Examples:** stable contornos by **intentions**, having temporary inner contornos for **bets on projects**. Or, stable contornos by **marketplace actors** with stable inner contornos by marketplace actor **intentions**. 
