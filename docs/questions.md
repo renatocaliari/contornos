@@ -110,6 +110,7 @@ Ao desejar de antemão 'implementar' na organização inteira de forma convidati
    - baseado na **complexidade** de escopos
    - baseado na **dependência** entre escopos
    - baseado na **modularização** dos serviços tecnológicos
+   - etc
 
 É possível fazer combinações dependendo do nível de abstração, com times estáveis e/ou temporários.
 **Exemplos:** Contornos estáveis por **intenções**, tendo contornos internos temporários por **apostas em projetos**. 
