@@ -114,7 +114,7 @@ If you want to 'implement' in advance across the organization in an inviting way
    - based on **modularization** of technological services
 
 It is possible to make combinations depending on the level of abstraction, with stable and/or temporary teams.
-Examples: stable contornos by **intentions**, having temporary inner contornos for **bets on projects**. Or, stable contornos by **marketplace actors** with stable inner contornos by marketplace actor **intentions**. 
+**Examples:** stable contornos by **intentions**, having temporary inner contornos for **bets on projects**. Or, stable contornos by **marketplace actors** with stable inner contornos by marketplace actor **intentions**. 
 
 - General:
    - ["Organizational Network Analysis"](https://www2.deloitte.com/us/en/pages/human-capital/articles/organizational-network-analysis.html) and look at the kind of connections that currently exist.
