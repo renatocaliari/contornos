@@ -208,9 +208,6 @@ At any time, you can seek advice from people who seem to be knowledgeable about 
 
 Read about [boosters](contornos#boosters).
 
-## What do I do if someone tells me to do something?
-Remind her of your contornos and what they contain about what you have the responsibility and authority to decide, and your autonomy to prioritize according to the contorno strategy.
-
 ## What to do with endless discussions, whether synchronous - in live meetings - or asynchronous - by digital tools?
 
 When an argument starts to stretch without seeming to get anywhere, ask what you want to resolve and which contorno has more specific responsibility for it.
