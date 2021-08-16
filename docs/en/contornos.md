@@ -19,7 +19,7 @@ The organizational structure is defined by contornos. The people in the organiza
 
 The system starts with the maxim that _"everything is allowed as long as it is not explicitly forbidden"_ in some [agreement](#agreements) containing restriction or defined as [resources o exclusive control](#resources-of-exclusive-control-how) of some contorno instead of the common inverse in many organizations that _"everything is forbidden as long as it is explicitly allowed"_. 
 
-[See an example of a contorno structure in the Questions & Answers](en/questions#example-of-contorno-structure).
+[See an example of a contorno structure in the Questions & Answers](en/questions#example-of-contornos-structure).
 
 # Contornos
 A contorno is a scope delimited by reason for existence, responsibilities, resources of exclusive control, and proper agreements.
@@ -41,8 +41,6 @@ Examples demonstrating contexts for contorno creation:
 **Rules**:
 - Draw new contornos based on the demands of the public, internal or external.
 - minimize the creation of contornos that depend on recurrent, planned and necessary deliveries (_handover_ or _handoff_) of other contornos that are not within the same external contorno. Encourage the participants of the contornos that have dependence to have a close context in common - an external contorno, favoring that they participate in meetings, decisions and treatment of [boosters](#boosters) together.
-  - example of dependency in a different context and in the same context
-    - ![Image exemplifying Handover or Handoff](./assets/handoffhandover.png ':size=480')
   - if a dependency between contornos that are in different external contornos is desired or necessary, it is recommended to create a structural role of [delegate](en/apps#delegate) so that the contornos have some connection.
  
 
