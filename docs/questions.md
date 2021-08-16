@@ -103,7 +103,7 @@ Ao desejar de antemão 'implementar' na organização inteira de forma convidati
    - por **intenções**(*) do público que a organização atende
    - por **etapas da jornada** da pessoa ao realizar uma intenção*
    - por **estratégias** do contorno maior de produto/serviço
-     - exemplos: "Conteúdo personalizado por membro"; "Membros conectado a pelo menos um outro membro na plataforma"; "Produtos encontrados na primeira tentativa de busca"; etc)
+     - exemplos: "Conteúdo personalizado por membro"; "Membros conectados a pelo menos um outro membro na plataforma"; "Produtos encontrados na primeira tentativa de busca"; etc)
      - ou seja, criar contornos especializados por cada estratégia do contorno maior de produto. 
    - baseado na **complexidade** do escopo
    - baseado na **modularização** dos serviços tecnológicos
