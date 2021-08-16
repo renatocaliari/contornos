@@ -100,16 +100,17 @@ Ao desejar de antemão 'implementar' na organização inteira de forma convidati
 ### Como mapear e dividir os contornos?
 #### Opções - combine-as de acordo com necessidade e contexto
 - Em times de produto/serviço, é possível mapeamento e divisão baseado em:
-   - **intenção*** do público que o grupo atende
-   - **etapa da jornada** da pessoa ao realizar uma intenção*
-   - **estratégia** do contorno maior de produto/serviço
+   - por **intenções**(*) do público que a organização atende
+   - por **etapas da jornada** da pessoa ao realizar uma intenção*
+   - por **estratégias** do contorno maior de produto/serviço
      - exemplos: "Conteúdo personalizado por membro"; "Membros conectado a pelo menos um outro membro na plataforma"; "Produtos encontrados na primeira tentativa de busca"; etc)
      - ou seja, criar contornos especializados por cada estratégia do contorno maior de produto. 
-   - **complexidade** do escopo
-   - **modularização** dos serviços tecnológicos
-- ["Análise de Redes Organizacionais"](https://www2.deloitte.com/us/en/pages/human-capital/articles/organizational-network-analysis.html) e observar o tipo de conexões que existem atualmente.
-- Mapeamento [processo e fluxo de valor](#refer%C3%AAncias-sobre-mapeamento-de-processo) do contorno maior em relação à razão de existir da organização.
-- Mapeamento de atividades que as pessoas realizam atualmente e [converter em responsabilidades](#defini%C3%A7%C3%A3o-de-responsabilidades). Após isso, definir os contornos e todos seus atributos.
+   - baseado na **complexidade** do escopo
+   - baseado na **modularização** dos serviços tecnológicos
+- Gerais:
+   - ["Análise de Redes Organizacionais"](https://www2.deloitte.com/us/en/pages/human-capital/articles/organizational-network-analysis.html) e observar o tipo de conexões que existem atualmente.
+   - Mapeamento [processo e fluxo de valor](#refer%C3%AAncias-sobre-mapeamento-de-processo) do contorno maior em relação à razão de existir da organização.
+   - Mapeamento de atividades que as pessoas realizam atualmente e [converter em responsabilidades](#defini%C3%A7%C3%A3o-de-responsabilidades). Após isso, definir os contornos e todos seus atributos.
 
 _*A intenção pode ser entendida como um job de Jobs To Be Done, propósito de Fit For Purpose, padrões de torres ou agrupamento de torres do diagrama Mental Model da Indi Young, etc.
 Caso interesse, consulte materiais como [Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology-ebook/dp/B07NSF94PC), [Fit For Purpose](https://www.amazon.com/Fit-Purpose-Businesses-Satisfy-Customers/dp/0985305118) e [Jobs To Be Done](https://medium.com/tentaculus/jobs-to-be-done-parte-1-42bfdf4875c8)._
