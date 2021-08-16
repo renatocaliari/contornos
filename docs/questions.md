@@ -206,9 +206,6 @@ A qualquer momento você pode se aconselhar com as pessoas que parecem ter conhe
 
 Leia sobre [impulsionadores](contornos#impulsionadores).
 
-## O que faço se alguma pessoa me mandar fazer algo?
-Lembre-a dos seus contornos e que neles constam sobre o que você tem responsabilidade e autoridade para decidir, e sua autonomia em  priorizar conforme a estratégia do contorno. 
-
 ## O que fazer com discussões sem fim, sejam síncronas - em reuniões ao vivo - ou assíncronas - por ferramentas digitais?
 
 Quando uma discussão começa a estender sem parecer chegar a algum lugar, pergunte o que se deseja resolver e qual contorno tem responsabilidade mais específica sobre aquilo.
