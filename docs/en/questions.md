@@ -101,17 +101,18 @@ If you want to 'implement' in advance across the organization in an inviting way
 
 ### How to map and split the contornos?
 #### Options - combine them according to need and context
-- In product/service teams, mapping and division based on:
-   - **intentions**(*) of the audience that the organization serves
-   - **stages of the journey** of the person when carrying out an intention(*)
-   - **strategies** of the larger product/service contorno
+- In product/service teams:
+   - by **intentions**(*) of the audience that the organization serves
+   - by **stages of the journey** of the person when carrying out an intention(*)
+   - by **strategies** of the larger product/service contorno
      - examples: "Custom content per member"; "Members connected to at least one other member on the platform"; "Products found on first search attempt"; etc)
      - that is, create specialized contornos for each strategy of the larger product contorno.
-   - **complexity** of the scope
-   - **modularization** of technological services
-- ["Organizational Network Analysis"](https://www2.deloitte.com/us/en/pages/human-capital/articles/organizational-network-analysis.html) and look at the kind of connections that currently exist.
-- Mapping [process and value stream](#refer%C3%AAncias-over-process-mapping) of the larger contorno in relation to the organization's reason for existence.
-- Mapping of activities that people currently perform and [convert to responsibilities](#defini%C3%A7%C3%A3o-de-responsibilities). After that, define the contornos and all their attributes.
+   - based on **complexity** of the scope
+   - based on **modularization** of technological services
+- Geenral:
+   - ["Organizational Network Analysis"](https://www2.deloitte.com/us/en/pages/human-capital/articles/organizational-network-analysis.html) and look at the kind of connections that currently exist.
+   - Mapping [process and value stream](#refer%C3%AAncias-over-process-mapping) of the larger contorno in relation to the organization's reason for existence.
+   - Mapping of activities that people currently perform and [convert to responsibilities](#defini%C3%A7%C3%A3o-de-responsibilities). After that, define the contornos and all their attributes.
 
 _(*)Intention can be understood as a job from "Jobs To Be Done", purpose from "Fit For Purpose", towers and patterns from Indi Young's Mental Model diagram, etc.
 If interested, refer to materials such as [Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology-ebook/dp/B07NSF94PC), [Fit For Purpose](https://www. amazon.com/Fit-Purpose-Businesses-Satisfy-Customers/dp/0985305118) and [Jobs To Be Done](https://medium.com/tentaculus/jobs-to-be-done-parte-1-42bfdf4875c8) ._
