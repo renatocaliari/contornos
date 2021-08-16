@@ -120,14 +120,14 @@ _(*)Intention can be understood as a Jobs To Be Done job, purpose of Fit For Pur
 If interested, refer to materials such as [Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology-ebook/dp/B07NSF94PC), [Fit For Purpose](https://www. amazon.com/Fit-Purpose-Businesses-Satisfy-Customers/dp/0985305118) and [Jobs To Be Done](https://medium.com/tentaculus/jobs-to-be-done-parte-1-42bfdf4875c8) ._
 
 
-### Example contorno structure
+### Example of contornos structure
 Any pre-fabricated model about team design is flawed by nature precisely because it does not reflect or adapt to reality. However, some can be useful for inspiring and starting experiments.
 
 There are numerous possibilities. There is no cake recipe or something universal.
 
 For illustrative purposes, the possibility below shows a mixture of contornos of support for the organization as a whole with contornos by intention (see above) of the public that the business serves delimited within the contorno of products/services, also having contornos of specialization internally.
 
-It is possible several other alternatives, for example, some contornos of the example below that are within product/service - customer service, sales & marketing, research, etc - could be within each intention contorno, if it is useful and more efficient, depending on the scale of the organization.
+It is possible several other alternatives, for example, some contornos of the example below that are within product/service - customer service, sales & marketing, research, etc - could be within each intention contorno, if it is useful and more efficient, depending on the scale of the organization and product/service.
 
 Example:
 - Organizational System
