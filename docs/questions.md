@@ -99,7 +99,7 @@ Ao desejar de antemão 'implementar' na organização inteira de forma convidati
 
 ### Como mapear e dividir os contornos?
 #### Opções - combine-as de acordo com necessidade e contexto
-- Em times de produto/serviço:
+- Para produto/serviço:
    - por **intenções**(*) do público que a organização atende
    - por **etapas da jornada** da pessoa ao realizar uma intenção*
    - por **estratégias** do contorno maior de produto/serviço
@@ -112,10 +112,8 @@ Ao desejar de antemão 'implementar' na organização inteira de forma convidati
    - baseado na **modularização** dos serviços tecnológicos
 
 É possível fazer combinações dependendo do nível de abstração, com times estáveis e/ou temporários.
-
-**Exemplos:** times estáveis por intenções, tendo subtimes temporários por apostas de iniciativas. 
-Ou, times por atores do marketplace com subtimes estáveis por intenções do ator do marketplace.
-
+**Exemplos:** Contornos estáveis por **intenções**, tendo contornos internos temporários por **apostas em projetos**. 
+Ou, contornos por **atores do marketplace** com contornos internos estáveis por **intenções** do ator do marketplace.
 
 - Gerais:
    - ["Análise de Redes Organizacionais"](https://www2.deloitte.com/us/en/pages/human-capital/articles/organizational-network-analysis.html) e observar o tipo de conexões que existem atualmente.
