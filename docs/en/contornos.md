@@ -365,7 +365,7 @@ Rules:
 ### Metric type indicators
 Categories:
 - **health**, to monitor important aspects of the business, service, product or people engagement in a contorno. It is possible to have lower and upper bound that indicate the range of health. Examples of metrics indicator model, without delimiters, related to people engagement with a product or service:
-  - _"Percentage of (members / new customers / recurring customers) that perform at least (the minimum threshold for user action) for (period X)."_
+  - _"Percentage of (members/new customers/returning customers) who do at least (the minimum threshold for user action) by (X period in time)."_
   - _"Percentage of (customer segment) that perform (action) in (a given context)."_
 - **result**, indicators that customers - internal or external - use in their decision-making and choice of services or products. It is possible to have a lower and/or higher delimiter. Below the lower limit, it is not meeting customer needs. Above superior may indicate that customers do not perceive the added benefits and may also be overserving unnecessarily when it causes harm to other aspects of the business, service or product.
 - **survival**, containing a target, in an exceptional case only when it is necessary to promote a quick change to save the business, product or service.
