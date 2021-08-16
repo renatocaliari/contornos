@@ -107,10 +107,15 @@ If you want to 'implement' in advance across the organization in an inviting way
    - by **strategies** of the larger product/service contorno
      - examples: "Custom content per member"; "Members connected to at least one other member on the platform"; "Products found on first search attempt"; etc)
      - that is, create specialized contornos for each strategy of the larger product contorno.
-   - by sides or actors of a marketplace 
+  - by **bets on projects**.
+   - by sides or **actors of a marketplace** 
    - based on **complexity** of scopes
    - based on **dependence** between scopes
    - based on **modularization** of technological services
+
+It is possible to make combinations depending on the level of abstraction, with stable and/or temporary teams.
+Examples: stable contornos by **intentions**, having temporary inner contornos for **bets on projects**. Or, stable contornos by **marketplace actors** with stable inner contornos by marketplace actor **intentions**. 
+
 - General:
    - ["Organizational Network Analysis"](https://www2.deloitte.com/us/en/pages/human-capital/articles/organizational-network-analysis.html) and look at the kind of connections that currently exist.
    - Mapping [process and value stream](#refer%C3%AAncias-over-process-mapping) of the larger contorno in relation to the organization's reason for existence.
