@@ -105,14 +105,16 @@ Ao desejar de antemão 'implementar' na organização inteira de forma convidati
    - por **estratégias** do contorno maior de produto/serviço
      - exemplos: "Conteúdo personalizado por membro"; "Membros conectados a pelo menos um outro membro na plataforma"; "Produtos encontrados na primeira tentativa de busca"; etc)
      - ou seja, criar contornos especializados por cada estratégia do contorno maior de produto. 
-   - baseado na **complexidade** do escopo
+   - por lados ou atores de um marketplace
+   - baseado na **complexidade** de escopos
+   - baseado na **dependência** entre escopos
    - baseado na **modularização** dos serviços tecnológicos
 - Gerais:
    - ["Análise de Redes Organizacionais"](https://www2.deloitte.com/us/en/pages/human-capital/articles/organizational-network-analysis.html) e observar o tipo de conexões que existem atualmente.
    - Mapeamento [processo e fluxo de valor](#refer%C3%AAncias-sobre-mapeamento-de-processo) do contorno maior em relação à razão de existir da organização.
    - Mapeamento de atividades que as pessoas realizam atualmente e [converter em responsabilidades](#defini%C3%A7%C3%A3o-de-responsabilidades). Após isso, definir os contornos e todos seus atributos.
 
-_*A intenção pode ser entendida como um job de Jobs To Be Done, propósito de Fit For Purpose, padrões de torres ou agrupamento de torres do diagrama Mental Model da Indi Young, etc.
+_(*) A intenção pode ser entendida como um job de Jobs To Be Done, propósito de Fit For Purpose, por "torre" ou "mental space" do diagrama Mental Model da Indi Young, etc._
 Caso interesse, consulte materiais como [Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology-ebook/dp/B07NSF94PC), [Fit For Purpose](https://www.amazon.com/Fit-Purpose-Businesses-Satisfy-Customers/dp/0985305118) e [Jobs To Be Done](https://medium.com/tentaculus/jobs-to-be-done-parte-1-42bfdf4875c8)._
 
 
