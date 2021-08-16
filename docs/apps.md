@@ -18,8 +18,6 @@ Faça uma decisão integrativa no contorno que deseja utilizar e importe-o nos a
 - [Papéis estruturais extras](#papéis-estruturais-extras)
   - [Papel estrutural de Representante](#papel-estrutural-de-representante)
   - [Papel estrutural de Sinapse](#papel-estrutural-de-sinapse)
-  - [Papel estrutural de Facilitadora](#papel-estrutural-de-facilitadora)
-  - [Papel estrutural de Secretária](#papel-estrutural-de-secretária)
 - [Contornos especiais](#contornos-especiais)
   * [Contorno Norte](#contorno-norte)
   * [Contorno Manutenção de Parceria](#contorno-manuten%C3%A7%C3%A3o-de-parceria)
@@ -104,12 +102,6 @@ Caso o contorno que oferecerá uma representante já tenha uma representante nom
   * acordos comportamentais da organização como um todo 
   * etc
   
-### Papel estrutural de Facilitadora
-(A ser desenvolvido)
-
-### Papel estrutural de Secretária
-(A ser desenvolvido)
-
 ## Contornos especiais
 ### Contorno "Norte"
 **Razão de existir:** 
