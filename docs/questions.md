@@ -105,7 +105,6 @@ Ao desejar de antemão 'implementar' na organização inteira de forma convidati
    - por **estratégias** do contorno maior de produto/serviço
      - exemplos: "Conteúdo personalizado por membro"; "Membros conectados a pelo menos um outro membro na plataforma"; "Produtos encontrados na primeira tentativa de busca"; etc)
      - ou seja, criar contornos especializados por cada estratégia do contorno maior de produto. 
-   - por apostas em **projetos**
    - por lados ou **atores de um marketplace**
    - baseado na **complexidade** de escopos
    - baseado na **dependência** entre escopos
@@ -113,7 +112,7 @@ Ao desejar de antemão 'implementar' na organização inteira de forma convidati
    - etc
 
 É possível fazer combinações dependendo do nível de abstração, com times estáveis e/ou temporários.
-**Exemplos:** Contornos estáveis por **intenções**, tendo contornos internos temporários por **apostas em projetos**. 
+**Exemplos:** Contornos estáveis por **intenções**, tendo contornos internos temporários por **apostas em iniciativas**. 
 Ou, contornos por **atores do marketplace** com contornos internos estáveis por **intenções** do ator do marketplace.
 
 - Gerais:
