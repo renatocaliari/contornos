@@ -351,26 +351,25 @@ Indicadores podem ser do tipo **métricas** [1] ou **confirmação** [2] de prá
 Apesar de indicadores raramente fornecerem respostas definitivas sobre algo, eles promovem conversas, descobertas, entendimento e apoiam tomadas de decisão e adaptações usando uma base em comum.
 
 1. um contorno possivelmente terá indicadores do tipo **métricas**, decidido pelo contorno externo, para indicar saúde e resultados.
-2. se a estratégia também possui práticas recorrentes a serem realizadas, provavelmente o próprio contorno definirá indicadores do tipo **confirmação** para informar se tal prática está sendo realizada na recorrência esperada (ex: diariamente, semanalmente, mensalmente, etc).
+2. se a estratégia também possui práticas recorrentes a serem realizadas, provavelmente o próprio contorno definirá indicadores do tipo **confirmação** para dá visibilidade se tal prática está sendo realizada na recorrência esperada (ex: diariamente, semanalmente, mensalmente, etc).
 
-Regras:
+**Regras:**
 - o contorno externo define por decisão integrativa os principais indicadores do contorno. Lembrando que a guardiã do contorno é participante do contorno externo.
 - o próprio contorno também pode adicionar outros indicadores do tipo métrica ou confirmação, relativos à sua estratégia. 
 - os indicadores têm frequência de compartilhamento sobre atualização definida pelo contorno externo. A guardiã do contorno compartilha o último resultado dos indicadores na frequência acordada.
 
+**É recomendado que:** 
+- sejam relacionados a aspectos de qualidade e quantidade com relação à razão de existir, estratégia e valor gerado gerado **na perspectiva de clientes do contorno ou engajamento de pessoas dos contornos**.
+- mudanças na estratégia de um contorno levam a adaptações de alguns inidicadores que possam refletir a execução e resultado da estratégia.
+- mudanças na forma que clientes avaliam um resultado levam a adaptações de alguns indicadores que possam refletir a avaliação desse resultado.
 
 ### Indicadores do tipo métricas
 Categorias:
-- de **saúde**, para monitorar aspectos importantes do negócio, serviço, produto ou engajamento de pessoas em um contorno. É possível ter delimitador inferior e superior que indiquem o intervalo de saúde. Exemplos de modelo para indicador de métricas, sem delimitadores, relacionadas a engajamento de pessoas com um produto ou serviço:
-  - _"Porcentagem de (membros / novos clientes / clientes recorrentes) que realizam pelo menos (o limite mínimo para ação do usuário) por (período X)."_
-  - _"Porcentagem de (segmento de clientes) que realizam (ação) em (determinado contexto)."_
+- de **saúde**, para monitorar aspectos importantes do negócio, serviço, produto ou engajamento de pessoas em um contorno. É possível ter delimitador inferior e superior que indiquem o intervalo de saúde. 
 - de **resultado**, indicadores que clientes - internos ou externos - utilizam em suas tomadas de decisões e escolha dos serviços ou produtos. É possível ter delimitador inferior e/ou superior. Abaixo do limite inferior, não está atendendo necessidades de clientes. Acima do superior pode indicar que clientes não percebem os benefícios a mais e também pode estar super servindo desnecessariamente quando causa prejuízos em outros aspectos do negócio, serviço ou produto.
 - de **sobrevivência**, contendo um alvo, em caso excepcional apenas quando for necessário promover uma mudança rápida para salvar o negócio, produto ou serviço.
 
-É recomendado que: 
-- sejam relacionados a aspectos de qualidade e quantidade com relação à razão de existir, estratégia, resultado gerado na perspectiva de clientes do contorno ou engajamento de pessoas.
-  - mudanças na estratégia de um contorno levam a adaptações de alguns inidicadores que possam refletir a execução e resultado da estratégia.
-  - mudanças na forma que clientes avaliam um resultado levam a adaptações de alguns indicadores que possam refletir a avaliação desse resultado.
+**É recomendado que:** 
 - sejam baseados em resultado e não em atividades (outcome-based e não activity-based).
 - sejam compostos por indicadores iniciais (leading) e atrasados (lagging). Indicadores iniciais nos dizem sobre tendências e sinais preditivos. Indicadores atrasados confirmam uma tendência em andamento, tendo relação com medição de rendimento ("throughput"). Isso inclui, por exemplo, informações se um contorno está resolvendo suas demandas.
 
