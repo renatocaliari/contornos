@@ -354,24 +354,23 @@ Although indicators rarely provide definitive answers about something, they prom
 1. a contorno will possibly have indicators of the **metric** type, decided by the outer contorno, to indicate health and results.
 2. if the strategy also has recurrent practices to be carried out, probably the contorno itself will define **confirmation** type indicators to inform whether such practice is being carried out in the expected recurrence (eg, daily, weekly, monthly, etc.).
 
-Rules:
+**Rules:**
 - the external contorno defines, by integrative decision, the main contorno indicators. Remembering that the guardian of the contorno is a participant in the external contorno.
 - the contorno itself can also add other indicators of the metric or confirmation type, related to your strategy.
 - Indicators have frequency of sharing on update defined by the outer contorno. The contorno guardian shares the last result of the indicators at the agreed frequency.
 
+**Recommendation:**
+- are related to aspects of quality and quantity in relation to the reason for existing, strategy and generated value generated **in the perspective of customers of the contornos or engagement of people of the contornos**.
+ - changes in the strategy of a contorno lead to adaptations of some indicators that may reflect the execution and result of the strategy.
+ - changes in the way that customers evaluate a result lead to adaptations of some indicators that may reflect the evaluation of that result. 
 
 ### Metric type indicators
 Categories:
 - **health**, to monitor important aspects of the business, service, product or people engagement in a contorno. It is possible to have lower and upper bound that indicate the range of health. Examples of metrics indicator model, without delimiters, related to people engagement with a product or service:
-  - _"Percentage of (members/new customers/returning customers) who do at least (the minimum threshold for user action) by (X period in time)."_
-  - _"Percentage of (customer segment) that perform (action) in (a given context)."_
 - **result**, indicators that customers - internal or external - use in their decision-making and choice of services or products. It is possible to have a lower and/or higher delimiter. Below the lower limit, it is not meeting customer needs. Above superior may indicate that customers do not perceive the added benefits and may also be overserving unnecessarily when it causes harm to other aspects of the business, service or product.
 - **survival**, containing a target, in an exceptional case only when it is necessary to promote a quick change to save the business, product or service.
 
-It is recommended that:
-- are related to aspects of quality and quantity in relation to the reason for existing, strategy, result generated from the perspective of customers, the contorno or engagement of people.
-  - changes in the strategy of a contorno lead to adaptations of some indicators that may reflect the execution and result of the strategy.
-  - changes in the way that customers evaluate a result lead to adaptations of some indicators that may reflect the evaluation of that result.
+**Recommendation:**
 - are based on results and not on activities (outcome-based and not activity-based).
 - are composed of leading and lagging indicators. Early indicators tell us about trends and predictive signals. Late indicators confirm an ongoing trend, related to throughput measurement. This includes, for example, information on whether a contorno is solving your demands.
 
