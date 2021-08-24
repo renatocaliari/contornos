@@ -6,6 +6,5 @@
 
 - ✔️ more agility and experimentation
 - ✔️ more fluid adaptation of the structure
-- ✔️ more autonomy with responsibility
  
 [Getting Started](/en/start)
