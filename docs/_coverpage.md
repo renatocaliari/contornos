@@ -4,8 +4,7 @@
 
 >  Tecnologia Social para Organizações
 
-- ✔️ mais autonomia com responsabilidade
 - ✔️ mais agilidade e experimentação
-- ✔️ mais adaptação fluída da estrutura 
+- ✔️ mais adaptação fluída da estrutura
 
 [Saiba mais](start)
