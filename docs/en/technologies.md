@@ -5,7 +5,7 @@
 This table is a risky and simplistic attempt so that people who are familiar with the other technologies listed can have a superficial notion of comparison about the elements foreseen in the core of each technology.
 This table does not provide contextual information for those who are not familiar with these technologies.
 
-If you don't know the other social technologies, here's my invitation to know, learn and be inspired by them too. Go to the [comparative-table](#comparative-table-of-others-diferen%C3%A7as) below and click on the link containing the name of the social technology.
+If you don't know the other social technologies, here's my invitation to know, learn and be inspired by them too. Go to the [comparative-table](#comparative-table-of-other-differences) below and click on the link containing the name of the social technology.
 
 ❤️ I thank all the people and organizations that helped to evolve all these social technologies.
 
