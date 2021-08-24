@@ -35,7 +35,7 @@ Já nas outras tecnologias, ao delimitar um escopo, é possível criar papel ou 
 
 ---
 
-## Tabela comparativa de outras diferenças
+## Tabela comparativa
 |  previsto no núcleo da tecnologia | [Contornos](https://github.com/renatoac/contornos/wiki) | [Organizações Orgânicas (O2)](https://o2.targetteal.com/) | [Sociocracy For All](https://www.sociocracyforall.org/) | [Sociocracia 3.0](https://sociocracy30.org/) | [Holacracia](https://www.holacracy.org/) |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
 | delimitação de escopo  | apenas [contornos](contornos) | círculos e papéis operacionais  | círculos e papéis operacionais  | círculos e papéis operacionais | círculos e papéis operacionais |
