@@ -36,7 +36,7 @@ In other technologies, on the other hand, by delimiting a scope, it is possible 
 
 ---
 
-## Comparative table of other differences
+## Comparative table
 | predicted in the core of technology | [Contornos](https://github.com/renatoac/contornos/wiki) | [Organic Organizations (O2)](https://o2.targetteal.com/) | [Sociocracy For All](https://www.sociocracyforall.org/) | [Sociocracy 3.0](https://sociocracy30.org/) | [Holacracy](https://www.holacracy.org/) |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
 | scope delimitation | only [contornos](contornos) | operational circles and roles | operational circles and roles | operational circles and roles | operational circles and roles |
