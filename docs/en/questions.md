@@ -16,15 +16,15 @@ In order for the decision to use the system to be lasting and maximize the desir
 #### Steps to 'Implement'
 1. Invite the desired audience: see the topics below for some options.
 2. Share about the [Contornos] system with this audience, the motivation to use it, and hold a session with space for discussion, questions and answers.
-3. Make [an integrative decision proposal](apps#process-for-decis-proposals%C3%B5es-integrative) to use [Contornos] in this audience.
+3. Make [an integrative decision proposal](/en/apps#process-for-proposal-with-integrative-decision) to use [Contornos] in this audience.
 4. Talk about what changes responsibilities and authority from the person who was 'boss' or 'leader' of the team, and now becomes Guardian, and what the responsibilities of the structural role of Agent are. Remember that being in a structural Guardian role is no longer related to any hierarchical level, title, or role stability, as other people may be assigned as Guardians later.
-5. Do a mapping [inside guest audience contornos](questions#how-to-map-first-contornos) in step 1.
+5. Do a mapping [inside guest audience contornos](/en/questions#how-to-map-and-split-the-contornos) in step 1.
 6. If any contorno is of a scope for which there was no responsible person, define who will be the Guardian of that contorno through an integrative decision, if there was already someone responsible for the scope, assume that person as the Contorno Guardian.
-7. Start using the Contornos system on this contorno. Make use of [boosters](contornos#boosters), distribution of operational decisions and integrative decisions to adapt the structure and agreements.
-8. After 1 week, do a small group discussion of the experiment. Suggestion: [world-cafe](http://www.theworldcafe.com/key-concepts-resources/world-cafe-method/). The result can be, in addition to reflections and shared understanding, new [boosters](contornos#boosters) and new agreements with integrative decision.
+7. Start using the Contornos system on this contorno. Make use of [boosters](/en/contornos#boosters), distribution of operational decisions and integrative decisions to adapt the structure and agreements.
+8. After 1 week, do a small group discussion of the experiment. Suggestion: [world-cafe](http://www.theworldcafe.com/key-concepts-resources/world-cafe-method/). The result can be, in addition to reflections and shared understanding, new [boosters](/en/contornos#boosters) and new agreements with integrative decision.
 9. Repeat step 8, but now, every 15 days, until you reach 3 months of experiment.
 10. In each dynamic, and in some official channel of the public involved, share evidence and metrics of the experiment with the [Contornos] system.
-10. From then on the experiment becomes standard practice and can continue to be adapted at any time through [boosters](contornos#boosters).
+10. From then on the experiment becomes standard practice and can continue to be adapted at any time through [boosters](/en/contornos#boosters).
 
 ### What are the ways to get started with the system?
 
@@ -38,7 +38,7 @@ You can start with a new organizational design.
 ### Where to start?
 #### At the highest hierarchical level in the organization
 It is possible to start [Contornos] directly at the highest hierarchical level of the organization.
-1. Follow the [steps to 'deploy'](#steps-to-deploy) with this group only.
+1. Follow the [steps to 'implement'](#steps-to-implement) with this group only.
 2. If you want other groups in the organization to use the system, share the experience - failures, successes, challenges, and benefits - with the entire organization.
 3. Invite subgroups to experiment. Subgroups that show interest, follow the [steps to 'implement'](#steps-to-implement).
 4. Share the experience of these subgroups with the organization;
@@ -47,12 +47,12 @@ It is possible to start [Contornos] directly at the highest hierarchical level o
 
 #### In a spin-off (new structure derived from the main structure)
 It is possible to start [Contornos] in a new structure derived from the main structure of the organization.
-1. Follow the [steps to 'deploy'](#steps-to-deploy) with this group only.
+1. Follow the [steps to 'implement'](#steps-to-implement) with this group only.
 2. Continue inviting groups and people from the main structure and structuring new contornos in that derigavem, replacing the scope in the main structure, until the new structure becomes the main structure.
 
 #### In a local group
 If you only want to deploy to a local group in your organization:
-1. Follow the [steps to 'deploy'](#steps-to-deploy) in this local group only.
+1. Follow the [steps to 'implement'](#steps-to-implement) in this local group only.
 2. If the group currently has sub-times and want to use the system in them, follow the steps in the topic on how to implement in [whole-organization](#in-whole-organization), but focus only on the current group inside, in sub-times.
 
 Below are some possibilities for local groups.
@@ -60,7 +60,7 @@ Below are some possibilities for local groups.
 * **groups serving external audiences**
 1. Obtain approval from the person at the highest level of leadership in the hierarchy.
 2. Invite a team that has the most direct contact with the external audience: customer service, product development, sales, etc.
-3. Follow the [steps to 'deploy'](#steps-to-deploy).
+3. Follow the [steps to 'implement'](#steps-to-implement).
 4. After a while of practice, start using the system on the direct inner contornos.
 5. Unfold to other inner contornos.
 6. Start with other areas of the organization.
@@ -68,7 +68,7 @@ Below are some possibilities for local groups.
 * **groups that serve the internal public**
 1. Obtain approval from the person at the highest level of leadership in the hierarchy.
 2. Invite a team that serves internal people and teams.
-3. Follow the [steps to 'deploy'](#steps-to-deploy).
+3. Follow the [steps to 'implement'](#steps-to-implement).
 4. After a while of practice, start using the system on the direct inner contornos.
 5. Unfold to other inner contornos.
 6. Start with other areas of the organization.
@@ -78,7 +78,7 @@ If you want to 'implement' in advance across the organization in an inviting way
 
 1. Obtain approval from the person at the highest level of leadership in the hierarchy.
 2. Invite the highest layer in the hierarchy.
-3. Follow the [steps to 'deploy'](#steps-to-deploy) with this group.
+3. Follow the [steps to 'implement'](#steps-to-implement) with this group.
 4. If they decide to go forward, share the [Contornos] system with everyone in the organization, stating the motivation. Allow time to study and write down questions and concerns.
 5. Hold a session with space for questions and answers.
    - Ask them to discuss risks and concerns, and how to mitigate them, and possible benefits and how this would help with current challenges.
@@ -118,8 +118,8 @@ It is possible to make combinations depending on the level of abstraction, with 
 
 - General:
    - ["Organizational Network Analysis"](https://www2.deloitte.com/us/en/pages/human-capital/articles/organizational-network-analysis.html) and look at the kind of connections that currently exist.
-   - Mapping [process and value stream](#refer%C3%AAncias-over-process-mapping) of the larger contorno in relation to the organization's reason for existence.
-   - Mapping of activities that people currently perform and [convert to responsibilities](#defini%C3%A7%C3%A3o-de-responsibilities). After that, define the contornos and all their attributes.
+   - Mapping [process and value stream](/en/references#process-mapping) of the larger contorno in relation to the organization's reason for existence.
+   - Mapping of activities that people currently perform and [convert to responsibilities](#how-to-define-the-responsibilities-of-an-contorno). After that, define the contornos and all their attributes.
 
 _(*)Intention can be understood as a Jobs To Be Done job, purpose of Fit For Purpose, by "tower" or "mental space" from Indi Young's Mental Model diagram, etc._ 
 If interested, refer to materials such as [Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology-ebook/dp/B07NSF94PC), [Fit For Purpose](https://www. amazon.com/Fit-Purpose-Businesses-Satisfy-Customers/dp/0985305118) and [Jobs To Be Done](https://medium.com/tentaculus/jobs-to-be-done-parte-1-42bfdf4875c8) ._
@@ -141,7 +141,7 @@ Example:
   - Mediation of conflicts
   - Counseling & Mentoring
   - listen
-- [Partnership maintenance](apps#contorno-manuten%C3%A7%C3%A3o-de-partnership)
+- [Partnership maintenance](/en/apps#partnership)
 - Financial
 - Product or Service A (example: "Technology-related subjects teaching platform")
   - Service
@@ -170,19 +170,19 @@ In a simplistic and limited way, it is possible to try to compare before and aft
   - alternative as an example: use the [Mapa Tentaculus](https://medium.com/tentaculus/mapear-oportunidades-organizacoes-ad66f1b9a913) or the [OS Canvas](https://medium.com/the-ready/the -operating-system-canvas-420b8b4df062), asking for each aspect what has worked well and what has not.
 
 ## How to define the responsibilities of an contorno?
-- Don't put behavioral expectations into responsibilities. For that see about [personal agreements](contornos#personal-agreements).
+- Don't put behavioral expectations into responsibilities. For that see about [personal agreements](/en/contornos#personal-agreements).
 - Avoid responsibilities that are expected of anyone in the organization.
 - Start with infinitive verb: Correct, Define, Realize, etc.
 - Explain and specify what is ambiguous
 - In the responsibility, describe what is the **active** participation in an activity.
 
 **Avoid these verbs:**
-* Approve → do not use this verb or expect this kind of responsibility. Responsibilities do not limit other contornos. If you want to limit the type of interaction with any organizational artifact, then use [exclusive control features](contornos#exclusive-control-features-like), [process](contornos#process-like) or [agreements structural](contornos#structural-agreements).
+* Approve → do not use this verb or expect this kind of responsibility. Responsibilities do not limit other contornos. If you want to limit the type of interaction with any organizational artifact, then use [exclusive control features](/en/contornos#resources-of-exclusive-control-how), [process](/en/contornos#process-how) or [agreements structural](/en/contornos#structural-agreements).
 * Align → Alignment is ambiguous. What is expected with the alignment? Advise or advise someone? Consult? Share information?
 * Collaborate / Reply to people (or messages from people) → they are already expected to collaborate and communicate. What else is specifically expected in the collaboration?
 * Guarantee / Insure → instead spell out how you want to guarantee or insure something to get something more specific and practical?
 * Meet → find out what the meeting wants to resolve or decide and what specific responsibilities are there.
-* Manage people → responsibilities cannot provide this kind of authority and power. What do you want with manage? Advise, mentor, train? See more about [special contornos in Apps](apps#special-contornos).
+* Manage people → responsibilities cannot provide this kind of authority and power. What do you want with manage? Advise, mentor, train? See more about [special contornos in Apps](/en/apps#special-contornos).
 
 ## Do people need to have prior maturity to work in such a system?
 This question generally comes from at least two premises of the questioner:
@@ -193,7 +193,7 @@ This question generally comes from at least two premises of the questioner:
    - comments:
      - People already make several decisions in their lives: who to relate to, which house or car to buy (and whether they want to buy), join or leave a company, how to eat, etc. We can re-include them in decisions that affect their work and life.
      - As mentioned above, it is important to remember that there are still people who do not want to take responsibility for the decision, prefer to outsource decisions that impact its scope and have less accountability for it. So, it's a decision they'll have to make: which person's profile do we want?
-     - and like any other system, game and rules, not all people will prefer it or want to support that system. Here is a [decision on how to move forward](questions#how-to-start-with-the-contorno-system).
+     - and like any other system, game and rules, not all people will prefer it or want to support that system. Here is a [decision on how to move forward](/en/questions#how-to-get-started-with-the-contornos-system).
 
 ## How to hire people who want the title and power of boss, director, leader or C-level?
 - First, ask yourselves: do you want people in search of titles or people willing and engaged in solving the challenges of a given scope?
@@ -211,7 +211,7 @@ Create a structural agreement on the contorno, stating that all decisions will b
 ## What do I do if I feel insecure about making a decision, even though the contorno I participate in has the authority to make the decision?
 At any time, you can seek advice from people who seem to be knowledgeable about the subject or who are most engaged with the subject.
 
-Read about [boosters](contornos#boosters).
+Read about [boosters](/en/contornos#boosters).
 
 ## What to do with endless discussions, whether synchronous - in live meetings - or asynchronous - by digital tools?
 
