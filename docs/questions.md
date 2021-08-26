@@ -16,7 +16,7 @@ Para que a decisão de usar o sistema seja duradoura e potencialize os benefíci
 2. Compartilhe sobre o sistema [Contornos] com esse público, a motivação de usá-lo, e faça uma sessão com espaço para discussão, perguntas e respostas.
 3. Faça [uma proposta com decisão integrativa](apps#processo-para-propostas-de-decis%C3%B5es-integrativas) para utilizar [Contornos] nesse público.
 4. Conversem sobre o que muda de responsabilidades e autoridade da pessoa que era 'chefe' ou 'líder' do time, e agora se torna Guardiã, e quais são as responsabilidades do papel estrutural de Agente. Lembre que estar em um papel estrutural de Guardiã não tem mais relação com algum nível hierárquico, nem cargo e nem com estabilidade no papel, pois outras pessoas podem vir a ser alocadas como Guardiãs posteriormente.
-5. Faça um mapeamento [dos contornos internos do público convidado](questions#como-mapear-os-primeiros-contornos) no passo 1.
+5. Faça um mapeamento [dos contornos internos do público convidado](questions#como-mapear-e-dividir-os-contornos) no passo 1.
 6. Caso algum contorno é de um escopo que não havia uma pessoa responsável, defina quem será a Guardiã desse contorno através de decisão integrativa, caso já tinha alguém responsável pelo escopo, assuma essa pessoa como Guardiã do contorno.
 7. Inicie o uso do sistema Contornos nesse contorno. Faça uso de [impulsionadores](contornos#impulsionadores), distribuição de decisões operacionais e decisões integrativas para adaptar a estrutura e acordos.
 8. Após 1 semana, faça uma dinâmica para discussão sobre o experimento em pequenos grupos. Sugestão: [world-cafe](http://www.theworldcafe.com/key-concepts-resources/world-cafe-method/). O resultado pode ser, além de reflexões e compreensão compartilhada, novos [impulsionadores](contornos#impulsionadores) e novos acordos com decisão integrativa.
@@ -118,7 +118,7 @@ Ou, contornos por **atores do marketplace** com contornos internos estáveis por
 - Gerais:
    - ["Análise de Redes Organizacionais"](https://www2.deloitte.com/us/en/pages/human-capital/articles/organizational-network-analysis.html) e observar o tipo de conexões que existem atualmente.
    - Mapeamento [processo e fluxo de valor](#refer%C3%AAncias-sobre-mapeamento-de-processo) do contorno maior em relação à razão de existir da organização.
-   - Mapeamento de atividades que as pessoas realizam atualmente e [converter em responsabilidades](#defini%C3%A7%C3%A3o-de-responsabilidades). Após isso, definir os contornos e todos seus atributos.
+   - Mapeamento de atividades que as pessoas realizam atualmente e [converter em responsabilidades](#como-definir-as-responsabilidades-de-um-contorno). Após isso, definir os contornos e todos seus atributos.
 
 
 _(*) A intenção pode ser entendida como um job de Jobs To Be Done, propósito de Fit For Purpose, por "torre" ou "mental space" do diagrama Mental Model da Indi Young, etc._
