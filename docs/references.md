@@ -26,12 +26,10 @@ Abaixo estão algumas formas de estratégia.
 * [Systems vs. Goals](https://medium.com/@flaviorump/systems-vs-goals-a67fcd937370)
 
 ## Referências sobre tomada de decisões assíncronas
-
 * [Enspiral Handbook - Decisions Agreement](https://handbook.enspiral.com/agreements/decisions)
 * [Colony.io - Objections and Disputes](https://colony.io/dev/docs/colonynetwork/whitepaper-tldr-objections-and-disputes)
 
 ## Referências sobre mapeamento de processo
-
 Apesar das referências abaixo não serem apenas sobre mapeamento de processos, elas contêm etapas de mapeamento que podem ajudar a ter insights.
 
 ### Vanguard Method
