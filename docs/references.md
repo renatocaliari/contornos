@@ -5,7 +5,6 @@
 
 ## Referências sobre formatos de reuniões e modelos possíveis de usar para reuniões de contornos
 * [The sociocratic meeting format](https://www.sociocracyforall.org/meeting-format/)
-* [Level 10 Meeting Agenda Template](https://fellow.app/meeting-templates/level-10-meeting-agenda-template/)
 
 ## Referências sobre estratégias
 Abaixo estão algumas formas de estratégia.
