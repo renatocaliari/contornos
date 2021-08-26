@@ -20,7 +20,7 @@ In addition to this curiosity about the source of inspiration, I used the name '
 The idea of [structural role of synapse](apps#synapse) and drawing people was inspired by the [Wisdom Council](https://www.wisedemocracy.org/3-wisdom-council-process.html) process.
 
 ## About Hierarchy Annotation for Contorno Identification
-The [hierarchy](contornos#scope) of scopes used to identify an contorno in a unique way was inspired by [namespace](https://pt.wikipedia.org/wiki/Espa%C3%A7o_de_nomes), a concept used in several programming languages.
+The [hierarchy](contornos#scope) of scopes used to identify an contorno in a unique way was inspired by [namespace](https://en.wikipedia.org/wiki/Namespace), a concept used in several programming languages.
 
 ## Language in the female
 Throughout the [Contornos] system, I sought to use female language as a socializing agent of gender, in order to avoid that there was an interpretation of discrimination based on sex using male language.
