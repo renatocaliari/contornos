@@ -6,18 +6,18 @@
 ## Meeting formats and possible templates to use for contorno meetings
 * Try having two steps in the meeting:
    * Review step: in this step, projects/metrics/strategies can be reviewed. Each person only informs the main changes, insights or lessons learned in some of these items, based on a contorno in which they are a part. Other people can ask questions.
-   * [Boost](contornos#boosters) step: Each person registers [boosters](contornos#boosters). One at a time shares a booster and each person deals with only one booster at a time, so that people rotate.  
+   * [Boost](en/contornos#boosters) step: Each person registers [boosters](en/contornos#boosters). One at a time shares a booster and each person deals with only one booster at a time, so that people rotate.  
 * [The sociocratic meeting format](https://www.sociocracyforall.org/meeting-format/)
 
 ## Strategy
 Below are some ways do use or declare strategy.
 
 ### Simple rules
-* [Simple Rules for a Complex World](https://webcache.googleusercontent.com/search?q=cache%3Ahttps%3A%2F%2Fhbr.org%2F2012%2F09%2Fsimple-rules-for-a-complex- world&rlz=1CAWOMZ_enBR877&oq=cache%3Ahttps%3A%2F%2Fhbr.org%2F2012%2F09%2Fsimple-rules-for-a-complex-world&aqs=chrome .
-* [Creating Simple Rules for Complex Decisions](https://webcache.googleusercontent.com/search?q=cache%3Ahttps%3A%2F%2Fhbr.org%2F2017%2F04%2Fcreating-simple-rules-for-complex- decisions&rlz=1CAWOMZ_enBR877&oq=cache%3Ahttps%3A%2F%2Fhbr.org%2F2017%2F04%2Fcreating-simple-rules-for-complex-decisions&aqs=chrome..69i64j0j69i65j0i457UTj0l4.2
+* [Simple Rules for a Complex World](https://webcache.googleusercontent.com/search?q=cache%3Ahttps%3A%2F%2Fhbr.org%2F2012%2F09%2Fsimple-rules-for-a-complex-world&rlz=1CAWOMZ_enBR877&oq=cache%3Ahttps%3A%2F%2Fhbr.org%2F2012%2F09%2Fsimple-rules-for-a-complex-world&aqs=chrome..69i64j69i60l4j69i65l2j69i57.4691j0j4&sourceid=chrome&ie=UTF-8)
+* [Creating Simple Rules for Complex Decisions](https://webcache.googleusercontent.com/search?q=cache%3Ahttps%3A%2F%2Fhbr.org%2F2017%2F04%2Fcreating-simple-rules-for-complex-decisions&rlz=1CAWOMZ_enBR877&oq=cache%3Ahttps%3A%2F%2Fhbr.org%2F2017%2F04%2Fcreating-simple-rules-for-complex-decisions&aqs=chrome..69i64j0j69i65j0i457j0l4.2717j0j4&sourceid=chrome&ie=UTF-8)
 
 ### Trade-offs: "even above" ("even over")
-* [Even over statements: The prioritization tool that brings your strategy to life](https://medium.com/the-ready/even-overs-the-prioritization-tool-that-brings-your-strategy-to-life -e4f28f2949ac)
+* [Even over statements: The prioritization tool that brings your strategy to life](https://medium.com/the-ready/even-overs-the-prioritization-tool-that-brings-your-strategy-to-life-e4f28f2949ac)
 * [Even Overs: How to Write a Strategy Your Team Will Actually Remember](https://academy.nobl.io/how-to-write-a-strategy-your-team-will-remember/)
 * [Holacracy® Basics: Understanding Strategies](https://blog.holacracy.org/holacracy-basics-understanding-strategies-f1e244a01df7)
 
@@ -25,20 +25,18 @@ Below are some ways do use or declare strategy.
 * [Systems vs. Goals](https://medium.com/@flaviorump/systems-vs-goals-a67fcd937370)
 
 ## Asynchronous Decision Making References
-
 * [Enspiral Handbook - Decisions Agreement](https://handbook.enspiral.com/agreements/decisions)
 * [Colony.io - Objections and Disputes](https://colony.io/dev/docs/colonynetwork/whitepaper-tldr-objections-and-disputes)
 
 ## Process mapping
-
 While the references below are not just about process mapping, they contain mapping steps that can help you gain insights.
 
 ### Vanguard Method
-- [Secrets of High Performing Organizations - Stuart Corrigan](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjotYa319rwAhWFq5UCHYc&esrc% 2F%2Fwww.systemsthinkingmethod.com%2Fdownloads%2FVanguardScotlandSecretsEbook.pdf&usg=AOvVaw0LWOgStC5mbjkSpcvC2zqr)
-- [Editorial for Special Issue of The Vanguard Method in a Systems Thinking Context](https://link.springer.com/article/10.1007/s11213-012-9247-7)
+- [Secrets of High Performing Organisations - Stuart Corrigan](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjotYa319rwAhWFq5UCHYc-CugQFjANegQIBBAD&url=http%3A%2F%2Fwww.systemsthinkingmethod.com%2Fdownloads%2FVanguardScotlandSecretsEbook.pdf&usg=AOvVaw0LWOgStC5mbjkSpcvC2zqr)
+- [Editorial for Special Issue of SPAR The Vanguard Method in a Systems Thinking Context](https://link.springer.com/article/10.1007/s11213-012-9247-7)
 
 ### Freedom Map - Crankset Group
-- [FREEDOM MAPPING - JUMPSTART 2020 - The Practice Leader's Success Toolkit](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjthszU2NrwAhXBr5QIAHTQJUCHeZV% %2F%2Fwww.dentalspeakerinstitute.com%2Fwp-content%2Fuploads%2F2020%2F01%2FJumpStart-2020-Freedom-Mapping-Worksheet.pdf&usg=AOvVaw0J9ZM9-FNZNJ2UleNsZDSB)
+- [FREEDOM MAPPING - JUMPSTART 2020 - The Practice Leader’s Success Toolkit](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjthszU2NrwAhXFrJUCHeZVB5sQFjABegQIAhAD&url=https%3A%2F%2Fwww.dentalspeakerinstitute.com%2Fwp-content%2Fuploads%2F2020%2F01%2FJumpStart-2020-Freedom-Mapping-Worksheet.pdf&usg=AOvVaw0J9ZM9-FNZNJ2UleNsZDSB)
 
 ## Technology Team Topology
 - [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819)
@@ -48,7 +46,7 @@ While the references below are not just about process mapping, they contain mapp
 - [Cultural transformation: experiment, learn and adapt continuously](https://medium.com/tentaculus/transformacao-cultural-experimente-aprenda-e-adapte-continuamente-89c03583dea6)
 - [The DRIVE® prism for identifying and evaluating nudges in practice](https://affective-advisory.com/news/20/6/12/affectives-whitepaper-v2-the-drive-prism-for-identifying-and -evaluating-nudges-in-practice)
 - [Sustainable Change Agency - John Cutler](https://drive.google.com/file/d/1eQMpc1gfO2wOxBE9UzwZt1k0GZhcXkj8/view)
-- [Ten Conditions for Change - the framework for creating positive behaviors] (https://www.sparkwave.tech/conditions-for-change/)
+- [Ten Conditions for Change - the framework for creating positive behaviors](https://www.sparkwave.tech/conditions-for-change/)
 
 ## Salary
 - [Want to reinvent how you do salaries in your organisation?](https://medium.com/greaterthan/want-to-reinvent-how-you-do-salaries-in-your-organisation-ec73c1f6b96d)
