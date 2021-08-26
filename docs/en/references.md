@@ -5,7 +5,6 @@
 
 ## Meeting formats and possible templates to use for contorno meetings
 * [The sociocratic meeting format](https://www.sociocracyforall.org/meeting-format/)
-* [Level 10 Meeting Agenda Template](https://fellow.app/meeting-templates/level-10-meeting-agenda-template/)
 
 ## Strategy
 Below are some ways do use or declare strategy.
