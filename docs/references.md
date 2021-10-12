@@ -4,10 +4,11 @@
 # Referências
 
 ## Referências sobre formatos de reuniões e modelos possíveis de usar para reuniões de contornos
-* Experimente ter duas etapas na reunião:
+* Experimente ter ao menos duas etapas na reunião:
   * Etapa de revisar: nessa etapa podem ser revisados projetos/métricas/estratégias. Cada pessoa informa apenas as principais mudanças, insights ou aprendizados em alguns desses itens, a partir de um contorno em que ela faz parte. Outras pessoas podem tirar dúvidas.
   * Etapa de [impulsionar](contornos#impulsionadores): cada pessoa registra [impulsionadores](contornos#impulsionadores). Uma por vez compartilha um impulsionador e cada pessoa trata apenas um impulsionador por vez, para que seja feito um rodízio entre as pessoas.
 * [The sociocratic meeting format](https://www.sociocracyforall.org/meeting-format/)
+* [How to host the best meeting of the week](https://medium.com/the-ready/how-to-facilitate-the-best-meeting-your-team-will-have-this-week-763f31b6d7d)
 
 
 ## Referências sobre estratégias
