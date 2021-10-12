@@ -8,6 +8,7 @@
    * Review step: in this step, projects/metrics/strategies can be reviewed. Each person only informs the main changes, insights or lessons learned in some of these items, based on a contorno in which they are a part. Other people can ask questions.
    * [Boost](en/contornos#boosters) step: Each person registers [boosters](en/contornos#boosters). One at a time shares a booster and each person deals with only one booster at a time, so that people rotate.  
 * [The sociocratic meeting format](https://www.sociocracyforall.org/meeting-format/)
+* [How to host the best meeting of the week](https://medium.com/the-ready/how-to-facilitate-the-best-meeting-your-team-will-have-this-week-763f31b6d7d)
 
 ## Strategy
 Below are some ways do use or declare strategy.
