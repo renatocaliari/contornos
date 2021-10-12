@@ -4,7 +4,7 @@
 # References
 
 ## Meeting formats and possible templates to use for contorno meetings
-* Try having two steps in the meeting:
+* Try having at least two steps in the meeting:
    * Review step: in this step, projects/metrics/strategies can be reviewed. Each person only informs the main changes, insights or lessons learned in some of these items, based on a contorno in which they are a part. Other people can ask questions.
    * [Boost](en/contornos#boosters) step: Each person registers [boosters](en/contornos#boosters). One at a time shares a booster and each person deals with only one booster at a time, so that people rotate.  
 * [The sociocratic meeting format](https://www.sociocracyforall.org/meeting-format/)
