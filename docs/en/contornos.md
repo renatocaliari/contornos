@@ -88,7 +88,7 @@ In addition to these two structural roles, it is possible to install [extra stru
   * propose people to support the contorno.
   * take action on direct internal contornos without participants: invite people to them or remove the contorno, with integrative decision.
   * share indicators with the outer contorno, at the frequency suggested by the outer contorno.
-  * share on the progress of projects with the external contorno, at the frequency suggested by the external contorno, stating how this connects to the strategy and purpose of the external contorno.
+  * share about the progress of specific projects that significantly impact other contornos or consider it critical that other people from other contornos contribute, as often as suggested by the external contour, informing how this connects to the strategy and purpose of the external contour.
 
 #### Responsibilities of the guardian of the greatest contorno, the organization itself
   * _all general responsibilities of contorno participants_.
@@ -100,7 +100,7 @@ In addition to these two structural roles, it is possible to install [extra stru
   * take action on direct internal contornos without participants: invite people to them or remove the contorno, with integrative decision.
   * share indicators with the organization, at the frequency defined with participants of the highest profile.
   * share about the progress of the projects with the organization, at the frequency defined with participants of the highest profile.
-
+  * share about the progress of specific projects that significantly impact the organization as a whole or consider it critical that other people from other contornos contribute, as often as agreed, informing how this connects to the organization's strategy and purpose. 
 ----
 
 #### Adaptation of the Guardian structural role
