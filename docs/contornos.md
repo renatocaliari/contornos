@@ -87,7 +87,7 @@ Além desses dois papéis estruturais, é possível instalar [papéis estruturai
   * propôr pessoas para apoiar o contorno.
   * tomar ação sobre contornos internos diretos sem participantes: convidar pessoas para eles ou remover o contorno, com decisão integrativa.
   * compartilhar indicadores com o contorno externo, na frequência sugerida pelo contorno externo.
-  * compartilhar sobre o progresso dos projetos com o contorno externo, na frequência sugerida pelo contorno externo, informando como isso se conecta à estratégia e propósito do contorno externo.
+  * compartilhar sobre o progresso de projetos específicos que significativamente impactem outros contornos ou considere ser crítico que outras pessoas de outros contornos contribuam, na frequência sugerida pelo contorno externo, informando como isso se conecta à estratégia e propósito do contorno externo.
 
 #### Responsabilidades da guardiã do maior contorno, a organização em si
   * _todas responsabilidades gerais de participantes de contorno_.
@@ -99,6 +99,7 @@ Além desses dois papéis estruturais, é possível instalar [papéis estruturai
   * tomar ação sobre contornos internos diretos sem participantes: convidar pessoas para eles ou remover o contorno, com decisão integrativa.
   * compartilhar indicadores com a organização, na frequência definida com participantes do maior contorno.
   * compartilhar sobre o progresso dos projetos com a organização, na frequência definida com participantes do maior contorno.
+  * compartilhar sobre o progresso de projetos específicos que significativamente impactem a organização como um todo ou considere ser crítico que outras pessoas de outros contornos contribuam, na frequência acordada, informando como isso se conecta à estratégia e propósito da organização.
 
 ----
 
