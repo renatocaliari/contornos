@@ -7,11 +7,12 @@
 - :loop: Amplify 'feedback loops'.
 - :zap: Experiment and learn continuously. 
 - :high_brightness: Decentralize decisions. 
-  - When it is necessary to decide on more than one person, decide on a few people who represent the scopes impacted.
+  - When it is necessary to decide on more than one person, restrict to a few people representing the impacted scopes. 
   - People who participate in the decisions are also impacted by the decisions.
-  - Consider input from impacted people who do not participate in decisions before making decisions.
-  - Gather reactions from impacted people who do not participate in decisions after making decisions.
+   - Before making decisions, consider information from impacted people who do not participate in decisions.
+   - After making decisions, gather reactions from the impacted people who did not participate in the decisions.
 - :loudspeaker: Make information available and understandable to all people who need or can benefit from that information.
+   - Work in public, making the progress of projects visible for consultation at any time.
 - :thumbsup: Everything is allowed as long as it is not explicitly forbidden.
 
 # Organizational structure
@@ -87,6 +88,8 @@ In addition to these two structural roles, it is possible to install [extra stru
   * to propose a contorno process, needing an integrative decision.
   * propose people to support the contorno.
   * take action on direct internal contornos without participants: invite people to them or remove the contorno, with integrative decision.
+  * keep indicators updated in the system that the organization uses for public work
+  * keep projects updated in the system the organization uses for public work 
   * share indicators with the outer contorno, at the frequency suggested by the outer contorno.
   * share about the progress of specific projects that significantly impact other contornos or consider it critical that other people from other contornos contribute, as often as suggested by the external contour, informing how this connects to the strategy and purpose of the external contour.
 
@@ -98,8 +101,9 @@ In addition to these two structural roles, it is possible to install [extra stru
   * to propose a contorno process, needing an integrative decision.
   * propose people to support the contorno.
   * take action on direct internal contornos without participants: invite people to them or remove the contorno, with integrative decision.
+  * keep indicators updated in the system that the organization uses for public work
+  * keep projects updated in the system the organization uses for public work 
   * share indicators with the organization, at the frequency defined with participants of the highest profile.
-  * share about the progress of the projects with the organization, at the frequency defined with participants of the highest profile.
   * share about the progress of specific projects that significantly impact the organization as a whole or consider it critical that other people from other contornos contribute, as often as agreed, informing how this connects to the organization's strategy and purpose. 
 ----
 
