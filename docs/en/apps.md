@@ -233,7 +233,7 @@ Model inspired and adapted [from here](https://medium.com/manuelkublbock/user-ma
 --
 
 `Strengths and weaknesses in issues related to what you do at work`
-`A strength is not something you are good at and a weakness is not something you are bad at doing. A strength is an activity that strengthens and energizes you. It draws you in, makes time fly while you're doing it, and makes you feel strong. [see more about it here](https://www.marcusbuckingham.com/defining-strengths/). And a weakness, it's the reverse of that.`
+`A strength is an activity that strengthens you. It engages you, makes time fly and makes you feel strong. [see more about it here](https://www.marcusbuckingham.com/defining-strengths/). A weakness is the reverse of that.` 
 
 **Forces:**
 - a
