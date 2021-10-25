@@ -246,9 +246,9 @@ Se uma decisão operacional de um contorno:
 Evoluímos para tomar decisões muito rapidamente com base em uma varredura parcial de dados, privilegiando nossas experiências mais recentes ou mais marcantes [[1](https://en.wikipedia.org/wiki/Peak%E2%80%93end_rule), [2](https://en.wikipedia.org/wiki/Recency_bias), [3](https://en.wikipedia.org/wiki/Availability_heuristic)]. Por isso, a intenção é minimizar nossos vieses e aumentar os dados para tomarmos melhores decisões em determinados contextos, como sugerido acima.
 
 ## Estratégia (’Como?’)
-A estratégia é uma declaração explícita de diretrizes ou limites de segurança do contorno que facilitam tomadas de decisões, priorizações e experimentos à razão de existir do contorno e que se alinha com a estratégia atual do contorno externo. 
+A estratégia é uma declaração explícita de diretrizes, limites de segurança ou critérios mínimos que facilitam tomadas de decisões, priorizações e experimentos à razão de existir do contorno. Ela deve ser alinhada a estratégia do contorno externo. 
 
-Nela é possível conter [regras, renúncias ou práticas recorrentes (checklist)](references#refer%C3%AAncias-sobre-estrat%C3%A9gias).
+Nela é possível conter [regras simples, restrições mínimas, renúncias ou práticas recorrentes (checklist)](references#refer%C3%AAncias-sobre-estrat%C3%A9gias).
 
 A estratégia é proposta pela guardiã do contorno, **alinhada com a estratégia do contorno externo** e definida em [decisão integrativa](#decis%C3%A3o-integrativa) no próprio contorno.
 
