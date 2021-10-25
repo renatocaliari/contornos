@@ -231,7 +231,8 @@ Modelo inspirado e adaptado [daqui](https://medium.com/manuelkublbock/user-manua
 --
 
 `Forças e fraquezas em questões relacionadas ao que você desempenha no trabalho`
-`Uma força não é algo que você é boa em fazer e uma fraqueza não é algo que você é ruim em fazer. Uma força é uma atividade que te fortalece. Isso atrai você, faz o tempo voar enquanto você está fazendo isso e faz você se sentir forte. [veja mais sobre isso aqui](https://www.marcusbuckingham.com/defining-strengths/). E uma fraqueza, é o inverso disso.`
+`- Uma força é uma atividade que te fortalece. Isso te engaja, faz o tempo voar e faz você se sentir forte. [veja mais sobre isso aqui](https://www.marcusbuckingham.com/defining-strengths/). 
+- Uma fraqueza é o inverso disso.`
 
 **Forças:**
 - a
