@@ -246,9 +246,9 @@ If an operational decision of a contorno:
 We evolved to make decisions very quickly based on a partial data scan, favoring our most recent or most memorable experiences [[1](https://en.wikipedia.org/wiki/Peak%E2%80%93end_rule), [ 2](https://en.wikipedia.org/wiki/Recency_bias), [3](https://en.wikipedia.org/wiki/Availability_heuristic)]. Therefore, the intention is to minimize our biases and increase the data to make better decisions in certain contexts, as suggested above.
 
 ## Strategy (’How?’)
-A strategy is an explicit statement of contorno safety guidelines or contornos that facilitate decision making, prioritization, and contorno-reasoning experiments and that aligns with the current external contorno strategy.
+A strategy is an explicit statement of guidelines, safety limits or minimum criteria that facilitate decision making, prioritization, and boundary-reasoning experiments. It must be aligned with the external contour strategy.
 
-It is possible to contain [recurring rules, disclaimers or practices (checklist)](en/references#references-about-strategy).
+It is possible to contain [simple rules, minimum restrictions, disclaimers or recurring practices (checklist)](en/references#references-about-strategy).
 
 The strategy is proposed by the contorno guardian, **aligned with the external contorno strategy** and defined in [integrative decision](#integrative-decision) in the contorno itself.
 
