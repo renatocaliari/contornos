@@ -356,7 +356,7 @@ Indicadores podem ser do tipo **métricas** [1] ou **confirmação** [2] de prá
 Apesar de indicadores raramente fornecerem respostas definitivas sobre algo, eles promovem conversas, descobertas, entendimento e apoiam tomadas de decisão e adaptações usando uma base em comum.
 
 1. um contorno possivelmente terá indicadores do tipo **métricas**, decidido pelo contorno externo, para indicar saúde e resultados.
-2. se a estratégia também possui práticas recorrentes a serem realizadas, provavelmente o próprio contorno definirá indicadores do tipo **confirmação** para dá visibilidade se tal prática está sendo realizada na recorrência esperada (ex: diariamente, semanalmente, mensalmente, etc).
+2. se a estratégia também possui práticas recorrentes a serem realizadas, provavelmente o próprio contorno definirá indicadores do tipo **confirmação** para dar visibilidade se tal prática está sendo realizada na recorrência esperada (ex: diariamente, semanalmente, mensalmente, etc).
 
 **Regras:**
 - o contorno externo define por decisão integrativa os principais indicadores do contorno. Lembrando que a guardiã do contorno é participante do contorno externo.
