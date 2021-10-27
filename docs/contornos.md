@@ -239,11 +239,11 @@ São decisões situacionais, não previstas e definidas em acordos, estratégia 
 ![Decisões operacionais](assets/decisoes.png)
 
 Se uma decisão operacional de um contorno:
-- É segura, seja reversível ou irreversível, a participante do contorno toma a decisão, sem necessidade de consultar outras pessoas. As participantes do contorno já detêm autoridade para decidir. **A maioria das decisões provavelmente se enquadrará aqui. A ideia do sistema [Contornos] é justamente distribuir decisões e autoridade.**
-- É arriscada e reversível, é recomendado que a participante do contorno se aconselhe com mais pessoas, mas ainda tendo autoridade sobre a decisão. Ou seja, ela não precisa tentar agradar, adaptar ou justificar sua decisão. A intenção é que ela possua mais conhecimento e perspectivas sobre o assunto e contexto antes de tomar uma decisão.
-- É irreversível e arriscada, é recomendado que a participante do contorno tome uma [decisão integrativa](#decisões-integrativas) com as demais participantes do contorno.
+- É segura, seja reversível ou irreversível: a participante do contorno toma a decisão, sem necessidade de consultar outras pessoas. As participantes do contorno já detêm autoridade para decidir. **A maioria das decisões provavelmente se enquadrará aqui. A ideia do sistema [Contornos] é justamente distribuir decisões e autoridade.**
+- É arriscada e reversível: é recomendado que a participante do contorno se aconselhe com mais pessoas, mas ainda tendo autoridade sobre a decisão. Ou seja, ela não precisa tentar agradar, adaptar ou justificar sua decisão. A intenção é que ela possua mais conhecimento e perspectivas sobre o assunto e contexto antes de tomar uma decisão.
+- É irreversível e arriscada: é recomendado que a participante do contorno tome uma [decisão integrativa](#decisões-integrativas) com as demais participantes do contorno.
 
-Evoluímos para tomar decisões muito rapidamente com base em uma varredura parcial de dados, privilegiando nossas experiências mais recentes ou mais marcantes [[1](https://en.wikipedia.org/wiki/Peak%E2%80%93end_rule), [2](https://en.wikipedia.org/wiki/Recency_bias), [3](https://en.wikipedia.org/wiki/Availability_heuristic)]. Por isso, a intenção é minimizar nossos vieses e aumentar os dados para tomarmos melhores decisões em determinados contextos, como sugerido acima.
+Evoluímos para tomar decisões muito rapidamente com base em uma varredura parcial de dados, privilegiando nossas experiências mais recentes ou mais marcantes [[1](https://en.wikipedia.org/wiki/Peak%E2%80%93end_rule), [2](https://en.wikipedia.org/wiki/Recency_bias), [3](https://en.wikipedia.org/wiki/Availability_heuristic)]. Por isso, a intenção é minimizar nossos vieses e aumentar os dados para tomarmos melhores decisões em determinados contextos, como sugerido acima, e ainda assim termos formas de avançarmos sem ficarmos paralisados.
 
 ## Estratégia (’Como?’)
 A estratégia é uma declaração explícita de diretrizes, limites de segurança ou critérios mínimos que facilitam tomadas de decisões, priorizações e experimentos à razão de existir do contorno. Ela deve ser alinhada a estratégia do contorno externo. 
