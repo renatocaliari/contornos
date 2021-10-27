@@ -239,11 +239,11 @@ They are situational decisions, not foreseen and defined in agreements, strategy
 ![Operating decisions](assets/decisions.png)
 
 If an operational decision of a contorno:
-- It is safe, whether reversible or irreversible, the contorno participant makes the decision, without the need to consult other people. Contorno participants already have the authority to decide. **Most decisions will likely fit here. The idea of ​​the [Contornos] system is precisely to distribute decisions and authority.**
-- It is risky and reversible, it is recommended that the contorno participant consults with more people, but still has authority over the decision. That is, she doesn't need to try to please, adapt or justify her decision. The intention is for her to have more knowledge and perspective on the subject and context before making a decision.
-- It is irreversible and risky, it is recommended that the contorno participant makes an [integrative decision](#integrative-decisions) with the other contorno participants.
+- It is safe, whether reversible or irreversible: the contorno participant makes the decision, without the need to consult other people. Contorno participants already have the authority to decide. **Most decisions will likely fit here. The idea of ​​the [Contornos] system is precisely to distribute decisions and authority.**
+- It is risky and reversible: it is recommended that the contorno participant consults with more people, but still has authority over the decision. That is, she doesn't need to try to please, adapt or justify her decision. The intention is for her to have more knowledge and perspective on the subject and context before making a decision.
+- It is irreversible and risky: it is recommended that the contorno participant makes an [integrative decision](#integrative-decisions) with the other contorno participants.
 
-We evolved to make decisions very quickly based on a partial data scan, favoring our most recent or most memorable experiences [[1](https://en.wikipedia.org/wiki/Peak%E2%80%93end_rule), [ 2](https://en.wikipedia.org/wiki/Recency_bias), [3](https://en.wikipedia.org/wiki/Availability_heuristic)]. Therefore, the intention is to minimize our biases and increase the data to make better decisions in certain contexts, as suggested above.
+We evolved to make decisions very quickly based on a partial data scan, favoring our most recent or most memorable experiences [[1](https://en.wikipedia.org/wiki/Peak%E2%80%93end_rule), [ 2](https://en.wikipedia.org/wiki/Recency_bias), [3](https://en.wikipedia.org/wiki/Availability_heuristic)]. Therefore, the intention is to minimize our biases and increase the data to make better decisions in certain contexts, as suggested above, and still have ways to move forward without being paralyzed. 
 
 ## Strategy (’How?’)
 A strategy is an explicit statement of guidelines, safety limits or minimum criteria that facilitate decision making, prioritization, and boundary-reasoning experiments. It must be aligned with the external contour strategy.
