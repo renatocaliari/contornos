@@ -143,22 +143,23 @@ Exemplo:
   - Escuta
 - [Manutenção de parceria](apps#contorno-manuten%C3%A7%C3%A3o-de-parceria)
 - Financeiro
-- Produto ou Serviço A (exemplo: "Plataforma de ensino de assuntos relacionados à tecnologia")
-  - Atendimento
-  - Vendas e Marketing
-  - Pesquisa
-  - Conteúdo
-  - Parcerias
-  - Intenção A de cliente (exemplo: "Conseguir o primeiro emprego na área de tecnologia ou fazer transição de carreira")
-    - Modelagem de iniciativas
-    - Desenho da experiência de produto/serviço
-    - Desenvolvimento
-      - Interface gráfica/física
-      - Implementação
-  - Intenção B de cliente (exemplo: "Empreender na área de tecnologia")
-    - [contornos internos]
-  - Intenção C de cliente (exemplo: "Conectar com profissionais do mercado de trabalho de tecnologia")
-    - [contornos internos]
+- Entrega de Valor ao Pùblico
+   - Produto ou Serviço A (exemplo: "Plataforma de ensino de assuntos relacionados à tecnologia")
+      - Atendimento
+      - Vendas e Marketing
+      - Pesquisa
+      - Conteúdo
+      - Parcerias
+      - Intenção A de cliente (exemplo: "Conseguir o primeiro emprego na área de tecnologia ou fazer transição de carreira")
+         - Modelagem de iniciativas
+         - Desenho da experiência de produto/serviço
+         - Desenvolvimento
+         - Interface gráfica/física
+         - Implementação
+      - Intenção B de cliente (exemplo: "Empreender na área de tecnologia")
+         - [...]
+      - Intenção C de cliente (exemplo: "Conectar com profissionais do mercado de trabalho de tecnologia")
+         - [...]
 
 ## Como medir o impacto de mudanças no design organizacional?
 De forma simplista e limitada, é possível tentar comparar antes e depois: 
