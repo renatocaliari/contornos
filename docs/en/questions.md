@@ -143,22 +143,23 @@ Example:
   - listen
 - [Partnership maintenance](/en/apps#partnership)
 - Financial
-- Product or Service A (example: "Technology-related subjects teaching platform")
-  - Service
-  - Sales and Marketing
-  - Research
-  - Contents
-  - Partnerships
-  - Customer Intent A (example: "Get your first job in the technology area or make a career transition")
-    - Modeling of initiatives
-    - Design of the product/service experience
-    - Development
-      - Graphic/physical interface
-      - Implementation
-  - Customer Intent B (example: "To undertake in the technology area")
-    - [internal contornos]
-  - Customer Intent C (example: "Connecting with professionals in the technology job market")
-    - [internal contornos]
+- Delivery of value to the customer 
+   - Product or Service A (example: "Technology-related subjects teaching platform")
+      - Service
+      - Sales and Marketing
+      - Research
+      - Contents
+      - Partnerships
+      - Customer Intent A (example: "Get your first job in the technology area or make a career transition")
+         - Modeling of initiatives
+         - Design of the product/service experience
+         - Development
+            - Graphic/physical interface
+            - Implementation
+      - Customer Intent B (example: "To undertake in the technology area")
+         - [...]
+      - Customer Intent C (example: "Connecting with professionals in the technology job market")
+         - [...]
 
 ## How to measure the impact of organizational design changes?
 In a simplistic and limited way, it is possible to try to compare before and after:
