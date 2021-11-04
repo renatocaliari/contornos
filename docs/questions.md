@@ -143,7 +143,7 @@ Exemplo:
   - Escuta
 - [Manutenção de parceria](apps#contorno-manuten%C3%A7%C3%A3o-de-parceria)
 - Financeiro
-- Entrega de Valor ao Pùblico
+- Entrega de valor ao cliente
    - Produto ou Serviço A (exemplo: "Plataforma de ensino de assuntos relacionados à tecnologia")
       - Atendimento
       - Vendas e Marketing
