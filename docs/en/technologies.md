@@ -16,10 +16,15 @@ It is important to remember that all these elements and characteristics of the s
 ---
 
 ## Difference in favoring number of participants
-A difference between the [Contornos] system and other technologies is the way in which the number of participants in a contorno grows.
-In [Contornos], to delimit a new scope within a contorno, there is only the possibility to create a new contorno. So, by allocating more people to work in this new scope, in the internal contorno, they will only participate in this contorno, as agents, and therefore they will not participate in the external contorno, where the guardian will participate.
+### Contornos
+One of the differences between the [Contornos] system and other technologies is the way in which the number of participants in a contorno grows. In [Contornos], to delimit a new scope within a contorno, there is only the possibility to create a new contornos. So, by allocating more people to work in this new scope, an internal contorno, they will only participate in this contornos, as agents, and not in the external contorno, where the guardian will participate.
 
-In other technologies, on the other hand, by delimiting a scope, it is possible to create a role or circle. And it's common to start with creating a role instead of a circle. Therefore, if a new scope is defined as a role and allocating several people in the role, they will all be participating in the same larger circle, favoring the growth of the number of participants per circle in the organization.
+Remember that one of the principles of [Contornos] is [:loop: Amplify 'feedback loops'], so regardless of who participates in a contornos, the guardian has the responsibility to bring information from the outer contorno to all participants of the inner contorno, so that information doesn't get stuck in silos. And people of every contorno are expected to register boosters on any aspect of the organization. In addition, another important principle of [Contornos] is [:loudspeaker: Make information available and understandable to all people who need or can benefit from that information].
+
+### Other social technologies
+In other social technologies, by delimiting a scope, it is possible to create a role or circle. And it's common to start with creating a role instead of a circle. Therefore, if you delimit a new scope as a role and allocate several people in the role, they will all participate in the same larger circle, favoring the growth of the number of participants per circle in the organization.
+
+This results in more people making integrative decisions and lack of reference to who represents and has special responsibilities for a given scope. 
 
 ### Summary:
 - [Contornos] favors having fewer participants per contorno. However, it is possible to invite people from an internal contorno to participate as agents of an external contorno. Or, create arrangements for ceremonies that involve guardians or agents of other, inner contornos.
