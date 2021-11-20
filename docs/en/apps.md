@@ -229,8 +229,7 @@ Model inspired and adapted [from here](https://medium.com/manuelkublbock/user-ma
 **Reason for existing**:
 - share perceptions of yourself among people to increase empathy
 
-`Template to use`
---
+**Template to use**
 
 `Strengths and weaknesses in issues related to what you do at work`
 `A strength is an activity that strengthens you. It engages you, makes time fly and makes you feel strong. [see more about it here](https://www.marcusbuckingham.com/defining-strengths/). A weakness is the reverse of that.` 
