@@ -49,7 +49,7 @@ A qualquer momento que alguém perceber que um contorno precisa, ou é desejáve
 
 Para remoção de um contorno, é necessário decisão integrativa pelo contorno externo, podendo decidir quais contornos internos ao contorno sendo excluído desejam trazer para o contorno que está tomando a decisão.
 
-Para adaptação do contorno, é necessário identificar qual é o [atributo](outlines#atributos-dos-contornos) que deseja alterar e quem tem autoridade para adaptá-lo.
+Para adaptação do contorno, é necessário identificar qual é o [atributo](#atributos-dos-contornos) que deseja alterar e quem tem autoridade para adaptá-lo.
 
 # Participação em contornos
 A participação em contornos acontece por meio de alocação de pessoas. É possível indicar o [tipo de energia](apps#tipo-de-energia-em-contorno) que cada participante terá em um determinado contorno.
@@ -82,7 +82,7 @@ Além desses dois papéis estruturais, é possível instalar [papéis estruturai
   * _todas responsabilidades gerais de participantes de contorno_.
   * _todas responsabilidades do próprio contorno_ que não estejam delegadas a contornos internos.
   * trazer informações do contorno externo para todas participantes do seu contorno.
-  * agir sobre [impulsionadores](outlines#impulsionadores) sem andamento em seu contorno.
+  * agir sobre [impulsionadores](#impulsionadores) sem andamento em seu contorno.
   * propôr estratégia do contorno, precisando de decisão integrativa.
   * propôr processo do contorno, precisando de decisão integrativa.
   * propôr pessoas para apoiar o contorno.
@@ -95,7 +95,7 @@ Além desses dois papéis estruturais, é possível instalar [papéis estruturai
 #### Responsabilidades da guardiã do maior contorno, a organização em si
   * _todas responsabilidades gerais de participantes de contorno_.
   * _todas responsabilidades do próprio contorno_ que não estejam delegadas a contornos internos.
-  * agir sobre [impulsionadores](outlines#impulsionadores) sem andamento em seu contorno.
+  * agir sobre [impulsionadores](#impulsionadores) sem andamento em seu contorno.
   * propôr estratégia do contorno, precisando de decisão integrativa.
   * propôr processo do contorno, precisando de decisão integrativa.
   * propôr pessoas para apoiar o contorno.
@@ -138,7 +138,7 @@ A guardiã não tem autoridade para:
 | -- | -- | -- |
 | razão de existir | guardar o espaço do contorno e responder pela razão de existir do mesmo. | evoluir o contorno em direção à razão de existir. |
 | participação | toda guardiã de um contorno também é participante do contorno externo como [agente](#agente-do-contorno). | caso a agente não seja guardiã de algum contorno interno, sua participação é restrita ao contorno como agente.<br/>caso a agente seja guardiã de algum contorno interno, sua participação acontece tanto no contorno como agente quanto no contorno interno como guardiã. |
-| responsabilidades |  * _todas responsabilidades gerais de participantes de contorno_.<br/>* _todas responsabilidades do próprio contorno_ que não estejam delegadas a contornos internos.<br/>* trazer informações do contorno externo para todas participantes do seu contorno.<br/>* tomar ação sobre contornos sem participantes: convidar pessoas para eles ou remover o contorno, com decisão integrativa.<br/>* agir sobre [impulsionadores](outlines#impulsionadores) sem andamento em seu contorno.<br/>* propôr estratégia do contorno, precisando de decisão integrativa.<br/>* propôr processo do contorno, precisando de decisão integrativa.<br/>* propôr pessoas para apoiar o contorno.<br/>* compartilhar indicadores com o contorno externo, na frequência sugerida pelo contorno externo.<br/>* compartilhar sobre o progresso dos projetos com o contorno externo, na frequência sugerida pelo contorno externo, informando como isso se conecta à estratégia e propósito do contorno externo.| * _todas responsabilidades gerais de participante de contorno_.<br/>* _todas responsabilidades do próprio contorno_ que não estejam delegadas a contornos internos. | 
+| responsabilidades |  * _todas responsabilidades gerais de participantes de contorno_.<br/>* _todas responsabilidades do próprio contorno_ que não estejam delegadas a contornos internos.<br/>* trazer informações do contorno externo para todas participantes do seu contorno.<br/>* tomar ação sobre contornos sem participantes: convidar pessoas para eles ou remover o contorno, com decisão integrativa.<br/>* agir sobre [impulsionadores](#impulsionadores) sem andamento em seu contorno.<br/>* propôr estratégia do contorno, precisando de decisão integrativa.<br/>* propôr processo do contorno, precisando de decisão integrativa.<br/>* propôr pessoas para apoiar o contorno.<br/>* compartilhar indicadores com o contorno externo, na frequência sugerida pelo contorno externo.<br/>* compartilhar sobre o progresso dos projetos com o contorno externo, na frequência sugerida pelo contorno externo, informando como isso se conecta à estratégia e propósito do contorno externo.| * _todas responsabilidades gerais de participante de contorno_.<br/>* _todas responsabilidades do próprio contorno_ que não estejam delegadas a contornos internos. | 
 
 ## Alocação de pessoas em contornos
 Para poder ser alocada em algum contorno, uma pessoa deve ser parceira da organização, seja qual for a forma: colaboradora contratada, parceira ou outra forma acordada. E para se tornar parceira, é esperado que exista algum contorno com essa responsabilidade, como o [contorno especial de Manutenção de Parceria](apps#contorno-manuten%C3%A7%C3%A3o-de-parceria).
@@ -250,7 +250,7 @@ A estratégia é uma declaração explícita de diretrizes, limites de seguranç
 
 Nela é possível conter [regras simples, restrições mínimas, renúncias ou práticas recorrentes (checklist)](references#refer%C3%AAncias-sobre-estrat%C3%A9gias).
 
-A estratégia é proposta pela guardiã do contorno, **alinhada com a estratégia do contorno externo** e definida em [decisão integrativa](#decis%C3%A3o-integrativa) no próprio contorno.
+A estratégia é proposta pela guardiã do contorno, **alinhada com a estratégia do contorno externo** e definida em [decisão integrativa](#decisão-integrativa) no próprio contorno.
 
 Quando uma estratégia é alterada, é necessário rever os indicadores para que além de trazer informação relacionada à razão de existir do contorno, também possam contemplar a nova estratégia. Além disso é necessário notificar o contorno externo.
 
@@ -268,7 +268,7 @@ O processo deve ser feito na perspectiva da demanda e do valor entregue - quem p
 
 Regras:
 * o mapeamento do processo é de responsabilidade da guardiã, consultando pessoas envolvidas no processo. 
-* é necessário [decisão integrativa](#decis%C3%A3o-integrativa) para utilizá-lo no contorno.
+* é necessário [decisão integrativa](#decisão-integrativa) para utilizá-lo no contorno.
 * capturar todas as etapas necessárias em um fluxo sem chegar no nível de prever pequenas tarefas. 
 * comece com a pergunta: qual a primeira coisa que é feita ou precisa ser feita quando uma demanda chega? E depois, pergunta: qual a próxima coisa? Continue com essa pergunta até responder a pergunta: o que precisa ser concluído para entregar o resultado?
 
@@ -328,7 +328,7 @@ Regras:
 * Crie acordos quando surgirem questões recorrentes que precisem do mesmo tipo de decisão. 
 * Evite a tentativa de prever algo em acordos sem evidência ou conhecimento. 
 * Acordos são realizados para definir expectativas estruturais ou pessoais a serem cumpridas.
-* Um acordo deve ser criado apenas com [decisão integrativa](#decis%C3%A3o-integrativa) entre as participantes do contorno.
+* Um acordo deve ser criado apenas com [decisão integrativa](#decisão-integrativa) entre as participantes do contorno.
 * Os acordos só podem restringir ou criar expectativas dentro do seu próprio contorno e contornos internos desde que não viole o controle exclusivo de outros contornos externos.
 * Se uma proposta de acordo também está relacionada à razão de existir, responsabilidades, estratégia, processo ou recursos de controle exclusivo de outros contornos externos ao contorno atual, é indicado que exista uma avaliação da proposta com as guardiãs desses outros contornos e seja feita uma decisão integrativa com elas. 
 
@@ -418,7 +418,7 @@ Ao registrar um impulsionador, explicite qual é o seu tipo:
 - **Reação** (feedback): quando alguém deseja reações emocionais, opiniões ou ideias, mas não é esperado necessariamente respostas às reações.
 - **Discussão**: quando deseja discutir ideias e pontos de vista.
 - **Cocriação de proposta**: quando deseja fazer uma [ideação em grupo e criar uma proposta](#ideação-e-cocriação-de-proposta).
-- **[Decisão integrativa](outlines#decis%C3%A3o-integrativa)**: quando há uma proposta a ser decidida de forma integrativa. Se for necessário, explicite qual contorno tem autoridade para decidir ou de qual contorno é esperada a decisão.
+- **[Decisão integrativa](#decisão-integrativa)**: quando há uma proposta a ser decidida de forma integrativa. Se for necessário, explicite qual contorno tem autoridade para decidir ou de qual contorno é esperada a decisão.
 
 ### Exemplos de uso
 | Imagine que... | Tipo do impulsionador... |
@@ -450,7 +450,7 @@ Se houver adaptação, é necessário consentir sobre a alteração com as parti
 
 Uma decisão integrativa, por padrão, é realizada para todos acordos estruturais.
 
-É recomendado que utilize o app de [decisão integrativa de proposta](apps#decisão-integrativa-de-proposta).
+É recomendado que utilize o app de [decisão integrativa de proposta](#decisão-integrativa).
  
 Caso uma decisão impacte outros contornos é indicado que compartilhe a proposta para reações das pessoas dos contornos impactados, e apenas depois realizar decisão integrativa no contorno que criou a proposta.
 
@@ -466,9 +466,9 @@ Para a criação de uma proposa colaborativa, utilize esse processo:
 - **Ideação para os critérios selecionados**: faça uma rodada onde cada pessoa apresente ideias para qualquer um dos critérios selecionados. As ideias podem ser contraditórias. A intenção é criar opções.
 - **Nomeação de proponentes**: quem trouxe o impulsionador, nomeia de 1 a 3 pessoas para elaborar a proposta e faz uma decisão integrativa. Ela pode se voluntariar. Caso ela deseje, pode delegar essa nomeação de pessoas a outra pessoa.
 - **Elaboração de proposta**: momento no qual a(s) pessoa(s) nomeadas buscam inspiração no que foi ideado e elaboram uma proposta. É possível escolher algumas ideias, renunciar outras e inventar outras.
-- **[Decisão integrativa de proposta](#decisão-integrativa-de-proposta)**
+- **[Processo de decisão integrativa](#processo-de-decisão-integrativa)**
 
-### Decisão integrativa de proposta
+### Processo de decisão integrativa
 Ao apresentar uma proposta para decisão integrativa, utilize esse processo:
 - **Proposta**: uma proposta escrita é criada para lidar com alguma questão.
 - **Esclarecimento**: faça uma rodada onde todas as pessoas terão oportunidade, uma a uma, de fazer perguntas para entender à fundo a proposta. Uma pergunta por vez. Assim que surgem perguntas, a pessoa que propõe pode ir respondendo. Se alguma pessoa der opinião ou sugestão, informe-a para salvar isso para o próximo passo. A etapa é apenas para esclarecimento.
