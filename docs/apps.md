@@ -459,16 +459,21 @@ Observações:
 ## Remuneração e salários
 [Em desenvolvimento]
 
-Há várias maneiras de remunerar alguém.
-A remuneração pode ser por horas fixas pré-definidas na contratação relacionadas ou não à especialidade principal da pessoa, por horas registradas mensalmente sob demanda do trabalho, por projetos entregues, por resultados alcançados, ou salário proposto pela própria pessoa, ou por uma mistura desses modelos.
+Há várias maneiras de remunerar as pessoas colaboradoras.
 
-- Remuneração baseada no contorno de ["foco" ou "especialidade"](#tipo-de-energia-em-contorno) que uma pessoa participa.  
-- Remuneração baseada em trilhas de progressão 'gamificada'. Exemplo: um contorno pode ter trilhas de progressão declarado. 
-  - Imagine no caso de um contorno de 'design de produto digital'. As pessoas poderiam 'aplicar' para subir de nível na trilha enviando evidências que comprovem sua participação em algo prático que fez uso de habilidades deste nível. 
-  - Cada nível poderia exigir não só evidências de trabalho mas também uma permanência mínima no nível antes de aplicar para o próximo. Podem existir medalhas para ser conquistadas de forma geral na organização, independente de uma trilha de progressão e que poderiam refletir um acréscimo variável na remuneração. 
-  - Tanto a trilha de progressão quanto as medalhas poderiam ter tempo de validade das evidência, pedindo reaplicação de tanto em tanto tempo.
-- Mistura de opções
-  - Além de poder misturar as opções acima para criar um acordo, é possível utilizar também a opção de [influenciar expectativas](#influenciar-expectativas-de-mentoria-parceria ou-variações-de-bônus), adaptando para variar o salário, se for possível (levar em conta se é contratação PJ ou CLT). Lembre-se de acordar isso com as pessoas previamente.
+A remuneração pode ser por:
+- horas fixas pré-definidas na contratação relacionadas ou não à especialidade principal da pessoa
+- horas registradas mensalmente sob demanda do trabalho
+- projetos entregues
+- resultados alcançados
+- salário proposto pela própria pessoa
+- contorno de ["foco" ou "especialidade"](#tipo-de-energia-em-contorno) que uma pessoa participa. 
+- trilhas de progressão. Exemplo: um contorno pode ter trilhas de progressão declaradas. 
+  - imagine no caso de um contorno de 'design de produto digital'. As pessoas poderiam 'aplicar' para subir de nível na trilha enviando evidências que comprovem sua participação em algo prático que fez uso de habilidades deste nível. 
+  - cada nível poderia exigir não só evidências de trabalho mas também uma permanência mínima no nível antes de aplicar para o próximo. Podem existir medalhas para ser conquistadas de forma geral na organização, independente de uma trilha de progressão e que poderiam refletir um acréscimo variável na remuneração. 
+  - tanto a trilha de progressão quanto as medalhas poderiam ter tempo de validade das evidência, pedindo reaplicação de tanto em tanto tempo.
+- mistura de várias opções
+  - além de poder misturar as opções acima para criar um acordo, é possível utilizar também a opção de [influenciar expectativas](#influenciar-expectativas-de-mentoria-parceria ou-variações-de-bônus), adaptando para variar o salário, se for possível (levar em conta se é contratação PJ ou CLT). Lembre-se de acordar isso com as pessoas previamente.
 
 ## Processo seletivo
 [A ser desenvolvido]
