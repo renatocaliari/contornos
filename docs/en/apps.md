@@ -481,7 +481,7 @@ Over time, you can craft more customized tracks with more requirements at each l
   - maybe minimal experience? years: may vary with contorno
   - proposes solutions
   - tasks and process: **finds out what and how to do it**
-- **Specialist**
+- **Expert**
   - maybe minimal experience? years: may vary with contorno
   - mastery and deepening in ? and ?
   - tasks and process: **finds out what to do in more complicated scopes and advises others who are not experts in those scopes what to do**
