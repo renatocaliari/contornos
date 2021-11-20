@@ -39,6 +39,8 @@ Faça uma decisão integrativa no contorno que deseja utilizar e importe-o nos a
   * [Influenciar expectativas de mentoria, parceria ou variações de bônus](#influenciar-expectativas-de-mentoria-parceria-ou-variações-de-bônus)
   * [Avaliação geral](#avaliação-geral)
   * [Nomeação de Guardiã em processo de avaliação em um contorno](#nomeação-de-guardiã-em-processo-de-avaliação-em-um-contorno)
+- [Trilha de progressao](#trilha-de-progressão)
+- [Reconhecimento com medalhas](#reconhecimento-com-medalhas)
 - [Remuneração e salários](#remunera%C3%A7%C3%A3o-e-sal%C3%A1rios)
 - [Processo seletivo](#processo-seletivo)
 - [Combinação com outros processos ou tecnologias existentes](#combinação-com-outros-processos-ou-tecnologias-existentes) 
@@ -456,6 +458,49 @@ Regras:
 Observações:
 - caso a pessoa que era guardiã não for escolhida como guardiã nesse ciclo, ela se torna agente do contorno.
 
+## Trilha de progressão 
+
+Em vez de começar com uma trilha complicada e customizada demais, procure iniciar com algo simplificado e que qualquer pessoa entenda rapidamente.
+Com o tempo, você pode elaborar trilhas mais customizadas e com mais requisitos em cada nível. Porém, avalie se é realmente necessário.
+
+**Exemplo de uma trilha simples:**
+- **Aspirante**
+  - nunca trabalhou nesse contorno antes
+  - observa outras pessoas nesse contorno executarem suas tarefas 
+  - tarefas e processo: **se aconselha sobre quais tarefas fazer e como fazer**
+- **Aprendiz**
+  - já praticou as tarefas básicas desse contorno em vários contextos
+  - observa outras pessoas nesse contorno tomarem decisões sobre suas tarefas
+  - tarefas e processo: **se aconselha sobre quais tarefas fazer e descobre como fazer**
+- **Experiente**
+  - talvez experiência mínima de ? anos: pode variar com o contorno
+  - propõe soluções
+  - tarefas e processo: **descobre o que e como fazer**
+- **Especialista**
+  - talvez experiência mínima de ? anos: pode variar com o contorno
+  - domínio e aprofundamento em ? e ?
+  - tarefas e processo: **descobre o que fazer em escopos mais complicados e aconselham o que fazer a outras pessoas que não são especialistas nesses escopos**
+
+### Identificação além da trilha
+**Além da trilha, é possível identificar:**
+- pessoas **recém-chegadas** na empresa: participam do contorno "recém-chegadas" com duração de 3 meses. Isso pode afetar o salário: desconto de uma porcentagem sobre o salário até passar por esse período de 3 meses.
+- pessoas **mentoras**: participam do [Contorno Mentoria](#contorno-mentoria). Isso pode afetar o salário: acréscimo de uma porcentagem sobre o salário.
+
+## Reconhecimento com medalhas
+
+Além da trilha de progressão, é possível ter reconhecimento com medalhas. Podem existir medalhas gerais da organização ou medalhas por papel específico.
+Cada medalha poderia listar os requisitos básicos para conquistá-la: comprovação de conhecimento ou experiência, ou conquistas prévias de outras medalhas. 
+As pessoas enviam evidências para recebê-las.
+As medalhas são temporárias, valendo por meses ou anos pré-determinados. Assim que esse tempo se encerra, é necessário enviar evidências novamente.
+
+### Novos contornos para o sistema de medalhas
+
+Para que o sistema de medalhas funcione, é necessária a criação de novos contornos:
+  - **Confecção de medalhas da organização**: contorno com pessoas que irão criar e adaptar medalhas, com decisão integrativa.
+  - **Confecção de medalhas de um contorno específico**: contorno com pessoas que irão criar e adaptar medalhas, com decisão integrativa.
+  - **Avaliação de evidências para medalhas da organização**: contorno com pessoas que avaliam evidências para receber medalhas da organização geral.
+  - **Avaliação de evidências para medalhas de um contorno específico**: contorno com pessoas que avaliam evidências para receber medalhas no contorno especifico.
+
 ## Remuneração e salários
 [Em desenvolvimento]
 
@@ -467,13 +512,11 @@ A remuneração pode ser por:
 - projetos entregues
 - resultados alcançados
 - salário proposto pela própria pessoa
-- contorno de ["foco" ou "especialidade"](#tipo-de-energia-em-contorno) que uma pessoa participa. 
-- trilhas de progressão. Exemplo: um contorno pode ter trilhas de progressão declaradas. 
-  - imagine no caso de um contorno de 'design de produto digital'. As pessoas poderiam 'aplicar' para subir de nível na trilha enviando evidências que comprovem sua participação em algo prático que fez uso de habilidades deste nível. 
-  - cada nível poderia exigir não só evidências de trabalho mas também uma permanência mínima no nível antes de aplicar para o próximo. Podem existir medalhas para ser conquistadas de forma geral na organização, independente de uma trilha de progressão e que poderiam refletir um acréscimo variável na remuneração. 
-  - tanto a trilha de progressão quanto as medalhas poderiam ter tempo de validade das evidência, pedindo reaplicação de tanto em tanto tempo.
-- mistura de várias opções
-  - além de poder misturar as opções acima para criar um acordo, é possível utilizar também a opção de [influenciar expectativas](#influenciar-expectativas-de-mentoria-parceria ou-variações-de-bônus), adaptando para variar o salário, se for possível (levar em conta se é contratação PJ ou CLT). Lembre-se de acordar isso com as pessoas previamente.
+- contorno de ["foco" ou "especialidade"](#tipo-de-energia-em-contorno) que uma pessoa participa.
+- nível da [trilha de progressão](#trilha-de-progressão)
+- [medalhas](#reconhecimento-com-medalhas)
+- [influenciar expectativas](#influenciar-expectativas-de-mentoria-parceria ou-variações-de-bônus), adaptando para variar o salário, se for possível (levar em conta se é contratação PJ ou CLT). Lembre-se de acordar isso com as pessoas previamente
+- ou, mistura de várias acimas.
 
 ## Processo seletivo
 [A ser desenvolvido]
