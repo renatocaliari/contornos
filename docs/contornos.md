@@ -39,9 +39,9 @@ Exemplos demonstrando contextos para criação de contornos:
 **Regras**: 
 - desenhe novos contornos a partir de demandas do público, interno ou externo.
 - minimize a criação de contornos que dependam de entregas recorrentes, previstas e necessárias (_handover_ ou _handoff_) de outros contornos que não estejam dentro de um mesmo contorno externo. Favoreça que as participantes dos contornos que possuem dependência possam ter um contexto próximo em comum - um contorno externo, favorecendo que participem de reuniões, decisões e tratamento de [impulsionadores](#impulsionadores) em conjunto. 
-  - exemplo de dependência em contexto diferente e no mesmo contexto
-    - ![Imagem exemplificando Handover ou Handoff](./assets/handoffhandover.png ':size=480')
   - caso seja desejado ou necessário uma dependência entre contornos que estão em contornos externos diferentes, é recomendado a criação de um papel estrutural de [representante](apps#papel-estrutural-de-representante) para que os contornos possuam alguma conexão.
+  - exemplo de dependência em contexto diferente e no mesmo contexto
+![Imagem exemplificando Handover ou Handoff](./assets/handoffhandover.png ':size=480')
  
 
 ## Como adaptar ou remover um contorno?
