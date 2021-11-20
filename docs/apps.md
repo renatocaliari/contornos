@@ -28,7 +28,7 @@ Faça uma decisão integrativa no contorno que deseja utilizar e importe-o nos a
   * [Contorno Escuta](#contorno-escuta)
 - [Decisão integrativa assíncrona de proposta](#decisão-integrativa-assíncrona-de-proposta)
 - [Reuniões e Cerimônias](#reuniões-e-cerimônias)
-- [Colaboração & Comunicação](#colaboraçao-comunicação)
+- [Colaboração & Comunicação](#colaboraçao--comunicação)
   - [Rodadas de fala](#rodadas-de-fala)
   - [Manual da pessoa](#manual-da-pessoa)
 - [Cuidar das pessoas](#cuidar-das-pessoas) 
