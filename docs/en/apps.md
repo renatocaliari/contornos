@@ -464,16 +464,21 @@ Comments:
 ## Remuneration and salaries
 [Under development]
 
-There are several ways to pay someone.
-Compensation can be for fixed pre-defined hours in the hiring related or not to the person's main specialty, for hours recorded monthly on demand of work, for projects delivered, for results achieved, or salary proposed by the person, or a mixture of these models.
+There are several ways to remunerate collaborating people.
 
-- Compensation based on the contorno of ["focus" or "specialty"](#type-of-energy-in-contorno) that a person participates.
-- Compensation based on 'gamified' progression tracks. Example: A contorno can have progression tracks declared.
-  - Imagine in the case of a 'digital product design' contorno. People could 'apply' to level up on the trail by submitting evidence that proves their participation in something practical that made use of skills at this level.
-  - Each level could require not only evidence of work but also a minimum stay at the level before applying to the next one. There may be medals to be won across the organization, regardless of a progression path, and which could reflect a variable increase in compensation.
-  - Both the progression track and the medals could have validity time for the evidence, requesting reapplication every so often.
-- Mix of options
-  - In addition to being able to mix the above options to create an agreement, it is also possible to use the [influencing expectations] option (#influencing-expectations-of-mentoring-partnership-or-bonus-variations), however, adapting to vary the salary, if possible (take into account if it is a legal contract or CLT). Remember to agree this with people beforehand.
+Remuneration can be for:
+- fixed pre-defined hours in the contract related or not to the person's main specialty
+- hours recorded monthly on demand of work
+- projects delivered
+- results achieved
+- salary proposed by the person
+- contorno of ["focus" or "specialty"](#energy-type-in-contour) that a person participates.
+- progression tracks. Example: A contorno can have progression tracks declared.
+  - imagine in the case of a 'digital product design' outline. People could 'apply' to level up on the trail by submitting evidence to prove their participation in something practical that made use of skills at that level.
+  - each level could require not only evidence of work but also a minimum stay at the level before applying to the next one. There may be medals to be won across the organization, regardless of a progression path, and which could reflect a variable increase in compensation.
+  - both the progression track and the medals could have validity time for the evidence, requesting reapplication every so often.
+- mix of various options
+  - in addition to being able to mix the above options to create an agreement, you can also use the [influencing expectations] option (#influencing-expectations-of-mentoring-partnership-or-bonus-variations), adapting to vary the salary, if possible (take into account whether it is a legal contract). Remember to agree this with people beforehand.
 
 ## Selective process
 [To be developed]
