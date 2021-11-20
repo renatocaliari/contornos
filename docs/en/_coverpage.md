@@ -1,6 +1,6 @@
 ![Contornos](../assets/logo.png ':size=220')
 
-# Contornos<small>0.8.11</small>
+# Contornos<small>0.8.12</small>
 
 >  Social Technology for Organizations
 
