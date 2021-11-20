@@ -32,7 +32,7 @@ Make an integrative decision on the contorno you want to use and import it into 
 - [Meetings and Ceremonies](#meetings-and-ceremonies)
 - [Collaboration and Communication](#collaboration-and-communication)
   - [Talking in Rounds](#talking-in-rounds)
-- [Person's manual](#persons-manual)
+  - [Person's manual](#persons-manual)
 - [Taking care of people](#taking-care-of-people)
 - [Type of energy in contorno](#type-of-energy-in-contorno)
 - [Apprentice Mentoring](#apprentice-mentoring)
