@@ -41,6 +41,8 @@ Make an integrative decision on the contorno you want to use and import it into 
   * [Influencing expectations of mentoring, partnership or bonus variations](#influencing-expectations-of-mentoring-partnership-or-bonus-variations)
   * [General evaluation](#general-evaluation)
   * [Guardian nomination in an evaluation process](#guardian-nomination-in-an-evaluation-process)
+- [Progression track](#progression-track)
+- [Recognition with medals](#recognition-with-medals)  
 - [Remuneration and salaries](#remuneration-and-salaries)
 - [Selective process](#selective-process)
 - [Combination with other existing processes or technologies](#combination-with-other-processes-or-existing-technology)
@@ -460,9 +462,54 @@ Rules:
 Comments:
 - if the person who was a guardian is not chosen as a guardian in this cycle, he/she becomes an agent of the contorno.
 
-## Remuneration and salaries
-[Under development]
 
+## Progression Track
+
+Instead of starting with an overly complicated and customized track, try to start with something simplified and that anyone will quickly understand.
+Over time, you can craft more customized tracks with more requirements at each level. However, assess whether it is really necessary.
+
+**Example of a simple track:**
+- **Aspirant**
+  - never worked on this contorno (or similar scope) before
+  - watch other people in this contorno perform their tasks
+  - tasks and process: **advises on what tasks to do and how to do it**
+- **Apprentice**
+  - has already practiced the basic tasks of this contorno (or similar scope) in various contexts
+  - watch other people in this contorno make decisions about their tasks
+  - tasks and process: **advises on what tasks to do and finds out how to do it**
+- **Experient**
+  - maybe minimal experience? years: may vary with contorno
+  - proposes solutions
+  - tasks and process: **finds out what and how to do it**
+- **Specialist**
+  - maybe minimal experience? years: may vary with contorno
+  - mastery and deepening in ? and ?
+  - tasks and process: **finds out what to do in more complicated scopes and advises others who are not experts in those scopes what to do**
+
+### Identification beyond the track
+**In addition to the track, it is possible to identify:**
+- **newcomers** at the company: participate in the "newcomers" contorno with a duration of 3 months. This can affect salary: deduct a percentage of salary until you pass this 3-month period.
+- **mentors** people: participate in the [Mentoring](#mentoring) contorno. This can affect salary: increase of a percentage of salary.
+
+## Recognition with medals
+
+In addition to the progression track, it is possible to have a recognition with medals together.
+There can be medals for the organization in general or medals for specific contornos.
+
+**Rules:**
+- Each medal contains basic requirements to earn it: proof of knowledge or experience, or previous achievements of other medals.
+- People send evidence to receive it.
+- Medals are temporary, valid for pre-determined months or years. Once this time ends, the medal is lost and it is necessary to send new evidence to win it.
+
+### New contornos for the medal system
+
+For the medal system to work, it is necessary to create new contornos:
+  - **Making organization medals**: creates and adapts medals, with integrative decision.
+  - **Made of medals of a specific contour**: creates and adapts medals, with integrative decision.
+  - **Evaluation of evidence for organization medals**: evaluates evidence to receive general organization medals.
+  - **Evaluation of evidence for medals of a specific contour**: evaluates evidence to receive medals in the specific contour.
+
+## Remuneration and salaries
 There are several ways to remunerate collaborating people.
 
 Remuneration can be for:
@@ -470,14 +517,13 @@ Remuneration can be for:
 - hours recorded monthly on demand of work
 - projects delivered
 - results achieved
+- contorno that a person participates in with type of energy ["focus" or "specialty"](#type-of-energy-in-contour)
+- level of [progression track](#progression-track)
+- [medals](#recognition-with-medals)
+- evaluation for [influencing expectations](#influencing-expectations-of-mentoring-partnership-or-bonus-variations), adapting to also vary the salary. Remember to agree this with people in advance
 - salary proposed by the person
-- contorno of ["focus" or "specialty"](#energy-type-in-contour) that a person participates.
-- progression tracks. Example: A contorno can have progression tracks declared.
-  - imagine in the case of a 'digital product design' outline. People could 'apply' to level up on the trail by submitting evidence to prove their participation in something practical that made use of skills at that level.
-  - each level could require not only evidence of work but also a minimum stay at the level before applying to the next one. There may be medals to be won across the organization, regardless of a progression path, and which could reflect a variable increase in compensation.
-  - both the progression track and the medals could have validity time for the evidence, requesting reapplication every so often.
-- mix of various options
-  - in addition to being able to mix the above options to create an agreement, you can also use the [influencing expectations] option (#influencing-expectations-of-mentoring-partnership-or-bonus-variations), adapting to vary the salary, if possible (take into account whether it is a legal contract). Remember to agree this with people beforehand.
+- or, mix of the above options 
+
 
 ## Selective process
 [To be developed]
