@@ -39,7 +39,7 @@ Faça uma decisão integrativa no contorno que deseja utilizar e importe-o nos a
   * [Influenciar expectativas de mentoria, parceria ou variações de bônus](#influenciar-expectativas-de-mentoria-parceria-ou-variações-de-bônus)
   * [Avaliação geral](#avaliação-geral)
   * [Nomeação de Guardiã em processo de avaliação em um contorno](#nomeação-de-guardiã-em-processo-de-avaliação-em-um-contorno)
-- [Trilha de progressao](#trilha-de-progressão)
+- [Trilha de progressão](#trilha-de-progressão)
 - [Reconhecimento com medalhas](#reconhecimento-com-medalhas)
 - [Remuneração e salários](#remunera%C3%A7%C3%A3o-e-sal%C3%A1rios)
 - [Processo seletivo](#processo-seletivo)
@@ -488,22 +488,23 @@ Com o tempo, você pode elaborar trilhas mais customizadas e com mais requisitos
 
 ## Reconhecimento com medalhas
 
-Além da trilha de progressão, é possível ter reconhecimento com medalhas. Podem existir medalhas gerais da organização ou medalhas por papel específico.
-Cada medalha poderia listar os requisitos básicos para conquistá-la: comprovação de conhecimento ou experiência, ou conquistas prévias de outras medalhas. 
-As pessoas enviam evidências para recebê-las.
-As medalhas são temporárias, valendo por meses ou anos pré-determinados. Assim que esse tempo se encerra, é necessário enviar evidências novamente.
+Além da trilha de progressão, é possível ter em conjunto um reconhecimento com medalhas. 
+Podem existir medalhas para a organização em geral ou medalhas por contorno específico.
+
+**Regras:**
+- Cada medalha contém requisitos básicos para conquistá-la: comprovação de conhecimento ou experiência, ou conquistas prévias de outras medalhas. 
+- As pessoas enviam evidências para recebê-las.
+- As medalhas são temporárias, valendo por meses ou anos pré-determinados. Assim que esse tempo se encerra, a medalhas é perdida e é necessário enviar novas evidências para conquistá-la.
 
 ### Novos contornos para o sistema de medalhas
 
 Para que o sistema de medalhas funcione, é necessária a criação de novos contornos:
-  - **Confecção de medalhas da organização**: contorno com pessoas que irão criar e adaptar medalhas, com decisão integrativa.
-  - **Confecção de medalhas de um contorno específico**: contorno com pessoas que irão criar e adaptar medalhas, com decisão integrativa.
-  - **Avaliação de evidências para medalhas da organização**: contorno com pessoas que avaliam evidências para receber medalhas da organização geral.
-  - **Avaliação de evidências para medalhas de um contorno específico**: contorno com pessoas que avaliam evidências para receber medalhas no contorno especifico.
+  - **Confecção de medalhas da organização**: contorno que cria e adapta medalhas, com decisão integrativa.
+  - **Confecção de medalhas de um contorno específico**: contorno que cria e adapta medalhas, com decisão integrativa.
+  - **Avaliação de evidências para medalhas da organização**: contorno que avalia evidências para receber medalhas da organização geral.
+  - **Avaliação de evidências para medalhas de um contorno específico**: contorno que avalia evidências para receber medalhas no contorno especifico.
 
 ## Remuneração e salários
-[Em desenvolvimento]
-
 Há várias maneiras de remunerar as pessoas colaboradoras.
 
 A remuneração pode ser por:
@@ -511,12 +512,12 @@ A remuneração pode ser por:
 - horas registradas mensalmente sob demanda do trabalho
 - projetos entregues
 - resultados alcançados
-- salário proposto pela própria pessoa
-- contorno de ["foco" ou "especialidade"](#tipo-de-energia-em-contorno) que uma pessoa participa.
+- contorno de ["foco" ou "especialidade"](#tipo-de-energia-em-contorno) que uma pessoa participa
 - nível da [trilha de progressão](#trilha-de-progressão)
 - [medalhas](#reconhecimento-com-medalhas)
-- [influenciar expectativas](#influenciar-expectativas-de-mentoria-parceria ou-variações-de-bônus), adaptando para variar o salário, se for possível (levar em conta se é contratação PJ ou CLT). Lembre-se de acordar isso com as pessoas previamente
-- ou, mistura de várias acimas.
+- avaliação para [influenciar expectativas](#influenciar-expectativas-de-mentoria-parceria ou-variações-de-bônus), adaptando para também variar o salário (levar em conta se é contratação PJ ou CLT). Lembre-se de acordar isso com as pessoas previamente
+- salário proposto pela própria pessoa
+- ou, mistura das opções acima
 
 ## Processo seletivo
 [A ser desenvolvido]
