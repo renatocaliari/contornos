@@ -295,19 +295,21 @@ _Remember, the results do not say who I am. Keep your curiosity active about me.
   - Mediation of conflicts
 
 ## Type of energy in contorno
-By installing this app, a person can define one or more types of energy in a contorno.
+By installing this app, a person can define one or more types of energy in a Contorno.
 
-Below are the types a person can have in a contorno:
+Below are the types a person can have in an outline:
   - Focus
     > I invest at least 80% of my time here.
-  - Specialty
-    > This is my specialty. It is my tool to make money in the market. I have extensive experience in this field.
   - Purpose and values
     > Makes my work meaningful and is in line with my values. It contributes to my personal purpose.
-  - Development
-    > Participating in this contorno can help me to develop, practice, reflect and continually improve my skills. This role helps me step out of my comfort zone and challenge myself. It can help me explore other paths.
   - Volunteering
-    > This is a contorno that has no guardian and I volunteer to assume it. Maybe it has nothing to do with my passion and purpose. I want to help the organization while I need it or I can.
+    > This is a Contorno that has no guardian and I volunteer to assume it. Maybe it has nothing to do with my passion and purpose. I want to help the organization while I need it or I can.
+  - Development*
+    > Participating in this Contorno can help me to develop, practice, reflect and continually improve my skills. This role helps me step out of my comfort zone and challenge myself. It can help me explore other paths.
+  - Specialty*
+    > This is my specialty. It is my tool to make money in the market. I have extensive experience in this field.
+
+*If you use the [Progression track](#progression-track) app, take care to avoid conflicts when using the Development and Specialty types because the tracks take care to identify the person's level of experience in a given Contorno. 
 
 ## Apprentice Mentoring
 People with energy type 'Development' need to consult with someone from the [Mentoring](#mentoring) contorno related to their scope for decision making and direction.
