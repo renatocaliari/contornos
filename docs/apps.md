@@ -354,7 +354,7 @@ Ao instalar o app (importar o acordo), descreva os detalhes desejados e necessá
 - qual a média mínima esperada de todas as pessoas, independente do contorno ou papel estrutural.
 - como a média será calculada: entre as 3 perguntas?
 - o resultado da avaliação estará atrelada à relação contratual (encerramento, promoção, ou variação de bônus)?
-- qual o mínimo de respostas de uma avaliação por pessoa para considerar na média? ex: "só serão calculadas médias que tiverem ao menos 3 respostas por avaliação de pessoa. Caso tenha menos respostas, considerar a média mínima acordada como média da avaliação da pessoa".
+- qual o mínimo de respostas de uma avaliação por pessoa para considerar na média? ex: "só serão calculadas médias que tiverem ao menos 3 respostas por avaliação. Caso tenha menos respostas, considerar a média mínima acordada como média da avaliação da pessoa".
 
 Caso decida atrelar a avaliação à mentoria, relação contratual ou variação de bônus, experimente alguns itens a mais no acordo:
 - a cada vez que uma pessoa ficar abaixo da média mínima, ela será convidada a se aconselhar com o [contorno Mentoria](#contorno-mentoria).  
