@@ -126,40 +126,40 @@ If interested, refer to materials such as [Team Topologies](https://www.amazon.c
 
 
 ### Example of contornos structure
-Any pre-fabricated model about team design is flawed by nature precisely because it does not reflect or adapt to reality. However, some can be useful for inspiring and starting experiments.
+Any pre-fabricated model about team design is flawed by nature precisely because it does not reflect or adapt to reality. However, some can be useful to inspire and initiate experiments.
 
 There are numerous possibilities. There is no cake recipe or something universal.
 
-For illustrative purposes, the possibility below shows a mixture of contornos of support for the organization as a whole with contornos by intention (see above) of the public that the business serves delimited within the contorno of products/services, also having contornos of specialization internally.
+For illustrative purposes, the possibility below shows a mixture of Contornos of support for the organization as a whole with Contornos by intention (see above) of the public that the business serves delimited within the Contorno of products/services, also having Contornos of specialization internally.
 
-It is possible several other alternatives, for example, some contornos of the example below that are within product/service - customer service, sales & marketing, research, etc - could be within each intention contorno, if it is useful and more efficient, depending on the scale of the organization and product/service.
-
-Example:
-- Organizational System
-  - Organizational Design & Service Design
+Structure example:
+- Organizational System (Organizational Design & Service Design)
 - Care & Counseling
   - Mediation of conflicts
   - Counseling & Mentoring
   - listen
-- [Partnership maintenance](/en/apps#partnership)
+- [Contractual Relationship](apps#contractual-relationship)
 - Financial
-- Delivery of value to the customer 
+- Delivery of value to the customer
    - Product or Service A (example: "Technology-related subjects teaching platform")
       - Service
       - Sales and Marketing
-      - Research
+      - Search
       - Contents
-      - Partnerships
+      - Business Partnerships
       - Customer Intent A (example: "Get your first job in the technology area or make a career transition")
          - Modeling of initiatives
          - Design of the product/service experience
          - Development
-            - Graphic/physical interface
-            - Implementation
-      - Customer Intent B (example: "To undertake in the technology area")
+         - Graphic/physical interface
+         - Implementation
+      - Customer's intention B (example: "To undertake in the technology area")
          - [...]
       - Customer Intent C (example: "Connecting with professionals in the technology job market")
          - [...]
+
+
+Several other alternatives are possible, for example, some Contornos that are within the product/service - customer service, sales & marketing, research, etc. - could be within each intention Contornos, if it is useful and more efficient, depending on the scale of the organization or product/service. 
 
 ## How to measure the impact of organizational design changes?
 In a simplistic and limited way, it is possible to try to compare before and after:
