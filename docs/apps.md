@@ -20,7 +20,7 @@ Faça uma decisão integrativa no contorno que deseja utilizar e importe-o nos a
   - [Papel estrutural de Sinapse](#papel-estrutural-de-sinapse)
 - [Contornos especiais](#contornos-especiais)
   * [Contorno Norte](#contorno-norte)
-  * [Contorno Manutenção de Parceria](#contorno-manuten%C3%A7%C3%A3o-de-parceria)
+  * [Contorno Relação Contratual](#contorno-relação-contratual)
   * [Contorno Sistema Organizacional](#contorno-sistema-organizacional)
   * [Contorno Aconselhamento de Alocação](#contorno-aconselhamento-de-aloca%C3%A7%C3%A3o)
   * [Contorno Mentoria](#contorno-mentoria)
@@ -36,7 +36,7 @@ Faça uma decisão integrativa no contorno que deseja utilizar e importe-o nos a
 - [Mentoria de Aprendizes](#mentoria-de-aprendizes)
 - [Nomeação de pessoas para um contorno](#nomeação-de-pessoas-para-um-contorno)
 - [Avaliação de pessoas](#avalia%C3%A7%C3%A3o-de-pessoas)
-  * [Influenciar expectativas de mentoria, parceria ou variações de bônus](#influenciar-expectativas-de-mentoria-parceria-ou-variações-de-bônus)
+  * [Influenciar expectativas de mentoria, relação contratual ou variações de bônus](#influenciar-expectativas-de-mentoria-relação-contratual-ou-variações-de-bônus)
   * [Avaliação geral](#avaliação-geral)
   * [Nomeação de Guardiã em processo de avaliação em um contorno](#nomeação-de-guardiã-em-processo-de-avaliação-em-um-contorno)
 - [Trilha de progressão](#trilha-de-progressão)
@@ -130,7 +130,7 @@ Caso o contorno que oferecerá uma representante já tenha uma representante nom
 **Definir:**
 - critérios que informem quais pessoas participarão deste contorno, além das sorteadas. Exemplo: guardiãs de contornos de primeiro e segundo nível; pessoas com mais de X anos na organização + pessoais que investiram acima de X na organização + pessoas convidadas pelas participantes do contorno que passem por decisão integrativa.  
 
-### Contorno "Manutenção de Parceria"
+### Contorno "Relação Contratual"
 
 **Razão de existir:** 
 - cuidar de contratações, encerramentos de contratos e mudanças de salário.
@@ -142,7 +142,7 @@ Caso o contorno que oferecerá uma representante já tenha uma representante nom
 
 **Acordo estrutural interno:**
 - decisões deste contorno serão feitas por decisão integrativa.
-- as guardiãs de contornos que serão impactados - seja para uma contratação, encerramento de parceria ou mudança de salário, participarão da decisão integrativa.
+- as guardiãs de contornos que serão impactados - seja para uma contratação, encerramento de contrato ou mudança de salário, participarão da decisão integrativa.
 
 **Definir:**
 - quais guardiãs de contornos da organização participam desse contorno.
@@ -170,7 +170,7 @@ Caso o contorno que oferecerá uma representante já tenha uma representante nom
 ### Contorno Aconselhamento de alocação
 Contorno para aconselhar pessoas que desejam participar de outros contornos ou não estão mais participando de qualquer contorno.
 
-Caso não descubram em conjunto algum outro contorno para participação ou não passe na decisão dos contornos, as participantes de "Aconselhamento de alocação" combinam com o contorno de "Manutenção de parceria" para lidar com o caso.
+Caso não descubram em conjunto algum outro contorno para participação ou não passe na decisão dos contornos, as participantes de "Aconselhamento de alocação" combinam com o contorno de "Relação Contratual" para lidar com o caso.
 
 ### Contorno Mentoria
 Contorno para aconselhar, direcionar e treinar em habilidades específicas.
@@ -329,7 +329,7 @@ Veja os passos para nomeação:
 
 A intenção desse processo é reconhecer e avaliar a participação de pessoas na organização.
 
-### Influenciar expectativas de mentoria, parceria ou variações de bônus
+### Influenciar expectativas de mentoria, relação contratual ou variações de bônus
 
 Participantes do processo:
 - participantes dos contornos da pessoa a ser avaliada
@@ -353,12 +353,12 @@ Ao instalar o app (importar o acordo), descreva os detalhes desejados e necessá
 - qual a frequência dessa avaliação. Exemplo: bimestral. 
 - qual a média mínima esperada de todas as pessoas, independente do contorno ou papel estrutural.
 - como a média será calculada: entre as 3 perguntas?
-- o resultado da avaliação estará atrelada a manutenção de parceria (encerramento, promoção, ou variação de bônus)?
+- o resultado da avaliação estará atrelada à relação contratual (encerramento, promoção, ou variação de bônus)?
 - qual o mínimo de respostas de uma avaliação por pessoa para considerar na média? ex: "só serão calculadas médias que tiverem ao menos 3 respostas por avaliação de pessoa. Caso tenha menos respostas, considerar a média mínima acordada como média da avaliação da pessoa".
 
-Caso decida atrelar a avaliação à mentoria, manutenção de parceria ou variação de bônus, experimente alguns itens a mais no acordo:
+Caso decida atrelar a avaliação à mentoria, relação contratual ou variação de bônus, experimente alguns itens a mais no acordo:
 - a cada vez que uma pessoa ficar abaixo da média mínima, ela será convidada a se aconselhar com o [contorno Mentoria](#contorno-mentoria).  
-- abaixo da média por 2 vezes seguidas, uma proposta automática é feita para encerramento de parceria no contorno ["Manutenção de parceria"](#contorno-manuten%C3%A7%C3%A3o-de-parceria) passando por decisão integrativa.
+- abaixo da média por 2 vezes seguidas, uma proposta automática é feita para encerramento da relação contratual no contorno ["Relação Contratual"](#contorno-relação-contratual) passando por decisão integrativa.
 - a média global do resultado da avaliação da organização, servirá como norteadora para variação do bônus. 
 - a % da diferença da média pessoal para a média global da empresa, será a variação do bônus, para cima ou para baixo.
 
@@ -515,7 +515,7 @@ A remuneração pode ser por:
 - contorno de ["foco" ou "especialidade"](#tipo-de-energia-em-contorno) que uma pessoa participa
 - nível da [trilha de progressão](#trilha-de-progressão)
 - [medalhas](#reconhecimento-com-medalhas)
-- avaliação para [influenciar expectativas](#influenciar-expectativas-de-mentoria-parceria ou-variações-de-bônus), adaptando para também variar o salário (levar em conta se é contratação PJ ou CLT). Lembre-se de acordar isso com as pessoas previamente
+- avaliação para [influenciar expectativas](#influenciar-expectativas-de-mentoria-relação-contratual-ou-variações-de-bônus), adaptando para também variar o salário (levar em conta se é contratação PJ ou CLT). Lembre-se de acordar isso com as pessoas previamente
 - salário proposto pela própria pessoa
 - ou, mistura das opções acima
 
