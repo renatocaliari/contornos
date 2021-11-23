@@ -403,7 +403,7 @@ Given what was presented in the understanding stage, discover themes and aspects
 
 People present respond.
 
-It may be something the person is already doing well, but wants to focus more.
+It may be something the person is already doing well, but you wish the person could focus more. 
 
 #### Allocation decision stage
 The average score obtained in the "Allocation Thermometer Internship" is shared with the person being evaluated and other participants.
@@ -435,7 +435,7 @@ This plan can be created during or after the dynamic.
 
 It is suggested that there is a structural agreement in the contorno of the person being evaluated or at an organizational level stating which of these alternatives will be in effect:
 
-* The person himself can decide for his own action plan.
+* The person herself can decide for his own action plan.
 * Carry out integrative decision with the contorno in which the person works.
 * Make an integrative decision with someone from the [Mentorship contorno](#mentoring).
 
