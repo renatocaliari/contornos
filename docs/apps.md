@@ -35,7 +35,7 @@ Faça uma decisão integrativa no contorno que deseja utilizar e importe-o nos a
 - [Tipo de energia em contorno](#tipo-de-energia-em-contorno)
 - [Mentoria de Aprendizes](#mentoria-de-aprendizes)
 - [Nomeação de pessoas para um contorno](#nomeação-de-pessoas-para-um-contorno)
-- [Avaliação de pessoas](#avalia%C3%A7%C3%A3o-de-pessoas)
+- [Avaliação de participação](#avaliação-de-participação)
   * [Influenciar expectativas de mentoria, relação contratual ou variações de bônus](#influenciar-expectativas-de-mentoria-relação-contratual-ou-variações-de-bônus)
   * [Avaliação geral](#avaliação-geral)
   * [Nomeação de Guardiã em processo de avaliação em um contorno](#nomeação-de-guardiã-em-processo-de-avaliação-em-um-contorno)
@@ -325,7 +325,7 @@ Veja os passos para nomeação:
 - Rodada de alterações: em uma rodada, ofereça oportunidade das pessoas mudarem sua nomeação. Se alguma pessoa alterar sua nomeação, pergunte se ela deseja compartilhar o que levou a essa mudança.
 - Proposta e decisão integrativa: a guardiã faz uma proposta levando em consideração os nomes e razões que as outras pessoas trouxeram nas nomeações. As participantes fazem uma decisão integrativa por consentimento.
 
-## Avaliação de pessoas
+## Avaliação de participação
 
 A intenção desse processo é reconhecer e avaliar a participação de pessoas na organização.
 
@@ -465,10 +465,14 @@ Com o tempo, você pode elaborar trilhas mais customizadas e com mais requisitos
 
 **Exemplo de uma trilha simples:**
 - **Aspirante**
-  - nunca trabalhou nesse contorno antes
-  - observa outras pessoas nesse contorno executarem suas tarefas 
-  - tarefas e processo: **se aconselha sobre quais tarefas fazer e como fazer**
+  - Experiência:  
+    - nunca trabalhou nesse contorno antes
+  - Autonomia:
+    - se aconselha sobre quais tarefas fazer e como fazer
+    - observa outras pessoas nesse contorno executarem suas tarefas 
 - **Aprendiz**
+  - Experiência:  
+  - Autonomia:
   - já praticou as tarefas básicas desse contorno em vários contextos
   - observa outras pessoas nesse contorno tomarem decisões sobre suas tarefas
   - tarefas e processo: **se aconselha sobre quais tarefas fazer e descobre como fazer**
