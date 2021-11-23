@@ -24,20 +24,24 @@ The system starts with the maxim that _"everything is allowed as long as it is n
 
 # Contornos
 A contorno is a scope delimited by reason for existence, responsibilities, resources of exclusive control, and proper agreements.
-Having a defined contorno avoids deciding all the time what needs to be done and who will do something.
+One person can be on several contornos, and one contorno can contain several people.
+
+The definition of Contornos avoids deciding all the time what needs to be done and who will do something.
 
 Each contorno governs its own structure, which can be changed by the contorno guardian or by integrative decision depending on the context.
 
-One person can be on several contornos, and one contorno can contain several people.
-
 ## When to create new contornos?
 
-Create contornos when you notice some recurring patterns to leverage effectiveness and shared understanding or when you want to delegate some of the responsibilities and resources of exclusive control. [In Questions & Answers, see options that may help in mapping new contornos](en/questions#how-to-map-and-divide-the-contornos).
+Create contornos when you: 
+- notice some recurring patterns and delegate part of the responsibilities and exclusive control resources to promote effectiveness, in addition to greater experience and deeper understanding of the scope;
+- identify themes that need ongoing care;
+- want to execute and complete a project that requires joint work apart from an existing contour, temporarily. 
 
-Examples demonstrating contexts for contorno creation: 
+[In Questions & Answers, see options that may help in mapping new contornos](en/questions#how-to-map-and-divide-the-contornos).
+
+Examples demonstrating contexts for creating Contornos in the case of recurring patterns: 
 - Recurrently the contorno you participate needs to perform data analysis in a more advanced way. For a while the participants were trying to help each other, each time doing something, but it was not explicit who had this responsibility and what other responsibilities there might be. Then, because of this recurrence, someone registers a [booster](#boosters) for the contorno with a proposal to create an internal "data analysis" contorno, making explicit what is expected. And then they make a proposal to allocate one person as guardian of this contorno. From then on they will no longer need to decide who will do this kind of work and what responsibilities are expected. 
 - A "Tech" contorno has the responsibility to take care of the infrastructure and deployment process of some systems that the contorno develops. However, this started to create conflicts and doubts about which participants would have to have the skills, knowledge and attention for this. Then, one participant created a [booster](#boosters) with a proposal to create an internal "Platform" contorno delegating the "deployment process" as a resource of exclusive control of this new contorno and also the responsibilities to take care of the infrastructure and process. And then they allocated one person as [guardian](#guardian) of the contorno and another with [agent](#agent-of-contorno).  
-
 
 **Rules**:
 - Draw new contornos based on the demands of the public, internal or external.
