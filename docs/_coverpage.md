@@ -4,7 +4,6 @@
 
 >  Tecnologia Social para Organizações
 
-Princípios
 - :cyclone: Levar em conta o sistema organizacional como um todo e os fluxos de valor.
 - :loop: Amplificar 'loops de feedback'.
 - :zap: Experimentar e aprender continuamente.
