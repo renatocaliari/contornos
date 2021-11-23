@@ -305,7 +305,7 @@ Abaixo estão os tipos que uma pessoa pode ter em um contorno:
   - Especialidade*
     > Esta é a minha especialidade. É a minha ferramenta para ganhar dinheiro no mercado. Eu tenho uma vasta experiência neste campo.
 
-*Caso utilize o app [Trilha de progressão](#trilha-de-progressão), cuide para evitar conflitos ao utilizar os tipos Especialidade e Desenvolvimento pois as trilhas cuidam de identificar o tipo de experiência da pessoa em determinado contorno.
+*Caso utilize o app [Trilha de progressão](#trilha-de-progressão), cuide para evitar conflitos ao utilizar os tipos Desenvolvimento e Especialidade pois as trilhas cuidam de identificar o nível de experiência da pessoa em determinado contorno.
 
 ## Mentoria de Aprendizes
 Pessoas com tipo de energia 'Desenvolvimento' precisam se aconselhar com alguma pessoa do contorno [Mentoria](#contorno-mentoria) relacionado ao seu escopo para tomadas de decisões e direcionamento.
