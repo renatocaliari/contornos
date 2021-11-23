@@ -22,19 +22,23 @@ O sistema começa com a máxima de que _“tudo é permitido desde que não seja
 
 # Contornos
 Contorno é um escopo delimitado por razão de existir, responsabilidades, recursos de controle exclusivo e acordos próprios.
-Ter um contorno definido evita decidir a todo momento o que é necessário fazer e quem fará algo.
-
-Cada contorno governa a sua própria estrutura, que pode ser alterada pela guardiã do contorno ou por decisão integrativa dependendo do contexto.
-
 Uma pessoa pode estar em vários contornos e um contorno pode conter várias pessoas.
+
+A definição de contornos evita decidir a todo momento o que é necessário fazer e quem fará algo no dia a dia de uma organização.
+Cada contorno governa a sua própria estrutura, que pode ser alterada pela guardiã do contorno ou por decisão integrativa dependendo do contexto.
 
 ## Quando criar novos contornos?
 
-Crie contornos quando perceber alguns padrões recorrentes para potencializar eficácia e compreensão compartilhada ou desejar delegar parte das responsabilidades e recursos de controle exclusivo. [Em Perguntas & Respostas, veja opções que podem ajudar no mapeamento de novos contornos](questions#como-mapear-e-dividir-os-contornos).
+Crie contornos quando: 
+- perceber alguns padrões recorrentes e delegar parte das responsabilidades e recursos de controle exclusivo para favorecer eficácia além de maior experiência e aprofundamento no conhecimento do escopo;
+- identificar temas que necessitem de cuidado contínuo;
+- desejar executar e concluir um projeto que demande trabalho conjunto à parte de um contorno existente, temporariamente. 
 
-Exemplos demonstrando contextos para criação de contornos: 
-- recorrentemente o contorno que você participa precisa realizar análise de dados de forma mais avançada. Por um tempo as participantes foram tentando se ajudar, cada hora uma fazendo, porém não era explícito quem tinha essa responsabilidade e quais outras responsabilidades poderiam existir. Então, devido a essa recorrência, alguém registrar um [impulsionador](#impulsionadores) pro contorno com uma proposta de criação de um contorno interno de "análise de dados", deixando explícito o que é esperado. E em seguida fazem uma proposta de alocação de uma pessoa como guardiã deste contorno. Daí em diante não precisarão mais decidir quem fará esse tipo de trabalho e quais responsabilidades são esperadas. 
-- um contorno de "Tech" tem a responsabilidade de cuidar da infraestrutura e processo de deploy de alguns sistemas que o contorno desenvolve. Porém, isso começou a gerar conflitos e dúvidas sobre quais participantes teriam que ter habilidades, conhecimento e atenção para isso. Então, uma participante criou um [impulsionador](#impulsionadores) com uma proposta de criar um contorno interno de "Plataforma" delegando o "processo de deploy" como controle exclusivo deste novo contorno e também as responsabilidades de cuidar da infra e do processo. E, em seguida, alocaram uma pessoa como [guardiã](#guardi%c3%a3-do-contorno) do contorno e outra com [agente](#agente-do-contorno).  
+[Em Perguntas & Respostas, veja opções que podem ajudar no mapeamento de novos contornos](questions#como-mapear-e-dividir-os-contornos).
+
+Exemplos demonstrando contextos para criação de contornos no caso de padrões recorrentes: 
+- recorrentemente o contorno que você participa precisa realizar análise de dados de forma mais avançada. Por um tempo as participantes foram tentando se ajudar, cada hora uma fazendo, porém não era explícito quem tinha essa responsabilidade e quais outras responsabilidades poderiam existir. Então, devido a essa recorrência, alguém registrar um [impulsionador](#impulsionadores) para o contorno com uma proposta de criação de um contorno interno de "análise de dados", deixando explícito o que é esperado. E em seguida fazem uma proposta de alocação de uma pessoa como guardiã deste contorno. Daí em diante não precisarão mais decidir quem fará esse tipo de trabalho e quais responsabilidades são esperadas. 
+- um contorno de "Tech" tem a responsabilidade de cuidar da infraestrutura e processo de deploy de alguns sistemas que o contorno desenvolve. Porém, isso começou a gerar conflitos e dúvidas sobre quais participantes teriam que ter habilidades, conhecimento e atenção para isso. Então, uma participante criou um [impulsionador](#impulsionadores) com uma proposta de criar um contorno interno de "Plataforma" delegando o "processo de deploy" como controle exclusivo deste novo contorno e também as responsabilidades de cuidar da infra e do processo. E, em seguida, alocaram uma pessoa como [guardiã](#guardi%c3%a3-do-contorno) do contorno e outra com [agente](#agente-do-contorno).
 
 **Regras**: 
 - desenhe novos contornos a partir de demandas do público, interno ou externo.
