@@ -399,7 +399,7 @@ Dado o que foi apresentado no estágio de entendimento, descubra temas e aspecto
 
 As pessoas presentes respondem.
 
-Pode ser algo que a pessoa já esteja fazendo bem, mas deseja focar mais.
+Pode ser algo que a pessoa já esteja fazendo bem, mas você gostaria que ela pudesse focar mais.
 
 #### Estágio de decisão sobre alocação
 A nota média obtida no "Estágio termômetro sobre alocação" é compartilhada com a pessoa sendo avaliada e demais participantes.
