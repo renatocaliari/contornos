@@ -66,6 +66,7 @@ Apesar das referências abaixo não serem apenas sobre mapeamento de processos, 
 
 ## Referências sobre avaliação de desempenho
 - [Os perigos da avaliação de desempenho nas organizações - E porque não usar a famosa Nine-Box](https://medium.com/tentaculus/os-perigos-da-avalia%C3%A7%C3%A3o-de-desempenho-nas-organiza%C3%A7%C3%B5es-21a92e261fe3)
+- [How we evaluate each other’s performance](https://medium.com/the-caring-network-company/how-we-evaluate-each-others-performance-c95b3992932e)
 
 ## Referências sobre "progressão" de carreira ou especialidade
 - [Creating career progression without management hierarchy](https://medium.com/maptio/creating-career-progression-without-management-hierarchy-22191d32d395)
