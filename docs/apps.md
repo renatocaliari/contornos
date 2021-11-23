@@ -296,14 +296,16 @@ Ao instalar este app, uma pessoa pode definir um ou mais tipos de energia em um 
 Abaixo estão os tipos que uma pessoa pode ter em um contorno:
   - Foco
     > Invisto ao menos 80% do meu tempo aqui.
-  - Especialidade
-    > Esta é a minha especialidade. É a minha ferramenta para ganhar dinheiro no mercado. Eu tenho uma vasta experiência neste campo.
   - Propósito e valores
     > Torna meu trabalho significativo e é alinhado com meus valores. Contribui para o meu propósito pessoal.
-  - Desenvolvimento
-    > Participar deste contorno pode me ajudar a desenvolver, praticar, refletir e melhorar continuamente minhas habilidades. Este papel me ajuda a sair da minha zona de conforto e me desafiar. Pode me ajudar a explorar outros caminhos.
   - Voluntariado
     > Este é um contorno que não possui guardiã e me voluntario a assumir. Talvez não tenha nada a ver com minha paixão e propósito. Quero  ajudar a organização enquanto precisar ou eu puder.
+  - Desenvolvimento*
+    > Participar deste contorno pode me ajudar a desenvolver, praticar, refletir e melhorar continuamente minhas habilidades. Este papel me ajuda a sair da minha zona de conforto e me desafiar. Pode me ajudar a explorar outros caminhos.
+  - Especialidade*
+    > Esta é a minha especialidade. É a minha ferramenta para ganhar dinheiro no mercado. Eu tenho uma vasta experiência neste campo.
+
+*Caso utilize o app [Trilha de progressão](#trilha-de-progressão), cuide para evitar conflitos ao utilizar os tipos Especialidade e Desenvolvimento pois as trilhas cuidam de identificar o tipo de experiência da pessoa em determinado contorno.
 
 ## Mentoria de Aprendizes
 Pessoas com tipo de energia 'Desenvolvimento' precisam se aconselhar com alguma pessoa do contorno [Mentoria](#contorno-mentoria) relacionado ao seu escopo para tomadas de decisões e direcionamento.
