@@ -476,19 +476,19 @@ Quanto mais níveis e mais critérios, mais difícil pode ser manter, evoluir e 
   - Experiência:  
     - já executou tarefas básicas desse contorno em vários contextos
   - Autonomia:
-    - observa outras pessoas nesse contorno tomarem decisões sobre suas tarefas
     - se aconselha sobre quais tarefas fazer e descobre como fazer
+    - observa outras pessoas nesse contorno tomarem decisões sobre suas tarefas
 - **Experiente**
   - Experiência:  
     - já executou tarefas complicadas desse contorno em vários contextos    
-    - experiência mínima de ? anos: pode variar com o contorno
+    - experiência mínima de X anos: pode variar com o contorno
   - Autonomia:
     - descobre o que e como fazer
     - propõe soluções
 - **Especialista**
   - Experiência:  
     - domínio ou especialista nos tópicos X e Y
-    - experiência mínima de ? anos: pode variar com o contorno
+    - experiência mínima de X anos: pode variar com o contorno
   - Autonomia:
     - descobre o que fazer em escopos mais complicados
     - aconselha o que fazer a outras pessoas que não são especialistas nesses escopos
