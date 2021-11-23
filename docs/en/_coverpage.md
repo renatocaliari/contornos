@@ -4,7 +4,11 @@
 
 >  Social Technology for Organizations
 
-- ✔️ more agility and experimentation
-- ✔️ more fluid adaptation of the structure
+- :cyclone: Take into account the organizational system as a whole and the value streams.
+- :loop: Amplify 'feedback loops'.
+- :zap: Experiment and learn continuously. 
+- :high_brightness: Decentralize decisions. 
+- :loudspeaker: Make information available and understandable to all people who need or can benefit from that information.
+- :thumbsup: Everything is allowed as long as it is not explicitly forbidden.
  
 [Getting Started](/en/start)
