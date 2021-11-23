@@ -132,11 +132,8 @@ Existem inúmeras possibilidades. Não existe receita de bolo ou algo universal.
 
 Para fins ilustrativos, a possibilidade abaixo mostra uma mistura de contornos de suporte da organização como um todo com contornos por intenção (veja mais acima) do púbico que o negócio atende delimitado dentro do contorno de produtos/serviços, tendo também contornos de especialização internamente. 
 
-É possível diversas outras alternativas, como por exemplo, alguns contornos do exemplo abaixo que estão dentro de produto/serviço - atendimento, vendas & marketing, pesquisa, etc - poderiam estar dentro de cada contorno de intenção, caso seja útil e mais eficiente, dependendo da escala da organização ou produto/serviço.
-
-Exemplo:
-- Sistema Organizacional
-  - Design Organizacional & Design de Serviço
+Exemplo de estrutura:
+- Sistema Organizacional (Design Organizacional & Design de Serviço)
 - Cuidado & Aconselhamento
   - Mediação de conflitos
   - Aconselhamento & Mentoria
@@ -160,6 +157,8 @@ Exemplo:
          - [...]
       - Intenção C de cliente (exemplo: "Conectar com profissionais do mercado de trabalho de tecnologia")
          - [...]
+
+É possível diversas outras alternativas, como por exemplo, alguns contornos que estão dentro de produto/serviço - atendimento, vendas & marketing, pesquisa, etc - poderiam estar dentro de cada contorno de intenção, caso seja útil e mais eficiente, dependendo da escala da organização ou produto/serviço.
 
 ## Como medir o impacto de mudanças no design organizacional?
 De forma simplista e limitada, é possível tentar comparar antes e depois: 
