@@ -64,7 +64,9 @@ While the references below are not just about process mapping, they contain mapp
 - [The four types of metrics - Fit For Purpose](https://medium.com/@marciosete/the-four-types-of-metrics-e4c4f477dbaa)
 
 ## Performance Appraisal
-- [The dangers of performance evaluation in organizations - And why not use the famous Nine-Box](https://medium.com/tentaculus/os-perigos-da-avalia%C3%A7%C3%A3o-de- performance-in-organizes%C3%A7%C3%B5es-21a92e261fe3)
+- [Os perigos da avaliação de desempenho nas organizações](https://medium.com/tentaculus/os-perigos-da-avalia%C3%A7%C3%A3o-de-desempenho-nas-organiza%C3%A7%C3%B5es-21a92e261fe3)
+- [How we evaluate each other’s performance](https://medium.com/the-caring-network-company/how-we-evaluate-each-others-performance-c95b3992932e)
+
 
 ## Career "progression"
 - [Creating career progression without management hierarchy](https://medium.com/maptio/creating-career-progression-without-management-hierarchy-22191d32d395)
