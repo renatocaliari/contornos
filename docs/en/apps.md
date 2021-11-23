@@ -465,26 +465,39 @@ Comments:
 
 ## Progression Track
 
-Instead of starting with an overly complicated and customized track, try to start with something simplified and that anyone will quickly understand.
-Over time, you can craft more customized tracks with more requirements at each level. However, assess whether it is really necessary.
+Progression tracks can help identify seniority and experience in a [Contorno of focus and specialty of a person](#type-of-energy-in-contorno).
 
-**Example of a simple track:**
+Instead of starting with an overly complicated and customized trak, try to start with something simplified and that anyone will quickly understand.
+Over time, you can craft more customized tracks with more requirements at each level. However, assess whether it is really necessary.
+The more levels and more criteria, the more difficult it can be to maintain, evolve and understand.
+
+**Example of a simple trail:**
 - **Aspirant**
-  - never worked on this contorno (or similar scope) before
-  - watch other people in this contorno perform their tasks
-  - tasks and process: **advises on what tasks to do and how to do it**
+  - Experience:
+    - never worked on this Contorno before
+  - Autonomy:
+    - get advice on what tasks to do and how to do it.
+    - watch other people in this Contorno perform their tasks
 - **Apprentice**
-  - has already practiced the basic tasks of this contorno (or similar scope) in various contexts
-  - watch other people in this contorno make decisions about their tasks
-  - tasks and process: **advises on what tasks to do and finds out how to do it**
-- **Experient**
-  - maybe minimal experience? years: may vary with contorno
-  - proposes solutions
-  - tasks and process: **finds out what and how to do it**
+  - Experience:
+    - already performed basic tasks of this Contorno in various contexts
+  - Autonomy:
+    - get advice on what tasks to do and find out how to do it
+    - watch other people in this Contorno make decisions about their tasks
+  **Experient**
+  - Experience:
+    - already performed complicated tasks of this Contorno in various contexts
+    - minimum experience of X years: may vary with Contorno
+  - Autonomy:
+    - find out what and how to do it
+    - proposes solutions
 - **Expert**
-  - maybe minimal experience? years: may vary with contorno
-  - mastery and deepening in ? and ?
-  - tasks and process: **finds out what to do in more complicated scopes and advises others who are not experts in those scopes what to do**
+  - Experience:
+    - domain or expert in topics X and Y
+    - minimum experience of X years: may vary with Contorno
+  - Autonomy:
+    - figure out what to do in more complicated scopes
+    - advises what to do to other people who are not experts in these scopes 
 
 ### Identification beyond the track
 **In addition to the track, it is possible to identify:**
