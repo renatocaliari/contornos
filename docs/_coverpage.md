@@ -8,7 +8,7 @@
 - :loop: Amplificar 'loops de feedback'.
 - :zap: Experimentar e aprender continuamente.
 - :high_brightness: Descentralizar decisões.
-- :loudspeaker: Disponibilizar e tornar compreensíveis as informações para todas as pessoas que precisem ou possam se beneficiar dessas informações.
+- :loudspeaker: Disponibilizar e tornar compreensíveis as informações
 - :thumbsup: Tudo é permitido desde que não seja explicitamente proibido.
 
 [Saiba mais](start)
