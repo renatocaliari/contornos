@@ -37,7 +37,7 @@ Make an integrative decision on the contorno you want to use and import it into 
 - [Type of energy in contorno](#type-of-energy-in-contorno)
 - [Apprentice Mentoring](#apprentice-mentoring)
 - [Nominating people to a contorno](#nominating-people-to-a-contorno)
-- [Evaluation of people](#evaluation-of-people)
+- [Evaluation of participation](#evaluation-of-participation)
   * [Influencing expectations of mentoring, contractual relationship or bonus variations](#influencing-expectations-of-mentoring-contractual-relationship-or-bonus-variations)
   * [General evaluation](#general-evaluation)
   * [Guardian nomination in an evaluation process](#guardian-nomination-in-an-evaluation-process)
@@ -329,7 +329,7 @@ See the steps for naming:
 - Change round: in a round, offer people the opportunity to change their nomination. If anyone changes their nomination, ask if they want to share what led to the change.
 - Proposal and integrative decision: the guardian makes a proposal taking into account the names and reasons that other people brought in the nominations. Participants make an integrative decision by consent.
 
-## Evaluation of people
+## Evaluation of participation
 
 The intention of this process is to recognize and evaluate the participation of people in the organization.
 
