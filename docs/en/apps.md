@@ -22,7 +22,7 @@ Make an integrative decision on the contorno you want to use and import it into 
   - [Synapse](#synapse)
 - [Special contornos](#special-contornos)
   * [North](#north)
-  * [Partnership](#partnership)
+  * [Contractual Relationship](#contractual-relationship)
   * [Organizational System](#organizational-system)
   * [Allocation Advice](#allocation-advice)
   * [Mentoring](#mentoring)
@@ -38,7 +38,7 @@ Make an integrative decision on the contorno you want to use and import it into 
 - [Apprentice Mentoring](#apprentice-mentoring)
 - [Nominating people to a contorno](#nominating-people-to-a-contorno)
 - [Evaluation of people](#evaluation-of-people)
-  * [Influencing expectations of mentoring, partnership or bonus variations](#influencing-expectations-of-mentoring-partnership-or-bonus-variations)
+  * [Influencing expectations of mentoring, contractual relationship or bonus variations](#influencing-expectations-of-mentoring-contractual-relationship-or-bonus-variations)
   * [General evaluation](#general-evaluation)
   * [Guardian nomination in an evaluation process](#guardian-nomination-in-an-evaluation-process)
 - [Progression track](#progression-track)
@@ -132,7 +132,7 @@ If the contorno that will offer a delegate already has a named delegate, it will
 **To define:**
 - criteria that inform which people will participate in this contorno, in addition to those drawn. Example: first and second level contorno guardians; people with more than X years in the organization + people who invested more than X in the organization + people invited by the contorno participants who go through an integrative decision.
 
-### Partnership
+### Contractual Relationship
 
 **Reason for existing:**
 - take care of hiring, contract closures and salary changes.
@@ -144,7 +144,7 @@ If the contorno that will offer a delegate already has a named delegate, it will
 
 **Internal structural agreement:**
 - decisions of this contorno will be made by integrative decision.
-- the guardians of contornos that will be impacted - whether for a hiring, termination of partnership or salary change, will participate in the integrative decision.
+- the guardians of contornos that will be impacted - whether for a hiring, termination of contractual relationship or salary change, will participate in the integrative decision.
 
 **To define:**
 - which guardians of the organization's contornos participate in this contorno.
@@ -172,7 +172,7 @@ If the contorno that will offer a delegate already has a named delegate, it will
 ### Allocation advice
 Contorno to advise people who wish to participate in other contornos or are no longer participating in any contorno.
 
-If they do not jointly discover some other contorno for participation or fail to decide the contornos, the "Allocation Advice" participants combine with the Partnership contorno to handle the case.
+If they do not jointly discover some other contorno for participation or fail to decide the contornos, the "Allocation Advice" participants combine with the Contractual Relationship contorno to handle the case.
 
 ### Mentoring
 Contorno to advise, direct and train in specific skills.
@@ -333,7 +333,7 @@ See the steps for naming:
 
 The intention of this process is to recognize and evaluate the participation of people in the organization.
 
-### Influencing expectations of mentoring, partnership or bonus variations
+### Influencing expectations of mentoring, contractual relationship or bonus variations
 
 Participants in the process:
 - participants of the contornos of the person to be evaluated
@@ -357,12 +357,12 @@ When installing the app (importing the agreement), please describe the desired a
 - what is the frequency of this assessment. Example: bimonthly.
 - what is the minimum expected mean of all people, regardless of contorno or structural role.
 - how will the average be calculated: between the 3 questions?
-- will the evaluation result be linked to the Partnership contorno (closure, promotion, or bonus variation)?
+- will the evaluation result be linked to the Contractual Relationship contorno (closure, promotion, or bonus variation)?
 - what is the minimum number of answers for an assessment per person to consider on average? ex: "only averages that have at least 3 answers per person's evaluation will be calculated. If you have less answers, consider the agreed minimum average as the average of the person's evaluation".
 
-If you decide to link the assessment to Mentoring, Partnership or bonus variation, try a few more items in the agreement:
+If you decide to link the assessment to Mentoring, Contractual Relationship or bonus variation, try a few more items in the agreement:
 - every time a person falls below the minimum average, he will be invited to seek advice with the [Contorno Mentoring](#mentoring).
-- below average for 2 times in a row, an automatic proposal is made to close a partnership in the contorno [Partnership](#partnership) passing through an integrative decision.
+- below average for 2 times in a row, an automatic proposal is made to end the contractual relationship in contorno [Contractual Relationship](#contractual-relationship) passing through an integrative decision.
 - the global average of the organization's evaluation result will serve as a guide for the bonus variation.
 - the % of the difference from the personal average to the global average of the company, will be the variation of the bonus, up or down.
 
@@ -520,7 +520,7 @@ Remuneration can be for:
 - contorno that a person participates in with type of energy ["focus" or "specialty"](#type-of-energy-in-contour)
 - level of [progression track](#progression-track)
 - [medals](#recognition-with-medals)
-- evaluation for [influencing expectations](#influencing-expectations-of-mentoring-partnership-or-bonus-variations), adapting to also vary the salary. Remember to agree this with people in advance
+- evaluation for [influencing expectations](#influencing-expectations-of-mentoring-contractual-relationship-or-bonus-variations), adapting to also vary the salary. Remember to agree this with people in advance
 - salary proposed by the person
 - or, mix of the above options 
 
