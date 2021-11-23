@@ -459,9 +459,11 @@ Observações:
 - caso a pessoa que era guardiã não for escolhida como guardiã nesse ciclo, ela se torna agente do contorno.
 
 ## Trilha de progressão 
+As trilhas de progressão podem ajudar na identificação de senioridade e experiência no contorno de [foco e especialidade da pessoa](#tipo-de-energia-em-contorno). 
 
 Em vez de começar com uma trilha complicada e customizada demais, procure iniciar com algo simplificado e que qualquer pessoa entenda rapidamente.
 Com o tempo, você pode elaborar trilhas mais customizadas e com mais requisitos em cada nível. Porém, avalie se é realmente necessário.
+Quanto mais níveis e mais critérios, mais difícil pode ser manter, evoluir e entender.
 
 **Exemplo de uma trilha simples:**
 - **Aspirante**
@@ -472,18 +474,24 @@ Com o tempo, você pode elaborar trilhas mais customizadas e com mais requisitos
     - observa outras pessoas nesse contorno executarem suas tarefas 
 - **Aprendiz**
   - Experiência:  
+    - já executou tarefas básicas desse contorno em vários contextos
   - Autonomia:
-  - já praticou as tarefas básicas desse contorno em vários contextos
-  - observa outras pessoas nesse contorno tomarem decisões sobre suas tarefas
-  - tarefas e processo: **se aconselha sobre quais tarefas fazer e descobre como fazer**
+    - observa outras pessoas nesse contorno tomarem decisões sobre suas tarefas
+    - se aconselha sobre quais tarefas fazer e descobre como fazer
 - **Experiente**
-  - talvez experiência mínima de ? anos: pode variar com o contorno
-  - propõe soluções
-  - tarefas e processo: **descobre o que e como fazer**
+  - Experiência:  
+    - já executou tarefas complicadas desse contorno em vários contextos    
+    - experiência mínima de ? anos: pode variar com o contorno
+  - Autonomia:
+    - descobre o que e como fazer
+    - propõe soluções
 - **Especialista**
-  - talvez experiência mínima de ? anos: pode variar com o contorno
-  - domínio e aprofundamento em ? e ?
-  - tarefas e processo: **descobre o que fazer em escopos mais complicados e aconselham o que fazer a outras pessoas que não são especialistas nesses escopos**
+  - Experiência:  
+    - domínio ou especialista nos tópicos X e Y
+    - experiência mínima de ? anos: pode variar com o contorno
+  - Autonomia:
+    - descobre o que fazer em escopos mais complicados
+    - aconselha o que fazer a outras pessoas que não são especialistas nesses escopos
 
 ### Identificação além da trilha
 **Além da trilha, é possível identificar:**
