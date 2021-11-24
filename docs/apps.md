@@ -461,48 +461,51 @@ Observações:
 - caso a pessoa que era guardiã não for escolhida como guardiã nesse ciclo, ela se torna agente do contorno.
 
 ## Trilha de progressão 
-As trilhas de progressão podem ajudar na identificação de senioridade e experiência no contorno de [foco e especialidade da pessoa](#tipo-de-energia-em-contorno). 
+As trilhas de progressão podem ajudar na identificação de senioridade e experiência no contorno de [foco da pessoa](#tipo-de-energia-em-contorno). Ela pode ser usada também como referência para influenciar intervalos salariais.
 
 Em vez de começar com uma trilha complicada e customizada demais, procure iniciar com algo simplificado e que qualquer pessoa entenda rapidamente.
 Com o tempo, você pode elaborar trilhas mais customizadas e com mais requisitos em cada nível. Porém, avalie se é realmente necessário.
 Quanto mais níveis e mais critérios, mais difícil pode ser manter, evoluir e entender.
 
-**Exemplo de uma trilha simples:**
+Se você deseja formas de aumentar a granularidade de identificação, veja sobre [reconhecimento com medalhas](#reconhecimento-com-medalhas). 
+
+**Exemplo de uma trilha simples para adaptar no seu contexto:**
 - **Aspirante**
   - Experiência:  
-    - nunca trabalhou nesse contorno antes
+    - nunca trabalhou nesse contorno antes.
   - Autonomia:
-    - se aconselha sobre quais tarefas fazer e como fazer
-    - observa outras pessoas nesse contorno executarem suas tarefas 
+    - se aconselha sobre quais tarefas fazer e como fazer.
+    - observa outras pessoas nesse contorno tomarem decisões e executarem suas tarefas.
 - **Aprendiz**
   - Experiência:  
-    - já executou tarefas básicas desse contorno em vários contextos
+    - já executou tarefas básicas desse contorno em vários contextos.
   - Autonomia:
-    - se aconselha sobre quais tarefas fazer e descobre como fazer
-    - observa outras pessoas nesse contorno tomarem decisões sobre suas tarefas
+    - se aconselha sobre quais tarefas fazer e descobre como fazer. 
+    - observa outras pessoas nesse contorno tomarem decisões sobre suas tarefas.
 - **Experiente**
   - Experiência:  
-    - já executou tarefas complicadas desse contorno em vários contextos    
-    - experiência mínima de X anos: pode variar com o contorno
+    - já executou tarefas desse contorno em vários contextos.
+    - experiência mínima de X anos: pode variar com o contorno.
   - Autonomia:
-    - descobre o que e como fazer
-    - propõe soluções
+    - descobre o que e como fazer.
+    - propõe soluções.
 - **Especialista**
   - Experiência:  
-    - domínio ou especialista nos tópicos X e Y
-    - experiência mínima de X anos: pode variar com o contorno
+    - especialista no escopo.
+    - experiência mínima de X anos: pode variar com o contorno.
   - Autonomia:
-    - descobre o que fazer em escopos mais complicados
-    - aconselha o que fazer a outras pessoas que não são especialistas nesses escopos
+    - descobre o que e como fazer em escopos mais complicados.
+    - aconselha outras pessoas que não são especialistas nesses escopos em casos complicados.
 
-### Identificação além da trilha
+### Além da trilha
 **Além da trilha, é possível identificar:**
 - pessoas **recém-chegadas** na empresa: participam do contorno "recém-chegadas" com duração de 3 meses. Isso pode afetar o salário: desconto de uma porcentagem sobre o salário até passar por esse período de 3 meses.
-- pessoas **mentoras**: participam do [Contorno Mentoria](#contorno-mentoria). Isso pode afetar o salário: acréscimo de uma porcentagem sobre o salário.
+- pessoas **mentoras**: elas participam do [Contorno Mentoria](#contorno-mentoria). Isso pode afetar o salário: acréscimo de uma porcentagem sobre o salário.
 
 ## Reconhecimento com medalhas
 
-Além da trilha de progressão, é possível ter em conjunto um reconhecimento com medalhas. 
+Além da trilha de progressão, é possível ter em conjunto um reconhecimento com medalhas virtuais. Assim você pode ter uma granularidade enorme, sem precisar mexer na trilha de progressão, e tendo contornos especificos para cuidar do tema.
+
 Podem existir medalhas para a organização em geral ou medalhas por contorno específico.
 
 **Regras:**
