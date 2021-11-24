@@ -504,7 +504,7 @@ Se você deseja formas de aumentar a granularidade de identificação, veja sobr
 
 ## Reconhecimento com medalhas
 
-Além da trilha de progressão, é possível ter em conjunto um reconhecimento com medalhas virtuais. Assim você pode ter uma granularidade enorme, sem precisar mexer na trilha de progressão, e tendo contornos especificos para cuidar do tema.
+Além da trilha de progressão, é possível ter em conjunto um reconhecimento com medalhas virtuais. Assim você pode ter uma granularidade enorme, sem precisar alterar a trilha de progressão.
 
 Podem existir medalhas para a organização em geral ou medalhas por contorno específico.
 
