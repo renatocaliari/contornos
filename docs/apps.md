@@ -514,7 +514,6 @@ Podem existir medalhas para a organização em geral ou medalhas por contorno es
 - As medalhas são temporárias, valendo por meses ou anos pré-determinados. Assim que esse tempo se encerra, a medalhas é perdida e é necessário enviar novas evidências para conquistá-la.
 
 ### Novos contornos para o sistema de medalhas
-
 Para que o sistema de medalhas funcione, é necessária a criação de novos contornos:
   - **Confecção de medalhas da organização**: contorno que cria e adapta medalhas, com decisão integrativa.
   - **Confecção de medalhas de um contorno específico**: contorno que cria e adapta medalhas, com decisão integrativa.
