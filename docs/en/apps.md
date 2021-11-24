@@ -467,11 +467,13 @@ Comments:
 
 ## Progression Track
 
-Progression tracks can help identify seniority and experience in a [Contorno of focus and specialty of a person](#type-of-energy-in-contorno).
+Progression tracks can help identify seniority and experience in a [Contorno of focus of a person](#type-of-energy-in-contorno).
 
-Instead of starting with an overly complicated and customized trak, try to start with something simplified and that anyone will quickly understand.
+Instead of starting with an overly complicated and customized track, try to start with something simplified and that anyone will quickly understand.
 Over time, you can craft more customized tracks with more requirements at each level. However, assess whether it is really necessary.
 The more levels and more criteria, the more difficult it can be to maintain, evolve and understand.
+
+If you want ways to increase the granularity of identification, see [Recognition with medals](#recognition-with-medals).
 
 **Example of a simple trail:**
 - **Aspirant**
@@ -479,36 +481,35 @@ The more levels and more criteria, the more difficult it can be to maintain, evo
     - never worked on this Contorno before
   - Autonomy:
     - get advice on what tasks to do and how to do it.
-    - watch other people in this Contorno perform their tasks
+    - watch other people in this Contorno make decisions and perform their tasks.
 - **Apprentice**
   - Experience:
-    - already performed basic tasks of this Contorno in various contexts
+    - already performed basic tasks of this Contorno in various contexts.
   - Autonomy:
-    - get advice on what tasks to do and find out how to do it
-    - watch other people in this Contorno make decisions about their tasks
+    - get advice on what tasks to do and find out how to do it.
+    - watch other people in this Contorno make decisions about their tasks.
   **Experient**
   - Experience:
-    - already performed complicated tasks of this Contorno in various contexts
-    - minimum experience of X years: may vary with Contorno
+    - already performed tasks of this Contorno in various contexts.
+    - minimum experience of X years: may vary with Contorno.
   - Autonomy:
-    - find out what and how to do it
-    - proposes solutions
+    - find out what and how to do it.
+    - proposes solutions.
 - **Expert**
   - Experience:
-    - domain or expert in topics X and Y
-    - minimum experience of X years: may vary with Contorno
+    - expert in this scope.
+    - minimum experience of X years: may vary with Contorno.
   - Autonomy:
-    - figure out what to do in more complicated scopes
-    - advises what to do to other people who are not experts in these scopes 
+    - figure out what and how to do in more complicated scopes. 
+    - advises others who are not experts in these scopes in complicated cases.
 
-### Identification beyond the track
+### Beyond the track
 **In addition to the track, it is possible to identify:**
 - **newcomers** at the company: participate in the "newcomers" contorno with a duration of 3 months. This can affect salary: deduct a percentage of salary until you pass this 3-month period.
 - **mentors** people: participate in the [Mentoring](#mentoring) contorno. This can affect salary: increase of a percentage of salary.
 
 ## Recognition with medals
-
-In addition to the progression track, it is possible to have a recognition with medals together.
+In addition to the progression track, it is possible to have a recognition together with virtual medals. So you can have a huge granularity, without having to change the progression track.
 There can be medals for the organization in general or medals for specific contornos.
 
 **Rules:**
