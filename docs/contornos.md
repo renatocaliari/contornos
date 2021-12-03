@@ -87,9 +87,9 @@ Além desses dois papéis estruturais, é possível instalar [papéis estruturai
   * _todas responsabilidades do próprio contorno_ que não estejam delegadas a contornos internos.
   * trazer informações do contorno externo para todas participantes do seu contorno.
   * agir sobre [impulsionadores](#impulsionadores) sem andamento em seu contorno.
-  * propôr estratégia do contorno, precisando de decisão integrativa.
-  * propôr processo do contorno, precisando de decisão integrativa.
-  * propôr pessoas para apoiar o contorno.
+  * propor estratégia do contorno, precisando de decisão integrativa.
+  * propor processo do contorno, precisando de decisão integrativa.
+  * propor pessoas para apoiar o contorno.
   * tomar ação sobre contornos internos diretos sem participantes: convidar pessoas para eles ou remover o contorno, com decisão integrativa.
   * manter indicadores atualizados no sistema que a organização utiliza para o trabalho em público
   * manter projetos atualizados no sistema que a organização utiliza para o trabalho em público
@@ -100,9 +100,9 @@ Além desses dois papéis estruturais, é possível instalar [papéis estruturai
   * _todas responsabilidades gerais de participantes de contorno_.
   * _todas responsabilidades do próprio contorno_ que não estejam delegadas a contornos internos.
   * agir sobre [impulsionadores](#impulsionadores) sem andamento em seu contorno.
-  * propôr estratégia do contorno, precisando de decisão integrativa.
-  * propôr processo do contorno, precisando de decisão integrativa.
-  * propôr pessoas para apoiar o contorno.
+  * propor estratégia do contorno, precisando de decisão integrativa.
+  * propor processo do contorno, precisando de decisão integrativa.
+  * propor pessoas para apoiar o contorno.
   * tomar ação sobre contornos internos diretos sem participantes: convidar pessoas para eles ou remover o contorno, com decisão integrativa.
   * manter indicadores atualizados no sistema que a organização utiliza para o trabalho em público
   * manter projetos atualizados no sistema que a organização utiliza para o trabalho em público
@@ -142,7 +142,7 @@ A guardiã não tem autoridade para:
 | -- | -- | -- |
 | razão de existir | guardar o espaço do contorno e responder pela razão de existir do mesmo. | evoluir o contorno em direção à razão de existir. |
 | participação | toda guardiã de um contorno também é participante do contorno externo como [agente](#agente-do-contorno). | caso a agente não seja guardiã de algum contorno interno, sua participação é restrita ao contorno como agente.<br/>caso a agente seja guardiã de algum contorno interno, sua participação acontece tanto no contorno como agente quanto no contorno interno como guardiã. |
-| responsabilidades |  * _todas responsabilidades gerais de participantes de contorno_.<br/>* _todas responsabilidades do próprio contorno_ que não estejam delegadas a contornos internos.<br/>* trazer informações do contorno externo para todas participantes do seu contorno.<br/>* tomar ação sobre contornos sem participantes: convidar pessoas para eles ou remover o contorno, com decisão integrativa.<br/>* agir sobre [impulsionadores](#impulsionadores) sem andamento em seu contorno.<br/>* propôr estratégia do contorno, precisando de decisão integrativa.<br/>* propôr processo do contorno, precisando de decisão integrativa.<br/>* propôr pessoas para apoiar o contorno.<br/>* compartilhar indicadores com o contorno externo, na frequência sugerida pelo contorno externo.<br/>* compartilhar sobre o progresso dos projetos com o contorno externo, na frequência sugerida pelo contorno externo, informando como isso se conecta à estratégia e propósito do contorno externo.| * _todas responsabilidades gerais de participante de contorno_.<br/>* _todas responsabilidades do próprio contorno_ que não estejam delegadas a contornos internos. | 
+| responsabilidades |  * _todas responsabilidades gerais de participantes de contorno_.<br/>* _todas responsabilidades do próprio contorno_ que não estejam delegadas a contornos internos.<br/>* trazer informações do contorno externo para todas participantes do seu contorno.<br/>* tomar ação sobre contornos sem participantes: convidar pessoas para eles ou remover o contorno, com decisão integrativa.<br/>* agir sobre [impulsionadores](#impulsionadores) sem andamento em seu contorno.<br/>* propor estratégia do contorno, precisando de decisão integrativa.<br/>* propor processo do contorno, precisando de decisão integrativa.<br/>* propor pessoas para apoiar o contorno.<br/>* compartilhar indicadores com o contorno externo, na frequência sugerida pelo contorno externo.<br/>* compartilhar sobre o progresso dos projetos com o contorno externo, na frequência sugerida pelo contorno externo, informando como isso se conecta à estratégia e propósito do contorno externo.| * _todas responsabilidades gerais de participante de contorno_.<br/>* _todas responsabilidades do próprio contorno_ que não estejam delegadas a contornos internos. | 
 
 ## Alocação de pessoas em contornos
 Para poder ser alocada em algum contorno, uma pessoa deve ser parceira da organização, seja qual for a forma: colaboradora contratada, parceira ou outra forma acordada. E para se tornar parceira, é esperado que exista algum contorno com essa responsabilidade, como o [contorno especial de Manutenção de Parceria](apps#contorno-manuten%C3%A7%C3%A3o-de-parceria).
