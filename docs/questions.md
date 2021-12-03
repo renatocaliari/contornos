@@ -138,7 +138,7 @@ Exemplo de estrutura:
   - Mediação de conflitos
   - Aconselhamento & Mentoria
   - Escuta
-- [Manutenção de parceria](apps#contorno-manuten%C3%A7%C3%A3o-de-parceria)
+- [Relação contratual](apps#contorno-relação-contratual)
 - Financeiro
 - Entrega de valor ao cliente
    - Produto ou Serviço A (exemplo: "Plataforma de ensino de assuntos relacionados à tecnologia")
