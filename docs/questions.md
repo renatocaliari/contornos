@@ -141,7 +141,7 @@ Exemplo de estrutura:
 - [Relação contratual](apps#contorno-relação-contratual)
 - Financeiro
 - Entrega de valor ao cliente
-   - Produto ou Serviço A (exemplo: "Plataforma de ensino de assuntos relacionados à tecnologia")
+   - Produto ou Serviço A (exemplo: "Plataforma de ensino de tecnologia")
       - Atendimento
       - Vendas e Marketing
       - Pesquisa
@@ -150,12 +150,11 @@ Exemplo de estrutura:
       - Intenção A de cliente (exemplo: "Conseguir o primeiro emprego na área de tecnologia ou fazer transição de carreira")
          - Modelagem de iniciativas
          - Desenho da experiência de produto/serviço
-         - Desenvolvimento
          - Interface gráfica/física
          - Implementação
       - Intenção B de cliente (exemplo: "Empreender na área de tecnologia")
          - [...]
-      - Intenção C de cliente (exemplo: "Conectar com profissionais do mercado de trabalho de tecnologia")
+      - Intenção C de cliente (exemplo: "Conectar com profissionais do mercado de tecnologia")
          - [...]
 
 É possível diversas outras alternativas, como por exemplo, alguns contornos que estão dentro de produto/serviço - atendimento, vendas & marketing, pesquisa, etc - poderiam estar dentro de cada contorno de intenção, caso seja útil e mais eficiente, dependendo da escala da organização ou produto/serviço.
