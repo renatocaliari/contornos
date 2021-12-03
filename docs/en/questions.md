@@ -141,7 +141,7 @@ Structure example:
 - [Contractual Relationship](apps#contractual-relationship)
 - Financial
 - Delivery of value to the customer
-   - Product or Service A (example: "Technology-related subjects teaching platform")
+   - Product or Service A (example: "Technology teaching platform")
       - Service
       - Sales and Marketing
       - Search
@@ -150,12 +150,11 @@ Structure example:
       - Customer Intent A (example: "Get your first job in the technology area or make a career transition")
          - Modeling of initiatives
          - Design of the product/service experience
-         - Development
          - Graphic/physical interface
-         - Implementation
+         - Development
       - Customer's intention B (example: "To undertake in the technology area")
          - [...]
-      - Customer Intent C (example: "Connecting with professionals in the technology job market")
+      - Customer Intent C (example: "Connecting with professionals in the technology market")
          - [...]
 
 
