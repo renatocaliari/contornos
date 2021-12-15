@@ -26,6 +26,10 @@
 - [ElectionBuddy](https://electionbuddy.com/) - Every Vote Counts. ElectionBuddy is the easiest way to improve voter engagement, save time, create a better voter experience, and guarantee election integrity.
 - [LiquidFeedback](https://liquidfeedback.org/index.en.html) - Decisions made easy.
 
+## Para distribuição de fundos
+- [Cobudget](https://cobudget.co/) - Cobudget makes it easy for organizations and groups to allocate funds collaboratively and transparently
+- [Coordinape](https://coordinape.com/) - Scale your community with tools to reward contributors, incentivize participation and manage resources
+
 ## Para reuniões facilitadas
 - [Ńavigator](https://navigator.com/) - Navigator brings collaborative agendas, files, notes and action items to every meeting on your calendar.
 - [Yabuu](https://yabbu.com/) - Make better decisions. Better preparation leads to better discussions and this results in decisions that enjoy better support.
