@@ -14,7 +14,7 @@ If you don't know the other social technologies, here's my invitation to know, l
 It is important to remember that all these elements and characteristics of the social technologies below can be changed through an integrative decision, adding or removing something. In fact, the integrative decision itself ca change the way of making decisions.
 
 ---
-## Unique aspects [or almost] in Contornos comparing to other social mentioned below 
+## Unique aspects [or almost] of Contornos when compared to other social mentioned below 
 
 ### how to deal with topcis brought up by people
 
