@@ -13,32 +13,31 @@ Se você não conhece as outras tecnologias sociais, deixo aqui o meu convite pa
 É importante lembrar que todos esses elementos e características das tecnologias sociais abaixo podem ser alterados através de decisão integrativa, adicionando ou removendo algo. Aliás, a própria decisão integrativa pode mudar a forma de tomar decisões.
 
 ---
+## Aspectos únicos (ou quase) em Contornos comparados às tecnologias sociais mencionadas abaixo
 
-## Diferença no favorecimento de número de participantes
-### Contornos
-Uma das diferenças entre o sistema [Contornos] e as outras tecnologias é a forma de crescer o número de participantes de um contorno.
-Em [Contornos], para delimitar um novo escopo dentro de um contorno, só existe a possibilidade de criar um novo contorno. Então, ao alocar mais pessoas para trabalhar nesse novo escopo, um contorno interno, elas participarão apenas desse contorno, como agentes, e não do contorno externo, onde a guardiã participará.
-
-Lembre-se que um dos princípios de [Contornos] é **[:loop: Amplificar 'loops de feedback']**, por isso independente de quem participa de um contorno, a guardiã tem a responsabilidadede de trazer informações do contorno externo para todas participantes do contorno interno, para que as informações não fiquem presas em silos. E é esperado que pessoas de qualquer contorno registrem impulsionadores sobre qualquer aspecto da organização. Além disso, um outro princípio importante de [Contornos] é **[:loudspeaker: Disponibilizar e tornar compreensíveis as informações para todas as pessoas que precisem ou possam se beneficiar dessas informações]**.
-
-### Outras tecnologias sociais
-Nas outras tecnologias sociais, ao delimitar um escopo, é possível criar papel ou círculo. E é comum começar com a criação de um papel em vez de um círculo. Por isso, caso se delimite um novo escopo como papel e aloque várias pessoas no papel, todas elas participarão do mesmo círculo maior, favorecendo o crescimento do número de participantes por círculos na organização.
-
-Isso resulta em mais pessoas em decisões integrativas e falta de referência sobre quem representa e tem responsabilidades especiais sobre determinado escopo.  
-
-## Diferença em como lidar com os assuntos trazidos pelas pessoas
+## como lidar com os tópicos trazidos pelas pessoas
 
 Contornos não tem diferentes modos de reunião como algumas tecnologias sociais. Aliás, Contornos não prescreve reuniões. 
 
 O tratamento é feito desde o [impulsionador](https://renatocaliari.github.io/contornos/#/contornos?id=impulsionadores), declarando o seu tipo. Assim, alinhamos expectativas e definimos qual o melhor processo para cada tipo de [impulsionador](https://renatocaliari.github.io/contornos/#/contornos?id=impulsionadores).
 
-### Resumo:
+## número de participantes e crescimento
+Uma das diferenças entre o sistema [Contornos] e as outras tecnologias é a forma de crescer o número de participantes de um contorno.
+Em [Contornos], para delimitar um novo escopo dentro de um contorno, só existe a possibilidade de criar um novo contorno. Então, ao alocar mais pessoas para trabalhar nesse novo escopo, um contorno interno, elas participarão apenas desse contorno, como agentes, e não do contorno externo, onde a guardiã participará.
+
+Lembre-se que um dos princípios de [Contornos] é **[:loop: Amplificar 'loops de feedback']**, por isso independente de quem participa de um contorno, a guardiã tem a responsabilidadede de trazer informações do contorno externo para todas participantes do contorno interno, para que as informações não fiquem presas em silos. E é esperado que pessoas de qualquer contorno registrem impulsionadores sobre qualquer aspecto da organização. Além disso, um outro princípio importante de [Contornos] é **[:loudspeaker: Disponibilizar e tornar compreensíveis as informações para todas as pessoas que precisem ou possam se beneficiar dessas informações]**.
+
+Nas outras tecnologias sociais, ao delimitar um escopo, é possível criar papel ou círculo. E é comum começar com a criação de um papel em vez de um círculo. Por isso, caso se delimite um novo escopo como papel e aloque várias pessoas no papel, todas elas participarão do mesmo círculo maior, favorecendo o crescimento do número de participantes por círculos na organização.
+
+Isso resulta em mais pessoas em decisões integrativas e falta de referência sobre quem representa e tem responsabilidades especiais sobre determinado escopo.  
+
+#### Resumo:
 - [Contornos] favorece menos participantes por contorno. Porém, caso desejado, é possível ter um acordo que convida pessoas de contornos internos para participarem como agentes de um contorno externo.
   - Por padrão, a tendência é ter menos participantes com alternativa de alocar mais participantes em um contorno de forma intencional.
 - Outras tecnologias sociais favorecem ter mais participantes por contorno quando usam papéis. Porém, é possível criar um círculo para englobar as responsabilidades de um papel, alocando as participantes do papel nesse círculo, e deixando apenas uma pessoa participando no círculo externo como elo externo.
   - O que parece ser comum, é a criação de papel antes de criação de um círculo, e por isso, a tendência é ter mais participantes por círculo.  
 
-### Exemplo
+#### Exemplo
 - No caso do sistema [Contornos]:
   - Imagine que temos um contorno de Produto. Agora, desejamos criar um contorno de Desenvolvimento. Ao alocar mais pessoas no contorno de Desenvolvimento, não estaremos aumentando o número de participantes do contorno de Produto, pois apenas a guardiã fará parte dele.
 - No caso das outras tecnologias citadas:
