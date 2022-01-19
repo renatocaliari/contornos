@@ -13,7 +13,7 @@ Se você não conhece as outras tecnologias sociais, deixo aqui o meu convite pa
 É importante lembrar que todos esses elementos e características das tecnologias sociais abaixo podem ser alterados através de decisão integrativa, adicionando ou removendo algo. Aliás, a própria decisão integrativa pode mudar a forma de tomar decisões.
 
 ---
-## Aspectos únicos (ou quase) em Contornos comparados às tecnologias sociais mencionadas abaixo
+## Aspectos únicos (ou quase) de Contornos quando comparado às tecnologias sociais mencionadas abaixo
 
 ## como lidar com os tópicos trazidos pelas pessoas
 
