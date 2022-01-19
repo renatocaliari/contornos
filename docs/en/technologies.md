@@ -14,25 +14,30 @@ If you don't know the other social technologies, here's my invitation to know, l
 It is important to remember that all these elements and characteristics of the social technologies below can be changed through an integrative decision, adding or removing something. In fact, the integrative decision itself ca change the way of making decisions.
 
 ---
+## Unique aspects [or almost] in Contornos comparing to other social mentioned below 
 
-## Difference in favoring number of participants
-### Contornos
+### how to deal with topcis brought up by people
+
+Contornos don't have different meeting modes or types like some social technologies. By the way, Contornos does not prescribe meetings.
+
+The treatment is done from the booster, declaring its type. Thus, we align expectations and define the best process for each type of booster. 
+
+### number of participants and growth
 One of the differences between the [Contornos] system and other technologies is the way in which the number of participants in a contorno grows. In [Contornos], to delimit a new scope within a contorno, there is only the possibility to create a new contornos. So, by allocating more people to work in this new scope, an internal contorno, they will only participate in this contornos, as agents, and not in the external contorno, where the guardian will participate.
 
 Remember that one of the principles of [Contornos] is [:loop: Amplify 'feedback loops'], so regardless of who participates in a contornos, the guardian has the responsibility to bring information from the outer contorno to all participants of the inner contorno, so that information doesn't get stuck in silos. And people of every contorno are expected to register boosters on any aspect of the organization. In addition, another important principle of [Contornos] is [:loudspeaker: Make information available and understandable to all people who need or can benefit from that information].
 
-### Other social technologies
 In other social technologies, by delimiting a scope, it is possible to create a role or circle. And it's common to start with creating a role instead of a circle. Therefore, if you delimit a new scope as a role and allocate several people in the role, they will all participate in the same larger circle, favoring the growth of the number of participants per circle in the organization.
 
 This results in more people making integrative decisions and lack of reference to who represents and has special responsibilities for a given scope. 
 
-### Summary:
+#### Summary:
 - [Contornos] favors having fewer participants per contorno. However, it is possible to invite people from an internal contorno to participate as agents of an external contorno. Or, create arrangements for ceremonies that involve guardians or agents of other, inner contornos.
   - By default, the tendency is to have fewer participants with alternative to allocating more participants in a contorno intentionally.
 - Other social technologies favor having more participants per contorno when using roles. However, it is possible to create a circle to encompass the responsibilities of a role by allocating the role participants in that circle, and leaving only one person participating in the outer circle as a link.
   - What seems to be common is the creation of role before creating a circle, and therefore, the tendency is to have more participants per circle.
 
-### Example
+#### Example
 - In the case of the [Contornos] system:
   - Imagine that we have a Product contorno. Now we want to create a Development contorno. By allocating more people in the Development contorno, we will not be increasing the number of participants in the Product contorno, as only the guardian will be part of it.
 - In the case of the other technologies mentioned:
