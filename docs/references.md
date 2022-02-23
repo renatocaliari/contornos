@@ -30,6 +30,9 @@ Abaixo estão algumas formas de estratégia.
 * [Enspiral Handbook - Decisions Agreement](https://handbook.enspiral.com/agreements/decisions)
 * [Colony.io - Objections and Disputes](https://colony.io/dev/docs/colonynetwork/whitepaper-tldr-objections-and-disputes)
 
+## Referências sobre estratégia de produto
+* [How to Define Your Product Strategy by Gibson Biddle](https://gibsonbiddle.medium.com/intro-to-product-strategy-60bdf72b17e3)
+
 ## Referências sobre mapeamento de processo
 Apesar das referências abaixo não serem apenas sobre mapeamento de processos, elas contêm etapas de mapeamento que podem ajudar a ter insights.
 
