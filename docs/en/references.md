@@ -25,6 +25,9 @@ Below are some ways do use or declare strategy.
 ### Recurring practices or system
 * [Systems vs. Goals](https://medium.com/@flaviorump/systems-vs-goals-a67fcd937370)
 
+## Product Strategy
+* [How to Define Your Product Strategy by Gibson Biddle](https://gibsonbiddle.medium.com/intro-to-product-strategy-60bdf72b17e3)
+
 ## Asynchronous Decision Making References
 * [Enspiral Handbook - Decisions Agreement](https://handbook.enspiral.com/agreements/decisions)
 * [Colony.io - Objections and Disputes](https://colony.io/dev/docs/colonynetwork/whitepaper-tldr-objections-and-disputes)
