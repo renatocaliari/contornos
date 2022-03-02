@@ -357,14 +357,14 @@ Learn more about this information [in the article on performance evaluation](htt
 #### Agreements
 When installing the app (importing the agreement), please describe the desired and necessary details:
 - what is the frequency of this assessment. Example: bimonthly.
-- what is the minimum expected mean of all people, regardless of contorno or structural role.
+- what is the expected average of all people, regardless of contorno or structural role.
 - how will the average be calculated: between the 3 questions?
 - will the evaluation result be linked to the Contractual Relationship contorno (closure, promotion, or bonus variation)?
 - what is the minimum number of answers for an assessment per person to consider on average? ex: "only averages that have at least 3 answers per person's evaluation will be calculated. If you have less answers, consider the agreed minimum average as the average of the person's evaluation".
 
 If you decide to link the assessment to Mentoring, Contractual Relationship or bonus variation, try a few more items in the agreement:
-- every time a person falls below the minimum average, he will be invited to seek advice with the [Contorno Mentoring](#mentoring).
-- below average for 2 times in a row, an automatic proposal is made to end the contractual relationship in contorno [Contractual Relationship](#contractual-relationship) passing through an integrative decision.
+- every time a person falls below the expected average, he will be invited to seek advice with the [Contorno Mentoring](#mentoring).
+- if a person falls below average for 2 times in a row, an automatic proposal is made to end the contractual relationship in contorno [Contractual Relationship](#contractual-relationship) passing through an integrative decision.
 - the global average of the organization's evaluation result will serve as a guide for the bonus variation.
 - the % of the difference from the personal average to the global average of the company, will be the variation of the bonus, up or down.
 
