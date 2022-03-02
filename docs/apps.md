@@ -511,7 +511,7 @@ Podem existir medalhas para a organização em geral ou medalhas por contorno es
 **Regras:**
 - Cada medalha contém requisitos básicos para conquistá-la: comprovação de conhecimento ou experiência, ou conquistas prévias de outras medalhas. 
 - As pessoas enviam evidências para recebê-las.
-- As medalhas são temporárias, valendo por meses ou anos pré-determinados. Assim que esse tempo se encerra, a medalhas é perdida e é necessário enviar novas evidências para conquistá-la.
+- As medalhas são temporárias, valendo por meses ou anos pré-determinados. Assim que esse tempo se encerra, a medalha é perdida e é necessário enviar novas evidências para conquistá-la.
 
 ### Novos contornos para o sistema de medalhas
 Para que o sistema de medalhas funcione, é necessária a criação de novos contornos:
