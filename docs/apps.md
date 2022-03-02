@@ -360,8 +360,8 @@ Ao instalar o app (importar o acordo), descreva os detalhes desejados e necessá
 
 Caso decida atrelar a avaliação à mentoria, relação contratual ou variação de bônus, experimente alguns itens a mais no acordo:
 - a cada vez que uma pessoa ficar abaixo da média mínima, ela será convidada a se aconselhar com o [contorno Mentoria](#contorno-mentoria).  
-- abaixo da média por 2 vezes seguidas, uma proposta automática é feita para encerramento da relação contratual no contorno ["Relação Contratual"](#contorno-relação-contratual) passando por decisão integrativa.
-- a média global do resultado da avaliação da organização, servirá como norteadora para variação do bônus. 
+- se uma pessoa ficar abaixo da média por 2 vezes seguidas, uma proposta automática é feita para encerramento da relação contratual no contorno ["Relação Contratual"](#contorno-relação-contratual) passando por decisão integrativa.
+- a média global do resultado da avaliação da organização servirá como norteadora para variação do bônus. 
 - a % da diferença da média pessoal para a média global da empresa, será a variação do bônus, para cima ou para baixo.
 
 Cuidados:
