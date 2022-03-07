@@ -46,6 +46,10 @@ Cada contorno governa a sua própria estrutura, que pode ser alterada pela guard
 4. por **[Fórum]** temático:
    - contorno que reúne pessoas em torno de um mesmo tema, ideia, técnica ou habilidade.
 
+_(*) A intenção pode ser entendida como um job de Jobs To Be Done, propósito de Fit For Purpose, por "torre" ou "mental space" do diagrama Mental Model da Indi Young, etc._
+Caso interesse, consulte materiais como [Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology-ebook/dp/B07NSF94PC), [Fit For Purpose](https://www.amazon.com/Fit-Purpose-Businesses-Satisfy-Customers/dp/0985305118) e [Jobs To Be Done](https://medium.com/tentaculus/jobs-to-be-done-parte-1-42bfdf4875c8)._
+
+
 ### 🚧 **2 tipos** de contornos:
    - **Suporte**: trabalho para permitir e potencializar o trabalho de outros contornos da organização ou uma interface entre uma solução de fornecedores externos com a organização. 
    - **Desenvolvimento**: trabalho para o público final da organização.
@@ -63,10 +67,6 @@ Cada contorno governa a sua própria estrutura, que pode ser alterada pela guard
 - contornos **estáveis** de **desenvolvimento** por **intenções** com contornos internos **temporários** por **iniciativas**. 
 
 Veja aqui um [exemplo de estrutura de contornos de uma organização fictícia](questions#exemplo-de-estrutura-de-contornos).
-
-
-_(*) A intenção pode ser entendida como um job de Jobs To Be Done, propósito de Fit For Purpose, por "torre" ou "mental space" do diagrama Mental Model da Indi Young, etc._
-Caso interesse, consulte materiais como [Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology-ebook/dp/B07NSF94PC), [Fit For Purpose](https://www.amazon.com/Fit-Purpose-Businesses-Satisfy-Customers/dp/0985305118) e [Jobs To Be Done](https://medium.com/tentaculus/jobs-to-be-done-parte-1-42bfdf4875c8)._
 
 ## Como mapear escopos atuais que reflitam possíveis contornos?
 
