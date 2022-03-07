@@ -7,7 +7,7 @@
 
 ### ✂️ 4 formas de divisão de contornos
 1. por **[Fluxo de Valor]**:
-   - **intenções**(*) do público que a organização atende(*)
+   - **intenções**(*) do público que a organização atende
    - **etapas da jornada** da pessoa ao realizar uma intenção(*)
    - **estratégias** do contorno maior
      - exemplos: "Conteúdo personalizado por membro"; "Membros conectados a pelo menos um outro membro na plataforma"; "Produtos encontrados na primeira tentativa de busca"; etc)
