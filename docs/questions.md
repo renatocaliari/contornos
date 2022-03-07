@@ -15,16 +15,15 @@
 2. por **[Mercado]**:
    - lados ou **atores de um marketplace**: oferta, demanda, prestadores, contratantes, Business to Business (B2B), Business to Consumer (B2C), usiness to Business to Consumer (B2B2C), Business to Government (B2G), Consumer to Consumer (C2C) ou Direct to Consumer (D2C).
    - **áreas geográficas**
-3. por **[Especialistas]** de técnicas ou escopos:
-   - **módulos** dos serviços tecnológicos da organização
+3. por **[Especialidade]** de técnicas:
    - **especialidades** de trabalho
-   - **complexidade** de algum escopo
+   - **módulos** dos serviços tecnológicos da organização
 4. por **[Fórum]** temático:
    - contorno que reúne pessoas em torno de um mesmo tema, ideia, técnica ou habilidade.
 
-### 🎭 **2 formas de atuação** de contornos:
-   - **Bastidor**: trabalho para permitir e potencializar o trabalho de outros contornos da organização ou uma interface entre uma solução de fornecedores externos com a organização. Assim como em outras profissões, não há atuação no palco sem o trabalho crítico dos bastidores.
-   - **Palco**: trabalho para um produto ou serviço do público final da organização.
+### 🎭 **2 tipos** de contornos:
+   - **Suporte**: trabalho para permitir e potencializar o trabalho de outros contornos da organização ou uma interface entre uma solução de fornecedores externos com a organização. 
+   - **Desenvolvimento**: trabalho para o público final da organização.
 
 ### ⌚ **2 formas de duração** de contornos:
 1. **Estável**: não têm encerramento determinado e dura enquanto fizer sentido aquela abordagem. 
@@ -34,9 +33,9 @@
 É possível fazer combinações de todas essas formas.
 
 **Exemplos:** 
-- contornos **estáveis** de **palco** por **atores do marketplace** com contornos internos **estáveis** por **intenções** do **ator do marketplace**.
-- contornos **estáveis** de **palco** por **estratégias** trabalhando com o apoio de contornos de **bastidor**.
-- contornos **estáveis** de **palco** por **intenções** com contornos internos **temporários** por **iniciativas**. 
+- contornos **estáveis** de **desenvolvimento** por **atores do marketplace** com contornos internos **estáveis** por **intenções** do **ator do marketplace**.
+- contornos **estáveis** de **desenvolvimento** por **estratégias** trabalhando com o apoio de contornos de **suporte**.
+- contornos **estáveis** de **desenvolvimento** por **intenções** com contornos internos **temporários** por **iniciativas**. 
 
 _(*) A intenção pode ser entendida como um job de Jobs To Be Done, propósito de Fit For Purpose, por "torre" ou "mental space" do diagrama Mental Model da Indi Young, etc._
 Caso interesse, consulte materiais como [Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology-ebook/dp/B07NSF94PC), [Fit For Purpose](https://www.amazon.com/Fit-Purpose-Businesses-Satisfy-Customers/dp/0985305118) e [Jobs To Be Done](https://medium.com/tentaculus/jobs-to-be-done-parte-1-42bfdf4875c8)._
@@ -57,21 +56,22 @@ Existem inúmeras possibilidades. Não existe receita de bolo ou algo universal.
 Para fins ilustrativos, a possibilidade abaixo mostra uma mistura de contornos de suporte da organização como um todo com contornos por intenção (veja mais acima) do púbico que o negócio atende delimitado dentro do contorno de produtos/serviços, tendo também contornos de especialização internamente. 
 
 Exemplo de estrutura:
-- Sistema Organizacional (Design Organizacional & Design de Serviço)
-- Cuidado & Aconselhamento
-  - Mediação de conflitos
-  - Aconselhamento & Mentoria
-  - Escuta
-- [Relação contratual](apps#contorno-relação-contratual)
-- Financeiro
-- Entrega de valor ao cliente
-   - Produto ou Serviço A (exemplo: "Plataforma de ensino de tecnologia")
-      - Atendimento
-      - Vendas e Marketing
-      - Pesquisa
-      - Conteúdo
-      - Parcerias
-      - Intenção A de cliente (exemplo: "Conseguir o primeiro emprego na área de tecnologia ou fazer transição de carreira")
+- Sistema Organizacional (Design Organizacional & Design de Serviço) *(Divisão: Especialidade; Tipo: Suporte; Duração: Estável)*
+- Cuidado & Aconselhamento *(Divisão: Especialidade; Tipo: Suporte; Duração: Estável)*
+  - Mediação de conflitos 
+  - Aconselhamento & Mentoria 
+  - Escuta 
+- [Relação contratual](apps#contorno-relação-contratual) *(Divisão: Especialidade; Tipo: Suporte; Duração: Estável)*
+- Financeiro *(Divisão: Especialidade; Tipo: Suporte; Duração: Estável)*
+- Entrega de valor ao cliente *(Divisão: Fluxo de valor; Tipo: Desenvolvimento; Duração: Estável)*
+   - Produto ou Serviço A (exemplo: "Plataforma de ensino de tecnologia") *(Divisão: Fluxo de valor; Tipo: Desenvolvimento; Duração: Estável)*
+      - Atendimento *(Divisão: Especialidade; Tipo: Desenvolvimento; Duração: Estável)*
+      - Vendas e Marketing *(Divisão: Especialidade; Tipo: Desenvolvimento; Duração: Estável)*
+      - Pesquisa *(Divisão: Especialidae; Tipo: Desenvolvimento; Duração: Estável)*
+      - Conteúdo *(Divisão: Especialidade; Tipo: Desenvolvimento; Duração: Estável)*
+      - Parcerias *(Divisão: Especialidade; Tipo: Desenvolvimento; Duração: Estável)*
+      - Algoritmos Machine Learning *(Divisão: Especialidade; **Tipo: Suporte**; Duração: Estável)*
+      - Intenção A de cliente (exemplo: "Conseguir o primeiro emprego na área de tecnologia ou fazer transição de carreira") *(Divisão: Fluxo de valor; Tipo: Desenvolvimento; Duração: Estável)*
          - Modelagem de iniciativas
          - Desenho da experiência de produto/serviço
          - Interface gráfica/física
