@@ -29,7 +29,7 @@ Cada contorno governa a sua própria estrutura, que pode ser alterada pela guard
 
 ## Como dividir os contornos?
 
-### ✂️ 4 formas de divisão de contornos
+### ✂️ Divisão de contornos
 1. por **[Fluxo de Valor]**:
    - **intenções**(*) do público que a organização atende
    - **etapas da jornada** da pessoa ao realizar uma intenção(*)
@@ -49,11 +49,11 @@ Cada contorno governa a sua própria estrutura, que pode ser alterada pela guard
 _(*) A intenção pode ser entendida como um job de Jobs To Be Done, propósito de Fit For Purpose, por "torre" ou "mental space" do diagrama Mental Model da Indi Young, etc._
 Caso interesse, consulte materiais como [Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology-ebook/dp/B07NSF94PC), [Fit For Purpose](https://www.amazon.com/Fit-Purpose-Businesses-Satisfy-Customers/dp/0985305118) e [Jobs To Be Done](https://medium.com/tentaculus/jobs-to-be-done-parte-1-42bfdf4875c8)._
 
-### 🚧 **2 tipos** de contornos:
+### 🚧 Tipos de contornos:
    - **Suporte**: trabalho para permitir e potencializar o trabalho de outros contornos da organização ou uma interface entre uma solução de fornecedores externos com a organização. 
    - **Desenvolvimento**: trabalho para o público final da organização.
 
-### ⌚ **2 formas de duração** de contornos:
+### ⌚ Duração de contornos:
 1. **Estável**: não têm encerramento determinado e dura enquanto fizer sentido aquela abordagem. 
 2. **Temporária**: nascem com um encerramento já determinado, focando em algum contexto ocasional. Pode ter o encerramento baseado numa data ou na conclusão de um projeto.
 
