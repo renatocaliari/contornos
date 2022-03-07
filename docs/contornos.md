@@ -49,7 +49,6 @@ Cada contorno governa a sua própria estrutura, que pode ser alterada pela guard
 _(*) A intenção pode ser entendida como um job de Jobs To Be Done, propósito de Fit For Purpose, por "torre" ou "mental space" do diagrama Mental Model da Indi Young, etc._
 Caso interesse, consulte materiais como [Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology-ebook/dp/B07NSF94PC), [Fit For Purpose](https://www.amazon.com/Fit-Purpose-Businesses-Satisfy-Customers/dp/0985305118) e [Jobs To Be Done](https://medium.com/tentaculus/jobs-to-be-done-parte-1-42bfdf4875c8)._
 
-
 ### 🚧 **2 tipos** de contornos:
    - **Suporte**: trabalho para permitir e potencializar o trabalho de outros contornos da organização ou uma interface entre uma solução de fornecedores externos com a organização. 
    - **Desenvolvimento**: trabalho para o público final da organização.
@@ -68,7 +67,7 @@ Caso interesse, consulte materiais como [Team Topologies](https://www.amazon.com
 
 Veja aqui um [exemplo de estrutura de contornos de uma organização fictícia](questions#exemplo-de-estrutura-de-contornos).
 
-## Como mapear escopos atuais que reflitam possíveis contornos?
+## Como mapear escopos atuais da organização que reflitam possíveis contornos?
 
 Se deseja descobrir quais são as redes e escopos que já funcionam na organização, mesmo que informalmente. Algumas opções para isso:
 - ["Análise de Redes Organizacionais"](https://www2.deloitte.com/us/en/pages/human-capital/articles/organizational-network-analysis.html) e observar o tipo de conexões que existem atualmente.
@@ -86,7 +85,7 @@ Exemplos demonstrando contextos para criação de contornos no caso de padrões 
 - recorrentemente o contorno que você participa precisa realizar análise de dados de forma mais avançada. Por um tempo as participantes foram tentando se ajudar, cada hora uma fazendo, porém não era explícito quem tinha essa responsabilidade e quais outras responsabilidades poderiam existir. Então, devido a essa recorrência, alguém registrar um [impulsionador](#impulsionadores) para o contorno com uma proposta de criação de um contorno interno de "análise de dados", deixando explícito o que é esperado. E em seguida fazem uma proposta de alocação de uma pessoa como guardiã deste contorno. Daí em diante não precisarão mais decidir quem fará esse tipo de trabalho e quais responsabilidades são esperadas. 
 - um contorno de "Tech" tem a responsabilidade de cuidar da infraestrutura e processo de deploy de alguns sistemas que o contorno desenvolve. Porém, isso começou a gerar conflitos e dúvidas sobre quais participantes teriam que ter habilidades, conhecimento e atenção para isso. Então, uma participante criou um [impulsionador](#impulsionadores) com uma proposta de criar um contorno interno de "Plataforma" delegando o "processo de deploy" como controle exclusivo deste novo contorno e também as responsabilidades de cuidar da infra e do processo. E, em seguida, alocaram uma pessoa como [guardiã](#guardi%c3%a3-do-contorno) do contorno e outra com [agente](#agente-do-contorno).
 
-**Regras**: 
+**Dicas**: 
 - desenhe novos contornos a partir de demandas do público, interno ou externo.
 - minimize a criação de contornos que dependam de entregas recorrentes, previstas e necessárias (_handover_ ou _handoff_) de outros contornos que não estejam dentro de um mesmo contorno externo. Favoreça que as participantes dos contornos que possuem dependência possam ter um contexto próximo em comum - um contorno externo, favorecendo que participem de reuniões, decisões e tratamento de [impulsionadores](#impulsionadores) em conjunto. 
   - caso seja desejado ou necessário uma dependência entre contornos que estão em contornos externos diferentes, é recomendado a criação de um papel estrutural de [representante](apps#papel-estrutural-de-representante) para que os contornos possuam alguma conexão.
