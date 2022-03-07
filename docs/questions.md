@@ -6,20 +6,20 @@
 ## Como mapear e dividir os contornos?
 
 ### ✂️ 4 formas de divisão de contornos
-1. por [Fluxo de Valor]:
+1. por **[Fluxo de Valor]**:
    - **intenções**(*) do público que a organização atende(*)
    - **etapas da jornada** da pessoa ao realizar uma intenção(*)
    - **estratégias** do contorno maior
      - exemplos: "Conteúdo personalizado por membro"; "Membros conectados a pelo menos um outro membro na plataforma"; "Produtos encontrados na primeira tentativa de busca"; etc)
    - **iniciativa** 
-2. por [Mercado]:
+2. por **[Mercado]**:
    - lados ou **atores de um marketplace**: oferta, demanda, prestadores, contratantes, Business to Business (B2B), Business to Consumer (B2C), usiness to Business to Consumer (B2B2C), Business to Government (B2G), Consumer to Consumer (C2C) ou Direct to Consumer (D2C).
    - **áreas geográficas**
-3. por [Especialistas] de técnicas ou escopos:
+3. por **[Especialistas]** de técnicas ou escopos:
    - **módulos** dos serviços tecnológicos da organização
    - **especialidades** de trabalho
    - **complexidade** de algum escopo
-4. por [Fórum] temático:
+4. por **[Fórum]** temático:
    - contorno que reúne pessoas em torno de um mesmo tema, ideia, técnica ou habilidade.
 
 ### 🎭 **2 formas de atuação** de contornos:
