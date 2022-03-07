@@ -130,7 +130,7 @@ Caso o contorno que oferecerá uma representante já tenha uma representante nom
 **Definir:**
 - critérios que informem quais pessoas participarão deste contorno, além das sorteadas. Exemplo: guardiãs de contornos de primeiro e segundo nível; pessoas com mais de X anos na organização + pessoais que investiram acima de X na organização + pessoas convidadas pelas participantes do contorno que passem por decisão integrativa.  
 
-### Contorno "Relação Contratual"
+### Contorno Relação Contratual
 
 **Razão de existir:** 
 - cuidar de contratações, encerramentos de contratos e mudanças de salário.
