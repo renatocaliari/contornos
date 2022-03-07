@@ -40,9 +40,9 @@ Cada contorno governa a sua própria estrutura, que pode ser alterada pela guard
 2. por **[Mercado]**:
    - lados ou **atores de um marketplace**: oferta, demanda, prestadores, contratantes, Business to Business (B2B), Business to Consumer (B2C), usiness to Business to Consumer (B2B2C), Business to Government (B2G), Consumer to Consumer (C2C) ou Direct to Consumer (D2C).
    - **áreas geográficas**
-3. por **[Especialidade]** de técnicas:
-   - **especialidades** de trabalho
-   - **módulos** dos serviços tecnológicos da organização
+3. por **[Especialidade]**:
+   - especialidades de **trabalho**
+   - especialidade em **módulos** de serviços tecnológicos da organização
 4. por **[Fórum]** temático:
    - contorno que reúne pessoas em torno de um mesmo tema, ideia, técnica ou habilidade.
 
