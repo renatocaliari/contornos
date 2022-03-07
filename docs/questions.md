@@ -26,9 +26,9 @@
    - **Bastidor**: trabalho para permitir e potencializar o trabalho de outros contornos da organização ou uma interface entre uma solução de fornecedores externos com a organização. Assim como em outras profissões, não há atuação no palco sem o trabalho crítico dos bastidores.
    - **Palco**: trabalho para um produto ou serviço do público final da organização.
 
-### ⌚ **2 formas de continuidade** de contornos:
-1. **Estáveis**: não têm encerramento determinado e dura enquanto fizer sentido aquela abordagem. 
-2. **Temporários**: nascem com um encerramento já determinado, focando em algum contexto ocasional. Pode ter o encerramento baseado numa data ou na conclusão de um projeto.
+### ⌚ **2 formas de duração** de contornos:
+1. **Estável**: não têm encerramento determinado e dura enquanto fizer sentido aquela abordagem. 
+2. **Temporária**: nascem com um encerramento já determinado, focando em algum contexto ocasional. Pode ter o encerramento baseado numa data ou na conclusão de um projeto.
 
 ### Combinações
 É possível fazer combinações de todas essas formas.
