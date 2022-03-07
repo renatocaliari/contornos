@@ -11,7 +11,8 @@
    - **etapas da jornada** da pessoa ao realizar uma intenção(*)
    - **estratégias** do contorno maior
      - exemplos: "Conteúdo personalizado por membro"; "Membros conectados a pelo menos um outro membro na plataforma"; "Produtos encontrados na primeira tentativa de busca"; etc)
-   - **iniciativa** 
+   - **produto** ou **serviço**  
+   - **iniciativa**
 2. por **[Mercado]**:
    - lados ou **atores de um marketplace**: oferta, demanda, prestadores, contratantes, Business to Business (B2B), Business to Consumer (B2C), usiness to Business to Consumer (B2B2C), Business to Government (B2G), Consumer to Consumer (C2C) ou Direct to Consumer (D2C).
    - **áreas geográficas**
@@ -52,38 +53,36 @@ Qualquer modelo pré-fabricado sobre o desenho de times é falho por natureza ju
 
 Existem inúmeras possibilidades. Não existe receita de bolo ou algo universal.
 
-Para fins ilustrativos, a possibilidade abaixo mostra uma mistura de contornos de suporte da organização como um todo com contornos por intenção (veja mais acima) do púbico que o negócio atende delimitado dentro do contorno de produtos/serviços, tendo também contornos de especialização internamente. 
+Para fins ilustrativos, a possibilidade abaixo mostra uma mistura de contornos de suporte da organização como um todo com contornos por fluxo de valor, tendo também contornos por especialidade internamente. 
 
 Exemplo de estrutura:
-- Design Organizacional *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
-- Cuidado *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
-  - Diversidade *(✂️ Fórum; 🚧 Suporte; ⌚ Estável)*
-  - Mediação de conflitos *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
-  - Aconselhamento & Mentoria *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
-  - Escuta *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
-- [Relação contratual](apps#contorno-relação-contratual) *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
-- Financeiro *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
-- Entrega de valor ao cliente *(✂️ Fluxo de Valor; 🚧 Desenvolvimento; ⌚ Estável)*
-   - Pesquisa *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
-   - Produto ou Serviço A (exemplo: "Plataforma de ensino de tecnologia") *(✂️ Fluxo de Valor; 🚧 Desenvolvimento; ⌚ Estável)*
-      - Atendimento *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
-      - Vendas e Marketing *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
-      - Pesquisa *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
-      - Conteúdo *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
-      - Parcerias *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
-      - Algoritmos Machine Learning *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
-      - Intenção A de cliente (exemplo: "Conseguir o primeiro emprego na área de tecnologia ou fazer transição de carreira") *(✂️ Fluxo de Valor; 🚧 Desenvolvimento; ⌚ Estável)*
-         - Modelagem de iniciativas *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
-         - Desenho da experiência de produto/serviço *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
-         - Interface gráfica/física *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
-         - Implementação *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
-      - Intenção B de cliente (exemplo: "Empreender na área de tecnologia")
-         - [...]
-      - Intenção C de cliente (exemplo: "Conectar com profissionais do mercado de tecnologia")
-         - [...]
-   - Experimentação sobre novo Produto B *(✂️ Fluxo de Valor; 🚧 Desenvolvimento; ⌚ Temporário)*
+- **Design Organizacional** *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
+- **Cuidado** *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
+  - **Diversidade** *(✂️ Fórum; 🚧 Suporte; ⌚ Estável)*
+  - **Mediação de conflitos** *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
+  - **Aconselhamento & Mentoria** *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
+  - **Escuta** *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
+- **[Relação contratual](apps#contorno-relação-contratual)** *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
+- **Financeiro** *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
+- **Entrega de valor ao cliente** *(✂️ Fluxo de Valor; 🚧 Desenvolvimento; ⌚ Estável)*
+   - **Pesquisa** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
+   - **"Plataforma de ensino de tecnologia"** *(✂️ Fluxo de Valor: Produto; 🚧 Desenvolvimento; ⌚ Estável)*
+      - **Atendimento** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
+      - **Vendas e Marketing** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
+      - **Pesquisa** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
+      - **Conteúdo** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
+      - **Parcerias** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
+      - **Algoritmos Machine Learning** *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
+      - **"Conseguir o primeiro emprego na área de tecnologia ou fazer transição de carreira"** *(✂️ Fluxo de Valor: Intenção; 🚧 Desenvolvimento; ⌚ Estável)*
+         - **Modelagem de iniciativas** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
+         - **Desenho da experiência de produto/serviço** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
+         - **Interface gráfica/física** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
+         - **Implementação** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
+   - **Experimentação sobre novo Produto B** *(✂️ Fluxo de Valor: Produto; 🚧 Desenvolvimento; ⌚ Temporário)*
 
-É possível diversas outras alternativas, como por exemplo, alguns contornos que estão dentro de produto/serviço - atendimento, vendas & marketing, pesquisa, etc - poderiam estar dentro de cada contorno de intenção, caso seja útil e mais eficiente, dependendo da escala da organização ou produto/serviço.
+É possível diversas outras alternativas, como por exemplo, alguns contornos que estão dentro de "Plataforma de ensino de tecnologia" - atendimento, vendas & marketing, pesquisa, etc - poderiam estar dentro de cada contorno de fluxo de valor de intenção.
+
+Isso tudo vai depender da efetividade pro contexto atual e da escala da organização ou produto/serviço.
 
 ## Como medir o impacto de mudanças no design organizacional?
 De forma simplista e limitada, é possível tentar comparar antes e depois: 
