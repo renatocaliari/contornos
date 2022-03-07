@@ -99,21 +99,22 @@ Ao desejar de antemão 'implementar' na organização inteira de forma convidati
 
 ## Como mapear e dividir os contornos?
 
-### ✂️ 3 formas de divisão de contornos
-1. Fluxo de Valor:
+### ✂️ 4 formas de divisão de contornos
+1. por [Fluxo de Valor]:
    - **intenções**(*) do público que a organização atende(*)
    - **etapas da jornada** da pessoa ao realizar uma intenção(*)
    - **estratégias** do contorno maior
      - exemplos: "Conteúdo personalizado por membro"; "Membros conectados a pelo menos um outro membro na plataforma"; "Produtos encontrados na primeira tentativa de busca"; etc)
    - **iniciativa** 
-2. Mercado:
+2. por [Mercado]:
    - lados ou **atores de um marketplace**: oferta, demanda, prestadores, contratantes, Business to Business (B2B), Business to Consumer (B2C), usiness to Business to Consumer (B2B2C), Business to Government (B2G), Consumer to Consumer (C2C) ou Direct to Consumer (D2C).
    - **áreas geográficas**
-3. Técnico:
+3. por [Especialistas] de técnicas ou escopos:
    - **módulos** dos serviços tecnológicos da organização
    - **especialidades** de trabalho
    - **complexidade** de algum escopo
-   - **fórum técnico**, reunindo pessoas de diferentes especialidades e escopos
+4. por [Fórum] temático:
+   - contorno que reúne pessoas em torno de um mesmo tema, ideia, técnica ou habilidade.
 
 ### 🎭 **2 formas de atuação** de contornos:
    - **Bastidor**: trabalho para permitir e potencializar o trabalho de outros contornos da organização ou uma interface entre uma solução de fornecedores externos com a organização. Assim como em outras profissões, não há atuação no palco, sem o trabalho dos bastidores.
