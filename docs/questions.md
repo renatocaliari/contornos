@@ -3,7 +3,7 @@
 # Perguntas & Respostas
 
 
-## Como mapear e dividir os contornos?
+## Como dividir os contornos?
 
 ### ✂️ 4 formas de divisão de contornos
 1. por **[Fluxo de Valor]**:
@@ -38,14 +38,16 @@
 - contornos **estáveis** de **palco** por **estratégias** trabalhando com o apoio de contornos de **bastidor**.
 - contornos **estáveis** de **palco** por **intenções** com contornos internos **temporários** por **iniciativas**. 
 
+_(*) A intenção pode ser entendida como um job de Jobs To Be Done, propósito de Fit For Purpose, por "torre" ou "mental space" do diagrama Mental Model da Indi Young, etc._
+Caso interesse, consulte materiais como [Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology-ebook/dp/B07NSF94PC), [Fit For Purpose](https://www.amazon.com/Fit-Purpose-Businesses-Satisfy-Customers/dp/0985305118) e [Jobs To Be Done](https://medium.com/tentaculus/jobs-to-be-done-parte-1-42bfdf4875c8)._
 
-Você também pode desejar descobrir quais são as redes e escopos que já funcionam na organização, mesmo que informalmente. Algumas opções para isso:
+## Como mapear escopos atuais?
+
+Se deseja descobrir quais são as redes e escopos que já funcionam na organização, mesmo que informalmente. Algumas opções para isso:
 a. ["Análise de Redes Organizacionais"](https://www2.deloitte.com/us/en/pages/human-capital/articles/organizational-network-analysis.html) e observar o tipo de conexões que existem atualmente.
 b. Mapeamento [processo e fluxo de valor](#refer%C3%AAncias-sobre-mapeamento-de-processo) do contorno maior em relação à razão de existir da organização.
 c. Mapeamento de atividades que as pessoas realizam atualmente e [converter em responsabilidades](#como-definir-as-responsabilidades-de-um-contorno). Após isso, definir os contornos e todos seus atributos.
 
-_(*) A intenção pode ser entendida como um job de Jobs To Be Done, propósito de Fit For Purpose, por "torre" ou "mental space" do diagrama Mental Model da Indi Young, etc._
-Caso interesse, consulte materiais como [Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology-ebook/dp/B07NSF94PC), [Fit For Purpose](https://www.amazon.com/Fit-Purpose-Businesses-Satisfy-Customers/dp/0985305118) e [Jobs To Be Done](https://medium.com/tentaculus/jobs-to-be-done-parte-1-42bfdf4875c8)._
 
 ### Exemplo de estrutura de contornos
 Qualquer modelo pré-fabricado sobre o desenho de times é falho por natureza justamente por não refletir ou se adequar à realidade. Porém, alguns podem ser úteis para inspirar e iniciar experimentos.
