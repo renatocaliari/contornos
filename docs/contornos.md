@@ -53,7 +53,7 @@ Caso interesse, consulte materiais como [Team Topologies](https://www.amazon.com
    - **Suporte**: trabalho para permitir e potencializar o trabalho de outros contornos da organização ou uma interface entre uma solução de fornecedores externos com a organização. 
    - **Desenvolvimento**: trabalho para o público final da organização.
 
-### ⌚ Duração de contornos:
+### ⌚ Duração de contornos
 1. **Estável**: não têm encerramento determinado e dura enquanto fizer sentido aquela abordagem. 
 2. **Temporária**: nascem com um encerramento já determinado, focando em algum contexto ocasional. Pode ter o encerramento baseado numa data ou na conclusão de um projeto.
 
