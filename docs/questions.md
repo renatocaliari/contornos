@@ -97,8 +97,9 @@ Ao desejar de antemão 'implementar' na organização inteira de forma convidati
 | --- | --- |
 | 10. Celebrar com toda a organização um passo importante que tomarão. Lembrar que não será fácil e nem rápido, mas será possível com o apoio das pessoas.<br />11. Reconhecer as preocupações das pessoas que votaram "não" na segunda rodada, e não optaram por sair, e dizer que elas serão inclusas no processo para trazer feedback.<br />12. Crie um contorno de "Sistema Organizacional".<br />13. Determine quem será a guardiã do contorno "Sistema Organizacional" durante o período de 3 meses. Após isso, façam um novo processo de nomeação.<br />14. Pedir para as pessoas que tinham votado "não" e desejarem se identificar, para  escolherem 2 representantes.<br />  - as representante serão consultadas periodicamente para ajudar a mitigar riscos nos 3 primeiros meses, trazerem seus pontos de vista e até ajudarem a fazer o papel de advogado do diabo nas discussões sobre o andamento do experimento com o novo sistema. <br />  - adicione como agentes do novo contorno as 2 representantes. Faça um acordo de que essa participação será apenas por 3 meses.<br />15. Peça para a Guardiã nomear mais 3 pessoas para fazerem parte como agentes deste contorno. <br />16. A partir daqui a evolução do experimento com o sistema Contornos é coordenada pelo contorno "Sistema Organizacional".<br /> 17. Siga os [passos para 'implementar'](#passos-para-implementar), dessa vez na organização inteira. | 10. Celebrar com toda a organização uma decisão de não seguir pois conseguiram fazer isso envolvendo toda a organização. <br />11. Decidir se iniciarão o sistema apenas em um [grupo local](#em-um-grupo-local) (veja [aqui](#em-um-grupo-local)). <br />12. Avisar a organização que o experimento será feito em grupos locais. E se outros grupos desejarem, estão convidados também. |
 
-### Como mapear e dividir os contornos?
-Há 4 formas de dividir os contornos:
+## Como mapear e dividir os contornos?
+
+### ✂️ 3 formas de divisão de contornos
 1. Fluxo de Valor:
    - **intenções**(*) do público que a organização atende(*)
    - **etapas da jornada** da pessoa ao realizar uma intenção(*)
@@ -114,14 +115,15 @@ Há 4 formas de dividir os contornos:
    - **complexidade** de algum escopo
    - **fórum técnico**, reunindo pessoas de diferentes especialidades e escopos
 
-Há 2 tipos de trabalho de contornos:
+### 🎭 **2 formas de atuação** de contornos:
    - **Bastidor**: trabalho para permitir e potencializar o trabalho de outros contornos da organização ou uma interface entre uma solução de fornecedores externos com a organização. Assim como em outras profissões, não há atuação no palco, sem o trabalho dos bastidores.
    - **Palco**: trabalho para um produto ou serviço do público final da organização.
 
-Há 2 formas de continuidade de contornos:
+### ⌚ **2 formas de continuidade** de contornos:
 1. **Estáveis**: não têm encerramento determinado e dura enquanto fizer sentido aquela abordagem. 
 2. **Temporários**: nascem com um encerramento já determinado, focando em algum contexto ocasional. Pode ter o encerramento baseado numa data ou na conclusão de um projeto.
 
+### Combinações
 É possível fazer combinações de todas essas formas.
 
 **Exemplos:** 
