@@ -21,7 +21,7 @@
 4. por **[Fórum]** temático:
    - contorno que reúne pessoas em torno de um mesmo tema, ideia, técnica ou habilidade.
 
-### 🎭 **2 tipos** de contornos:
+### 🚧 **2 tipos** de contornos:
    - **Suporte**: trabalho para permitir e potencializar o trabalho de outros contornos da organização ou uma interface entre uma solução de fornecedores externos com a organização. 
    - **Desenvolvimento**: trabalho para o público final da organização.
 
@@ -47,8 +47,7 @@ a. ["Análise de Redes Organizacionais"](https://www2.deloitte.com/us/en/pages/h
 b. Mapeamento [processo e fluxo de valor](#refer%C3%AAncias-sobre-mapeamento-de-processo) do contorno maior em relação à razão de existir da organização.
 c. Mapeamento de atividades que as pessoas realizam atualmente e [converter em responsabilidades](#como-definir-as-responsabilidades-de-um-contorno). Após isso, definir os contornos e todos seus atributos.
 
-
-### Exemplo de estrutura de contornos
+## Exemplo de estrutura de contornos
 Qualquer modelo pré-fabricado sobre o desenho de times é falho por natureza justamente por não refletir ou se adequar à realidade. Porém, alguns podem ser úteis para inspirar e iniciar experimentos.
 
 Existem inúmeras possibilidades. Não existe receita de bolo ou algo universal.
@@ -56,30 +55,33 @@ Existem inúmeras possibilidades. Não existe receita de bolo ou algo universal.
 Para fins ilustrativos, a possibilidade abaixo mostra uma mistura de contornos de suporte da organização como um todo com contornos por intenção (veja mais acima) do púbico que o negócio atende delimitado dentro do contorno de produtos/serviços, tendo também contornos de especialização internamente. 
 
 Exemplo de estrutura:
-- Sistema Organizacional (Design Organizacional & Design de Serviço) *(Divisão: Especialidade; Tipo: Suporte; Duração: Estável)*
-- Cuidado & Aconselhamento *(Divisão: Especialidade; Tipo: Suporte; Duração: Estável)*
-  - Mediação de conflitos 
-  - Aconselhamento & Mentoria 
-  - Escuta 
-- [Relação contratual](apps#contorno-relação-contratual) *(Divisão: Especialidade; Tipo: Suporte; Duração: Estável)*
-- Financeiro *(Divisão: Especialidade; Tipo: Suporte; Duração: Estável)*
-- Entrega de valor ao cliente *(Divisão: Fluxo de valor; Tipo: Desenvolvimento; Duração: Estável)*
-   - Produto ou Serviço A (exemplo: "Plataforma de ensino de tecnologia") *(Divisão: Fluxo de valor; Tipo: Desenvolvimento; Duração: Estável)*
-      - Atendimento *(Divisão: Especialidade; Tipo: Desenvolvimento; Duração: Estável)*
-      - Vendas e Marketing *(Divisão: Especialidade; Tipo: Desenvolvimento; Duração: Estável)*
-      - Pesquisa *(Divisão: Especialidae; Tipo: Desenvolvimento; Duração: Estável)*
-      - Conteúdo *(Divisão: Especialidade; Tipo: Desenvolvimento; Duração: Estável)*
-      - Parcerias *(Divisão: Especialidade; Tipo: Desenvolvimento; Duração: Estável)*
-      - Algoritmos Machine Learning *(Divisão: Especialidade; **Tipo: Suporte**; Duração: Estável)*
-      - Intenção A de cliente (exemplo: "Conseguir o primeiro emprego na área de tecnologia ou fazer transição de carreira") *(Divisão: Fluxo de valor; Tipo: Desenvolvimento; Duração: Estável)*
-         - Modelagem de iniciativas
-         - Desenho da experiência de produto/serviço
-         - Interface gráfica/física
-         - Implementação
+- Design Organizacional *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
+- Cuidado *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
+  - Diversidade *(✂️ Fórum; 🚧 Suporte; ⌚ Estável)*
+  - Mediação de conflitos *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
+  - Aconselhamento & Mentoria *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
+  - Escuta *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
+- [Relação contratual](apps#contorno-relação-contratual) *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
+- Financeiro *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
+- Entrega de valor ao cliente *(✂️ Fluxo de Valor; 🚧 Desenvolvimento; ⌚ Estável)*
+   - Pesquisa *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
+   - Produto ou Serviço A (exemplo: "Plataforma de ensino de tecnologia") *(✂️ Fluxo de Valor; 🚧 Desenvolvimento; ⌚ Estável)*
+      - Atendimento *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
+      - Vendas e Marketing *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
+      - Pesquisa *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
+      - Conteúdo *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
+      - Parcerias *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
+      - Algoritmos Machine Learning *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
+      - Intenção A de cliente (exemplo: "Conseguir o primeiro emprego na área de tecnologia ou fazer transição de carreira") *(✂️ Fluxo de Valor; 🚧 Desenvolvimento; ⌚ Estável)*
+         - Modelagem de iniciativas *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
+         - Desenho da experiência de produto/serviço *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
+         - Interface gráfica/física *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
+         - Implementação *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
       - Intenção B de cliente (exemplo: "Empreender na área de tecnologia")
          - [...]
       - Intenção C de cliente (exemplo: "Conectar com profissionais do mercado de tecnologia")
          - [...]
+   - Experimentação sobre novo Produto B *(✂️ Fluxo de Valor; 🚧 Desenvolvimento; ⌚ Temporário)*
 
 É possível diversas outras alternativas, como por exemplo, alguns contornos que estão dentro de produto/serviço - atendimento, vendas & marketing, pesquisa, etc - poderiam estar dentro de cada contorno de intenção, caso seja útil e mais eficiente, dependendo da escala da organização ou produto/serviço.
 
