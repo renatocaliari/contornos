@@ -98,32 +98,45 @@ Ao desejar de antemão 'implementar' na organização inteira de forma convidati
 | 10. Celebrar com toda a organização um passo importante que tomarão. Lembrar que não será fácil e nem rápido, mas será possível com o apoio das pessoas.<br />11. Reconhecer as preocupações das pessoas que votaram "não" na segunda rodada, e não optaram por sair, e dizer que elas serão inclusas no processo para trazer feedback.<br />12. Crie um contorno de "Sistema Organizacional".<br />13. Determine quem será a guardiã do contorno "Sistema Organizacional" durante o período de 3 meses. Após isso, façam um novo processo de nomeação.<br />14. Pedir para as pessoas que tinham votado "não" e desejarem se identificar, para  escolherem 2 representantes.<br />  - as representante serão consultadas periodicamente para ajudar a mitigar riscos nos 3 primeiros meses, trazerem seus pontos de vista e até ajudarem a fazer o papel de advogado do diabo nas discussões sobre o andamento do experimento com o novo sistema. <br />  - adicione como agentes do novo contorno as 2 representantes. Faça um acordo de que essa participação será apenas por 3 meses.<br />15. Peça para a Guardiã nomear mais 3 pessoas para fazerem parte como agentes deste contorno. <br />16. A partir daqui a evolução do experimento com o sistema Contornos é coordenada pelo contorno "Sistema Organizacional".<br /> 17. Siga os [passos para 'implementar'](#passos-para-implementar), dessa vez na organização inteira. | 10. Celebrar com toda a organização uma decisão de não seguir pois conseguiram fazer isso envolvendo toda a organização. <br />11. Decidir se iniciarão o sistema apenas em um [grupo local](#em-um-grupo-local) (veja [aqui](#em-um-grupo-local)). <br />12. Avisar a organização que o experimento será feito em grupos locais. E se outros grupos desejarem, estão convidados também. |
 
 ### Como mapear e dividir os contornos?
-#### Opções - combine-as de acordo com necessidade e contexto
-- Para produto/serviço:
-   - por **intenções**(*) do público que a organização atende
-   - por **etapas da jornada** da pessoa ao realizar uma intenção*
-   - por **estratégias** do contorno maior de produto/serviço
+Há 4 formas de dividir os contornos:
+1. Fluxo de Valor:
+   - **intenções**(*) do público que a organização atende(*)
+   - **etapas da jornada** da pessoa ao realizar uma intenção(*)
+   - **estratégias** do contorno maior
      - exemplos: "Conteúdo personalizado por membro"; "Membros conectados a pelo menos um outro membro na plataforma"; "Produtos encontrados na primeira tentativa de busca"; etc)
-     - ou seja, criar contornos especializados por cada estratégia do contorno maior de produto. 
-   - por lados ou **atores de um marketplace**
-   - baseado na **complexidade** de escopos
-   - baseado na **dependência** entre escopos
-   - baseado na **modularização** dos serviços tecnológicos
-   - etc
+   - **iniciativa** 
+2. Mercado:
+   - lados ou **atores de um marketplace**: oferta, demanda, prestadores, contratantes, Business to Business (B2B), Business to Consumer (B2C), usiness to Business to Consumer (B2B2C), Business to Government (B2G), Consumer to Consumer (C2C) ou Direct to Consumer (D2C).
+   - **áreas geográficas**
+3. Técnico:
+   - **módulos** dos serviços tecnológicos da organização
+   - **especialidades** de trabalho
+   - **complexidade** de algum escopo
+   - **fórum técnico**, reunindo pessoas de diferentes especialidades e escopos
 
-É possível fazer combinações dependendo do nível de abstração, com times estáveis e/ou temporários.
-**Exemplos:** Contornos estáveis por **intenções**, tendo contornos internos temporários por **apostas em iniciativas**. 
-Ou, contornos por **atores do marketplace** com contornos internos estáveis por **intenções** do ator do marketplace.
+Há 2 tipos de trabalho de contornos:
+   - **Bastidor**: trabalho para permitir e potencializar o trabalho de outros contornos da organização ou uma interface entre uma solução de fornecedores externos com a organização. Assim como em outras profissões, não há atuação no palco, sem o trabalho dos bastidores.
+   - **Palco**: trabalho para um produto ou serviço do público final da organização.
 
-- Gerais:
-   - ["Análise de Redes Organizacionais"](https://www2.deloitte.com/us/en/pages/human-capital/articles/organizational-network-analysis.html) e observar o tipo de conexões que existem atualmente.
-   - Mapeamento [processo e fluxo de valor](#refer%C3%AAncias-sobre-mapeamento-de-processo) do contorno maior em relação à razão de existir da organização.
-   - Mapeamento de atividades que as pessoas realizam atualmente e [converter em responsabilidades](#como-definir-as-responsabilidades-de-um-contorno). Após isso, definir os contornos e todos seus atributos.
+Há 2 formas de continuidade de contornos:
+1. **Estáveis**: não têm encerramento determinado e dura enquanto fizer sentido aquela abordagem. 
+2. **Temporários**: nascem com um encerramento já determinado, focando em algum contexto ocasional. Pode ter o encerramento baseado numa data ou na conclusão de um projeto.
 
+É possível fazer combinações de todas essas formas.
+
+**Exemplos:** 
+- contornos **estáveis** de **palco** por **atores do marketplace** com contornos internos **estáveis** por **intenções** do **ator do marketplace**.
+- contornos **estáveis** de **palco** por **estratégias** trabalhando com o apoio de contornos de **bastidor**.
+- contornos **estáveis** de **palco** por **intenções** com contornos internos **temporários** por **iniciativas**. 
+
+
+Você também pode desejar descobrir quais são as redes e escopos que já funcionam na organização, mesmo que informalmente. Algumas opções para isso:
+a. ["Análise de Redes Organizacionais"](https://www2.deloitte.com/us/en/pages/human-capital/articles/organizational-network-analysis.html) e observar o tipo de conexões que existem atualmente.
+b. Mapeamento [processo e fluxo de valor](#refer%C3%AAncias-sobre-mapeamento-de-processo) do contorno maior em relação à razão de existir da organização.
+c. Mapeamento de atividades que as pessoas realizam atualmente e [converter em responsabilidades](#como-definir-as-responsabilidades-de-um-contorno). Após isso, definir os contornos e todos seus atributos.
 
 _(*) A intenção pode ser entendida como um job de Jobs To Be Done, propósito de Fit For Purpose, por "torre" ou "mental space" do diagrama Mental Model da Indi Young, etc._
 Caso interesse, consulte materiais como [Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology-ebook/dp/B07NSF94PC), [Fit For Purpose](https://www.amazon.com/Fit-Purpose-Businesses-Satisfy-Customers/dp/0985305118) e [Jobs To Be Done](https://medium.com/tentaculus/jobs-to-be-done-parte-1-42bfdf4875c8)._
-
 
 ### Exemplo de estrutura de contornos
 Qualquer modelo pré-fabricado sobre o desenho de times é falho por natureza justamente por não refletir ou se adequar à realidade. Porém, alguns podem ser úteis para inspirar e iniciar experimentos.
