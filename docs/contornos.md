@@ -68,9 +68,9 @@ Caso interesse, consulte materiais como [Team Topologies](https://www.amazon.com
 ## Como mapear escopos atuais que reflitam possíveis contornos?
 
 Se deseja descobrir quais são as redes e escopos que já funcionam na organização, mesmo que informalmente. Algumas opções para isso:
-a. ["Análise de Redes Organizacionais"](https://www2.deloitte.com/us/en/pages/human-capital/articles/organizational-network-analysis.html) e observar o tipo de conexões que existem atualmente.
-b. Mapeamento [processo e fluxo de valor](#refer%C3%AAncias-sobre-mapeamento-de-processo) do contorno maior em relação à razão de existir da organização.
-c. Mapeamento de atividades que as pessoas realizam atualmente e [converter em responsabilidades](#como-definir-as-responsabilidades-de-um-contorno). Após isso, definir os contornos e todos seus atributos.
+- ["Análise de Redes Organizacionais"](https://www2.deloitte.com/us/en/pages/human-capital/articles/organizational-network-analysis.html) e observar o tipo de conexões que existem atualmente.
+- Mapeamento [processo e fluxo de valor](#refer%C3%AAncias-sobre-mapeamento-de-processo) do contorno maior em relação à razão de existir da organização.
+- Mapeamento de atividades que as pessoas realizam atualmente e [converter em responsabilidades](#como-definir-as-responsabilidades-de-um-contorno). Após isso, definir os contornos e todos seus atributos.
 
 ## Quando criar novos contornos?
 
