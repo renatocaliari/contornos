@@ -31,9 +31,9 @@ Cada contorno governa a sua própria estrutura, que pode ser alterada pela guard
 
 ### ✂️ Divisão de contornos
 1. por **[Fluxo de Valor]**:
-   - **intenções**(*) do público que a organização atende
-   - **etapas da jornada** da pessoa ao realizar uma intenção(*)
-   - **estratégias** do contorno maior
+   - **intenção**(*) do público que um contorno atende
+   - **etapa da jornada** da pessoa ao realizar uma intenção(*)
+   - **estratégia** do contorno maior
      - exemplos: "Conteúdo personalizado por membro"; "Membros conectados a pelo menos um outro membro na plataforma"; "Produtos encontrados na primeira tentativa de busca"; etc)
    - **produto** ou **serviço**  
    - **iniciativa**
