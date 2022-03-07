@@ -23,7 +23,7 @@
    - contorno que reúne pessoas em torno de um mesmo tema, ideia, técnica ou habilidade.
 
 ### 🎭 **2 formas de atuação** de contornos:
-   - **Bastidor**: trabalho para permitir e potencializar o trabalho de outros contornos da organização ou uma interface entre uma solução de fornecedores externos com a organização. Assim como em outras profissões, não há atuação no palco, sem o trabalho dos bastidores.
+   - **Bastidor**: trabalho para permitir e potencializar o trabalho de outros contornos da organização ou uma interface entre uma solução de fornecedores externos com a organização. Assim como em outras profissões, não há atuação no palco sem o trabalho crítico dos bastidores.
    - **Palco**: trabalho para um produto ou serviço do público final da organização.
 
 ### ⌚ **2 formas de continuidade** de contornos:
