@@ -85,7 +85,7 @@ Exemplos demonstrando contextos para criação de contornos no caso de padrões 
 - recorrentemente o contorno que você participa precisa realizar análise de dados de forma mais avançada. Por um tempo as participantes foram tentando se ajudar, cada hora uma fazendo, porém não era explícito quem tinha essa responsabilidade e quais outras responsabilidades poderiam existir. Então, devido a essa recorrência, alguém registrar um [impulsionador](#impulsionadores) para o contorno com uma proposta de criação de um contorno interno de "análise de dados", deixando explícito o que é esperado. E em seguida fazem uma proposta de alocação de uma pessoa como guardiã deste contorno. Daí em diante não precisarão mais decidir quem fará esse tipo de trabalho e quais responsabilidades são esperadas. 
 - um contorno de "Tech" tem a responsabilidade de cuidar da infraestrutura e processo de deploy de alguns sistemas que o contorno desenvolve. Porém, isso começou a gerar conflitos e dúvidas sobre quais participantes teriam que ter habilidades, conhecimento e atenção para isso. Então, uma participante criou um [impulsionador](#impulsionadores) com uma proposta de criar um contorno interno de "Plataforma" delegando o "processo de deploy" como controle exclusivo deste novo contorno e também as responsabilidades de cuidar da infra e do processo. E, em seguida, alocaram uma pessoa como [guardiã](#guardi%c3%a3-do-contorno) do contorno e outra com [agente](#agente-do-contorno).
 
-**Dicas**: 
+**Recomendações**: 
 - desenhe novos contornos a partir de demandas do público, interno ou externo.
 - minimize a criação de contornos que dependam de entregas recorrentes, previstas e necessárias (_handover_ ou _handoff_) de outros contornos que não estejam dentro de um mesmo contorno externo. Favoreça que as participantes dos contornos que possuem dependência possam ter um contexto próximo em comum - um contorno externo, favorecendo que participem de reuniões, decisões e tratamento de [impulsionadores](#impulsionadores) em conjunto. 
   - caso seja desejado ou necessário uma dependência entre contornos que estão em contornos externos diferentes, é recomendado a criação de um papel estrutural de [representante](apps#papel-estrutural-de-representante) para que os contornos possuam alguma conexão.
@@ -130,29 +130,13 @@ Além desses dois papéis estruturais, é possível instalar [papéis estruturai
 #### Responsabilidades
   * _todas responsabilidades gerais de participantes de contorno_.
   * _todas responsabilidades do próprio contorno_ que não estejam delegadas a contornos internos.
-  * trazer informações do contorno externo para todas participantes do seu contorno.
+  * trazer informações do contorno externo para todas participantes do seu contorno. Caso o contorno em questão seja a organização em si, então trazer informações de mercado, sócios, investidores, etc.
   * agir sobre [impulsionadores](#impulsionadores) sem andamento em seu contorno.
-  * propor estratégia do contorno, precisando de decisão integrativa.
-  * propor processo do contorno, precisando de decisão integrativa.
+  * propor estratégia e processo para o contorno, precisando de decisão integrativa.
   * propor pessoas para apoiar o contorno.
   * tomar ação sobre contornos internos diretos sem participantes: convidar pessoas para eles ou remover o contorno, com decisão integrativa.
-  * manter indicadores atualizados no sistema que a organização utiliza para o trabalho em público
-  * manter projetos atualizados no sistema que a organização utiliza para o trabalho em público
-  * compartilhar indicadores com o contorno externo, na frequência sugerida pelo contorno externo.
-  * compartilhar sobre o progresso de projetos específicos que significativamente impactem outros contornos ou considere ser crítico que outras pessoas de outros contornos contribuam, na frequência sugerida pelo contorno externo, informando como isso se conecta à estratégia e propósito do contorno externo.
-
-#### Responsabilidades da guardiã do maior contorno, a organização em si
-  * _todas responsabilidades gerais de participantes de contorno_.
-  * _todas responsabilidades do próprio contorno_ que não estejam delegadas a contornos internos.
-  * agir sobre [impulsionadores](#impulsionadores) sem andamento em seu contorno.
-  * propor estratégia do contorno, precisando de decisão integrativa.
-  * propor processo do contorno, precisando de decisão integrativa.
-  * propor pessoas para apoiar o contorno.
-  * tomar ação sobre contornos internos diretos sem participantes: convidar pessoas para eles ou remover o contorno, com decisão integrativa.
-  * manter indicadores atualizados no sistema que a organização utiliza para o trabalho em público
-  * manter projetos atualizados no sistema que a organização utiliza para o trabalho em público
-  * compartilhar indicadores com a organização, na frequência acordada.
-  * compartilhar sobre o progresso de projetos específicos que significativamente impactem a organização como um todo ou considere ser crítico que outras pessoas de outros contornos contribuam, na frequência acordada, informando como isso se conecta à estratégia e propósito da organização.
+  * manter indicadores atualizados no sistema que a organização utiliza para o trabalho em conjunto.
+  * manter o progresso dos projetos atualizado no sistema que a organização utiliza para o trabalho em conjunto.
 
 ----
 
