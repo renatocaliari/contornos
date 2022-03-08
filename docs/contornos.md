@@ -168,16 +168,7 @@ A guardiã não tem autoridade para:
 | -- | -- | -- |
 | razão de existir | guardar o espaço do contorno e responder pela razão de existir do mesmo. | evoluir o contorno em direção à razão de existir. |
 | participação | toda guardiã de um contorno também é participante do contorno externo como [agente](#agente-do-contorno). | caso a agente não seja guardiã de algum contorno interno, sua participação é restrita ao contorno como agente.<br/>caso a agente seja guardiã de algum contorno interno, sua participação acontece tanto no contorno como agente quanto no contorno interno como guardiã. |
-| responsabilidades |   * _todas responsabilidades gerais de participantes de contorno_.
-  * _todas responsabilidades do próprio contorno_ que não estejam delegadas a contornos internos.
-  * trazer informações do contorno externo para todas participantes do seu contorno. Caso o contorno em questão seja a organização em si, então trazer informações de mercado, sócios, investidores, etc.
-  * agir sobre [impulsionadores](#impulsionadores) sem andamento em seu contorno.
-  * propor estratégia e processo para o contorno, precisando de decisão integrativa.
-  * propor pessoas para apoiar o contorno.
-  * tomar ação sobre contornos internos diretos sem participantes: convidar pessoas para eles ou remover o contorno, com decisão integrativa.
-  * manter indicadores atualizados no sistema que a organização utiliza para o trabalho em conjunto.
-  * manter o progresso dos projetos atualizado no sistema que a organização utiliza para o trabalho em conjunto.
- | * _todas responsabilidades gerais de participante de contorno_.<br/>* _todas responsabilidades do próprio contorno_ que não estejam delegadas a contornos internos. | 
+| responsabilidades |   * _todas responsabilidades gerais de participantes de contorno_. * _todas responsabilidades do próprio contorno_ que não estejam delegadas a contornos internos. * trazer informações do contorno externo para todas participantes do seu contorno. Caso o contorno em questão seja a organização em si, então trazer informações de mercado, sócios, investidores, etc. * agir sobre [impulsionadores](#impulsionadores) sem andamento em seu contorno. * propor estratégia e processo para o contorno, precisando de decisão integrativa. * propor pessoas para apoiar o contorno. * tomar ação sobre contornos internos diretos sem participantes: convidar pessoas para eles ou remover o contorno, com decisão integrativa. * manter indicadores atualizados no sistema que a organização utiliza para o trabalho em conjunto. * manter o progresso dos projetos atualizado no sistema que a organização utiliza para o trabalho em conjunto. | * _todas responsabilidades gerais de participante de contorno_.<br/>* _todas responsabilidades do próprio contorno_ que não estejam delegadas a contornos internos. | 
 
 ## Alocação de pessoas em contornos
 Para poder ser alocada em algum contorno, uma pessoa deve ser parceira da organização, seja qual for a forma: colaboradora contratada, parceira ou outra forma acordada. E para se tornar parceira, é esperado que exista algum contorno com essa responsabilidade, como o [contorno especial de Manutenção de Parceria](apps#contorno-manuten%C3%A7%C3%A3o-de-parceria).
