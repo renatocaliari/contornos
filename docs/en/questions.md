@@ -11,7 +11,7 @@ In a simplistic and limited way, it is possible to try to compare before and aft
 - how much the organization is meeting the needs of the public, which makes sense for the business, with the products and services offered
   - example alternative: search as [Fit For Purpose](https://www.amazon.com/Fit-Purpose-Businesses-Satisfy-Customers-ebook/dp/B078JFTVS8/)
 - the patterns of organizational tensions: are they changing?
-  - alternative as an example: use the [Tentaculus Map](https://medium.com/tentaculus/mapear-oportunidades-organizacoes-ad66f1b9a913) or the [OS Canvas](https://medium.com/the-ready/the-operating-system-canvas-420b8b4df062), asking for each aspect what has worked well and what has not.
+  - example alternative: use the [Tentaculus Map](https://medium.com/tentaculus/mapear-oportunidades-organizacoes-ad66f1b9a913) or the [OS Canvas](https://medium.com/the-ready/the-operating-system-canvas-420b8b4df062), asking for each aspect what has worked well and what has not.
 
 ## How to define the responsibilities of a contorno?
 - Don't put behavioral expectations into responsibilities. For that see about [personal agreements](/en/contornos#personal-agreements).
