@@ -223,7 +223,7 @@ Also, anyone can appoint a person to the structural role of agent and make an in
 Before making an allocation proposal to a new contorno, ask yourself:
 - How many hours do you want to be invested in this contorno? and how often?
 
-When making an integrative decision of [naming](en/apps#nominating-of-people-to-a-contorno), question yourself as an objection enhancer:
+When making an integrative decision of [nominating](en/apps#nominating-people-for-a-contorno), question yourself as an objection enhancer:
 - does the person have the time and focus necessary for this other contorno? It is indicated that the person himself also assess for possible objection if he is with cognitive overload to be in many different contexts that require routine activities.
 
 ### Allocation revaluation
