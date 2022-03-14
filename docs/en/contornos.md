@@ -169,7 +169,7 @@ In addition to these two structural roles, it is possible to install [extra stru
 #### Adaptation of the Guardian structural role
 It is possible to delegate Guardian responsibilities to other internal contornos by integrative decision and recorded as "Delegated Guardian structural role" so that when you are in the removal process, remember to redeem the responsibility for the Guardian structural role.
 
-#### Guardian structural role restrictions
+#### Restrictions
 The guardian has no authority to:
   * add new responsibilities to your role.
   * hire new people into the organization or fire people.
