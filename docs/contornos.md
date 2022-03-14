@@ -82,22 +82,22 @@ A possibilidade abaixo mostra uma mistura de contornos de suporte da organizaç�
 - **Entrega de valor ao cliente** *(✂️ Fluxo de Valor; 🚧 Desenvolvimento; ⌚ Estável)*
    - **Pesquisa** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
    - **"Plataforma de ensino de tecnologia"** *(✂️ Fluxo de Valor: Produto; 🚧 Desenvolvimento; ⌚ Estável)*
+      - **"Conseguir o primeiro emprego na área de tecnologia ou fazer transição de carreira"** *(✂️ Fluxo de Valor: Intenção; 🚧 Desenvolvimento; ⌚ Estável)*
+         - **Modelagem de iniciativas** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
+         - **Desenho da experiência de produto/serviço** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
+         - **Interface gráfica/física** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
+         - **Implementação** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
       - **Atendimento** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
       - **Vendas e Marketing** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
       - **Pesquisa** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
       - **Conteúdo** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
       - **Parcerias** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
       - **Algoritmos Machine Learning** *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
-      - **"Conseguir o primeiro emprego na área de tecnologia ou fazer transição de carreira"** *(✂️ Fluxo de Valor: Intenção; 🚧 Desenvolvimento; ⌚ Estável)*
-         - **Modelagem de iniciativas** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
-         - **Desenho da experiência de produto/serviço** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
-         - **Interface gráfica/física** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
-         - **Implementação** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
    - **Experimentação sobre novo Produto B** *(✂️ Fluxo de Valor: Produto; 🚧 Desenvolvimento; ⌚ Temporário)*
 
 ## Como mapear escopos atuais da organização que reflitam possíveis contornos?
 
-Se deseja descobrir quais são as redes e escopos que já funcionam na organização, mesmo que informalmente. Algumas opções para isso:
+Se deseja descobrir quais são as redes e escopos que já funcionam na organização, mesmo que informalmente, veja abaixo algumas opções para isso:
 - ["Análise de Redes Organizacionais"](https://www2.deloitte.com/us/en/pages/human-capital/articles/organizational-network-analysis.html) e observar o tipo de conexões que existem atualmente.
 - Mapeamento [processo e fluxo de valor](references#refer%C3%AAncias-sobre-mapeamento-de-processo) do contorno maior em relação à razão de existir da organização.
 - Mapeamento de atividades que as pessoas realizam atualmente e [converter em responsabilidades](questions#como-definir-as-responsabilidades-de-um-contorno). Após isso, definir os contornos e todos seus atributos.
