@@ -20,8 +20,6 @@ The organizational structure is defined by contornos. The people in the organiza
 
 The system starts with the maxim that _"everything is allowed as long as it is not explicitly forbidden"_ in some [agreement](#agreements) containing restriction or defined as [resources o exclusive control](#resources-of-exclusive-control-how) of some contorno instead of the common inverse in many organizations that _"everything is forbidden as long as it is explicitly allowed"_. 
 
-[See an example of a contorno structure in the Questions & Answers](en/questions#example-of-contornos-structure).
-
 # Contornos
 A contorno is a scope delimited by reason for existence, responsibilities, resources of exclusive control, and proper agreements.
 One person can be on several contornos, and one contorno can contain several people.
@@ -73,27 +71,27 @@ Any pre-made model on the design of teams is flawed by nature precisely because 
 
 **General structure example:**
 - **Organizational Design** *(✂️ Specialty; 🚧 Support; ⌚ Stable)*
-- **Caution** *(✂️ Specialty; 🚧 Support; ⌚ Stable)*
+- **Care** *(✂️ Specialty; 🚧 Support; ⌚ Stable)*
   - **Diversity** *(✂️ Forum; 🚧 Support; ⌚ Stable)*
   - **Conflict Mediation** *(✂️ Specialty; 🚧 Support; ⌚ Stable)*
-  - **Counseling & Mentoring** *(✂️ Specialty; 🚧 Support; ⌚ Stable)*
+  - **Advisoring & Mentoring** *(✂️ Specialty; 🚧 Support; ⌚ Stable)*
   - **Listen** *(✂️ Specialty; 🚧 Support; ⌚ Stable)*
 - **[Contractual relationship](apps#contour-contractual-relation)** *(✂️ Specialty; 🚧 Support; ⌚ Stable)*
 - **Financial** *(✂️ Specialty; 🚧 Support; ⌚ Stable)*
 - **Delivering value to the customer** *(✂️ Value Stream; 🚧 Development; ⌚ Stable)*
    - **Research** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
    - **"Technology teaching platform"** *(✂️ Value Stream: Product; 🚧 Development; ⌚ Stable)*
+      - **"Get your first tech job or make a career transition"** *(✂️ Value Stream: Intent; 🚧 Development; ⌚ Stable)*
+         - **Modeling of initiatives** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
+         - **Product/service experience design** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
+         - **Graphic/physical interface** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
+         - **Implementation** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
       - **Service** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
       - **Sales and Marketing** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
       - **Research** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
       - **Content** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
       - **Partnerships** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
       - **Machine Learning Algorithms** *(✂️ Specialty; 🚧 Support; ⌚ Stable)*
-      - **"Get your first tech job or make a career transition"** *(✂️ Value Stream: Intent; 🚧 Development; ⌚ Stable)*
-         - **Modeling of initiatives** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
-         - **Product/service experience design** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
-         - **Graphic/physical interface** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
-         - **Implementation** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
    - **Experimentation on new Product B** *(✂️ Value Stream: Product; 🚧 Development; ⌚ Temporary)*
 
 ## How to map current scopes of the organization that reflect possible contornos?
@@ -155,31 +153,17 @@ In addition to these two structural roles, it is possible to install [extra stru
   * every guardian of a contorno is also a participant in the outer contorno as [agent](#agent).
 
 #### Responsibilities
-  * _all general responsibilities of contorno participants_.
-  * _all own contorno responsibilities_ that are not delegated to internal contornos.
-  * bring information from the external contorno to all participants of your contorno.
-  * act on [boosters](en/contornos#boosters) without progress in its contorno.
-  * to propose a contorno strategy, requiring an integrative decision.
-  * to propose a contorno process, needing an integrative decision.
+  * _all general responsibilities of outline participants_.
+  * _all responsibilities of the contour itself_ that are not delegated to internal contours.
+  * bring external contour information to all participants in your contour. If the outline in question is the organization itself, then bring information from the market, partners, investors, etc.
+  * act on [boosters](#boosters) with no progress in its outline.
+  * propose a contorno strategy, requiring an integrative decision.
+  * propose a contorno process, needing an integrative decision.
   * propose people to support the contorno.
   * take action on direct internal contornos without participants: invite people to them or remove the contorno, with integrative decision.
-  * keep indicators updated in the system that the organization uses for public work
-  * keep projects updated in the system the organization uses for public work 
-  * share indicators with the outer contorno, at the frequency suggested by the outer contorno.
-  * share about the progress of specific projects that significantly impact other contornos or consider it critical that other people from other contornos contribute, as often as suggested by the external contour, informing how this connects to the strategy and purpose of the external contour.
+  * keep indicators updated in the system that the organization uses to work together.
+  * keep the progress of projects up to date in the system that the organization uses to work together.
 
-#### Responsibilities of the guardian of the greatest contorno, the organization itself
-  * _all general responsibilities of contorno participants_.
-  * _all own contorno responsibilities_ that are not delegated to internal contornos.
-  * act on [boosters](#boosters) without progress in its contorno.
-  * to propose a contorno strategy, requiring an integrative decision.
-  * to propose a contorno process, needing an integrative decision.
-  * propose people to support the contorno.
-  * take action on direct internal contornos without participants: invite people to them or remove the contorno, with integrative decision.
-  * keep indicators updated in the system that the organization uses for public work
-  * keep projects updated in the system the organization uses for public work 
-  * share indicators with the organization, at the frequency defined with participants of the highest profile.
-  * share about the progress of specific projects that significantly impact the organization as a whole or consider it critical that other people from other contornos contribute, as often as agreed, informing how this connects to the organization's strategy and purpose. 
 ----
 
 #### Adaptation of the Guardian structural role
@@ -211,7 +195,7 @@ The guardian has no authority to:
 ## Quick comparison
 | | Guardian | Agent |
 | -- | -- | -- |
-| reason to exist | save the contorno space and answer for the reason it exists. | evolve the contorno towards the reason for existing. |
+| reason to exist | keep the contorno space and answer for its reason for existing. | evolve the contorno towards the reason for existing. |
 | participation | every guardian of a contorno is also a participant in the outer contorno as [agent](#agent). | if the agent is not the guardian of some internal contorno, her participation is restricted to the contorno as an agent.<br/>If the agent is the guardian of some internal contorno, her participation happens both in the contorno as agent and in the contorno as guardian. |
 | responsibilities | * _all overall responsibilities of contorno participants_.<br/>* _all responsibilities of the contorno itself_ that are not delegated to inner contornos.<br/>* bring information from the outer contorno to all contornos participants.<br/>* take action on contornos without participants: invite people to join them or remove the contorno, with integrative decision.<br/>* act on [boosters](#boosters) without progress in its contorno.<br/>* propose contorno strategy, needing integrative decision.<br/>* propose contorno process, needing integrative decision.<br/>* propose people to support the contorno.<br/>* share indicators with the external contorno, in the frequency suggested by the external contorno .<br/>* share about the progress of projects with the external contorno, as often as suggested by the external contorno, stating how this connects to the strategy and purpose of the external contorno.| * _all contornos participant general responsibilities_.<br/>* _all contornos own responsibilities_ that are not delegated to internal contornos. |
 
