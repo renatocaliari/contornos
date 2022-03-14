@@ -30,23 +30,94 @@ The definition of Contornos avoids deciding all the time what needs to be done a
 
 Each contorno governs its own structure, which can be changed by the contorno guardian or by integrative decision depending on the context.
 
+## How to split contornos?
+
+### ✂️ Division of contornos
+1. by **[Value Flow]**:
+   - **intent**(*) of the audience that a contorno serves
+   - **person's journey stage** when carrying out an intention(*)
+   - **strategy of a larger contorno**
+     - examples: "Personalized content per member"; "Members connected to at least one other member on the platform"; "Products found on first search attempt"; etc)
+   - **product** or **service**  
+   - **initiative**
+2. by **[Market]**:
+   - sides or **actors of a marketplace**: supply, demand, providers, contractors, Business to Business (B2B), Business to Consumer (B2C), Business to Business to Consumer (B2B2C), Business to Government (B2G), Consumer to Consumer (C2C) ou Direct to Consumer (D2C).
+   - **geographical areas**
+3. by **[Specialty]**:
+   - **work** specialties
+   - expertise in **modules** of the organization's technological services
+4. by thematic **[Forum]**:
+   - a contorno that gathers people around the same theme, idea, technique or skill.
+
+_(*) Intent can be understood as a Job To Be Done, purpose in Fit For Purpose, a "tower" or "mental space" from Indi Young's Mental Model diagram, etc._
+If interested, consult materials such as [Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology-ebook/dp/B07NSF94PC), [Fit For Purpose](https://www. amazon.com/Fit-Purpose-Businesses-Satisfy-Customers/dp/0985305118) and [Jobs To Be Done](https://medium.com/tentaculus/jobs-to-be-done-parte-1-42bfdf4875c8) ._
+
+### 🚧 Types of contornos:
+   - **Support**: work to allow and enhance the work of other contornos of the organization or an interface between a solution from external providers with the organization.
+   - **Development**: work for the organization's target audience.
+
+### ⌚ Duration of contornos:
+1. **Stable**: they have no determined expiration and lasts as long as it makes sense.
+2. **Temporary**: they are born with an already determined expiration, focusing on some occasional context. It can be expired based on a date or the completion of a project.
+
+### Combinations
+It is possible to make combinations of all these above ways.
+
+## Example of a structure of contornos 
+**Quick Examples:**
+- **stable** contorno of **development** split by **marketplace actors** with **stable** internal contorno by **intention** split by **marketplace actor**.
+- **stable** contorno of **development** split by **strategies** with **stable** internal contorno of **support**.
+- **stable** contorno of **development** split by **intention** with **temporary** internal contorno split by **initiative**.
+
+Any pre-made model on the design of teams is flawed by nature precisely because it does not reflect or adapt to reality. However, some can be useful to inspire and initiate experiments. There is no universal recipe.
+
+**General structure example:**
+- **Organizational Design** *(✂️ Specialty; 🚧 Support; ⌚ Stable)*
+- **Caution** *(✂️ Specialty; 🚧 Support; ⌚ Stable)*
+  - **Diversity** *(✂️ Forum; 🚧 Support; ⌚ Stable)*
+  - **Conflict Mediation** *(✂️ Specialty; 🚧 Support; ⌚ Stable)*
+  - **Counseling & Mentoring** *(✂️ Specialty; 🚧 Support; ⌚ Stable)*
+  - **Listen** *(✂️ Specialty; 🚧 Support; ⌚ Stable)*
+- **[Contractual relationship](apps#contour-contractual-relation)** *(✂️ Specialty; 🚧 Support; ⌚ Stable)*
+- **Financial** *(✂️ Specialty; 🚧 Support; ⌚ Stable)*
+- **Delivering value to the customer** *(✂️ Value Stream; 🚧 Development; ⌚ Stable)*
+   - **Research** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
+   - **"Technology teaching platform"** *(✂️ Value Stream: Product; 🚧 Development; ⌚ Stable)*
+      - **Service** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
+      - **Sales and Marketing** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
+      - **Research** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
+      - **Content** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
+      - **Partnerships** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
+      - **Machine Learning Algorithms** *(✂️ Specialty; 🚧 Support; ⌚ Stable)*
+      - **"Get your first tech job or make a career transition"** *(✂️ Value Stream: Intent; 🚧 Development; ⌚ Stable)*
+         - **Modeling of initiatives** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
+         - **Product/service experience design** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
+         - **Graphic/physical interface** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
+         - **Implementation** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
+   - **Experimentation on new Product B** *(✂️ Value Stream: Product; 🚧 Development; ⌚ Temporary)*
+
+## How to map current scopes of the organization that reflect possible contornos?
+
+If you want to find out which are the networks and scopes that already work in the organization, even if informally, here are some options:
+- ["Organizational Network Analysis"](https://www2.deloitte.com/us/en/pages/human-capital/articles/organizational-network-analysis.html) and look at the type of connections that currently exist.
+- Mapping [process and value stream](references#refer%C3%AAnces-about-process-mapping) of the larger contorno in relation to the organization's reason for existing.
+- Mapping of activities that people currently perform and [convert to responsibilities](questions#how-to-define-responsibilities-of-a-outline). After that, define the contornos and all their attributes.
+
 ## When to create new contornos?
 
-Create contornos when you: 
-- notice some recurring patterns and delegate part of the responsibilities and exclusive control resources to promote effectiveness, in addition to greater experience and deeper understanding of the scope;
-- identify themes that need ongoing care;
-- want to execute and complete a project that requires joint work apart from an existing contour, temporarily. 
+Create contornos when:
+- noticing some recurring patterns that would be dealt with more effectively if they were in charge of a specific contorno;
+- identify issues that need ongoing care;
+- you want to execute and complete a project that temporarily requires joint work apart from an existing contorno.
 
-[In Questions & Answers, see options that may help in mapping new contornos](en/questions#how-to-map-and-divide-the-contornos).
+Examples demonstrating contexts for creating contours in case of recurring patterns:
+- recurrently the contour you participate needs to perform data analysis in a more advanced way. For a while the participants were trying to help each other, each hour doing the task and learning what was needed. It was not clear who had this responsibility. Due to this recurrence, someone registered a [driver](#drivers) for the contour with a proposal to create an internal "data analysis" contour, making it explicit what was expected. Then, they made a proposal for the allocation of a person as guardian of this contour. From then on, they no longer had to decide who would do this type of work and what responsibilities were expected, as the outline already made it clear.
+- a "Tech" contour has the responsibility to take care of the infrastructure and deployment process of some systems that the contour develops. However, this started to generate conflicts and doubts about which participants would have to have the skills, knowledge and attention for this. So, one participant created a [driver](#drivers) with a proposal to create an internal contour of "Platform" delegating the "deploy process" as exclusive control for this new contour and also the responsibilities of taking care of the infrastructure and the process . Then they allocated one person as [guardian](#guardi%c3%a3-of-contour) and another with [agent](#agent-of-contour).
 
-Examples demonstrating contexts for creating Contornos in the case of recurring patterns: 
-- Recurrently the contorno you participate needs to perform data analysis in a more advanced way. For a while the participants were trying to help each other, each time doing something, but it was not explicit who had this responsibility and what other responsibilities there might be. Then, because of this recurrence, someone registers a [booster](#boosters) for the contorno with a proposal to create an internal "data analysis" contorno, making explicit what is expected. And then they make a proposal to allocate one person as guardian of this contorno. From then on they will no longer need to decide who will do this kind of work and what responsibilities are expected. 
-- A "Tech" contorno has the responsibility to take care of the infrastructure and deployment process of some systems that the contorno develops. However, this started to create conflicts and doubts about which participants would have to have the skills, knowledge and attention for this. Then, one participant created a [booster](#boosters) with a proposal to create an internal "Platform" contorno delegating the "deployment process" as a resource of exclusive control of this new contorno and also the responsibilities to take care of the infrastructure and process. And then they allocated one person as [guardian](#guardian) of the contorno and another with [agent](#agent-of-contorno).  
-
-**Rules**:
-- Draw new contornos based on the demands of the public, internal or external.
-- minimize the creation of contornos that depend on recurrent, planned and necessary deliveries (_handover_ or _handoff_) of other contornos that are not within the same external contorno. Encourage the participants of the contornos that have dependence to have a close context in common - an external contorno, favoring that they participate in meetings, decisions and treatment of [boosters](#boosters) together.
-  - if a dependency between contornos that are in different external contornos is desired or necessary, it is recommended to create a structural role of [delegate](en/apps#delegate) so that the contornos have some connection.
+**Recommendations**:
+- delimit new contornos from the demands of the public, internal or external.
+- minimize the creation of contornos that depend on recurring, expected and necessary deliveries (_handover_ or _handoff_) of other contornos that are not within the same external contorno. Favor that participants of the contornos that have dependence can have a close context in common - an external contour, favoring them to participate in meetings, decisions and treatment of [drivers](#drivers) together.
+  - if a dependency between contornos that are on different external contornos is desired or necessary, it is recommended to create a structural role of [representative](apps#structural-representative-role) so that those contornos have some link.
  
 
 ## How to adapt or remove a contorno?
