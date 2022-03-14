@@ -4,6 +4,67 @@
 
 # Questions & Answers
 
+## How to measure the impact of organizational design changes?
+In a simplistic and limited way, it is possible to try to compare before and after:
+- the level of people's engagement
+  - example alternative: 8 questions from [Engagement Pulse](https://www.tmbc.com/wp-content/uploads/2021/04/IN0092_Engagement_Pulse_white_paper_r02v01.pdf)
+- how much the organization is meeting the needs of the public, which makes sense for the business, with the products and services offered
+  - example alternative: search as [Fit For Purpose](https://www.amazon.com/Fit-Purpose-Businesses-Satisfy-Customers-ebook/dp/B078JFTVS8/)
+- the patterns of organizational tensions: are they changing?
+  - alternative as an example: use the [Mapa Tentaculus](https://medium.com/tentaculus/mapear-oportunidades-organizacoes-ad66f1b9a913) or the [OS Canvas](https://medium.com/the-ready/the -operating-system-canvas-420b8b4df062), asking for each aspect what has worked well and what has not.
+
+## How to define the responsibilities of an contorno?
+- Don't put behavioral expectations into responsibilities. For that see about [personal agreements](/en/contornos#personal-agreements).
+- Avoid responsibilities that are expected of anyone in the organization.
+- Start with infinitive verb: Correct, Define, Realize, etc.
+- Explain and specify what is ambiguous
+- In the responsibility, describe what is the **active** participation in an activity.
+
+**Avoid these verbs:**
+* Approve → do not use this verb or expect this kind of responsibility. Responsibilities do not limit other contornos. If you want to limit the type of interaction with any organizational artifact, then use [exclusive control features](/en/contornos#resources-of-exclusive-control-how), [process](/en/contornos#process-how) or [agreements structural](/en/contornos#structural-agreements).
+* Align → Alignment is ambiguous. What is expected with the alignment? Advise or advise someone? Consult? Share information?
+* Collaborate / Reply to people (or messages from people) → they are already expected to collaborate and communicate. What else is specifically expected in the collaboration?
+* Guarantee / Insure → instead spell out how you want to guarantee or insure something to get something more specific and practical?
+* Meet → find out what the meeting wants to resolve or decide and what specific responsibilities are there.
+* Manage people → responsibilities cannot provide this kind of authority and power. What do you want with manage? Advise, mentor, train? See more about [special contornos in Apps](/en/apps#special-contornos).
+
+## Do people need to have prior maturity to work in such a system?
+This question generally comes from at least two premises of the questioner:
+1. related to maturity: people need to be 'ready' or 'mature' for something, before practicing it.
+   - comments:
+     - if we don't allow people to practice and experiment, it's difficult to reach some maturity, whatever it means in your context. Anyway, I don't believe maturity is magic, but experience. And you can only gain experience by practicing.
+2. related to decision making that does not depend on bosses: people need someone, in a paternalistic role, to make decisions for them.
+   - comments:
+     - People already make several decisions in their lives: who to relate to, which house or car to buy (and whether they want to buy), join or leave a company, how to eat, etc. We can re-include them in decisions that affect their work and life.
+     - As mentioned above, it is important to remember that there are still people who do not want to take responsibility for the decision, prefer to outsource decisions that impact its scope and have less accountability for it. So, it's a decision they'll have to make: which person's profile do we want?
+     - and like any other system, game and rules, not all people will prefer it or want to support that system. Here is a [decision on how to move forward](/en/questions#how-to-get-started-with-the-contornos-system).
+
+## How to hire people who want the title and power of boss, director, leader or C-level?
+- First, ask yourselves: do you want people in search of titles or people willing and engaged in solving the challenges of a given scope?
+- Second, instead of trying to give that person a title or concentrated power, share with them about:
+  - for which contorno they are doing the selection process
+  - what are the contorno responsibilities and the challenges
+  - how the [Contornos] system works in a simplified way
+  - what are the responsibilities of the Guardian structural role, in which it will be allocated
+  - what power restrictions of the Guardian role
+  - which contorno and organization agreements
+
+## What to do if we want to make all the decisions of an contorno in an integrative way?
+Create a structural agreement on the contorno, stating that all decisions will be made in an integrative way among the contorno participants.
+
+## What do I do if I feel insecure about making a decision, even though the contorno I participate in has the authority to make the decision?
+At any time, you can seek advice from people who seem to be knowledgeable about the subject or who are most engaged with the subject.
+
+Read about [boosters](/en/contornos#boosters).
+
+## What to do with endless discussions, whether synchronous - in live meetings - or asynchronous - by digital tools?
+
+When an argument starts to stretch without seeming to get anywhere, ask what you want to resolve and which contorno has more specific responsibility for it.
+
+1. If there is a contorno that already takes care of the issue: forward it to the guardian of the contorno. If anyone is still willing to talk about it, ask to speak with the guardian.
+2. If there is no contorno that already takes care of the issue: forward it to the guardian of the scope closest to the subject or the broader scope that can cover this subject.
+
+
 ## How to get started with the Contornos system?
 
 ### How to make the decision to use the system?
@@ -98,125 +159,4 @@ If you want to 'implement' in advance across the organization in an inviting way
 | If approval equal to or above 80% in the second round | If not approved by at least 80% of people |
 | --- | --- |
 | 10. Celebrate with the entire organization an important step they will take. Remember that it won't be easy or fast, but it will be possible with people's support.<br />11. Acknowledge the concerns of people who voted "no" in the second round and did not opt ​​out, and say that they will be included in the feedback process.<br />12. Create an "Organizational System" contorno.<br />13. Determine who will be the guardian of the "Organizational System" contorno for the 3-month period. After that, make a new naming process.<br />14. Ask people who had voted "no" and wish to identify themselves to choose 2 delegates.<br /> - delegates will be consulted periodically to help mitigate risks in the first 3 months, bring their views and even help to do so the role of devil's advocate in discussions about the progress of the experiment with the new system. <br /> - add the 2 delegates as agents of the new contorno. Make an agreement that this participation will only be for 3 months.<br />15. Ask the Guardian to nominate 3 more people to be agents of this contorno. <br />16. From here the evolution of the experiment with the Contornos system is coordinated by the contorno "Organizational System".<br /> 17. Follow the [steps to 'implement'](#steps-to-implement), this time in the entire organization. | 10. Celebrate with the entire organization a decision not to follow through because they managed to do so involving the entire organization. <br />11. Decide whether to start the system only in a [local-group](#in-a-local-group) (see [here](#in-a-local-group)). <br />12. Advise the organization that the experiment will be carried out in local groups. And if other groups wish, they are invited too. |
-
-### How to map and split the contornos?
-#### Options - combine them according to need and context
-- For product/service:
-   - by **intentions**(*) of the audience that the organization serves
-   - by **stages of the journey** of the person when carrying out an intention(*)
-   - by **strategies** of the larger product/service contorno
-     - examples: "Custom content per member"; "Members connected to at least one other member on the platform"; "Products found on first search attempt"; etc)
-     - that is, create specialized contornos for each strategy of the larger product contorno.
-   - by sides or **actors of a marketplace** 
-   - based on **complexity** of scopes
-   - based on **dependence** between scopes
-   - based on **modularization** of technological services
-   - etc
-
-It is possible to make combinations depending on the level of abstraction, with stable and/or temporary teams.
-**Examples:** stable contornos by **intentions**, having temporary inner contornos for **bets on initiatives**. Or, stable contornos by **marketplace actors** with stable inner contornos by marketplace actor **intentions**. 
-
-- General:
-   - ["Organizational Network Analysis"](https://www2.deloitte.com/us/en/pages/human-capital/articles/organizational-network-analysis.html) and look at the kind of connections that currently exist.
-   - Mapping [process and value stream](/en/references#process-mapping) of the larger contorno in relation to the organization's reason for existence.
-   - Mapping of activities that people currently perform and [convert to responsibilities](#how-to-define-the-responsibilities-of-an-contorno). After that, define the contornos and all their attributes.
-
-_(*)Intention can be understood as a Jobs To Be Done job, purpose of Fit For Purpose, by "tower" or "mental space" from Indi Young's Mental Model diagram, etc._ 
-If interested, refer to materials such as [Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology-ebook/dp/B07NSF94PC), [Fit For Purpose](https://www. amazon.com/Fit-Purpose-Businesses-Satisfy-Customers/dp/0985305118) and [Jobs To Be Done](https://medium.com/tentaculus/jobs-to-be-done-parte-1-42bfdf4875c8) ._
-
-
-### Example of contornos structure
-Any pre-fabricated model about team design is flawed by nature precisely because it does not reflect or adapt to reality. However, some can be useful to inspire and initiate experiments.
-
-There are numerous possibilities. There is no cake recipe or something universal.
-
-For illustrative purposes, the possibility below shows a mixture of Contornos of support for the organization as a whole with Contornos by intention (see above) of the public that the business serves delimited within the Contorno of products/services, also having Contornos of specialization internally.
-
-Structure example:
-- Organizational System (Organizational Design & Service Design)
-- Care & Counseling
-  - Mediation of conflicts
-  - Counseling & Mentoring
-  - listen
-- [Contractual Relationship](apps#contractual-relationship)
-- Financial
-- Delivery of value to the customer
-   - Product or Service A (example: "Technology teaching platform")
-      - Service
-      - Sales and Marketing
-      - Search
-      - Contents
-      - Business Partnerships
-      - Customer Intent A (example: "Get your first job in the technology area or make a career transition")
-         - Modeling of initiatives
-         - Design of the product/service experience
-         - Graphic/physical interface
-         - Development
-      - Customer's intention B (example: "To undertake in the technology area")
-         - [...]
-      - Customer Intent C (example: "Connecting with professionals in the technology market")
-         - [...]
-
-
-Several other alternatives are possible, for example, some Contornos that are within the product/service - customer service, sales & marketing, research, etc. - could be within each intention Contornos, if it is useful and more efficient, depending on the scale of the organization or product/service. 
-
-## How to measure the impact of organizational design changes?
-In a simplistic and limited way, it is possible to try to compare before and after:
-- the level of people's engagement
-  - example alternative: 8 questions from [Engagement Pulse](https://www.tmbc.com/wp-content/uploads/2021/04/IN0092_Engagement_Pulse_white_paper_r02v01.pdf)
-- how much the organization is meeting the needs of the public, which makes sense for the business, with the products and services offered
-  - example alternative: search as [Fit For Purpose](https://www.amazon.com/Fit-Purpose-Businesses-Satisfy-Customers-ebook/dp/B078JFTVS8/)
-- the patterns of organizational tensions: are they changing?
-  - alternative as an example: use the [Mapa Tentaculus](https://medium.com/tentaculus/mapear-oportunidades-organizacoes-ad66f1b9a913) or the [OS Canvas](https://medium.com/the-ready/the -operating-system-canvas-420b8b4df062), asking for each aspect what has worked well and what has not.
-
-## How to define the responsibilities of an contorno?
-- Don't put behavioral expectations into responsibilities. For that see about [personal agreements](/en/contornos#personal-agreements).
-- Avoid responsibilities that are expected of anyone in the organization.
-- Start with infinitive verb: Correct, Define, Realize, etc.
-- Explain and specify what is ambiguous
-- In the responsibility, describe what is the **active** participation in an activity.
-
-**Avoid these verbs:**
-* Approve → do not use this verb or expect this kind of responsibility. Responsibilities do not limit other contornos. If you want to limit the type of interaction with any organizational artifact, then use [exclusive control features](/en/contornos#resources-of-exclusive-control-how), [process](/en/contornos#process-how) or [agreements structural](/en/contornos#structural-agreements).
-* Align → Alignment is ambiguous. What is expected with the alignment? Advise or advise someone? Consult? Share information?
-* Collaborate / Reply to people (or messages from people) → they are already expected to collaborate and communicate. What else is specifically expected in the collaboration?
-* Guarantee / Insure → instead spell out how you want to guarantee or insure something to get something more specific and practical?
-* Meet → find out what the meeting wants to resolve or decide and what specific responsibilities are there.
-* Manage people → responsibilities cannot provide this kind of authority and power. What do you want with manage? Advise, mentor, train? See more about [special contornos in Apps](/en/apps#special-contornos).
-
-## Do people need to have prior maturity to work in such a system?
-This question generally comes from at least two premises of the questioner:
-1. related to maturity: people need to be 'ready' or 'mature' for something, before practicing it.
-   - comments:
-     - if we don't allow people to practice and experiment, it's difficult to reach some maturity, whatever it means in your context. Anyway, I don't believe maturity is magic, but experience. And you can only gain experience by practicing.
-2. related to decision making that does not depend on bosses: people need someone, in a paternalistic role, to make decisions for them.
-   - comments:
-     - People already make several decisions in their lives: who to relate to, which house or car to buy (and whether they want to buy), join or leave a company, how to eat, etc. We can re-include them in decisions that affect their work and life.
-     - As mentioned above, it is important to remember that there are still people who do not want to take responsibility for the decision, prefer to outsource decisions that impact its scope and have less accountability for it. So, it's a decision they'll have to make: which person's profile do we want?
-     - and like any other system, game and rules, not all people will prefer it or want to support that system. Here is a [decision on how to move forward](/en/questions#how-to-get-started-with-the-contornos-system).
-
-## How to hire people who want the title and power of boss, director, leader or C-level?
-- First, ask yourselves: do you want people in search of titles or people willing and engaged in solving the challenges of a given scope?
-- Second, instead of trying to give that person a title or concentrated power, share with them about:
-  - for which contorno they are doing the selection process
-  - what are the contorno responsibilities and the challenges
-  - how the [Contornos] system works in a simplified way
-  - what are the responsibilities of the Guardian structural role, in which it will be allocated
-  - what power restrictions of the Guardian role
-  - which contorno and organization agreements
-
-## What to do if we want to make all the decisions of an contorno in an integrative way?
-Create a structural agreement on the contorno, stating that all decisions will be made in an integrative way among the contorno participants.
-
-## What do I do if I feel insecure about making a decision, even though the contorno I participate in has the authority to make the decision?
-At any time, you can seek advice from people who seem to be knowledgeable about the subject or who are most engaged with the subject.
-
-Read about [boosters](/en/contornos#boosters).
-
-## What to do with endless discussions, whether synchronous - in live meetings - or asynchronous - by digital tools?
-
-When an argument starts to stretch without seeming to get anywhere, ask what you want to resolve and which contorno has more specific responsibility for it.
-
-1. If there is a contorno that already takes care of the issue: forward it to the guardian of the contorno. If anyone is still willing to talk about it, ask to speak with the guardian.
-2. If there is no contorno that already takes care of the issue: forward it to the guardian of the scope closest to the subject or the broader scope that can cover this subject.
 
