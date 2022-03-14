@@ -1,6 +1,6 @@
 ![Contornos](./assets/logo.png ':size=220')
 	
-# Contornos<small>0.9.1</small>
+# Contornos<small>0.9.2</small>
 
 >  Tecnologia Social para Organizações
 
