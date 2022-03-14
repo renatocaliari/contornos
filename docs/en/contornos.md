@@ -76,7 +76,7 @@ Any pre-made model on the design of teams is flawed by nature precisely because 
   - **Conflict Mediation** *(✂️ Specialty; 🚧 Support; ⌚ Stable)*
   - **Advisoring & Mentoring** *(✂️ Specialty; 🚧 Support; ⌚ Stable)*
   - **Listen** *(✂️ Specialty; 🚧 Support; ⌚ Stable)*
-- **[Contractual relationship](apps#contour-contractual-relation)** *(✂️ Specialty; 🚧 Support; ⌚ Stable)*
+- **[Contractual relationship](apps#contractual-relationship)** *(✂️ Specialty; 🚧 Support; ⌚ Stable)*
 - **Financial** *(✂️ Specialty; 🚧 Support; ⌚ Stable)*
 - **Delivering value to the customer** *(✂️ Value Stream; 🚧 Development; ⌚ Stable)*
    - **Research** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
