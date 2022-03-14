@@ -66,7 +66,7 @@ Caso interesse, consulte materiais como [Team Topologies](https://www.amazon.com
 - contornos **estáveis** de **desenvolvimento** por **estratégias** trabalhando com o apoio de contornos de **suporte**.
 - contornos **estáveis** de **desenvolvimento** por **intenções** com contornos internos **temporários** por **iniciativas**. 
 
-Qualquer modelo pré-fabricado sobre o desenho de times é falho por natureza justamente por não refletir ou se adequar à realidade. Porém, alguns podem ser úteis para inspirar e iniciar experimentos. Não existe receita de bolo ou algo universal.
+Qualquer modelo pré-fabricado sobre o desenho de times é falho por natureza justamente por não refletir ou se adequar à realidade. Porém, alguns podem ser úteis para inspirar e iniciar experimentos. Não existe receita universal.
 
 A possibilidade abaixo mostra uma mistura de contornos de suporte da organização como um todo com contornos por fluxo de valor, tendo também contornos por especialidade internamente. 
 
@@ -94,8 +94,6 @@ A possibilidade abaixo mostra uma mistura de contornos de suporte da organizaç�
          - **Interface gráfica/física** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
          - **Implementação** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
    - **Experimentação sobre novo Produto B** *(✂️ Fluxo de Valor: Produto; 🚧 Desenvolvimento; ⌚ Temporário)*
-
-É possível diversas outras alternativas, como por exemplo, alguns contornos que estão dentro de "Plataforma de ensino de tecnologia" - atendimento, vendas & marketing, pesquisa, etc - poderiam estar dentro de cada contorno de fluxo de valor de intenção.
 
 ## Como mapear escopos atuais da organização que reflitam possíveis contornos?
 
