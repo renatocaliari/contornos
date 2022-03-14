@@ -168,7 +168,7 @@ Além desses dois papéis estruturais, é possível instalar [papéis estruturai
 #### Adaptação do papel estrutural Guardiã 
 É possível delegar responsabilidades da guardiã a outros contornos internos por decisão integrativa e registrado como "responsabilidade delegada do papel estrutural Guardiã", para que quando estiver no processo de remoção, lembrem de resgatar a responsabilidade para o papel estrutural Guardiã.
 
-#### Restrições do papel estrutural Guardiã
+#### Restrições
 A guardiã não tem autoridade para:
   * adicionar novas responsabilidades no seu papel.
   * contratatar novas pessoas para a organização ou demitir pessoas. 
