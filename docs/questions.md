@@ -62,43 +62,6 @@ Quando uma discussão começa a estender sem parecer chegar a algum lugar, pergu
 1. Caso exista um contorno que já cuide da questão: encaminhem para a guardiã do contorno. Se alguém ainda tiver desejando falar sobre o assunto, peça para falar com a guardiã.
 2. Caso não exista contorno que já cuide da questão: encaminhem para a guardiã do escopo mais próximo do assunto ou do escopo mais amplo que possa abranger esse assunto.
 
-## Exemplo de estrutura de contornos
-Qualquer modelo pré-fabricado sobre o desenho de times é falho por natureza justamente por não refletir ou se adequar à realidade. Porém, alguns podem ser úteis para inspirar e iniciar experimentos.
-
-Existem inúmeras possibilidades. Não existe receita de bolo ou algo universal.
-
-Para fins ilustrativos, a possibilidade abaixo mostra uma mistura de contornos de suporte da organização como um todo com contornos por fluxo de valor, tendo também contornos por especialidade internamente. 
-
-Exemplo de estrutura:
-- **Design Organizacional** *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
-- **Cuidado** *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
-  - **Diversidade** *(✂️ Fórum; 🚧 Suporte; ⌚ Estável)*
-  - **Mediação de conflitos** *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
-  - **Aconselhamento & Mentoria** *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
-  - **Escuta** *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
-- **[Relação contratual](apps#contorno-relação-contratual)** *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
-- **Financeiro** *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
-- **Entrega de valor ao cliente** *(✂️ Fluxo de Valor; 🚧 Desenvolvimento; ⌚ Estável)*
-   - **Pesquisa** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
-   - **"Plataforma de ensino de tecnologia"** *(✂️ Fluxo de Valor: Produto; 🚧 Desenvolvimento; ⌚ Estável)*
-      - **Atendimento** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
-      - **Vendas e Marketing** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
-      - **Pesquisa** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
-      - **Conteúdo** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
-      - **Parcerias** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
-      - **Algoritmos Machine Learning** *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
-      - **"Conseguir o primeiro emprego na área de tecnologia ou fazer transição de carreira"** *(✂️ Fluxo de Valor: Intenção; 🚧 Desenvolvimento; ⌚ Estável)*
-         - **Modelagem de iniciativas** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
-         - **Desenho da experiência de produto/serviço** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
-         - **Interface gráfica/física** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
-         - **Implementação** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
-   - **Experimentação sobre novo Produto B** *(✂️ Fluxo de Valor: Produto; 🚧 Desenvolvimento; ⌚ Temporário)*
-
-É possível diversas outras alternativas, como por exemplo, alguns contornos que estão dentro de "Plataforma de ensino de tecnologia" - atendimento, vendas & marketing, pesquisa, etc - poderiam estar dentro de cada contorno de fluxo de valor de intenção.
-
-Isso tudo vai depender da efetividade pro contexto atual e da escala da organização ou produto/serviço.
-
-
 ## Como iniciar com o sistema Contornos?
 
 ### Como tomar a decisão de usar o sistema?
