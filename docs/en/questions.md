@@ -13,7 +13,7 @@ In a simplistic and limited way, it is possible to try to compare before and aft
 - the patterns of organizational tensions: are they changing?
   - alternative as an example: use the [Tentaculus Map](https://medium.com/tentaculus/mapear-oportunidades-organizacoes-ad66f1b9a913) or the [OS Canvas](https://medium.com/the-ready/the-operating-system-canvas-420b8b4df062), asking for each aspect what has worked well and what has not.
 
-## How to define the responsibilities of an contorno?
+## How to define the responsibilities of a contorno?
 - Don't put behavioral expectations into responsibilities. For that see about [personal agreements](/en/contornos#personal-agreements).
 - Avoid responsibilities that are expected of anyone in the organization.
 - Start with infinitive verb: Correct, Define, Realize, etc.
