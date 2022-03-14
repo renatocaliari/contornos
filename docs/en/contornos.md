@@ -144,7 +144,7 @@ Any participant in a contorno has these **common responsibilities**:
 ## Structural Roles
 There are only two basic structural roles in Contornos: guardian and agent.
 
-In addition to these two structural roles, it is possible to install [extra structural roles](en/apps#extra-structural-roles), such as: [Delegate](en/apps#delegate), [Synapse](en/apps #synapse), [Facilitator](en/apps#facilitator) and [Secretary](en/apps#secretary).
+In addition to these two structural roles, it is possible to install [extra structural roles](en/apps#extra-structural-roles), such as: [Delegate](en/apps#delegate), [Synapse](en/apps#synapse), [Facilitator](en/apps#facilitator) and [Secretary](en/apps#secretary).
 
 ### Guardian
 
