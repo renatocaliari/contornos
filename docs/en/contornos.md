@@ -153,8 +153,8 @@ In addition to these two structural roles, it is possible to install [extra stru
   * every guardian of a contorno is also a participant in the outer contorno as [agent](#agent).
 
 #### Responsibilities
-  * _all general responsibilities of outline participants_.
-  * _all responsibilities of the contour itself_ that are not delegated to internal contours.
+  * _all general contorno participant responsibilities._
+  * _all responsibilities of the contorno itself that are not delegated to internal contours._
   * bring external contour information to all participants in your contour. If the outline in question is the organization itself, then bring information from the market, partners, investors, etc.
   * act on [boosters](#boosters) with no progress in its outline.
   * propose a contorno strategy, requiring an integrative decision.
@@ -189,15 +189,15 @@ The guardian has no authority to:
   * if the agent is also the guardian of some internal contorno, its participation happens both in the contorno as agent and in the internal contorno as guardian.
 
 #### Responsibilities
-  * _all general contorno participant responsibilities_.
-  * _all own contorno responsibilities_ that are not delegated to internal contornos.
+  * _all general contorno participant responsibilities._
+  * _all responsibilities of the contorno itself that are not delegated to internal contours._
 
 ## Quick comparison
 | | Guardian | Agent |
 | -- | -- | -- |
 | reason to exist | keep the contorno space and answer for its reason for existing. | evolve the contorno towards the reason for existing. |
 | participation | every guardian of a contorno is also a participant in the outer contorno as [agent](#agent). | if the agent is not the guardian of some internal contorno, her participation is restricted to the contorno as an agent.<br/>If the agent is the guardian of some internal contorno, her participation happens both in the contorno as agent and in the contorno as guardian. |
-| responsibilities | * all general responsibilities of outline participants. <br/> * all responsibilities of the contour itself that are not delegated to internal contours.<br/> * bring external contour information to all participants in your contour. If the outline in question is the organization itself, then bring information from the market, partners, investors, etc.<br/> * act on boosters with no progress in its outline.<br/> * propose a contorno strategy, requiring an integrative decision.<br/> * propose a contorno process, needing an integrative decision.<br/> * propose people to support the contorno.<br/> * take action on direct internal contornos without participants: invite people to them or remove the contorno, with integrative decision.<br/> * keep indicators updated in the system that the organization uses to work together.<br/> * keep the progress of projects up to date in the system that the organization uses to work together. | * _all contornos participant general responsibilities_.<br/>* _all contornos own responsibilities_ that are not delegated to internal contornos. |
+| responsibilities | * _all general contorno participant responsibilities._ <br/>* _all responsibilities of the contorno itself that are not delegated to internal contours._ <br/> * bring external contour information to all participants in your contour. If the outline in question is the organization itself, then bring information from the market, partners, investors, etc.<br/> * act on boosters with no progress in its outline.<br/> * propose a contorno strategy, requiring an integrative decision.<br/> * propose a contorno process, needing an integrative decision.<br/> * propose people to support the contorno.<br/> * take action on direct internal contornos without participants: invite people to them or remove the contorno, with integrative decision.<br/> * keep indicators updated in the system that the organization uses to work together.<br/> * keep the progress of projects up to date in the system that the organization uses to work together. | * _all general contorno participant responsibilities._ <br/>* _all responsibilities of the contorno itself that are not delegated to internal contours._ |
 
 ## Allocation of people in contornos
 To be able to be allocated in any way, a person must be a partner of the organization, whatever the form: hired collaborator, partner or other agreed form. And to become a partner, it is expected that there is some contorno with this responsibility, such as the [Partnership Maintenance](en/apps#partnership-maintainance).
