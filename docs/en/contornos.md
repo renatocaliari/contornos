@@ -79,7 +79,7 @@ Any pre-made model on the design of teams is flawed by nature precisely because 
 - **[Contractual relationship](apps#contractual-relationship)** *(✂️ Specialty; 🚧 Support; ⌚ Stable)*
 - **Financial** *(✂️ Specialty; 🚧 Support; ⌚ Stable)*
 - **Delivering value to the customer** *(✂️ Value Stream; 🚧 Development; ⌚ Stable)*
-   - **Research** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
+   - **Research** *(✂️ Forum; 🚧 Support; ⌚ Stable)*
    - **Platform engineering**: building and managing platforms to improving the lives of the engineering and accelerate software delivery *(✂️ Value Stream: Product; 🚧 Support; ⌚ Stable)*
    - **["Technology teaching platform"]** *(✂️ Value Stream: Product; 🚧 Development; ⌚ Stable)*
       - **["Get your first tech job or make a career transition"]** *(✂️ Value Stream: Intent; 🚧 Development; ⌚ Stable)*
@@ -87,9 +87,9 @@ Any pre-made model on the design of teams is flawed by nature precisely because 
          - **Product/service experience design** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
          - **Graphic/physical interface** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
          - **Implementation** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
-      - **Service** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
+      - **Customer Service** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
       - **Sales and Marketing** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
-      - **Research** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
+      - **Research** *(✂️ Specialty; 🚧 Support; ⌚ Stable)*
       - **Content** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
       - **Partnerships** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
       - **Machine Learning Algorithms** *(✂️ Specialty; 🚧 Support; ⌚ Stable)*
