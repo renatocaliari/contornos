@@ -584,6 +584,6 @@ Extraordinary actions are expected to occur **violating** strategy, process, res
 * perform the actions you deem appropriate.
 
 **Rules after extraordinary action:**
-* reveal the extraordinary action to the guardians of the impacted contornos, through a [booster](#boosters) with [warning intent](en/apps#declare-intention).
+* reveal the extraordinary action to the guardians of the impacted contornos, through a [booster](#boosters) with [Notification intent](en/apps#declare-intention).
 * create a [booster](#boosters) of [integrative decision](#types-of-boosters), proposing adaptations in contornos or agreements, if that resolves the issue when something similar comes up again.
 
