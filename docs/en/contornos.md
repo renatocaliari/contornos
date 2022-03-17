@@ -444,9 +444,14 @@ It doesn't mean that we can't use metrics for some contexts. But we should use i
 - **survival**, containing a target, in an **exceptional case** only when it is necessary to promote a quick change to **save** the business, product or service.
 
 **Recommendation:**
-- are related to aspects of quality and quantity in relation to the reason for existing, strategy and generated value generated from the perspective of customers in the contorno or engagement of people in the contornos. 
-- are based on results and not on activities (outcome-based and not activity-based).
-- are composed of leading and lagging indicators. Early indicators tell us about trends and predictive signals. Late indicators confirm an ongoing trend, related to throughput measurement. This includes, for example, information on whether a contorno is solving your demands.
+- Define indicators related to aspects of quality and quantity in relation to the reason for existing, strategy and generated value generated from the perspective of customers in the contorno or engagement of people in the contornos. 
+- Define indicators based on results and not on activities (outcome-based and not activity-based).
+- Have a composition of leading and lagging indicators. Early indicators tell us about trends and predictive signals. Late indicators confirm an ongoing trend, related to throughput measurement. This includes, for example, information on whether a contorno is solving your demands.
+
+**Template examples for writing leading indicators:**
+- Percentage of (members/new customers/returning customers) who do at least (the minimum threshold for user action) by (X period in time).
+  - **Example:** Percentage of members who have saved at least one item as a favorite in the last week.
+- Percentage of (customer segment) who take (action) in (specified context).
 
 ### Recurring practice confirmation indicators
 
@@ -455,7 +460,7 @@ These indicators provide visibility if any desired practice or activity is being
 They are proposed and decided by the contorno itself, in an integrative way, without the need to involve the external contorno.
 
 **Recommendation:**
-* are defined to enhance the strategy and generated value generated from the perspective of customers in the contorno or engagement of people in the contornos. 
+* Defined indicators to leverage the strategy and generated value from the perspective of customers in the contorno or engagement of people in the contornos. 
 
 # Who defines each contorno attribute?
 
