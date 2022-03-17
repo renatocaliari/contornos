@@ -297,12 +297,16 @@ São decisões situacionais, não previstas e definidas em acordos, estratégia 
 
 ![Decisões operacionais](assets/decisoes.png)
 
-Se uma decisão operacional de um contorno:
-- É segura, seja reversível ou irreversível: a participante do contorno toma a decisão, sem necessidade de consultar outras pessoas. As participantes do contorno já detêm autoridade para decidir. **A maioria das decisões provavelmente se enquadrará aqui. A ideia do sistema [Contornos] é justamente distribuir decisões e autoridade.**
-- É arriscada e reversível: é recomendado que a participante do contorno se aconselhe com mais pessoas, mas ainda tendo autoridade sobre a decisão. Ou seja, ela não precisa tentar agradar, adaptar ou justificar sua decisão. A intenção é que ela possua mais conhecimento e perspectivas sobre o assunto e contexto antes de tomar uma decisão.
-- É irreversível e arriscada: é recomendado que a participante do contorno tome uma [decisão integrativa](#decisões-integrativas) com as demais participantes do contorno.
+Se uma decisão operacional de um contorno é segura, seja reversível ou irreversível, a participante do contorno toma a decisão, sem necessidade de consultar outras pessoas. As participantes do contorno já detêm autoridade para decidir. 
+**A maioria das decisões provavelmente se enquadrará aqui. A ideia do sistema [Contornos] é justamente distribuir decisões e autoridade.**
 
-Evoluímos para tomar decisões muito rapidamente com base em uma varredura parcial de dados, privilegiando nossas experiências mais recentes ou mais marcantes [[1](https://en.wikipedia.org/wiki/Peak%E2%80%93end_rule), [2](https://en.wikipedia.org/wiki/Recency_bias), [3](https://en.wikipedia.org/wiki/Availability_heuristic)]. Por isso, a intenção é minimizar nossos vieses e aumentar os dados para tomarmos melhores decisões em determinados contextos, como sugerido acima, e ainda assim termos formas de avançarmos sem ficarmos paralisados.
+Em poucos casos, quando uma decisão operacional:
+- É arriscada e reversível, é recomendado que a participante do contorno se aconselhe com mais pessoas, mas ainda tendo autoridade sobre a decisão. Ou seja, ela não precisa tentar agradar, adaptar ou justificar sua decisão. A intenção é que ela possua mais conhecimento e perspectivas sobre o assunto e contexto antes de tomar uma decisão.
+- É irreversível e arriscada, é recomendado que a participante do contorno tome uma [decisão integrativa](#decisões-integrativas) com as demais participantes do contorno.
+
+Evoluímos para tomar decisões muito rapidamente com base em uma varredura parcial de dados, privilegiando nossas experiências mais recentes ou mais marcantes [[1](https://en.wikipedia.org/wiki/Peak%E2%80%93end_rule), [2](https://en.wikipedia.org/wiki/Recency_bias), [3](https://en.wikipedia.org/wiki/Availability_heuristic)]. 
+
+Portanto, a intenção é minimizar nossos vieses e aumentar os dados para tomar decisões **arriscadas ou irreversíveis**, como sugerido acima, e ainda ter formas de avançar rapidamente na maioria das questões operacionais do dia-a-dia. 
 
 ## Estratégia (’Como?’)
 A estratégia é uma declaração explícita de diretrizes, limites de segurança ou critérios mínimos que facilitam tomadas de decisões, priorizações e experimentos com relaçao à razão de existir do contorno. 
@@ -417,7 +421,7 @@ Indicadores podem ser do tipo **métricas** ou do tipo **confirmação de práti
 **Lembre-se:**
 - Indicadores raramente fornecerem respostas definitivas sobre algo. Use-os para potencializar conversas, descobertas e apoiar tomadas de decisão com o apoio de outras informações.
 
-**É recomendado que:** 
+**Recomendação:** 
 - Continuamente observe-se a forma que clientes avaliam um resultado para adaptar os indicadores.
 
 ### Indicadores do tipo métricas
@@ -443,7 +447,7 @@ Não significa que não possamos usar métricas para alguns contextos. Mas devem
 - **resultado**, indicadores que clientes - internos ou externos - utilizam em suas tomadas de decisões e escolha dos serviços ou produtos. É possível ter delimitador inferior e/ou superior. Abaixo do limite inferior, não está atendendo necessidades de clientes. Acima do superior pode indicar que clientes não percebem os benefícios a mais e também pode estar super servindo desnecessariamente quando causa prejuízos em outros aspectos do negócio, serviço ou produto.
 - **sobrevivência**, contendo um alvo, em caso **excepcional** apenas quando for necessário promover uma mudança rápida para **salvar** o negócio, produto ou serviço.
 
-**É recomendado que:** 
+**Recomendação:** 
 - sejam relacionados a aspectos de qualidade e quantidade com relação à razão de existir, estratégia e valor gerado gerado **na perspectiva de clientes do contorno ou engajamento de pessoas dos contornos**.
 - sejam baseados em resultado e não em atividades (outcome-based e não activity-based).
 - sejam compostos por indicadores iniciais (leading) e atrasados (lagging). Indicadores iniciais nos dizem sobre tendências e sinais preditivos. Indicadores atrasados confirmam uma tendência em andamento, tendo relação com medição de rendimento ("throughput"). Isso inclui, por exemplo, informações se um contorno está resolvendo suas demandas.
@@ -454,7 +458,7 @@ Indicadores do tipo **confirmação** dão visibilidade se alguma prática ou at
 
 Eles são propostos e decididos pelo próprio contorno, de forma integrativa, sem necessidade de envolvimento do contorno externo.
 
-**É recomendado que:** 
+**Recomendação:** 
 - sejam definidos para potencializar a estratégia e valor gerado gerado **na perspectiva de clientes do contorno ou engajamento de pessoas dos contornos**.
 
 # Quem define cada atributo do contorno?
@@ -517,7 +521,7 @@ As possibilidades de impulsionadores são quase que infinitas, surgindo a todo m
 # Decisão integrativa
 Decisão integrativa é um tipo de decisão **em consentimento** envolvendo todas as participantes de uma decisão. Quando não especificado, por padrão, uma decisão integrativa envolve todas participantes de um contorno.
 
-Consentimento não é questão de preferência pessoal e sim de saber se há objeções. 
+Diferente de consenso, em que as pessoas buscam concordância e alinhamento de preferências pessoais, consentimento busca apenas por objeções.
 
 ## Objeções válidas
 Em contornos há 3 critérios para considerar uma objeção válida:
@@ -525,14 +529,14 @@ Em contornos há 3 critérios para considerar uma objeção válida:
   2. **Dano causado pela proposta**: revela dano que só existirá caso a proposta seja colocada em prática e que não haverá oportunidade adequada para adaptação antes que a proposta cause o dano.
   3. **Evidências**: é baseada em evidências. Caso seja algo preditivo e não passe pelo critério 2, não considere uma objeção válida nesse processo.
 
-Se houver objeções, a pessoa que fez a proposta deve adaptá-la para integrar as objeções. Se não for possivel, a proposta é arquivada.
-Se houver adaptação, é necessário consentir sobre a alteração com as participantes do contorno.
+**Regras:**
+* Uma decisão integrativa, por padrão, é realizada para todos acordos estruturais.
+* Se houver objeções, a pessoa que fez a proposta deve adaptá-la para integrar as objeções. Se não for possivel, a proposta é arquivada.
+* Se houver adaptação, é necessário consentir sobre a alteração com as participantes do contorno.
 
-Uma decisão integrativa, por padrão, é realizada para todos acordos estruturais.
-
-É recomendado que utilize o app de [decisão integrativa de proposta](#decisão-integrativa).
- 
-Caso uma decisão impacte outros contornos é indicado que compartilhe a proposta para reações das pessoas dos contornos impactados, e apenas depois realizar decisão integrativa no contorno que criou a proposta.
+**Recomendações:**
+* Caso uma decisão impacte outros contornos é indicado que compartilhe a proposta para reações das pessoas dos contornos impactados, e apenas depois realize decisão integrativa no contorno que criou a proposta.
+* Utilize o app de [decisão integrativa de proposta](#decisão-integrativa).
 
 ## Processo para proposta com decisão integrativa
 ### Ideação e cocriação de proposta
