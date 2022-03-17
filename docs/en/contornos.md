@@ -21,7 +21,7 @@ The organizational structure is defined by contornos. The people in the organiza
 The system starts with the maxim that _"everything is allowed as long as it is not explicitly forbidden"_ in some [agreement](#agreements) containing restriction or defined as [resources o exclusive control](#resources-of-exclusive-control-how) of some contorno instead of the common inverse in many organizations that _"everything is forbidden as long as it is explicitly allowed"_. 
 
 # Contornos
-A contorno is a scope delimited by reason for existence, responsibilities, resources of exclusive control, and proper agreements.
+A contorno is a scope delimited by reason for existing, responsibilities, resources of exclusive control, and proper agreements.
 One person can be on several contornos, and one contorno can contain several people.
 
 The definition of Contornos avoids deciding all the time what needs to be done and who will do something.
@@ -119,7 +119,7 @@ Examples demonstrating contexts for creating contornos in case of recurring patt
  
 
 ## How to adapt or remove a contorno?
-Anytime someone perceives that a contorno needs, or is desirable, to be adapted, whatever the attribute, or that it no longer has a reason to exist, a proposal can be made to carry out this alteration or removal of the contorno.
+Anytime someone perceives that a contorno needs, or is desirable, to be adapted, whatever the attribute, or that it no longer has a reason for existing, a proposal can be made to carry out this alteration or removal of the contorno.
 
 To remove a contorno, an integrative decision by the external contorno is necessary, being able to decide which contornos internal to the contorno being deleted they want to bring to the contorno that is making the decision.
 
@@ -561,21 +561,22 @@ When submitting a proposal for integrative decision, use this process:
 The integrative decision can be performed asynchronously using the [asynchronous integrative-decision of proposal] app (en/apps#integrative-asynchronous-of-proposal-decision).
 
 # Extraordinary action
-Extraordinary actions are expected to occur violanting strategy, process, resources of exclusive control or agreements.
+Rembember that everything is allowed as long as it is not explicitly forbidden. 
+Extraordinary actions are expected to occur **violating** strategy, process, resources of exclusive control or agreements.
 
-These actions meet two needs:
+**These actions meet two needs:**
 * prevent or mitigate negative impacts or address a critical opportunity.
 * shed light on limitations of the current structure.
 
-Condition for extraordinary actions:
+**Condition for extraordinary actions:**
 * negative impacts or critical opportunities that, in anyone's judgment, cannot wait for the adaptation of attributes from one contorno or processing one booster on the authority of another contorno.
 
-Rules for performing an extraordinary action:
+**Rules for performing an extraordinary action:**
 * consider the context and available information of the current structure and the risk or opportunity.
 * make the best judgment possible with what you have at your disposal.
 * perform the actions you deem appropriate.
 
-Rules after extraordinary action:
+**Rules after extraordinary action:**
 * reveal the extraordinary action to the guardians of the impacted contornos, through a [booster](#boosters) with [warning intent](en/apps#declare-intention).
 * create a [booster](#boosters) of [integrative decision](#types-of-boosters), proposing adaptations in contornos or agreements, if that resolves the issue when something similar comes up again.
 
