@@ -311,10 +311,10 @@ Nela é possível conter [regras simples, restrições mínimas, renúncias ou p
 
 **Regras:**
 - A estratégia de um contorno deve ser alinhada com a estratégia do contorno externo. 
-- A estratégia é proposta pela guardiã do contorno e definida em [decisão integrativa](#decisão-integrativa) no contorno externo, no qual a guardiã participa. Qualquer pessoa do contorno pode sugerir alterações da estratégia à guardiã do contorno.
+- A estratégia é proposta pela guardiã do contorno e definida em [decisão integrativa](#decisão-integrativa) no contorno.
 
 **É recomendando que ao alterar uma estratégia:**
-- os indicadores sejam revisados para que contemplem a nova estratégia. 
+- os indicadores sejam revisados para refletir a nova estratégia. 
 - os projetos sejam repriorizados de acordo com a nova estratégia. 
 
 ## Processo (’Como?’)
