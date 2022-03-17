@@ -304,15 +304,16 @@ Se uma decisão operacional de um contorno:
 Evoluímos para tomar decisões muito rapidamente com base em uma varredura parcial de dados, privilegiando nossas experiências mais recentes ou mais marcantes [[1](https://en.wikipedia.org/wiki/Peak%E2%80%93end_rule), [2](https://en.wikipedia.org/wiki/Recency_bias), [3](https://en.wikipedia.org/wiki/Availability_heuristic)]. Por isso, a intenção é minimizar nossos vieses e aumentar os dados para tomarmos melhores decisões em determinados contextos, como sugerido acima, e ainda assim termos formas de avançarmos sem ficarmos paralisados.
 
 ## Estratégia (’Como?’)
-A estratégia é uma declaração explícita de diretrizes, limites de segurança ou critérios mínimos que facilitam tomadas de decisões, priorizações e experimentos à razão de existir do contorno. Ela deve ser alinhada a estratégia do contorno externo. 
-
+A estratégia é uma declaração explícita de diretrizes, limites de segurança ou critérios mínimos que facilitam tomadas de decisões, priorizações e experimentos com relaçao à razão de existir do contorno. 
 Nela é possível conter [regras simples, restrições mínimas, renúncias ou práticas recorrentes (checklist)](references#refer%C3%AAncias-sobre-estrat%C3%A9gias).
 
-A estratégia é proposta pela guardiã do contorno, **alinhada com a estratégia do contorno externo** e definida em [decisão integrativa](#decisão-integrativa) no próprio contorno.
+**Regras:**
+- A estratégia de um contorno deve ser alinhada com a estratégia do contorno externo. 
+- A estratégia é proposta pela guardiã do contorno e definida em [decisão integrativa](#decisão-integrativa) no contorno externo, no qual a guardiã participa. Qualquer pessoa do contorno pode sugerir alterações da estratégia à guardiã do contorno.
 
-Quando uma estratégia é alterada, é necessário rever os indicadores para que além de trazer informação relacionada à razão de existir do contorno, também possam contemplar a nova estratégia. Além disso é necessário notificar o contorno externo.
-
-A partir daí priorize os projetos que estejam alinhados à nova estratégia. 
+**É recomendando que ao alterar uma estratégia:**
+- os indicadores sejam revisados para que contemplem a nova estratégia. 
+- os projetos sejam repriorizados de acordo com a nova estratégia. 
 
 ## Processo (’Como?’)
 ![processo](assets/processo.png)
@@ -410,31 +411,46 @@ Acordos pessoais são relacionados às pessoas, como, por exemplo, comportamento
 ## Indicadores
 Cada contorno possui indicadores que podem ser compartilhados por mais de um contorno.
 
-Indicadores podem ser do tipo **métricas** [1] ou **confirmação** [2] de prática recorrente.
-Apesar de indicadores raramente fornecerem respostas definitivas sobre algo, eles promovem conversas, descobertas, entendimento e apoiam tomadas de decisão e adaptações usando uma base em comum.
+Indicadores podem ser do tipo **métricas** **confirmação de prática recorrente**.
 
-1. um contorno possivelmente terá indicadores do tipo **métricas**, decidido pelo contorno externo, para indicar saúde e resultados.
-2. se a estratégia também possui práticas recorrentes a serem realizadas, provavelmente o próprio contorno definirá indicadores do tipo **confirmação** para dar visibilidade se tal prática está sendo realizada na recorrência esperada (ex: diariamente, semanalmente, mensalmente, etc).
+**Lembre-se:**
+- Indicadores raramente fornecerem respostas definitivas sobre algo. Use-os para potencializar conversas, descobertas e apoiar tomadas de decisão com o apoio de outras informações.
 
-**Regras:**
-- o contorno externo define por decisão integrativa os principais indicadores do contorno. Lembrando que a guardiã do contorno é participante do contorno externo.
-- o próprio contorno também pode adicionar outros indicadores do tipo métrica ou confirmação, relativos à sua estratégia. 
-- os indicadores têm frequência de compartilhamento sobre atualização definida pelo contorno externo. A guardiã do contorno compartilha o último resultado dos indicadores na frequência acordada.
+**É recomendado que:** 
+- Continuamente observe-se a forma que clientes avaliam um resultado para adaptar os indicadores.
+
+### Indicadores do tipo métricas
+
+Indicadores do tipo **métricas** são propostos pela guardiã do contorno e definidos em [decisão integrativa](#decisão-integrativa) no contorno externo, no qual a guardiã participa. Qualquer pessoa do contorno pode sugerir alterações desses indicadors à guardiã do contorno.
+
+**Lembre-se:**
+- Nem tudo é mensurável.
+- Muito do que tentamos mensurar talvez não valha o esforço. A facilidade em mensurar algo pode ser inversamente proporcional ao significado do que é medido.
+- Métricas não substituem a realidade. Os dados são uma abstração da realidade baseada em suposições sobre como categorizar fenômenos não estruturados.
+- Métricas não substituem julgamento baseado em experiência e conhecimento.
+- Métricas ofuscam a complexidade de um contexto. Em um ambiente complexo não é possível ter distinções expícitas de correlação e muito menos de efeito e causa. Não é possível saber todas variáveis envolvidas. Em cenários complexos, precisamos aprender realizar experimentos. Em vez de tentar ter todos os dados que possibilitem a previsão de um resultado, podemos melhorar nosso processo de tomada de decisão ao longo do tempo. Podemos definir uma versão de experimento simples, boa e segura o suficiente para o momento, mitigando riscos e considerando possíveis alternativas.
+- Todo processo de mensuração é enviesado: quais dados iremos coletar, onde e como iremos coletar, como iremos compilar, onde e como iremos apresentar: quais fontes, quais resultados, quais tipos  de gráficos, qual período de análise, quais comparações, etc. E por isso, os resultados são enviesados.
+
+Não significa que não possamos usar métricas para alguns contextos. Mas devemos usar com moderação. Após muita reflexão e questionamento tanto pelas pessoas que terão seu trabalho medido e avaliado quanto pelas pessoas que irão participar do processo de manuseamento dos dados.
+
+**Categorias de métricas:**
+- **saúde**, para monitorar aspectos importantes do negócio, serviço, produto ou engajamento de pessoas em um contorno. É possível ter delimitador inferior e superior que indiquem o intervalo de saúde. 
+- **resultado**, indicadores que clientes - internos ou externos - utilizam em suas tomadas de decisões e escolha dos serviços ou produtos. É possível ter delimitador inferior e/ou superior. Abaixo do limite inferior, não está atendendo necessidades de clientes. Acima do superior pode indicar que clientes não percebem os benefícios a mais e também pode estar super servindo desnecessariamente quando causa prejuízos em outros aspectos do negócio, serviço ou produto.
+- **sobrevivência**, contendo um alvo, em caso **excepcional** apenas quando for necessário promover uma mudança rápida para **salvar** o negócio, produto ou serviço.
 
 **É recomendado que:** 
 - sejam relacionados a aspectos de qualidade e quantidade com relação à razão de existir, estratégia e valor gerado gerado **na perspectiva de clientes do contorno ou engajamento de pessoas dos contornos**.
-- mudanças na estratégia de um contorno levam a adaptações de alguns inidicadores que possam refletir a execução e resultado da estratégia.
-- mudanças na forma que clientes avaliam um resultado levam a adaptações de alguns indicadores que possam refletir a avaliação desse resultado.
-
-### Indicadores do tipo métricas
-Categorias:
-- de **saúde**, para monitorar aspectos importantes do negócio, serviço, produto ou engajamento de pessoas em um contorno. É possível ter delimitador inferior e superior que indiquem o intervalo de saúde. 
-- de **resultado**, indicadores que clientes - internos ou externos - utilizam em suas tomadas de decisões e escolha dos serviços ou produtos. É possível ter delimitador inferior e/ou superior. Abaixo do limite inferior, não está atendendo necessidades de clientes. Acima do superior pode indicar que clientes não percebem os benefícios a mais e também pode estar super servindo desnecessariamente quando causa prejuízos em outros aspectos do negócio, serviço ou produto.
-- de **sobrevivência**, contendo um alvo, em caso excepcional apenas quando for necessário promover uma mudança rápida para salvar o negócio, produto ou serviço.
-
-**É recomendado que:** 
 - sejam baseados em resultado e não em atividades (outcome-based e não activity-based).
 - sejam compostos por indicadores iniciais (leading) e atrasados (lagging). Indicadores iniciais nos dizem sobre tendências e sinais preditivos. Indicadores atrasados confirmam uma tendência em andamento, tendo relação com medição de rendimento ("throughput"). Isso inclui, por exemplo, informações se um contorno está resolvendo suas demandas.
+
+### Indicadores do tipo confirmação de prática recorrente
+
+Indicadores do tipo **confirmação** dão visibilidade se alguma prática ou atividade desejada está sendo realizada na recorrência esperada (ex: diariamente, semanalmente, mensalmente, etc).
+
+Eles são propostos e decididos pelo próprio contorno, de forma integrativa, sem necessidade de envolvimento do contorno externo.
+
+**É recomendado que:** 
+- sejam definidos para potencializar a estratégia e valor gerado gerado **na perspectiva de clientes do contorno ou engajamento de pessoas dos contornos**.
 
 # Quem define cada atributo do contorno?
 
@@ -447,7 +463,8 @@ Categorias:
 | recursos de controle exclusivo | ✔️ |  |
 | estratégia | | ✔️ |
 | processo | | ✔️ |
-| indicadores | ✔️ (define os principais) | ✔️ (pode adicionar outros) |
+| indicadores:métricas | ✔️ |  |
+| indicadores:confirmação | ✔️ |  |
 
 ## Exceção: maior contorno, a organização em si
 
