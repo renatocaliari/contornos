@@ -150,7 +150,7 @@ In addition to these two structural roles, it is possible to install [extra stru
   * keep the contorno space and answer for its reason for existing.
 
 #### Participation
-  * every guardian of a contorno is also a participant in the outer contorno as [agent](#agent).
+  * every guardian of a contorno is also a participant in the external contorno as [agent](#agent).
 
 #### Responsibilities
   * _all general contorno participant responsibilities._
@@ -193,7 +193,7 @@ The guardian has no authority to:
 | | Guardian | Agent |
 | -- | -- | -- |
 | reason to exist | keep the contorno space and answer for its reason for existing. | evolve the contorno towards the reason for existing. |
-| participation | every guardian of a contorno is also a participant in the outer contorno as [agent](#agent). | if the agent is not the guardian of some internal contorno, her participation is restricted to the contorno as an agent.<br/>If the agent is the guardian of some internal contorno, her participation happens both in the contorno as agent and in the contorno as guardian. |
+| participation | every guardian of a contorno is also a participant in the external contorno as [agent](#agent). | if the agent is not the guardian of some internal contorno, her participation is restricted to the contorno as an agent.<br/>If the agent is the guardian of some internal contorno, her participation happens both in the contorno as agent and in the contorno as guardian. |
 | responsibilities | * _all general contorno participant responsibilities._ <br/>* _all responsibilities of the contorno itself that are not delegated to internal contornos._ <br/> * bring external contorno information to all participants in your contorno. If the contorno in question is the organization itself, then bring information from the market, partners, investors, etc.<br/> * act on boosters with no progress in its contorno.<br/> * propose strategy, indicators and process for the contorno, needing an integrative decision. <br/> * propose people to support the contorno. <br/> * take action on direct internal contornos without participants: invite people to them or remove the contorno, with integrative decision. | * _all general contorno participant responsibilities._ <br/>* _all responsibilities of the contorno itself that are not delegated to internal contornos._ |
 
 ## Allocation of people in contornos
@@ -333,7 +333,7 @@ Rules:
 ## Resources of exclusive control (’How?’)
 Each contorno can have resources (material, digital or conceptual) of exclusive control. Anyone from another contorno wishing to manipulate this resource will need to ask for the desired action from the contorno's participants who have exclusive control.
 
-The inner contornos inherit the resources of exclusive control of the outer contorno.
+The inner contornos inherit the resources of exclusive control of the external contorno.
 
 It is important to remember that no one person in the organization has control over the resources, but the very contorno in which it belongs. If at any point she leaves the contorno, she loses exclusive control of the resource.
 
@@ -347,7 +347,7 @@ Simple rule:
 ## Projects (’What?’)
 It is suggested that every contorno has its own project board where it can give visibility to the progress of its projects.
 
-Projects have frequency of sharing over update defined by the outer contorno. The project contorno guardian shares the main points of progress, as well as referencing how this connects to the outer circle strategy.
+Projects have frequency of sharing over update defined by the external contorno. The project contorno guardian shares the main points of progress, as well as referencing how this connects to the outer circle strategy.
 
 Projects and tasks are the “what” that connects with the “how” ーstrategy + responsibilities + sole control ー that connects with the “why” ー reason to exist.
 
@@ -436,7 +436,7 @@ It doesn't mean that we can't use metrics for some contexts. But we should use i
 
 ---
 
-Metric categories: 
+**Metric categories:** 
 - **health**, to monitor important aspects of the business, service, product or people engagement in a contorno. It is possible to have lower and upper bound that indicate the range of health. Examples of metrics indicator model, without delimiters, related to people engagement with a product or service:
 - **result**, indicators that customers - internal or external - use in their decision-making and choice of services or products. It is possible to have a lower and/or higher delimiter. Below the lower limit, it is not meeting customer needs. Above superior may indicate that customers do not perceive the added benefits and may also be overserving unnecessarily when it causes harm to other aspects of the business, service or product.
 - **survival**, containing a target, in an **exceptional case** only when it is necessary to promote a quick change to **save** the business, product or service.
@@ -457,7 +457,7 @@ They are proposed and decided by the contorno itself, in an integrative way, wit
 
 # Who defines each contorno attribute?
 
-| attribute | the outer contorno | the contorno itself |
+| attribute | the external contorno | the contorno itself |
 | -- | -- | -- |
 | nickname | | ✔️ |
 | scope | ✔️ | |
@@ -466,8 +466,8 @@ They are proposed and decided by the contorno itself, in an integrative way, wit
 | resources of exclusive control | ✔️ | |
 | strategy | | ✔️ |
 | process | | ✔️ |
-| indicadores:métricas 	heavy_check_mark | ✔️ |	|
-| indicadores:confirmação | | ✔️ |
+| indicators:metrics 	heavy_check_mark | ✔️ |	|
+| indicators:recurring practice confirmation | | ✔️ |
 
 ## Exception: greater contorno, the organization itself
 
