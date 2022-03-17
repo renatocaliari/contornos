@@ -431,7 +431,11 @@ Indicadores do tipo **métricas** são propostos pela guardiã do contorno e def
 - Métricas ofuscam a complexidade de um contexto. Em um ambiente complexo não é possível ter distinções expícitas de correlação e muito menos de efeito e causa. Não é possível saber todas variáveis envolvidas. Em cenários complexos, precisamos aprender realizar experimentos. Em vez de tentar ter todos os dados que possibilitem a previsão de um resultado, podemos melhorar nosso processo de tomada de decisão ao longo do tempo. Podemos definir uma versão de experimento simples, boa e segura o suficiente para o momento, mitigando riscos e considerando possíveis alternativas.
 - Todo processo de mensuração é enviesado: quais dados iremos coletar, onde e como iremos coletar, como iremos compilar, onde e como iremos apresentar: quais fontes, quais resultados, quais tipos  de gráficos, qual período de análise, quais comparações, etc. E por isso, os resultados são enviesados.
 
+---
+
 Não significa que não possamos usar métricas para alguns contextos. Mas devemos usar com moderação. Após muita reflexão e questionamento tanto pelas pessoas que terão seu trabalho medido e avaliado quanto pelas pessoas que irão participar do processo de manuseamento dos dados.
+
+---
 
 **Categorias de métricas:**
 - **saúde**, para monitorar aspectos importantes do negócio, serviço, produto ou engajamento de pessoas em um contorno. É possível ter delimitador inferior e superior que indiquem o intervalo de saúde. 
