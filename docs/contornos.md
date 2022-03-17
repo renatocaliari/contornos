@@ -88,7 +88,7 @@ A possibilidade abaixo mostra uma mistura de contornos de suporte da organizaç�
          - **Desenho da experiência de produto/serviço** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
          - **Interface gráfica/física** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
          - **Implementação** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
-      - **Atendimento** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
+      - **Atendimento ao cliente** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
       - **Vendas e Marketing** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
       - **Pesquisa** *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
       - **Conteúdo** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
