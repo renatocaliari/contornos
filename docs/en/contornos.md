@@ -294,8 +294,6 @@ The responsibilities of a contorno are decided by the external contorno through 
 ### Operational decisions
 They are situational decisions, not foreseen and defined in agreements, strategy and process, and which are within the scope of reason to exist and responsibilities of some kind.
 
-![Operating decisions](../assets/decisoes.png)
-
 If an operational decision of a contorno is safe, whether reversible or irreversible, the contorno participant makes the decision, without the need to consult other people. Contorno participants already have the authority to decide. 
 **Most decisions will likely fit here. The idea of the [Contornos] system is precisely to distribute decisions and authority.**
 
