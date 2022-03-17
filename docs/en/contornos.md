@@ -466,8 +466,8 @@ They are proposed and decided by the contorno itself, in an integrative way, wit
 | resources of exclusive control | ✔️ | |
 | strategy | | ✔️ |
 | process | | ✔️ |
-| indicadores:métricas 	heavy_check_mark | ✔️ |	
-| indicadores:confirmação | ✔️ |
+| indicadores:métricas 	heavy_check_mark | ✔️ |	|
+| indicadores:confirmação | | ✔️ |
 
 ## Exception: greater contorno, the organization itself
 
