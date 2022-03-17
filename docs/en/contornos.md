@@ -431,7 +431,9 @@ Metric indicators are proposed by the contorno guardian and defined in an integr
 * Every measurement process is biased: what data will we collect, where and how will we collect it, how will we compile it, where and how will we present it: what sources, what results, what types of graphs, what period of analysis, what comparisons, etc. And so the results are biased.
 
 ---
+
 It doesn't mean that we can't use metrics for some contexts. But we should use it sparingly. After much reflection and questioning, both by the people who will have their work measured and evaluated and by the people who will participate in the data handling process. 
+
 ---
 
 Metric categories: 
