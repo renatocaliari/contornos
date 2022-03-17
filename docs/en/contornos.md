@@ -193,7 +193,7 @@ The guardian has no authority to:
 ## Quick comparison
 | | Guardian | Agent |
 | -- | -- | -- |
-| reason to exist | keep the contorno space and answer for its reason for existing. | evolve the contorno towards the reason for existing. |
+| reason for existing | keep the contorno space and answer for its reason for existing. | evolve the contorno towards the reason for existing. |
 | participation | every guardian of a contorno is also a participant in the external contorno as [agent](#agent). | if the agent is not the guardian of some internal contorno, her participation is restricted to the contorno as an agent.<br/>If the agent is the guardian of some internal contorno, her participation happens both in the contorno as agent and in the contorno as guardian. |
 | responsibilities | * _all general contorno participant responsibilities._ <br/>* _all responsibilities of the contorno itself that are not delegated to internal contornos._ <br/> * bring external contorno information to all participants in your contorno. If the contorno in question is the organization itself, then bring information from the market, partners, investors, etc.<br /> * be responsible for indicators and contour projects.<br/> * act on boosters with no progress in its contorno.<br/> * propose strategy, indicators and process for the contorno, needing an integrative decision. <br/> * propose people to support the contorno. <br/> * take action on direct internal contornos without participants: invite people to them or remove the contorno, with integrative decision. | * _all general contorno participant responsibilities._ <br/>* _all responsibilities of the contorno itself that are not delegated to internal contornos._ |
 
@@ -292,7 +292,7 @@ To prevent this from happening it is necessary to create a structural [agreement
 The responsibilities of a contorno are decided by the external contorno through integrative decision.
 
 ### Operational decisions
-They are situational decisions, not foreseen and defined in agreements, strategy and process, and which are within the scope of reason to exist and responsibilities of some kind.
+They are situational decisions, not foreseen and defined in agreements, strategy and process, and which are within the scope of reason for existing and responsibilities of some kind.
 
 If an operational decision of a contorno is safe, whether reversible or irreversible, the contorno participant makes the decision, without the need to consult other people. Contorno participants already have the authority to decide. 
 **Most decisions will likely fit here. The idea of the [Contornos] system is precisely to distribute decisions and authority.**
@@ -351,7 +351,7 @@ It is suggested that every contorno has its own project board where it can give 
 
 Projects have frequency of sharing over update defined by the external contorno. The project contorno guardian shares the main points of progress, as well as referencing how this connects to the outer circle strategy.
 
-Projects and tasks are the “what” that connects with the “how” ーstrategy + responsibilities + sole control ー that connects with the “why” ー reason to exist.
+Projects and tasks are the “what” that connects with the “how” ーstrategy + responsibilities + sole control ー that connects with the “why” ー reason for existing.
 
 ### Request for projects or tasks
 
@@ -468,7 +468,7 @@ They are proposed and decided by the contorno itself, in an integrative way, wit
 | -- | -- | -- |
 | nickname | | ✔️ |
 | scope | ✔️ | |
-| reason to exist | ✔️ | |
+| reason for existing | ✔️ | |
 | responsibilities | ✔️ | |
 | resources of exclusive control | ✔️ | |
 | strategy | | ✔️ |
