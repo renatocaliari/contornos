@@ -423,7 +423,7 @@ Indicadores podem ser do tipo **métricas** ou do tipo **confirmação de práti
 
 ### Indicadores do tipo métricas
 
-Indicadores do tipo **métricas** são propostos pela guardiã do contorno e definidos em [decisão integrativa](#decisão-integrativa) no contorno externo, no qual a guardiã participa. Qualquer pessoa do contorno pode sugerir alterações desses indicadors à guardiã do contorno.
+Indicadores do tipo **métricas** são propostos pela guardiã do contorno e definidos em [decisão integrativa](#decisão-integrativa) no contorno externo, no qual a guardiã participa. Qualquer pessoa do contorno pode sugerir alterações desses indicadores à guardiã do contorno.
 
 **Lembre-se:**
 - Nem tudo é mensurável.
