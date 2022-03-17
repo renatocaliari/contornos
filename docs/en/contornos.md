@@ -229,7 +229,8 @@ When making an integrative decision of [nominating](en/apps#nominating-people-fo
 When allocating a person to a contorno, it is necessary to define the frequency of revaluation of this allocation.
 Guardians and agents will have their participation [evaluated periodically] (en/apps#evaluation-in-a-contorno), according to the definition of frequency, in the contornos in which they participate.
 
-It is recommended to use the [Appraisal in a contorno](en/apps#appraisal-in-a-contorno).
+**Recommendation:**
+* It is recommended to use the [Appraisal in a contorno](en/apps#appraisal-in-a-contorno).
 
 ### Withdrawal of people from contornos
 Anyone can opt out of a contorno by notifying the participants of the contorno in advance.
