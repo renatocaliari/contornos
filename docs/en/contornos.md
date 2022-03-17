@@ -80,8 +80,8 @@ Any pre-made model on the design of teams is flawed by nature precisely because 
 - **Financial** *(✂️ Specialty; 🚧 Support; ⌚ Stable)*
 - **Delivering value to the customer** *(✂️ Value Stream; 🚧 Development; ⌚ Stable)*
    - **Research** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
-   - **"Technology teaching platform"** *(✂️ Value Stream: Product; 🚧 Development; ⌚ Stable)*
-      - **"Get your first tech job or make a career transition"** *(✂️ Value Stream: Intent; 🚧 Development; ⌚ Stable)*
+   - **["Technology teaching platform"]** *(✂️ Value Stream: Product; 🚧 Development; ⌚ Stable)*
+      - **["Get your first tech job or make a career transition"]** *(✂️ Value Stream: Intent; 🚧 Development; ⌚ Stable)*
          - **Modeling of initiatives** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
          - **Product/service experience design** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
          - **Graphic/physical interface** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
@@ -92,7 +92,7 @@ Any pre-made model on the design of teams is flawed by nature precisely because 
       - **Content** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
       - **Partnerships** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
       - **Machine Learning Algorithms** *(✂️ Specialty; 🚧 Support; ⌚ Stable)*
-   - **Experimentation on new Product B** *(✂️ Value Stream: Product; 🚧 Development; ⌚ Temporary)*
+   - **[Experimentation on a new Product B]** *(✂️ Value Stream: Product; 🚧 Development; ⌚ Temporary)*
 
 ## How to map current scopes of the organization that reflect possible contornos?
 
