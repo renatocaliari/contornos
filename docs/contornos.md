@@ -67,8 +67,6 @@ Caso interesse, consulte materiais como [Team Topologies](https://www.amazon.com
 ## Exemplo de estrutura de contornos
 Qualquer modelo pré-fabricado sobre o desenho de times é falho por natureza justamente por não refletir ou se adequar à realidade. Porém, alguns podem ser úteis para inspirar e iniciar experimentos. Não existe receita universal.
 
-A possibilidade abaixo mostra uma mistura de contornos de suporte da organização como um todo com contornos por fluxo de valor, tendo também contornos por especialidade internamente. 
-
 **Exemplo:**
 - **Design Organizacional** *(🧭 Especialidade;🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
 - **Cuidado** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
