@@ -156,6 +156,7 @@ In addition to these two structural roles, it is possible to install [extra stru
   * _all general contorno participant responsibilities._
   * _all responsibilities of the contorno itself that are not delegated to internal contornos._
   * bring external contorno information to all participants in your contorno. If the contorno in question is the organization itself, then bring information from the market, partners, investors, etc.
+  * be responsible for indicators and contour projects. 
   * act on [boosters](#boosters) with no progress in its contorno.
   * propose strategy, indicators and process for the contorno, needing an integrative decision.
   * propose people to support the contorno. 
@@ -194,7 +195,7 @@ The guardian has no authority to:
 | -- | -- | -- |
 | reason to exist | keep the contorno space and answer for its reason for existing. | evolve the contorno towards the reason for existing. |
 | participation | every guardian of a contorno is also a participant in the external contorno as [agent](#agent). | if the agent is not the guardian of some internal contorno, her participation is restricted to the contorno as an agent.<br/>If the agent is the guardian of some internal contorno, her participation happens both in the contorno as agent and in the contorno as guardian. |
-| responsibilities | * _all general contorno participant responsibilities._ <br/>* _all responsibilities of the contorno itself that are not delegated to internal contornos._ <br/> * bring external contorno information to all participants in your contorno. If the contorno in question is the organization itself, then bring information from the market, partners, investors, etc.<br/> * act on boosters with no progress in its contorno.<br/> * propose strategy, indicators and process for the contorno, needing an integrative decision. <br/> * propose people to support the contorno. <br/> * take action on direct internal contornos without participants: invite people to them or remove the contorno, with integrative decision. | * _all general contorno participant responsibilities._ <br/>* _all responsibilities of the contorno itself that are not delegated to internal contornos._ |
+| responsibilities | * _all general contorno participant responsibilities._ <br/>* _all responsibilities of the contorno itself that are not delegated to internal contornos._ <br/> * bring external contorno information to all participants in your contorno. If the contorno in question is the organization itself, then bring information from the market, partners, investors, etc.<br /> * be responsible for indicators and contour projects.<br/> * act on boosters with no progress in its contorno.<br/> * propose strategy, indicators and process for the contorno, needing an integrative decision. <br/> * propose people to support the contorno. <br/> * take action on direct internal contornos without participants: invite people to them or remove the contorno, with integrative decision. | * _all general contorno participant responsibilities._ <br/>* _all responsibilities of the contorno itself that are not delegated to internal contornos._ |
 
 ## Allocation of people in contornos
 To be able to be allocated in any way, a person must be a partner of the organization, whatever the form: hired collaborator, partner or other agreed form. And to become a partner, it is expected that there is some contorno with this responsibility, such as the [Partnership Maintenance](en/apps#partnership-maintainance).
@@ -324,7 +325,7 @@ Understanding the demands and steps will help to know what kind of other interna
 
 The process must be done from the perspective of demand and the value delivered - whoever asks for, needs or will receive the result of the work, with the intention of minimizing ambiguity and waste, aligning expectations, minimizing decision fatigue and maintaining the level of quality, making explicit recurrent, planned and necessary deliveries (_handover_ or _handoff_), identifying how the contornos interact and which are responsible for the steps and actions.
 
-Rules:
+**Rules:**
 * process mapping is the responsibility of the guardian, consulting people involved in the process.
 * [integrative decision](#integrative-decisions) is required to use it in the contorno.
 * capture all the necessary steps in a flow without getting to the level of predicting small tasks.
@@ -382,7 +383,7 @@ However, from then onwards, new agreements may be necessary.
 
 There are two types of agreements: structural and personal. Both can be adapted, and any participant in the contorno can suggest a modification proposal.
 
-Rules:
+**Rules:**
 * Create agreements when recurring issues arise that require the same type of decision.
 * Avoid trying to predict something in agreements without evidence or knowledge.
 * Agreements are made to define structural or personal expectations to be met.
