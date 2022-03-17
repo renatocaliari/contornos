@@ -28,7 +28,7 @@ The definition of Contornos avoids deciding all the time what needs to be done a
 
 Each contorno governs its own structure, which can be changed by the contorno guardian or by integrative decision depending on the context.
 
-## How to classify contour mapping?
+## How to classify contorno mapping?
 
 ### 🧭 Type
 1. **[Value Stream]**:
