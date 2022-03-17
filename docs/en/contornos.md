@@ -468,7 +468,7 @@ They are proposed and decided by the contorno itself, in an integrative way, wit
 | resources of exclusive control | ✔️ | |
 | strategy | | ✔️ |
 | process | | ✔️ |
-| indicators:metrics 	heavy_check_mark | ✔️ |	|
+| indicators:metrics | ✔️ |  |
 | indicators:recurring practice confirmation | | ✔️ |
 
 ## Exception: greater contorno, the organization itself
