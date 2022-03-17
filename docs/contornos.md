@@ -80,7 +80,7 @@ A possibilidade abaixo mostra uma mistura de contornos de suporte da organizaç�
 - **[Relação contratual](apps#contorno-relação-contratual)** *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
 - **Financeiro** *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
 - **Entrega de valor ao cliente** *(✂️ Fluxo de Valor; 🚧 Desenvolvimento; ⌚ Estável)*
-   - **Pesquisa** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
+   - **Pesquisa** *(✂️ Fórum; 🚧 Suporte; ⌚ Estável)*
    - **Plataforma**: construindo e gerenciando plataformas para melhorar a vida da engenharia e acelerar a entrega de software (✂️ Fluxo de Valor: Produto; 🚧 Suporte; ⌚ Estável) 
    - **["Plataforma de ensino de tecnologia"]** *(✂️ Fluxo de Valor: Produto; 🚧 Desenvolvimento; ⌚ Estável)*
       - **["Conseguir o primeiro emprego na área de tecnologia ou fazer transição de carreira"]** *(✂️ Fluxo de Valor: Intenção; 🚧 Desenvolvimento; ⌚ Estável)*
@@ -90,7 +90,7 @@ A possibilidade abaixo mostra uma mistura de contornos de suporte da organizaç�
          - **Implementação** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
       - **Atendimento** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
       - **Vendas e Marketing** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
-      - **Pesquisa** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
+      - **Pesquisa** *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
       - **Conteúdo** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
       - **Parcerias** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
       - **Algoritmos Machine Learning** *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
