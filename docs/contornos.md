@@ -93,7 +93,7 @@ A possibilidade abaixo mostra uma mistura de contornos de suporte da organizaç�
       - **Conteúdo** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
       - **Parcerias** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
       - **Algoritmos Machine Learning** *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
-   - **Experimentação sobre novo Produto B** *(✂️ Fluxo de Valor: Produto; 🚧 Desenvolvimento; ⌚ Temporário)*
+   - **Experimentação de um novo Produto B** *(✂️ Fluxo de Valor: Produto; 🚧 Desenvolvimento; ⌚ Temporário)*
 
 ## Como mapear escopos atuais da organização que reflitam possíveis contornos?
 
