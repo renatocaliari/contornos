@@ -99,7 +99,7 @@ Any pre-made model on the design of teams is flawed by nature precisely because 
 If you want to find out which are the networks and scopes that already work in the organization, even if informally, here are some options:
 - ["Organizational Network Analysis"](https://www2.deloitte.com/us/en/pages/human-capital/articles/organizational-network-analysis.html) and look at the type of connections that currently exist.
 - Mapping [process and value stream](references#refer%C3%AAnces-about-process-mapping) of the larger contorno in relation to the organization's reason for existing.
-- Mapping of activities that people currently perform and [convert to responsibilities](questions#how-to-define-responsibilities-of-a-outline). After that, define the contornos and all their attributes.
+- Mapping of activities that people currently perform and [convert to responsibilities](en/questions#how-to-define-the-responsibilities-of-a-contorno). After that, define the contornos and all their attributes.
 
 ## When to create new contornos?
 
@@ -109,12 +109,12 @@ Create contornos when:
 - you want to execute and complete a project that temporarily requires joint work apart from an existing contorno.
 
 Examples demonstrating contexts for creating contornos in case of recurring patterns:
-- recurrently the contour you participate needs to perform data analysis in a more advanced way. For a while the participants were trying to help each other, each hour doing the task and learning what was needed. It was not clear who had this responsibility. Due to this recurrence, someone registered a [booster](#boosters) for the contour with a proposal to create an internal "data analysis" contour, making it explicit what was expected. Then, they made a proposal for the allocation of a person as guardian of this contorno. From then on, they no longer had to decide who would do this type of work and what responsibilities were expected, as the contorno already made it clear.
+- recurrently the contorno you participate needs to perform data analysis in a more advanced way. For a while the participants were trying to help each other, each hour doing the task and learning what was needed. It was not clear who had this responsibility. Due to this recurrence, someone registered a [booster](#boosters) for the contorno with a proposal to create an internal "data analysis" contorno, making it explicit what was expected. Then, they made a proposal for the allocation of a person as guardian of this contorno. From then on, they no longer had to decide who would do this type of work and what responsibilities were expected, as the contorno already made it clear.
 - a "Tech" contorno has the responsibility to take care of the infrastructure and deployment process of some systems that the contorno develops. However, this started to generate conflicts and doubts about which participants would have to have the skills, knowledge and attention for this. So, one participant created a [booster](#boosters) with a proposal to create an internal contorno of "support" delegating the "deploy process" as exclusive control for this new contorno and also the responsibilities of taking care of the infrastructure and the process . Then they allocated one person as [guardian](#guardian) and another with [agent](#agent).
 
 **Recommendations**:
 - delimit new contornos from the demands of the public, internal or external.
-- minimize the creation of contornos that depend on recurring, expected and necessary deliveries (_handover_ or _handoff_) of other contornos that are not within the same external contorno. Favor that participants of the contornos that have dependence can have a close context in common - an external contour, favoring them to participate in meetings, decisions and treatment of [drivers](#drivers) together.
+- minimize the creation of contornos that depend on recurring, expected and necessary deliveries (_handover_ or _handoff_) of other contornos that are not within the same external contorno. Favor that participants of the contornos that have dependence can have a close context in common - an external contorno, favoring them to participate in meetings, decisions and treatment of [drivers](#drivers) together.
   - if a dependency between contornos that are on different external contornos is desired or necessary, it is recommended to create a structural role of [representative](apps#structural-representative-role) so that those contornos have some link.
  
 
@@ -154,15 +154,12 @@ In addition to these two structural roles, it is possible to install [extra stru
 
 #### Responsibilities
   * _all general contorno participant responsibilities._
-  * _all responsibilities of the contorno itself that are not delegated to internal contours._
-  * bring external contour information to all participants in your contour. If the outline in question is the organization itself, then bring information from the market, partners, investors, etc.
-  * act on [boosters](#boosters) with no progress in its outline.
-  * propose a contorno strategy, requiring an integrative decision.
-  * propose a contorno process, needing an integrative decision.
-  * propose people to support the contorno.
+  * _all responsibilities of the contorno itself that are not delegated to internal contornos._
+  * bring external contorno information to all participants in your contorno. If the contorno in question is the organization itself, then bring information from the market, partners, investors, etc.
+  * act on [boosters](#boosters) with no progress in its contorno.
+  * propose strategy, indicators and process for the contorno, needing an integrative decision.
+  * propose people to support the contorno. 
   * take action on direct internal contornos without participants: invite people to them or remove the contorno, with integrative decision.
-  * keep indicators updated in the system that the organization uses to work together.
-  * keep the progress of projects up to date in the system that the organization uses to work together.
 
 ----
 
@@ -190,14 +187,14 @@ The guardian has no authority to:
 
 #### Responsibilities
   * _all general contorno participant responsibilities._
-  * _all responsibilities of the contorno itself that are not delegated to internal contours._
+  * _all responsibilities of the contorno itself that are not delegated to internal contornos._
 
 ## Quick comparison
 | | Guardian | Agent |
 | -- | -- | -- |
 | reason to exist | keep the contorno space and answer for its reason for existing. | evolve the contorno towards the reason for existing. |
 | participation | every guardian of a contorno is also a participant in the outer contorno as [agent](#agent). | if the agent is not the guardian of some internal contorno, her participation is restricted to the contorno as an agent.<br/>If the agent is the guardian of some internal contorno, her participation happens both in the contorno as agent and in the contorno as guardian. |
-| responsibilities | * _all general contorno participant responsibilities._ <br/>* _all responsibilities of the contorno itself that are not delegated to internal contours._ <br/> * bring external contour information to all participants in your contour. If the outline in question is the organization itself, then bring information from the market, partners, investors, etc.<br/> * act on boosters with no progress in its outline.<br/> * propose a contorno strategy, requiring an integrative decision.<br/> * propose a contorno process, needing an integrative decision.<br/> * propose people to support the contorno.<br/> * take action on direct internal contornos without participants: invite people to them or remove the contorno, with integrative decision.<br/> * keep indicators updated in the system that the organization uses to work together.<br/> * keep the progress of projects up to date in the system that the organization uses to work together. | * _all general contorno participant responsibilities._ <br/>* _all responsibilities of the contorno itself that are not delegated to internal contours._ |
+| responsibilities | * _all general contorno participant responsibilities._ <br/>* _all responsibilities of the contorno itself that are not delegated to internal contornos._ <br/> * bring external contorno information to all participants in your contorno. If the contorno in question is the organization itself, then bring information from the market, partners, investors, etc.<br/> * act on boosters with no progress in its contorno.<br/> * propose strategy, indicators and process for the contorno, needing an integrative decision. <br/> * propose people to support the contorno. <br/> * take action on direct internal contornos without participants: invite people to them or remove the contorno, with integrative decision. | * _all general contorno participant responsibilities._ <br/>* _all responsibilities of the contorno itself that are not delegated to internal contornos._ |
 
 ## Allocation of people in contornos
 To be able to be allocated in any way, a person must be a partner of the organization, whatever the form: hired collaborator, partner or other agreed form. And to become a partner, it is expected that there is some contorno with this responsibility, such as the [Partnership Maintenance](en/apps#partnership-maintainance).
@@ -246,7 +243,7 @@ If these special contornos do not exist, the case should be taken to the larger 
 # Contorno attributes
 Each contorno has a list of attributes. Several of the attributes listed below are connected by the 'Why' questions will we do something? -> 'How' will we do something? -> 'What' will we do?.
 
-Rule:
+**Rule:**
 - for any change of attribute of a contorno it is necessary to notify its external contorno and internal contornos.
 
 ## Nickname and Scope
@@ -305,15 +302,17 @@ If an operational decision of a contorno:
 We evolved to make decisions very quickly based on a partial data scan, favoring our most recent or most memorable experiences [[1](https://en.wikipedia.org/wiki/Peak%E2%80%93end_rule), [ 2](https://en.wikipedia.org/wiki/Recency_bias), [3](https://en.wikipedia.org/wiki/Availability_heuristic)]. Therefore, the intention is to minimize our biases and increase the data to make better decisions in certain contexts, as suggested above, and still have ways to move forward without being paralyzed. 
 
 ## Strategy (’How?’)
-A strategy is an explicit statement of guidelines, safety limits or minimum criteria that facilitate decision making, prioritization, and boundary-reasoning experiments. It must be aligned with the external contour strategy.
+A strategy is an explicit statement of guidelines, safety limits, or minimum criteria that facilitate decision-making, prioritization, and experimentation in according to contorno's reason for existing. 
 
 It is possible to contain [simple rules, minimum restrictions, disclaimers or recurring practices (checklist)](en/references#references-about-strategy).
 
-The strategy is proposed by the contorno guardian, **aligned with the external contorno strategy** and defined in [integrative decision](#integrative-decision) in the contorno itself.
+**Rules:**
+* The strategy of a contorno must be aligned with the strategy of the external contorno.
+* The strategy is proposed by the guardian of the contorno and defined in an integrative decision on the external contorno, in which the guardian participates. Anyone in the contorno can suggest changes to the strategy to the guardian of the contorno.
 
-When a strategy is changed, it is necessary to review the indicators so that, in addition to bringing information related to the reason for the existence of the contorno, they can also contemplate the new strategy. Furthermore, it is necessary to notify the external contorno.
-
-From there, prioritize projects that are aligned with the new strategy.
+**It is recommended that when changing a strategy:**
+* the indicators are revised to include the new strategy.
+* projects are reprioritized according to the new strategy. 
 
 ## Process (’How?’)
 ![process](assets/process.png)
@@ -411,31 +410,48 @@ Personal agreements are related to people, such as behavior and personal expecta
 ## Indicators
 Each contorno has indicators that can be shared by more than one contorno.
 
-Indicators can be **metric** (metrics) [1] or **confirmation** [2] of recurrent practice.
-Although indicators rarely provide definitive answers about something, they promote conversations, discoveries, understanding and support decision-making and adaptations using a common base.
+Indicators can be either metrics type or recurring practice confirmation type. 
 
-1. a contorno will possibly have indicators of the **metric** type, decided by the outer contorno, to indicate health and results.
-2. if the strategy also has recurrent practices to be carried out, probably the contorno itself will define **confirmation** type indicators to inform whether such practice is being carried out in the expected recurrence (eg, daily, weekly, monthly, etc.).
+**Remember:**
+* Indicators rarely provide definitive answers about something. Use them to power conversations, discoveries and support decision making with the support of other information.
 
-**Rules:**
-- the external contorno defines, by integrative decision, the main contorno indicators. Remembering that the guardian of the contorno is a participant in the external contorno.
-- the contorno itself can also add other indicators of the metric or confirmation type, related to your strategy.
-- Indicators have frequency of sharing on update defined by the outer contorno. The contorno guardian shares the last result of the indicators at the agreed frequency.
+**It is recommended that:**
+* Continuously observe the way that clients evaluate a result to adapt the indicators.
 
-**Recommendation:**
-- are related to aspects of quality and quantity in relation to the reason for existing, strategy and generated value generated **in the perspective of customers of the contornos or engagement of people of the contornos**.
- - changes in the strategy of a contorno lead to adaptations of some indicators that may reflect the execution and result of the strategy.
- - changes in the way that customers evaluate a result lead to adaptations of some indicators that may reflect the evaluation of that result. 
+### Metric indicators
 
-### Metric type indicators
-Categories:
+Metric indicators are proposed by the contorno guardian and defined in an integrative decision on the external contorno, in which the guardian participates. Anyone in the contorno can suggest changes to these indicators to the contorno guardian.
+
+**Caution:**
+* Not everything is measurable.
+* Much of what we try to measure may not be worth the effort. The ease of measuring something can be inversely proportional to the meaning of what is measured.
+* Metrics are no substitute for reality. Data is an abstraction of reality based on assumptions about how to categorize unstructured phenomena.
+* Metrics are not a substitute for judgment based on experience and knowledge.
+* Metrics overshadow the complexity of a context. In a complex environment it is not possible to have explicit distinctions of correlation, let alone of effect and cause. It is not possible to know all the variables involved. In complex scenarios, we need to learn to perform experiments. Instead of trying to have all the data that makes it possible to predict an outcome, we can improve our decision-making process over time. We can define a simple, good and safe enough version of the experiment for the moment, mitigating risks and considering possible alternatives.
+* Every measurement process is biased: what data will we collect, where and how will we collect it, how will we compile it, where and how will we present it: what sources, what results, what types of graphs, what period of analysis, what comparisons, etc. And so the results are biased.
+
+---
+It doesn't mean that we can't use metrics for some contexts. But we should use it sparingly. After much reflection and questioning, both by the people who will have their work measured and evaluated and by the people who will participate in the data handling process. 
+---
+
+Metric categories: 
 - **health**, to monitor important aspects of the business, service, product or people engagement in a contorno. It is possible to have lower and upper bound that indicate the range of health. Examples of metrics indicator model, without delimiters, related to people engagement with a product or service:
 - **result**, indicators that customers - internal or external - use in their decision-making and choice of services or products. It is possible to have a lower and/or higher delimiter. Below the lower limit, it is not meeting customer needs. Above superior may indicate that customers do not perceive the added benefits and may also be overserving unnecessarily when it causes harm to other aspects of the business, service or product.
-- **survival**, containing a target, in an exceptional case only when it is necessary to promote a quick change to save the business, product or service.
+- **survival**, containing a target, in an **exceptional case** only when it is necessary to promote a quick change to **save** the business, product or service.
 
 **Recommendation:**
+- are related to aspects of quality and quantity in relation to the reason for existing, strategy and generated value generated from the perspective of customers in the contorno or engagement of people in the contornos. 
 - are based on results and not on activities (outcome-based and not activity-based).
 - are composed of leading and lagging indicators. Early indicators tell us about trends and predictive signals. Late indicators confirm an ongoing trend, related to throughput measurement. This includes, for example, information on whether a contorno is solving your demands.
+
+### Recurring practice confirmation indicators
+
+These indicators provide visibility if any desired practice or activity is being performed at the expected recurrence (eg daily, weekly, monthly, etc).
+
+They are proposed and decided by the contorno itself, in an integrative way, without the need to involve the external contorno.
+
+**It is recommended that:**
+* are defined to enhance the strategy and generated value generated from the perspective of customers in the contorno or engagement of people in the contornos. 
 
 # Who defines each contorno attribute?
 
@@ -448,7 +464,8 @@ Categories:
 | resources of exclusive control | ✔️ | |
 | strategy | | ✔️ |
 | process | | ✔️ |
-| indicators | ✔️ (defines the main ones) | ✔️ (can add others) |
+| indicadores:métricas 	heavy_check_mark | ✔️ |	
+| indicadores:confirmação | ✔️ |
 
 ## Exception: greater contorno, the organization itself
 
