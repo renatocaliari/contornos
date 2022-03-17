@@ -30,70 +30,69 @@ Each contorno governs its own structure, which can be changed by the contorno gu
 
 ## How to split contornos?
 
-### ✂️ Division of contornos
-1. by **[Value Flow]**:
+### 🧭 Type
+1. **[Value Stream]**:
    - **intent**(*) of the audience that a contorno serves
    - **person's journey stage** when carrying out an intention(*)
    - **strategy of a larger contorno**
      - examples: "Personalized content per member"; "Members connected to at least one other member on the platform"; "Products found on first search attempt"; etc)
    - **product** or **service**  
    - **initiative**
-2. by **[Market]**:
+2. **[Market]**:
    - sides or **actors of a marketplace**: supply, demand, providers, contractors, Business to Business (B2B), Business to Consumer (B2C), Business to Business to Consumer (B2B2C), Business to Government (B2G), Consumer to Consumer (C2C) ou Direct to Consumer (D2C).
    - **geographical areas**
-3. by **[Specialty]**:
+3. **[Specialty]**:
    - **work** specialties
    - expertise in **modules** of the organization's technological services
-4. by thematic **[Forum]**:
+4. thematic **[Forum]**:
    - a contorno that gathers people around the same theme, idea, technique or skill.
 
 _(*) Intent can be understood as a Job To Be Done, purpose in Fit For Purpose, a "tower" or "mental space" from Indi Young's Mental Model diagram, etc._
 If interested, consult materials such as [Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology-ebook/dp/B07NSF94PC), [Fit For Purpose](https://www. amazon.com/Fit-Purpose-Businesses-Satisfy-Customers/dp/0985305118) and [Jobs To Be Done](https://medium.com/tentaculus/jobs-to-be-done-parte-1-42bfdf4875c8) ._
 
-### 🚧 Types of contornos:
-   - **Support**: work to allow and enhance the work of other contornos of the organization or an interface between a solution from external providers with the organization.
-   - **Development**: work for the organization's target audience.
+### 🧑🏻‍🤝‍🧑🏾 Public
+   - **Internal**: the final work is intended to meet, enable and enhance the organization's contornos work.
+   - **External**: the final work is intended to serve people and companies external to the organization, especially the final public. 
 
-### ⌚ Duration of contornos:
-1. **Stable**: they have no determined expiration and lasts as long as it makes sense.
-2. **Temporary**: they are born with an already determined expiration, focusing on some occasional context. It can be expired based on a date or the completion of a project.
+### ⌚ Duration
+   - **Stable**: they have no determined expiration and lasts as long as it makes sense.
+   - **Temporary**: they are born with an already determined expiration, focusing on some occasional context. It can be expired based on a date or the completion of a project.
 
-### Combinations
+---
+
 It is possible to make combinations of all these above ways.
 
+---
+
 ## Example of a structure of contornos 
-**Quick Examples:**
-- **stable** contorno of **development** split by **marketplace actors** with **stable** internal contorno by **intention** split by **marketplace actor**.
-- **stable** contorno of **development** split by **strategies** with **stable** internal contorno of **support**.
-- **stable** contorno of **development** split by **intention** with **temporary** internal contorno split by **initiative**.
 
 Any pre-made model on the design of teams is flawed by nature precisely because it does not reflect or adapt to reality. However, some can be useful to inspire and initiate experiments. There is no universal recipe.
 
-**General structure example:**
-- **Organizational Design** *(✂️ Specialty; 🚧 Support; ⌚ Stable)*
-- **Care** *(✂️ Specialty; 🚧 Support; ⌚ Stable)*
-  - **Diversity** *(✂️ Forum; 🚧 Support; ⌚ Stable)*
-  - **Conflict Mediation** *(✂️ Specialty; 🚧 Support; ⌚ Stable)*
-  - **Advisoring & Mentoring** *(✂️ Specialty; 🚧 Support; ⌚ Stable)*
-  - **Listen** *(✂️ Specialty; 🚧 Support; ⌚ Stable)*
-- **[Contractual relationship](apps#contractual-relationship)** *(✂️ Specialty; 🚧 Support; ⌚ Stable)*
-- **Financial** *(✂️ Specialty; 🚧 Support; ⌚ Stable)*
-- **Delivering value to the customer** *(✂️ Value Stream; 🚧 Development; ⌚ Stable)*
-   - **Research** *(✂️ Forum; 🚧 Support; ⌚ Stable)*
-   - **Platform engineering**: building and managing platforms to improving the lives of the engineering and accelerate software delivery *(✂️ Value Stream: Product; 🚧 Support; ⌚ Stable)*
-   - **["Technology teaching platform"]** *(✂️ Value Stream: Product; 🚧 Development; ⌚ Stable)*
-      - **["Get your first tech job or make a career transition"]** *(✂️ Value Stream: Intent; 🚧 Development; ⌚ Stable)*
-         - **Modeling of initiatives** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
-         - **Product/service experience design** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
-         - **Graphic/physical interface** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
-         - **Implementation** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
-      - **Customer Service** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
-      - **Sales and Marketing** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
-      - **Research** *(✂️ Specialty; 🚧 Support; ⌚ Stable)*
-      - **Content** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
-      - **Partnerships** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
-      - **Machine Learning Algorithms** *(✂️ Specialty; 🚧 Support; ⌚ Stable)*
-   - **[Experimentation on a new Product B]** *(✂️ Value Stream: Product; 🚧 Development; ⌚ Temporary)*
+**Example:**
+- **Organizational Design** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
+- **Care** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
+  - **Diversity** *(🧭 Forum;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
+  - **Conflict Mediation** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
+  - **Advisoring & Mentoring** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
+  - **Listen** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
+- **[Contractual relationship](apps#contractual-relationship)** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
+- **Financial** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
+- **Delivering value to the customer** *(🧭 Value Stream;🧑🏻‍🤝‍🧑🏾 External; ⌚ Stable)*
+   - **Research** *(🧭 Forum;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
+   - **Platform engineering**: improving the lives of the engineering and accelerate software delivery *(🧭 Value Stream: Product;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
+   - **["Technology teaching platform"]** *(🧭 Value Stream: Product;🧑🏻‍🤝‍🧑🏾 External; ⌚ Stable)*
+      - **["Get your first tech job or make a career transition"]** *(🧭 Value Stream: Intent;🧑🏻‍🤝‍🧑🏾 External; ⌚ Stable)*
+         - **Modeling of initiatives** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 External; ⌚ Stable)*
+         - **Product/service experience design** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 External; ⌚ Stable)*
+         - **Graphic/physical interface** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 External; ⌚ Stable)*
+         - **Implementation** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 External; ⌚ Stable)*
+      - **Customer Service** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 External; ⌚ Stable)*
+      - **Sales and Marketing** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 External; ⌚ Stable)*
+      - **Research** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
+      - **Content** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 External; ⌚ Stable)*
+      - **Partnerships** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 External; ⌚ Stable)*
+      - **Machine Learning Algorithms** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 External; ⌚ Stable)*
+   - **[Experimentation on a new Product B]** *(🧭 Value Stream: Product;🧑🏻‍🤝‍🧑🏾 External; ⌚ Temporary)*
 
 ## How to map current scopes of the organization that reflect possible contornos?
 
