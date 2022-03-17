@@ -80,7 +80,7 @@ Any pre-made model on the design of teams is flawed by nature precisely because 
 - **Financial** *(✂️ Specialty; 🚧 Support; ⌚ Stable)*
 - **Delivering value to the customer** *(✂️ Value Stream; 🚧 Development; ⌚ Stable)*
    - **Research** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
-   - **Platform engineering**: building and managing platforms to improving the lives of the engineering and accelerate software delivery *(✂️ Specialty; 🚧 Support; ⌚ Stable)*
+   - **Platform engineering**: building and managing platforms to improving the lives of the engineering and accelerate software delivery *(✂️ Value Stream: Product; 🚧 Support; ⌚ Stable)*
    - **["Technology teaching platform"]** *(✂️ Value Stream: Product; 🚧 Development; ⌚ Stable)*
       - **["Get your first tech job or make a career transition"]** *(✂️ Value Stream: Intent; 🚧 Development; ⌚ Stable)*
          - **Modeling of initiatives** *(✂️ Specialty; 🚧 Development; ⌚ Stable)*
