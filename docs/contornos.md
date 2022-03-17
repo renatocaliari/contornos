@@ -50,8 +50,8 @@ _(*) A intenção pode ser entendida como um job de Jobs To Be Done, propósito 
 Caso interesse, consulte materiais como [Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology-ebook/dp/B07NSF94PC), [Fit For Purpose](https://www.amazon.com/Fit-Purpose-Businesses-Satisfy-Customers/dp/0985305118) e [Jobs To Be Done](https://medium.com/tentaculus/jobs-to-be-done-parte-1-42bfdf4875c8)._
 
 ### 🧑🏻‍🤝‍🧑🏾 Público
-   - **Interno**: atender, viabilizar e potencializar o trabalho de contornos da organização. 
-   - **Externo**: atender pessoas e empresas externas à organização, especialmente o público final.
+   - **Interno**: o trabalho final tem como intenção atender, viabilizar e potencializar o trabalho de contornos da organização. 
+   - **Externo**: o trabalho final tem como intenção atender pessoas e empresas externas à organização, especialmente o público final.
 
 ### ⌚ Duração
 1. **Estável**: não têm encerramento determinado e dura enquanto fizer sentido aquela abordagem. 
