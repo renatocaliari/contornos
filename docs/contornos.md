@@ -450,8 +450,9 @@ Não significa que não possamos usar métricas para alguns contextos. Mas devem
 - Tenha uma composição de indicadores iniciais (leading) e atrasados (lagging). Indicadores iniciais nos dizem sobre tendências e sinais preditivos. Indicadores atrasados confirmam uma tendência em andamento, tendo relação com medição de rendimento ("throughput"). Isso inclui, por exemplo, informações se um contorno está resolvendo suas demandas.
 
 **Exemplos de modelo para escrever indicadores iniciais (leading):**
-- "Porcentagem de (membros / novos clientes / clientes recorrentes) que realizam pelo menos (o limite mínimo para ação do usuário) por/na/em (período X).". Exemplo: **Porcentagem de** membros que adicionaram **pelo menos** um item como favorito **na última semana** 
-- "Porcentagem de (segmento de clientes) que realizam (ação) em (determinado contexto)."
+- Porcentagem de (membros / novos clientes / clientes recorrentes) que realizam pelo menos (o limite mínimo para ação do usuário) em (período X).
+   - **Exemplo:** Porcentagem de membros que salvaram pelo menos um item como favorito na última semana. 
+- Porcentagem de (segmento de clientes) que realizam (ação) em (determinado contexto).
 
 ### Indicadores do tipo confirmação de prática recorrente
 
