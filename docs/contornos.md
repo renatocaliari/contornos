@@ -445,9 +445,13 @@ Não significa que não possamos usar métricas para alguns contextos. Mas devem
 - **sobrevivência**, contendo um alvo, em caso **excepcional** apenas quando for necessário promover uma mudança rápida para **salvar** o negócio, produto ou serviço.
 
 **Recomendação:** 
-- sejam relacionados a aspectos de qualidade e quantidade com relação à razão de existir, estratégia e valor gerado gerado **na perspectiva de clientes do contorno ou engajamento de pessoas dos contornos**.
-- sejam baseados em resultado e não em atividades (outcome-based e não activity-based).
-- sejam compostos por indicadores iniciais (leading) e atrasados (lagging). Indicadores iniciais nos dizem sobre tendências e sinais preditivos. Indicadores atrasados confirmam uma tendência em andamento, tendo relação com medição de rendimento ("throughput"). Isso inclui, por exemplo, informações se um contorno está resolvendo suas demandas.
+- Defina indicadores de métricas baseados em aspectos de qualidade e quantidade com relação à razão de existir, estratégia e valor gerado gerado **na perspectiva de clientes do contorno ou engajamento de pessoas dos contornos**.
+- Defina indicadores de métricas baseados em resultado e não em atividades (outcome-based e não activity-based).
+- Tenha uma composição de indicadores iniciais (leading) e atrasados (lagging). Indicadores iniciais nos dizem sobre tendências e sinais preditivos. Indicadores atrasados confirmam uma tendência em andamento, tendo relação com medição de rendimento ("throughput"). Isso inclui, por exemplo, informações se um contorno está resolvendo suas demandas.
+
+**Exemplos de modelo para escrever indicadores iniciais (leading):**
+- "Porcentagem de (membros / novos clientes / clientes recorrentes) que realizam pelo menos (o limite mínimo para ação do usuário) por/na/em (período X).". Exemplo: **Porcentagem de** membros que adicionaram **pelo menos** um item como favorito **na última semana** 
+- "Porcentagem de (segmento de clientes) que realizam (ação) em (determinado contexto)."
 
 ### Indicadores do tipo confirmação de prática recorrente
 
@@ -456,7 +460,7 @@ Indicadores do tipo **confirmação** dão visibilidade se alguma prática ou at
 Eles são propostos e decididos pelo próprio contorno, de forma integrativa, sem necessidade de envolvimento do contorno externo.
 
 **Recomendação:** 
-- sejam definidos para potencializar a estratégia e valor gerado gerado **na perspectiva de clientes do contorno ou engajamento de pessoas dos contornos**.
+- Defina indicadores com a intenção de potencializar a estratégia e valor gerado **na perspectiva de clientes do contorno ou engajamento de pessoas dos contornos**.
 
 # Quem define cada atributo do contorno?
 
