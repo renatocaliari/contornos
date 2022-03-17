@@ -296,12 +296,14 @@ They are situational decisions, not foreseen and defined in agreements, strategy
 
 ![Operating decisions](../assets/decisoes.png)
 
-If an operational decision of a contorno:
-- It is safe, whether reversible or irreversible: the contorno participant makes the decision, without the need to consult other people. Contorno participants already have the authority to decide. **Most decisions will likely fit here. The idea of ​​the [Contornos] system is precisely to distribute decisions and authority.**
-- It is risky and reversible: it is recommended that the contorno participant consults with more people, but still has authority over the decision. That is, she doesn't need to try to please, adapt or justify her decision. The intention is for her to have more knowledge and perspective on the subject and context before making a decision.
-- It is irreversible and risky: it is recommended that the contorno participant makes an [integrative decision](#integrative-decisions) with the other contorno participants.
+If an operational decision of a contorno is safe, whether reversible or irreversible, the contorno participant makes the decision, without the need to consult other people. Contorno participants already have the authority to decide. 
+**Most decisions will likely fit here. The idea of the [Contornos] system is precisely to distribute decisions and authority.**
 
-We evolved to make decisions very quickly based on a partial data scan, favoring our most recent or most memorable experiences [[1](https://en.wikipedia.org/wiki/Peak%E2%80%93end_rule), [ 2](https://en.wikipedia.org/wiki/Recency_bias), [3](https://en.wikipedia.org/wiki/Availability_heuristic)]. Therefore, the intention is to minimize our biases and increase the data to make better decisions in certain contexts, as suggested above, and still have ways to move forward without being paralyzed. 
+In a few cases, when an operational decision:
+- is risky and reversible, it is recommended that the contorno participant consults with more people, but still has authority over the decision. That is, she doesn't need to try to please, adapt or justify her decision. The intention is for her to have more knowledge and perspective on the subject and context before making a decision.
+- is irreversible and risky, it is recommended that the contorno participant makes an [integrative decision](#integrative-decisions) with the other contorno participants.
+
+We evolved to make decisions very quickly based on a partial data scan, favoring our most recent or most memorable experiences [[1](https://en.wikipedia.org/wiki/Peak%E2%80%93end_rule), [2](https://en.wikipedia.org/wiki/Recency_bias), [3](https://en.wikipedia.org/wiki/Availability_heuristic)]. Therefore, the intention is to minimize our biases and increase the data to make decisions **risky or irrervesible**, as suggested above, and still having ways to move forward quickly on most day-to-day operational issues.
 
 ## Strategy (’How?’)
 A strategy is an explicit statement of guidelines, safety limits, or minimum criteria that facilitate decision-making, prioritization, and experimentation in according to contorno's reason for existing. 
@@ -454,7 +456,7 @@ These indicators provide visibility if any desired practice or activity is being
 
 They are proposed and decided by the contorno itself, in an integrative way, without the need to involve the external contorno.
 
-**It is recommended that:**
+**Recommendation:**
 * are defined to enhance the strategy and generated value generated from the perspective of customers in the contorno or engagement of people in the contornos. 
 
 # Who defines each contorno attribute?
@@ -517,7 +519,7 @@ The possibilities of boosters are almost endless, appearing all the time in the 
 # Integrative decision
 Integrative decision is a type of decision **in consent** involving all participants in a decision. When not specified, by default, an integrative decision involves all participants in a contorno.
 
-Consent is not a matter of personal preference, but whether there are objections.
+Unlike consensus, in which people seek agreement and alignment of personal preferences, **consent seeks only objections**. 
 
 ## Valid objections
 In contorno, there are 3 criteria to consider a valid objection:
@@ -525,14 +527,14 @@ In contorno, there are 3 criteria to consider a valid objection:
   2. **Damage caused by the proposal**: reveals damage that will only exist if the proposal is put into practice and that there will not be adequate opportunity for adaptation before the proposal causes the damage.
   3. **Evidence**: it needs to based on evidence. If it is predictive and does not pass on criteria 2, do not consider it a valid objection in this process.
 
-If there are objections, the person making the proposal must adapt it to integrate the objections. If this is not possible, the proposal is filed.
-If there is adaptation, it is necessary to consent to the change with the contorno participants.
+**Rules:**
+* An integrative decision, by default, is made for all structural agreements.
+* If there are objections, the person making the proposal must adapt it to integrate the objections. If this is not possible, the proposal is filed.
+* If there is adaptation, it is necessary to consent to the change with the contorno participants.
 
-An integrative decision, by default, is made for all structural agreements.
-
-It is recommended that you use the [proposal integrative decision] app (en/apps#integrative-proposal-decision).
- 
-If a decision impacts other contornos, it is recommended that you share the proposal for the reactions of people from the impacted contornos, and only then make an integrative decision on the contorno that created the proposal.
+**Recommendation:**
+* If a decision impacts other contornos, it is recommended that you share the proposal for the reactions of people from the impacted contornos, and only then make an integrative decision on the contorno that created the proposal.
+* Use the [proposal integrative decision] app (en/apps#integrative-proposal-decision).
 
 ## Process for proposal with integrative decision
 ### Ideation and co-creation of proposal
