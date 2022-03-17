@@ -273,12 +273,13 @@ Para identificar de forma exclusiva, poderíamos:
         * ```organização ABC.produto XYZ.implementação.frontend```.
 
 ## Razão de existir (’Por quê?’)
-A razão de existir informa o motivo de um contorno existir. Os contornos são alinhados e aninhados por ela.
+A razão de existir informa o motivo de um contorno existir. 
+Os contornos são alinhados e aninhados por ela.
 
-Regras:
-* a declaração deve ser feita da perspectiva a quem o contorno atende e, preferencialmente, mensurável. No caso do maior contorno, a organização, a declaração da razão de existir deve ser feita da perspectiva do público que a organização atende. No caso de outros contornos, podem ser do público externo ou interno, dependendo do contorno.
-* evite palavras amplificadas ou aspirações inalcançáveis que atrapalhem a compreensão e não possam ser medidas.  
-* ela é decidida pelo contorno externo através de decisão integrativa. 
+**Regras:**
+* A razão de existir é decidida pelo contorno externo através de decisão integrativa. 
+* A declaração deve ser feita da perspectiva a quem o contorno atende. No caso do maior contorno, a organização, a declaração da razão de existir deve ser feita da perspectiva do público que a organização atende. No caso de outros contornos, podem ser do público externo ou interno, dependendo do contorno.
+* Evite palavras amplificadas ou aspirações inalcançáveis que atrapalhem a compreensão e não possam ser medidas.  
 
 ## Responsabilidades (’Como?’)
 [Responsabilidades](questions#como-definir-as-responsabilidades-de-um-contorno) são acordos de expectativas sobre as principais ações recorrentes que as pessoas de um contorno cuidarão. Elas deixam explícitas quaisquer coisas que não são facilmente deduzidas ao ler a razão de existir.
