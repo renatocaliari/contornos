@@ -310,10 +310,10 @@ It is possible to contain [simple rules, minimum restrictions, disclaimers or re
 
 **Rules:**
 * The strategy of a contorno must be aligned with the strategy of the external contorno.
-* The strategy is proposed by the guardian of the contorno and defined in an integrative decision on the external contorno, in which the guardian participates. Anyone in the contorno can suggest changes to the strategy to the guardian of the contorno.
+* The strategy is proposed by the guardian of the contorno and defined in an integrative decision on the contorno.
 
 **It is recommended that when changing a strategy:**
-* the indicators are revised to include the new strategy.
+* the indicators are revised to reflect the new strategy.
 * projects are reprioritized according to the new strategy. 
 
 ## Process (’How?’)
