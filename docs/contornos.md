@@ -562,20 +562,21 @@ Ao apresentar uma proposta para decisão integrativa, utilize esse processo:
 A decisão integrativa pode ser realizada de forma assíncrona utiizando o app de [decisão integrativa assíncrona de proposta](apps#decisão-integrativa-assíncrona-de-proposta).
 
 # Ação extraordinária
-É previsto que ocorram ações extraordinárias que violem estratégia, processo, recursos de controle exclusivo ou acordos.
+Lembre-se de que tudo é permitido desde que não seja explicitamente proibido.
+É previsto que ocorram ações extraordinárias que **violem** estratégia, processo, recursos de controle exclusivo ou acordos.
 
-Essas ações atendem a duas necessidades:
+**Essas ações atendem a duas necessidades:**
 * prevenir ou mitigar impactos negativos ou atender uma oportunidade crítica.
 * trazer luz sobre limitações da estrutura atual.
 
-Condição para ocorrer ações extraordinárias:
+**Condição para ocorrer ações extraordinárias:**
 * impactos negativos ou oportunidades críticas que, no julgamento de qualquer pessoa, não possam esperar pela adaptação de atributos de contornos ou processamento de um impulsionador na autoridade de outro contorno.
 
-Regras para realizar uma ação extraordinária:
+**Regras para realizar uma ação extraordinária:**
 * considere o contexto e informações disponíveis da estrutura atual e do risco ou oportunidade.
 * faça o melhor julgamento possível com o que tem à disposição. 
 * realize as ações que considere adequadas.
 
-Regras após uma ação extraordinária:
+**Regras após uma ação extraordinária:**
 * revelar a ação extraordinária para as guardiãs dos contornos impactados, através de um [impulsionador](#impulsionadores) com [intenção de aviso](apps#declarar-inten%C3%A7%C3%A3o).
 * criar um [impulsionador](#impulsionadores) de [decisão integrativa](#tipos-de-impulsionadores), propondo adaptações em contornos ou acordos, caso isso resolva a questão quando algo semelhante surgir novamente.
