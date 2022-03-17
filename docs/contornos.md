@@ -411,7 +411,7 @@ Acordos pessoais são relacionados às pessoas, como, por exemplo, comportamento
 ## Indicadores
 Cada contorno possui indicadores que podem ser compartilhados por mais de um contorno.
 
-Indicadores podem ser do tipo **métricas** **confirmação de prática recorrente**.
+Indicadores podem ser do tipo **métricas** ou do tipo **confirmação de prática recorrente**.
 
 **Lembre-se:**
 - Indicadores raramente fornecerem respostas definitivas sobre algo. Use-os para potencializar conversas, descobertas e apoiar tomadas de decisão com o apoio de outras informações.
