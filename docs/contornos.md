@@ -78,7 +78,7 @@ Qualquer modelo pré-fabricado sobre o desenho de times é falho por natureza ju
 - **Financeiro** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
 - **Entrega de valor ao cliente** *(🧭 Fluxo de Valor; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
    - **Pesquisa** *(🧭 Fórum; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
-   - **Plataforma**: construindo e gerenciando plataformas para melhorar a vida da engenharia e acelerar a entrega de software (🧭 Fluxo de Valor: Produto; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável) 
+   - **Plataforma**: melhorar a vida das pessoas de engenharia e acelerar a entrega de software (🧭 Fluxo de Valor: Produto; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável) 
    - **["Plataforma de ensino de tecnologia"]** *(🧭 Fluxo de Valor: Produto; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
       - **["Conseguir o primeiro emprego na área de tecnologia ou fazer transição de carreira"]** *(🧭 Fluxo de Valor: Intenção; 🚧 Desenvolvimento; ⌚ Estável)*
          - **Modelagem de iniciativas** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
