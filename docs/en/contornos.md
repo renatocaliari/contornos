@@ -506,7 +506,7 @@ When registering a booster, specify its type:
 | Imagine that... | Type of booster... |
 | -- | -- |
 | there is an agreed recurring meeting that no longer makes sense to one person and there is a desire to modify or cancel that meeting | **integrative decision** with the proposed modification or cancellation. |
-| a person wants to create a proposal about a project that is already in charge of its contorno but wants to make the proposal in a collaborative way | **co-creation of proposal. |
+| a person wants to create a proposal about a project that is already in charge of its contorno but wants to make the proposal in a collaborative way | **co-creation of proposal** |
 | a participant needs to make an integration between two company software and there is a contorno that takes care of integrations or company technology | **action request** by a project for this. |
 | a participant needs to make an integration between two company software and there is no contorno to take care of it | **action request** for a project to the guardian of some contorno that encompasses the larger scope of the booster (eg product) to process that booster and in parallel **decision integrative** proposing the creation of a specific contorno for this, if it is a recurring project type. |
 | a participant left a contorno and would like to notify the participants of this contorno | **notification**. |
