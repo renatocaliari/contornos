@@ -27,74 +27,73 @@ Uma pessoa pode estar em vários contornos e um contorno pode conter várias pes
 A definição de contornos evita decidir a todo momento o que é necessário fazer e quem fará algo no dia a dia de uma organização.
 Cada contorno governa a sua própria estrutura, que pode ser alterada pela guardiã do contorno ou por decisão integrativa dependendo do contexto.
 
-## Como dividir os contornos?
+## Como classificar o mapeamento de contornos?
 
-### ✂️ Divisão de contornos
-1. por **[Fluxo de Valor]**:
+### 🧭 Tipo
+1. **[Fluxo de Valor]**:
    - **intenção**(*) do público que um contorno atende
    - **etapa da jornada** da pessoa ao realizar uma intenção(*)
    - **estratégia** do contorno maior
      - exemplos: "Conteúdo personalizado por membro"; "Membros conectados a pelo menos um outro membro na plataforma"; "Produtos encontrados na primeira tentativa de busca"; etc)
    - **produto** ou **serviço**  
    - **iniciativa**
-2. por **[Mercado]**:
+2. **[Mercado]**:
    - lados ou **atores de um marketplace**: oferta, demanda, prestadores, contratantes, Business to Business (B2B), Business to Consumer (B2C), usiness to Business to Consumer (B2B2C), Business to Government (B2G), Consumer to Consumer (C2C) ou Direct to Consumer (D2C).
    - **áreas geográficas**
-3. por **[Especialidade]**:
+3. **[Especialidade]**:
    - especialidades de **trabalho**
    - especialidade em **módulos** de serviços tecnológicos da organização
-4. por **[Fórum]** temático:
+4. **[Fórum]** temático:
    - contorno que reúne pessoas em torno de um mesmo tema, ideia, técnica ou habilidade.
 
 _(*) A intenção pode ser entendida como um job de Jobs To Be Done, propósito de Fit For Purpose, por "torre" ou "mental space" do diagrama Mental Model da Indi Young, etc._
 Caso interesse, consulte materiais como [Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology-ebook/dp/B07NSF94PC), [Fit For Purpose](https://www.amazon.com/Fit-Purpose-Businesses-Satisfy-Customers/dp/0985305118) e [Jobs To Be Done](https://medium.com/tentaculus/jobs-to-be-done-parte-1-42bfdf4875c8)._
 
-### 🚧 Tipos de contornos:
-   - **Suporte**: trabalho para permitir e potencializar o trabalho de outros contornos da organização ou uma interface entre uma solução de fornecedores externos com a organização. 
-   - **Desenvolvimento**: trabalho para o público final da organização.
+### 🧑🏻‍🤝‍🧑🏾 Público
+   - **Interno**: atender, viabilizar e potencializar o trabalho de contornos da organização. 
+   - **Externo**: atender pessoas e empresas externas à organização, especialmente o público final.
 
-### ⌚ Duração de contornos
+### ⌚ Duração
 1. **Estável**: não têm encerramento determinado e dura enquanto fizer sentido aquela abordagem. 
 2. **Temporária**: nascem com um encerramento já determinado, focando em algum contexto ocasional. Pode ter o encerramento baseado numa data ou na conclusão de um projeto.
 
-### Combinações
+---
+
+**Combinações**
 É possível fazer combinações de todas essas formas.
 
-## Exemplo de estrutura de contornos
-**Exemplos rápidos:**
-- contornos **estáveis** de **desenvolvimento** por **atores do marketplace** com contornos internos **estáveis** por **intenções** do **ator do marketplace**.
-- contornos **estáveis** de **desenvolvimento** por **estratégias** trabalhando com o apoio de contornos de **suporte**.
-- contornos **estáveis** de **desenvolvimento** por **intenções** com contornos internos **temporários** por **iniciativas**. 
+---
 
+## Exemplo de estrutura de contornos
 Qualquer modelo pré-fabricado sobre o desenho de times é falho por natureza justamente por não refletir ou se adequar à realidade. Porém, alguns podem ser úteis para inspirar e iniciar experimentos. Não existe receita universal.
 
 A possibilidade abaixo mostra uma mistura de contornos de suporte da organização como um todo com contornos por fluxo de valor, tendo também contornos por especialidade internamente. 
 
-**Exemplo de estrutura geral:**
-- **Design Organizacional** *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
-- **Cuidado** *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
-  - **Diversidade** *(✂️ Fórum; 🚧 Suporte; ⌚ Estável)*
-  - **Mediação de conflitos** *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
-  - **Aconselhamento & Mentoria** *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
-  - **Escuta** *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
-- **[Relação contratual](apps#contorno-relação-contratual)** *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
-- **Financeiro** *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
-- **Entrega de valor ao cliente** *(✂️ Fluxo de Valor; 🚧 Desenvolvimento; ⌚ Estável)*
-   - **Pesquisa** *(✂️ Fórum; 🚧 Suporte; ⌚ Estável)*
-   - **Plataforma**: construindo e gerenciando plataformas para melhorar a vida da engenharia e acelerar a entrega de software (✂️ Fluxo de Valor: Produto; 🚧 Suporte; ⌚ Estável) 
-   - **["Plataforma de ensino de tecnologia"]** *(✂️ Fluxo de Valor: Produto; 🚧 Desenvolvimento; ⌚ Estável)*
-      - **["Conseguir o primeiro emprego na área de tecnologia ou fazer transição de carreira"]** *(✂️ Fluxo de Valor: Intenção; 🚧 Desenvolvimento; ⌚ Estável)*
-         - **Modelagem de iniciativas** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
-         - **Desenho da experiência de produto/serviço** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
-         - **Interface gráfica/física** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
-         - **Implementação** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
-      - **Atendimento ao cliente** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
-      - **Vendas e Marketing** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
-      - **Pesquisa** *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
-      - **Conteúdo** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
-      - **Parcerias** *(✂️ Especialidade; 🚧 Desenvolvimento; ⌚ Estável)*
-      - **Algoritmos Machine Learning** *(✂️ Especialidade; 🚧 Suporte; ⌚ Estável)*
-   - **[Experimentação de um novo Produto B]** *(✂️ Fluxo de Valor: Produto; 🚧 Desenvolvimento; ⌚ Temporário)*
+**Exemplo:**
+- **Design Organizacional** *(🧭 Especialidade;🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
+- **Cuidado** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
+  - **Diversidade** *(🧭 Fórum; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
+  - **Mediação de conflitos** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
+  - **Aconselhamento & Mentoria** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
+  - **Escuta** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
+- **[Relação contratual](apps#contorno-relação-contratual)** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
+- **Financeiro** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
+- **Entrega de valor ao cliente** *(🧭 Fluxo de Valor; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
+   - **Pesquisa** *(🧭 Fórum; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
+   - **Plataforma**: construindo e gerenciando plataformas para melhorar a vida da engenharia e acelerar a entrega de software (🧭 Fluxo de Valor: Produto; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável) 
+   - **["Plataforma de ensino de tecnologia"]** *(🧭 Fluxo de Valor: Produto; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
+      - **["Conseguir o primeiro emprego na área de tecnologia ou fazer transição de carreira"]** *(🧭 Fluxo de Valor: Intenção; 🚧 Desenvolvimento; ⌚ Estável)*
+         - **Modelagem de iniciativas** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
+         - **Desenho da experiência de produto/serviço** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
+         - **Interface gráfica/física** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
+         - **Implementação** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
+      - **Atendimento ao cliente** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
+      - **Vendas e Marketing** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
+      - **Pesquisa** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
+      - **Conteúdo** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
+      - **Parcerias** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
+      - **Algoritmos Machine Learning** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
+   - **[Experimentação de um novo Produto B]** *(🧭 Fluxo de Valor: Produto; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Temporário)*
 
 ## Como mapear escopos atuais da organização que reflitam possíveis contornos?
 
