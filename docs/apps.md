@@ -285,7 +285,7 @@ _Lembre-se, os resultados não dizem quem sou. Mantenha sua curiosidade ativa so
 - b
 - c
 
-## Cuidar das pessoas (em desenvolvimento)
+## Cuidar das pessoas
   - Comunicação Não-Violenta
   - Escuta empática
   - Mediação de conflitos
