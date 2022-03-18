@@ -106,7 +106,7 @@ Caso o contorno que oferecerá uma representante já tenha uma representante nom
   
 ## Contornos especiais
 ### Contorno "Norte"
-**Razão de existir:** 
+**Razão de existir**:
 - definir o norte da organização
 
 **Responsabilidades**:
