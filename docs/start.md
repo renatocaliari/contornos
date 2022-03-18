@@ -12,7 +12,7 @@ Neste sistema, há uma hierarquia de escopos através de contornos, onde pessoas
 
 Pense nisso como um sistema operacional enxuto 'open-source' (código aberto), que permite você importar [apps](apps) (acordos extras pré-definidos) para o seu contexto, além de adaptar o próprio sistema, se necessário.
 
-[Contornos] foi inspirado em [tecnologias sociais validadas](tecnologias), outros conceitos existentes e experiência prática.
+[Contornos] foi inspirado em [tecnologias sociais validadas](technologies), outros conceitos existentes e experiência prática.
 
 ?> Vale lembrar que essa tecnologia social, ou qualquer outra, não funciona como mágica, que ao usar tudo se resolve. Não, longe disso. Ela é apenas uma ferramenta e um meio, como tantos outros, que faz sentido quando usada em conjunto com outras ferramentas e práticas, apoiadas por muitas discussões interpessoais e experimentos contínuos. 
 
