@@ -18,8 +18,6 @@ A estrutura organizacional é definida por contornos. As pessoas parceiras da or
 
 O sistema começa com a máxima de que _“tudo é permitido desde que não seja explicitamente proibido”_ em algum [acordo](#acordos) contendo restrição ou definido como [recursos de controle exclusivo](#recursos-de-controle-exclusivo-como) de algum contorno em vez do inverso comum em muitas organizações de que _“tudo é proibido desde que seja explicitamente permitido”_. 
 
-[Veja um exemplo de uma estrutura de contornos nas Perguntas & Respostas](questions#exemplo-de-estrutura-de-contornos).
-
 # Contornos
 Contorno é um escopo delimitado por razão de existir, responsabilidades, recursos de controle exclusivo e acordos próprios.
 Uma pessoa pode estar em vários contornos e um contorno pode conter várias pessoas.
