@@ -21,10 +21,11 @@
 - [COLLECTIVEONE](https://www.collectiveone.org/#/landing) - CollectiveOne is a method (and a platform) to develop open, decentralized and collaborative initiatives: initiatives to which anyone can, potentially, contribute, and which are collectively owned and self-governed by their contributors.
 - [Decidim](https://decidim.org/) - Free Open-Source participatory democracy for cities and organizations
 
-## Para votação e enquetes
+## Para decisão, votação e enquetes
 - [Loomio](https://www.loomio.org/) - Loomio helps your group make better decisions together.
 - [ElectionBuddy](https://electionbuddy.com/) - Every Vote Counts. ElectionBuddy is the easiest way to improve voter engagement, save time, create a better voter experience, and guarantee election integrity.
 - [LiquidFeedback](https://liquidfeedback.org/index.en.html) - Decisions made easy.
+- [1000Minds](https://app.1000minds.com) - A better way to decide. Understand what matters to people. Group decision-making and surveys.
 
 ## Para distribuição de fundos
 - [Cobudget](https://cobudget.co/) - Cobudget makes it easy for organizations and groups to allocate funds collaboratively and transparently
