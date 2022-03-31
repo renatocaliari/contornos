@@ -63,7 +63,7 @@ Caso interesse, consulte materiais como [Team Topologies](https://www.amazon.com
 ---
 
 ## Exemplo de estrutura de contornos
-Qualquer modelo pré-fabricado sobre o desenho de times é falho por natureza justamente por não refletir ou se adequar à realidade. Porém, alguns podem ser úteis para inspirar e iniciar experimentos. Não existe receita universal.
+?> Qualquer modelo pré-fabricado sobre o desenho de times é falho por natureza justamente por não refletir ou se adequar à realidade. Porém, alguns podem ser úteis para inspirar e iniciar experimentos. Não existe receita universal.
 
 **Exemplo:**
 - **Design Organizacional** *(🧭 Especialidade;🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
