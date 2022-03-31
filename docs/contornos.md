@@ -23,7 +23,7 @@ Contorno é um escopo delimitado por razão de existir, responsabilidades, recur
 Uma pessoa pode estar em vários contornos e um contorno pode conter várias pessoas.
 
 A definição de contornos evita decidir a todo momento o que é necessário fazer e quem fará algo no dia a dia de uma organização.
-Cada contorno governa a sua própria estrutura, que pode ser alterada pela guardiã do contorno ou por decisão integrativa dependendo do contexto.
+Cada contorno governa a sua própria estrutura.
 
 ## Como classificar o mapeamento de contornos?
 
