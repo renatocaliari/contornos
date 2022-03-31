@@ -108,6 +108,7 @@ If the contorno that will offer a delegate already has a named delegate, it will
   
 ## Special contornos
 ### North
+
 **Reason for existing:**
 - define the north of the organization
 
