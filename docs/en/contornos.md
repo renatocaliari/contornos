@@ -91,7 +91,6 @@ It is possible to make combinations of all these above ways.
       - **Research** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
       - **Content** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 External; ⌚ Stable)*
       - **Partnerships** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 External; ⌚ Stable)*
-      - **Machine Learning Algorithms** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 External; ⌚ Stable)*
    - **[Experimentation on a new Product B]** *(🧭 Value Stream: Product;🧑🏻‍🤝‍🧑🏾 External; ⌚ Temporary)*
 
 ## How to map current scopes of the organization that reflect possible contornos?
