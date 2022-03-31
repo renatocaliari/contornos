@@ -78,17 +78,16 @@ Caso interesse, consulte materiais como [Team Topologies](https://www.amazon.com
    - **Pesquisa** *(🧭 Fórum; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
    - **Plataforma**: melhorar a vida das pessoas de engenharia e acelerar a entrega de software (🧭 Fluxo de Valor: Produto; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável) 
    - **["Plataforma de ensino de tecnologia"]** *(🧭 Fluxo de Valor: Produto; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
-      - **["Conseguir o primeiro emprego na área de tecnologia ou fazer transição de carreira"]** *(🧭 Fluxo de Valor: Intenção; 🚧 Desenvolvimento; ⌚ Estável)*
+      - **["Conseguir o primeiro emprego na área de tecnologia ou fazer transição de carreira"]** *(🧭 Fluxo de Valor: Intenção; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
          - **Modelagem de iniciativas** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
          - **Desenho da experiência de produto/serviço** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
          - **Interface gráfica/física** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
          - **Implementação** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
       - **Atendimento ao cliente** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
       - **Vendas e Marketing** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
-      - **Pesquisa** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
+      - **Pesquisa** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
       - **Conteúdo** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
       - **Parcerias** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
-      - **Algoritmos Machine Learning** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
    - **[Experimentação de um novo Produto B]** *(🧭 Fluxo de Valor: Produto; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Temporário)*
 
 ## Como mapear escopos atuais da organização que reflitam possíveis contornos?
