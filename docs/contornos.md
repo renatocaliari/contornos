@@ -66,7 +66,7 @@ Caso interesse, consulte materiais como [Team Topologies](https://www.amazon.com
 ?> Qualquer modelo pré-fabricado sobre o desenho de times é falho por natureza justamente por não refletir ou se adequar à realidade. Porém, alguns podem ser úteis para inspirar e iniciar experimentos. Não existe receita universal.
 
 **Exemplo:**
-- **Norte**: definir o norte da organização *(🧭 Fluxo de Valor;🧑🏻‍🤝‍🧑🏾 Externo + Interno; ⌚ Estável)*
+- **[Norte](apps#contorno-norte)**: definir o norte da organização *(🧭 Fluxo de Valor;🧑🏻‍🤝‍🧑🏾 Externo + Interno; ⌚ Estável)*
 - **Design Organizacional** *(🧭 Especialidade;🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
 - **Cuidado** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
   - **Diversidade** *(🧭 Fórum; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
