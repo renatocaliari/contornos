@@ -69,14 +69,14 @@ It is possible to make combinations of all these above ways.
 ?> Any pre-made model on the design of teams is flawed by nature precisely because it does not reflect or adapt to reality. However, some can be useful to inspire and initiate experiments. There is no universal recipe.
 
 **Example:**
-- **North(apps#north)**: define the north of the organization *(🧭 Value Stream;🧑🏻‍🤝‍🧑🏾 External + Internal; ⌚ Stable)*
+- **[North](en/apps#north)**: define the north of the organization *(🧭 Value Stream;🧑🏻‍🤝‍🧑🏾 External + Internal; ⌚ Stable)*
 - **Organizational Design** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
 - **Care** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
   - **Diversity** *(🧭 Forum;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
   - **Conflict Mediation** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
   - **Advisoring & Mentoring** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
   - **Listen** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
-- **[Contractual relationship](apps#contractual-relationship)** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
+- **[Contractual relationship](en/apps#contractual-relationship)** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
 - **Financial** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
 - **Delivering value to the customer** *(🧭 Value Stream;🧑🏻‍🤝‍🧑🏾 External; ⌚ Stable)*
    - **Research** *(🧭 Forum;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
