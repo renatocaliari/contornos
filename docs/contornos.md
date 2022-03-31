@@ -332,7 +332,7 @@ Regras:
 * comece com a pergunta: qual a primeira coisa que é feita ou precisa ser feita quando uma demanda chega? E depois, pergunta: qual a próxima coisa? Continue com essa pergunta até responder a pergunta: o que precisa ser concluído para entregar o resultado?
 
 ## Recursos de controle exclusivo (’Como?’)
-Cada contorno pode ter recursos (material, digital ou conceitual) de controle exclusivo. Qualquer pessoa de outro contorno que deseje manipular esse recurso, precisará pedir pela ação desejada para as participantes do contorno que detém o controle exclusivo.
+Cada contorno pode ter recursos (material, digital ou conceitual) de controle exclusivo. Qualquer pessoa de outro contorno que deseje manipular esse recurso, precisará pedir pela ação desejada para as participantes do contorno que detêm o controle exclusivo.
 
 Os contornos internos herdam os recursos de controle exclusivo do contorno externo.
 
