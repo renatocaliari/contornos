@@ -26,7 +26,7 @@ One person can be on several contornos, and one contorno can contain several peo
 
 The definition of Contornos avoids deciding all the time what needs to be done and who will do something.
 
-Each contorno governs its own structure, which can be changed by the contorno guardian or by integrative decision depending on the context.
+Each contorno governs its own structure.
 
 ## How to classify contorno mapping?
 
