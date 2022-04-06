@@ -430,7 +430,7 @@ Indicadores do tipo **métricas** são propostos pela guardiã do contorno e def
 
 ---
 
-Não significa que não possamos ou devamos usar métricas para alguns contextos. Mas devemos usar com moderação, após muita reflexão e questionamento tanto pelas pessoas que terão seu trabalho medido e avaliado quanto pelas pessoas que irão participar do processo de manuseamento dos dados.
+Não significa que não possamos ou devamos usar métricas para alguns contextos. Mas devemos usar com moderação, após muita reflexão e questionamento tanto pelas pessoas que terão o resultado do seu trabalho medido e avaliado quanto pelas pessoas que irão participar do processo de manuseamento dos dados.
 
 ---
 
