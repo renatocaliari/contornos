@@ -462,7 +462,7 @@ Eles são propostos e decididos pelo próprio contorno, de forma integrativa, se
 
 # Quem define cada atributo do contorno?
 
-| atributo | o contorno externo | o próprio contorno |
+| atributo | contorno externo | próprio contorno |
 | -- | -- | -- |
 | apelido |  | ✔️ |
 | escopo | ✔️ |  |
