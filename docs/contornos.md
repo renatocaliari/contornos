@@ -482,15 +482,18 @@ Se o contorno em questão é o maior contorno, a organização em si, então tud
 Impulsionadores é tudo aquilo que impulsiona o aprendizado ou adaptação da organização ou o apendizado e cuidado de pessoas.
 É esperado que os impulsionadores fluam continuamente.
 
-Regras:
+**Regras:**
 - Qualquer participante de um contorno tem a responsabilidade de perceber e tratar impulsionadores relativos aos seus contornos ou à sua pessoa.
-- Registre os impulsionadores em alguma lista compartilhada para processamento. 
 - [Declarar o tipo do impulsionador](#tipos-de-impulsionadores) para processamento.
 - Descreva a motivação e contexto do impulsionador.
-- Ao criar um impulsionador é necessário declarar a partir de qual contorno está criando o impulsionador e para qual contorno. Ex: "Impulsionador do contorno desenvolvimento para contorno produto". A única exceção, é quando for algo pessoal, não relacionado à estrutura organizacional (contorno, razão de existir, responsabilidades, estratégia, processo, indicador, elemento de controle exclusivo, acordos) ou ao trabalho operacional (projetos e tarefas), quando então não é necessário informar a partir de qual contorno está gerando o impulsionador.
+- Caso seja um impulsionador relativo a algo **estrutural** (contorno, razão de existir, responsabilidades, estratégia, processo, indicador, elemento de controle exclusivo, acordos) ou ao **trabalho operacional** (projetos e tarefas): ao criar o impulsionador é necessário declarar a partir de qual contorno está criando o impulsionador e para qual contorno. Ex: "Impulsionador do contorno desenvolvimento para contorno produto". 
+- Caso seja um impulsionadr relativo a algo **pessoal**: ao criar o impulsionador é necessário informar a pessoa que está criando, e se for relativo a outras pessoas em específico, pode ser informado para quais são essas pessoas.
 - É esperado que um impulsionador seja puxado por qualquer participante que tenha responsabilidade para lidar com o contexto do impulsionador.
 - É necessário que os impulsionadores sejam puxados e tratados um a um, com foco no contexto e intenção do impulsionador. Não coletivize o impulsionador buscando modificar o que é esperado, trazendo com assuntos e intenções de outras pessoas, a não ser que seja um pedido da pessoa que abriu o impulsionador original.
   - Ao tratar um impulsionador, logo que alguém perceber que o foco saiu desse impulsionador ou da pessoa que o trouxe, desviou do assunto, saiu do tipo previsto do impulsionador ou começaram a agregar impulsionadores de outras pessoas no impulsionador da pessoa que compartilhou, **é necessário avisar e interromper para que o foco volte para o assunto, tipo e pessoa que compartilhou o impulsionador**.
+
+**Recomendações:**
+- Registre os impulsionadores em alguma lista - ou quadro - compartilhada para processamento. 
 
 ## Tipos de impulsionadores
 Ao registrar um impulsionador, explicite qual é o seu tipo:
