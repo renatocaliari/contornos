@@ -416,7 +416,7 @@ Indicadores podem ter três categorias - Satisfação do público, Saúde intern
 ### Categorias de indicadores
 - **satisfação do público** (olhar pra fora), indicadores que o público do contorno utiliza em suas tomadas de decisões para iniciar ou continuar o uso de um produto ou serviço. É possível ter delimitador inferior e/ou superior. Abaixo do limite inferior, não está atendendo necessidades de clientes. Acima do superior pode indicar que clientes não percebem os benefícios a mais e também pode estar super servindo desnecessariamente quando causa prejuízos em outros aspectos do negócio, serviço ou produto. 
   - **Recomendação:** continuamente observe-se as necessidades a forma que clientes avaliam um resultado para adaptar os indicadores.
-- **saúde interna** (olhar pra dentro), para monitorar **aspectos do negócio, serviço, produto** ou **engajamento das pessoas** em um contorno. É possível ter delimitador inferior e superior que indiquem o intervalo de saúde. 
+- **saúde interna** (olhar pra dentro), para monitorar **aspectos do contorno, negócio, serviço ou produto** e **engajamento das pessoas** em um contorno. É possível ter delimitador inferior e superior que indiquem o intervalo de saúde. 
 - **sobrevivência** (olhar pra dentro), em caso **excepcional** e **temporário**, podendo conter um alvo de um resultado a ser atingido. Usado apenas quando for necessário promover uma mudança rápida para **salvar** o contorno, negócio, produto ou serviço.
 
 ?> Para cada categoria, escolha indicadores baseados em métricas e/ou práticas recorrentes. 
@@ -441,8 +441,8 @@ Não significa que não possamos ou devamos indicadores baseados em métricas pa
 
 **Recomendação:** 
 - Defina métricas baseadas em aspectos de **qualidade e quantidade**, assim como percepção de valor **subjetivo e objetivo**, com relação à razão de existir, estratégia e valor gerado gerado **na perspectiva de clientes do contorno ou engajamento de pessoas dos contornos**.
-- Defina métricas baseados em resultado e não em atividades (outcome-based e não activity-based).
-- Tenha uma composição de indicadores iniciais (leading) e atrasados (lagging). Indicadores iniciais nos dizem sobre tendências e sinais preditivos. Indicadores atrasados confirmam uma tendência em andamento, tendo relação com medição de rendimento ("throughput"). Isso inclui, por exemplo, informações se um contorno está resolvendo suas demandas.
+- Tenha uma composição de indicadores **iniciais** (leading) e **atrasados** (lagging). Indicadores iniciais nos dizem sobre tendências e sinais preditivos. Indicadores atrasados confirmam uma tendência em andamento, tendo relação com medição de rendimento ("throughput") e resultado ("outcome"). Isso inclui, por exemplo, informações se um contorno está resolvendo suas demandas.
+- Ao utilizar métricas baseadas em atividades (activity-based), como indicadores iniciais, faça com a intenção de observar e favorecer as métricas baseadas em **resultado** (outcome-based).
 
 **Exemplo de modelo para escrever indicadores iniciais (leading):**
 - Porcentagem de (membros / novos clientes / clientes recorrentes) que realizam pelo menos (o limite mínimo para ação do usuário) em (período X).
