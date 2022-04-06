@@ -410,7 +410,7 @@ Personal agreements are related to people, such as behavior and personal expecta
 ## Indicators
 Each contorno has indicators that can be shared by more than one contorno.
 
-Indicators can be either metrics type or recurring practice confirmation type. 
+Indicators can have three categories - **public satisfaction**, **internal health** and **survival**, and be based on **metrics** and/or **recurring practices**.
 
 **Remember:**
 * Indicators rarely provide definitive answers about something. Use them to power conversations, discoveries and support decision making with the support of other information.
@@ -418,9 +418,17 @@ Indicators can be either metrics type or recurring practice confirmation type.
 **It is recommended that:**
 * Continuously observe the way that clients evaluate a result to adapt the indicators.
 
-### Metric indicators
+### Indicatores categories
+- **public needs** (look outside), indicators that the public of contorno uses in their decision making to start or continue using a product or service. It is possible to have lower and/or upper delimiter. Below the lower limit, it is not meeting customer needs. Above superior may indicate that customers do not perceive the added benefits and may also be unnecessarily over-serving when it causes harm to other aspects of the business, service or product.
+  - **Recommendation:** continuously observe the needs and the way that customers evaluate a result in order to adapt the indicators.
+- intenal **health** (look inside), to monitor important **aspects of the contorno, business, service or product** and **people engagement** in a contorno. It is possible to have lower and upper bound that indicate the range of health.
+- **survival** (look inside), in **exceptional** and **temporary** cases, which may contain a target of an outcome to be achieved. Used only when it is necessary to promote a quick change to **save** the contorno, business, product or service.
 
-Metric indicators are proposed by the contorno guardian and defined in an integrative decision on the external contorno, in which the guardian participates. Anyone in the contorno can suggest changes to these indicators to the contorno guardian.
+?> For each category, choose indicators based on metrics and/or recurring practices.
+
+### Indicators based on metrics
+
+They are proposed by the contorno guardian and defined in an integrative decision on the external contorno, in which the guardian participates. Anyone in the contorno can suggest changes to these indicators to the contorno guardian.
 
 **Caution:**
 * Not everything is measurable.
@@ -436,16 +444,11 @@ It doesn't mean that we can't or should use metrics for some contexts. But we sh
 
 ---
 
-**Metric categories:** 
-- **health**, to monitor important aspects of the business, service, product or people engagement in a contorno. It is possible to have lower and upper bound that indicate the range of health. Examples of metrics indicator model, without delimiters, related to people engagement with a product or service:
-- **public needs**, indicators that public - internal or external - use in their decision-making and choice of services or products. It is possible to have a lower and/or higher delimiter. Below the lower limit, it is not meeting customer needs. Above superior may indicate that customers do not perceive the added benefits and may also be overserving unnecessarily when it causes harm to other aspects of the business, service or product.
-- **survival**, in **exceptional** and **temporary** cases, which may contain a target of a result to be achieved, only when it is necessary to promote a rapid change to **save** the business, product or service.
-
 **Recommendation:**
-- Define metrics indicators based on **quality and quantity** aspects, as well as **subjective and objective** value perception, in relation to the reason for existing, strategy and generated value generated **from the perspective of customers of the contorno or engagement of people of the contorno**.
-- Define indicators based on outcomes and not on activities (outcome-based and not activity-based).
-- Have a composition of leading and lagging indicators. Early indicators tell us about trends and predictive signals. Late indicators confirm an ongoing trend, related to throughput measurement. This includes, for example, information on whether a contorno is solving your demands.
-
+- Define metrics based on **quality and quantity** aspects, as well as **subjective and objective** value perception, in relation to the reason for existing, strategy and generated value generated **from the perspective of customers of the contorno or engagement of people of the contorno**.
+- Have a composition of **leading** and **lagging** indicators. Leading indicators tell us about trends and predictive signals. Lagging indicators confirm an ongoing trend, related to throughput measurement. This includes, for example, information on whether a contorno is solving your demands.
+- When using activity-based metrics as leading indicators, do so with the intention of observing and favoring **outcome-based** metrics.
+ 
 **Template example for writing leading indicators:**
 - Percentage of (members/new customers/returning customers) who do at least (the minimum threshold for user action) by (X period in time).
   - **Practical example:** Percentage of members who have saved at least one item as a favorite in the last week.
@@ -453,14 +456,14 @@ It doesn't mean that we can't or should use metrics for some contexts. But we sh
 
 ?> People doing at least X things and this having an apparent correlation with them becoming active, engaging more, or investing more time or money, doesn't mean we need to continue favoring them doing those actions. It is important to know why they do something. Is there a way to improve or simplify it so they don't have to do this?
 
-### Recurring practice confirmation indicators
+### Indicators based on recurring practices
 
-These indicators provide visibility if any desired practice or activity is being performed at the expected recurrence (eg daily, weekly, monthly, etc).
+They provide visibility if any desired practice is being performed - or not - at the expected recurrence (eg daily, weekly, monthly, etc).
 
 They are proposed and decided by the contorno itself, in an integrative way, without the need to involve the external contorno.
 
 **Recommendation:**
-* Defined indicators to leverage the strategy and generated value from the perspective of customers in the contorno or engagement of people in the contornos. 
+* Defined practices to leverage the strategy and generated value from the perspective of customers in the contorno or engagement of people in the contornos. 
 
 # Who defines each contorno attribute?
 
