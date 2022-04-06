@@ -38,9 +38,10 @@ Each contorno governs its own structure.
      - examples: "Personalized content per member"; "Members connected to at least one other member on the platform"; "Products found on first search attempt"; etc)
    - **product** or **service**  
    - **initiative**
-2. **[Market]**:
-   - sides or **actors of a marketplace**: supply, demand, providers, contractors, Business to Business (B2B), Business to Consumer (B2C), Business to Business to Consumer (B2B2C), Business to Government (B2G), Consumer to Consumer (C2C) ou Direct to Consumer (D2C).
+2. **[Region]**:
    - **geographical areas**
+   - **space**
+   - **location**
 3. **[Specialty]**:
    - **work** specialties
    - expertise in **modules** of the organization's technological services
@@ -53,6 +54,7 @@ If interested, consult materials such as [Team Topologies](https://www.amazon.co
 ### 🧑🏻‍🤝‍🧑🏾 Public
    - **Internal**: the final work is intended to meet, enable and enhance the organization's contornos work.
    - **External**: the final work is intended to serve people and companies external to the organization, especially the final public. 
+     - **Side**: supply, demand, providers, contractors, Business to Business (B2B), Business to Consumer (B2C), Business to Business to Consumer (B2B2C), Business to Government (B2G), Consumer to Consumer (C2C) ou Direct to Consumer (D2C).
 
 ### ⌚ Duration
    - **Stable**: they have no determined expiration and lasts as long as it makes sense.
