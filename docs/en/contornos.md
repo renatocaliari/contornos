@@ -121,6 +121,7 @@ Principles to be observed when creating and maintaining Forums:
 
 ?> Any pre-made model on the design of teams is flawed by nature precisely because it does not reflect or adapt to reality. However, some can be useful to inspire and initiate experiments. There is no universal recipe.
 
+**Organizational structure:**
 - **[North](en/apps#north)**: define the north of the organization *(🧭 Value Stream;🧑🏻‍🤝‍🧑🏾 External + Internal; ⌚ Stable)*
 - **Organizational Design** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
 - **Care** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
@@ -146,9 +147,8 @@ Principles to be observed when creating and maintaining Forums:
       - **Partnerships** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 External; ⌚ Stable)*
    - **[Experimentation on a new Product XPTO]** *(🧭 Value Stream: Product;🧑🏻‍🤝‍🧑🏾 External; ⌚ Temporary)*
 
-- **Forums** (it's just an organization directory to list Forums and not connected hierarchically in the structure to any Contorno)
-  - **Diversity** *(Forum)*
-
+**Forums** (it's just an organization directory to list Forums and not connected hierarchically in the structure to any Contorno)
+  - **Diversity** *(Forum)* - Note that both this Forum and the contorno Diversity above can co-exist. However, only the contorno has authority for decisions and creation of organizational artifacts in this scope. The Forum can be created by anyone with the intention of just discussing the topic apart from the contorno.
 
 # Participation in contornos
 Participation in contornos happens through the allocation of people. It is possible to indicate the [type of energy](en/apps#type-of-energy-in-contorno) that each participant will have in a certain contorno.
