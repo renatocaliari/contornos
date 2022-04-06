@@ -79,12 +79,13 @@ If interested, consult materials such as [Team Topologies](https://www.amazon.co
 - **Delivering value to the customer** *(🧭 Value Stream;🧑🏻‍🤝‍🧑🏾 External; ⌚ Stable)*
    - **Research** *(🧭 Forum;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
    - **Platform engineering**: improving the lives of the engineering and accelerate software delivery *(🧭 Value Stream: Product;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
-   - **["Technology teaching platform"]** *(🧭 Value Stream: Product;🧑🏻‍🤝‍🧑🏾 External; ⌚ Stable)*
-      - **["Get your first tech job or make a career transition"]** *(🧭 Value Stream: Intent;🧑🏻‍🤝‍🧑🏾 External; ⌚ Stable)*
-         - **Modeling of initiatives** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 External; ⌚ Stable)*
-         - **Product/service experience design** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 External; ⌚ Stable)*
-         - **Graphic/physical interface** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 External; ⌚ Stable)*
-         - **Implementation** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 External; ⌚ Stable)*
+   - Product: **["Learn development of software"]** *(🧭 Value Stream: Product + Intent;🧑🏻‍🤝‍🧑🏾 External; ⌚ Stable)*
+      - **Intents of public** *(🧭 Value Stream: Intent;🧑🏻‍🤝‍🧑🏾 External; ⌚ Stable)*
+        - **["Get my first tech job or make a career transition"]** *(🧭 Value Stream: Intent;🧑🏻‍🤝‍🧑🏾 External; ⌚ Stable)*
+           - **Modeling of initiatives** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 External; ⌚ Stable)*
+           - **Product/service experience design** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 External; ⌚ Stable)*
+           - **Graphic/physical interface** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 External; ⌚ Stable)*
+           - **Implementation** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 External; ⌚ Stable)*
       - **Customer Service** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 External; ⌚ Stable)*
       - **Sales and Marketing** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 External; ⌚ Stable)*
       - **Research** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
