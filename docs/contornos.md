@@ -87,7 +87,7 @@ Caso interesse, consulte materiais como [Team Topologies](https://www.amazon.com
       - **Pesquisa** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
       - **Conteúdo** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
       - **Parcerias** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
-   - **[Experimentação de um novo Produto B]** *(🧭 Fluxo de Valor: Produto; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Temporário)*
+   - **[Experimentação de um novo Produto XPTO]** *(🧭 Fluxo de Valor: Produto; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Temporário)*
 
 ## Como mapear escopos atuais da organização que reflitam possíveis contornos?
 
