@@ -97,7 +97,12 @@ To adapt the contorno, it is necessary to identify which [attribute](en/contorno
 
 # Forums
 
-The organization may also have Forums. Unlike contornos, a forum does not have its own artifacts or structural roles. See below in the [structure example](en/contornos#example-of-organizational-structure-of-contornos).
+The organization may also have Forums. Unlike contornos, a Forum does not have its own artifacts or structural roles. 
+It's listed aside from the contorno's structure.
+
+See below in the [structure example](en/contornos#example-of-organizational-structure-of-contornos).
+
+Any created Forum need to be nested in a specific Contorno for Forums. 
 
 **Rules:**
 - A Forum exists around a topic, idea, technique or skill to discuss, learn and exchange with interested people.
@@ -119,8 +124,6 @@ Principles to be observed when creating and maintaining Forums:
 
 - **[North](en/apps#north)**: define the north of the organization *(🧭 Value Stream;🧑🏻‍🤝‍🧑🏾 External + Internal; ⌚ Stable)*
 - **Organizational Design** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
-- **Forums** *(🧭 Forum;🧑🏻‍🤝‍🧑🏾 Internal + External; ⌚ Stable)*
-  - **Diversity** *(🧭 Forum;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
 - **Care** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
   - **Conflict Mediation** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
   - **Advisoring & Mentoring** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
@@ -143,6 +146,10 @@ Principles to be observed when creating and maintaining Forums:
       - **Content** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 External; ⌚ Stable)*
       - **Partnerships** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 External; ⌚ Stable)*
    - **[Experimentation on a new Product XPTO]** *(🧭 Value Stream: Product;🧑🏻‍🤝‍🧑🏾 External; ⌚ Temporary)*
+
+- **Forums** (it's just an organization directory to list Forums and not connected hierarchically in the structure to any Contorno)
+  - **Diversity** *(Forum)*
+
 
 # Participation in contornos
 Participation in contornos happens through the allocation of people. It is possible to indicate the [type of energy](en/apps#type-of-energy-in-contorno) that each participant will have in a certain contorno.
