@@ -76,7 +76,7 @@ Caso interesse, consulte materiais como [Team Topologies](https://www.amazon.com
    - **Pesquisa** *(🧭 Fórum; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
    - **Plataforma**: melhorar a vida das pessoas de engenharia e acelerar a entrega de software (🧭 Fluxo de Valor: Produto; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável) 
    - **["Ensino de tecnologia"]** *(🧭 Fluxo de Valor: Produto; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
-      - **Intenções** *(🧭 Fluxo de Valor: Intenção; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
+      - **Intenções do público** *(🧭 Fluxo de Valor: Intenção; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
         - **["Conseguir o primeiro emprego na área de tecnologia ou fazer transição de carreira"]** *(🧭 Fluxo de Valor: Intenção; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
            - **Modelagem de iniciativas** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
           - **Desenho da experiência de produto/serviço** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
