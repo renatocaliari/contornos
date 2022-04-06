@@ -62,10 +62,6 @@ If interested, consult materials such as [Team Topologies](https://www.amazon.co
 
 ---
 
-It is possible to make combinations of all these above ways.
-
----
-
 ## Example of a structure of contornos 
 
 ?> Any pre-made model on the design of teams is flawed by nature precisely because it does not reflect or adapt to reality. However, some can be useful to inspire and initiate experiments. There is no universal recipe.
