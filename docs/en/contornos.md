@@ -20,15 +20,24 @@ The organizational structure is defined by contornos. The people in the organiza
 
 The system starts with the maxim that _"everything is allowed as long as it is not explicitly forbidden"_ in some [agreement](#agreements) containing restriction or defined as [resources o exclusive control](#resources-of-exclusive-control-how) of some contorno instead of the common inverse in many organizations that _"everything is forbidden as long as it is explicitly allowed"_. 
 
+In addition to Contornos, it is also possible to have Forums.
+
 # Contornos
-A contorno is a scope delimited by reason for existing, responsibilities, resources of exclusive control, and proper agreements.
-One person can be on several contornos, and one contorno can contain several people.
+Contorno is a scope delimited by:
+- reason to exist
+- responsibilities
+- resources of exclusive control
+- agreements
+     
+The definition of Contornos avoids deciding all the time what needs to be done and who will do something.     
 
-The definition of Contornos avoids deciding all the time what needs to be done and who will do something.
+Rules:    
+- One person can be on several contornos, and one contorno can contain several people.
+- Each contorno governs its own structure.
 
-Each contorno governs its own structure.
+## How to classify contornos?
 
-## How to classify contorno mapping?
+
 
 ### 🧭 Type
 1. **[Value Stream]**:
@@ -45,16 +54,6 @@ Each contorno governs its own structure.
    - **geographical areas**
    - **physical space**
    - **location**
-4. **[Forum]**:
-  - Brings together anyone interested in a topic, idea, technique or skill to discuss, learn and exchange.
-  - Details:
-     - It is a special type of contorno because it cannot decide on external organizational artifacts, but it can influence your decisions and best practices, in addition to influencing the way of acting of people that belong to these other contorno.
-     - A contorno of type Forum can give rise to a contorno of another type within a contorno of related scope, making decisions about organizational artifacts, depending on the integrative decision of the guardian of the related contorno.
-     - Nothing prevents you from having a contorno of type Forum to discuss a subject, even if there is a contorno of another type that takes care of the similar scope and makes decisions about the scope.
-     - The forum is an organic structure that anyone can create and participate in. The other types of contours depend on integrative decisions for creation, adaptation and participation.
-     - The reason for existing is defined by the person who created the forum, without the need for an integrative decision of some external contorno. It cannot conflict with agreements of the organization itself.
-     - Does not have defined responsibilities.
-     - It does not have metrics defined by external contorno.
 
 _(*) Intent can be understood as a Job To Be Done, purpose in Fit For Purpose, a "tower" or "mental space" from Indi Young's Mental Model diagram, etc._
 If interested, consult materials such as [Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology-ebook/dp/B07NSF94PC), [Fit For Purpose](https://www. amazon.com/Fit-Purpose-Businesses-Satisfy-Customers/dp/0985305118) and [Jobs To Be Done](https://medium.com/tentaculus/jobs-to-be-done-parte-1-42bfdf4875c8) ._
@@ -68,7 +67,53 @@ If interested, consult materials such as [Team Topologies](https://www.amazon.co
    - **Stable**: they have no determined expiration and lasts as long as it makes sense.
    - **Temporary**: they are born with an already determined expiration, focusing on some occasional context. It can be expired based on a date or the completion of a project.
 
----
+## How to map current scopes of the organization that reflect possible contornos?
+
+If you want to find out which are the networks and scopes that already work in the organization, even if informally, here are some options:
+- ["Organizational Network Analysis"](https://www2.deloitte.com/us/en/pages/human-capital/articles/organizational-network-analysis.html) and look at the type of connections that currently exist.
+- Mapping [process and value stream](references#refer%C3%AAnces-about-process-mapping) of the larger contorno in relation to the organization's reason for existing.
+- Mapping of activities that people currently perform and [convert to responsibilities](en/questions#how-to-define-the-responsibilities-of-a-contorno). After that, define the contornos and all their attributes.
+
+## When to create new contornos?
+
+Create contornos when:
+- noticing some recurring patterns that would be dealt with more effectively if they were in charge of a specific contorno;
+- identify issues that need ongoing care;
+- you want to execute and complete a project that temporarily requires joint work apart from an existing contorno.
+
+Examples demonstrating contexts for creating contornos in case of recurring patterns:
+- recurrently the contorno you participate needs to perform data analysis in a more advanced way. For a while the participants were trying to help each other, each hour doing the task and learning what was needed. It was not clear who had this responsibility. Due to this recurrence, someone registered a [booster](#boosters) for the contorno with a proposal to create an internal "data analysis" contorno, making it explicit what was expected. Then, they made a proposal for the allocation of a person as guardian of this contorno. From then on, they no longer had to decide who would do this type of work and what responsibilities were expected, as the contorno already made it clear.
+- a "Tech" contorno has the responsibility to take care of the infrastructure and deployment process of some systems that the contorno develops. However, this started to generate conflicts and doubts about which participants would have to have the skills, knowledge and attention for this. So, one participant created a [booster](#boosters) with a proposal to create an internal contorno of "support" delegating the "deploy process" as exclusive control for this new contorno and also the responsibilities of taking care of the infrastructure and the process . Then they allocated one person as [guardian](#guardian) and another with [agent](#agent).
+
+**Recommendations**:
+- delimit new contornos from the demands of the public, internal or external.
+- minimize the creation of contornos that depend on recurring, expected and necessary deliveries (_handover_ or _handoff_) of other contornos that are not within the same external contorno. Favor that participants of the contornos that have dependence can have a close context in common - an external contorno, favoring them to participate in meetings, decisions and treatment of [drivers](#drivers) together.
+  - if a dependency between contornos that are on different external contornos is desired or necessary, it is recommended to create a structural role of [representative](apps#structural-representative-role) so that those contornos have some link.
+
+## How to adapt or remove a contorno?
+Anytime someone perceives that a contorno needs, or is desirable, to be adapted, whatever the attribute, or that it no longer has a reason for existing, a proposal can be made to carry out this alteration or removal of the contorno.
+
+To remove a contorno, an integrative decision by the external contorno is necessary, being able to decide which contornos internal to the contorno being deleted they want to bring to the contorno that is making the decision.
+
+To adapt the contorno, it is necessary to identify which [attribute](en/contornos#contorno-attributes) you want to change and who has the authority to adapt it.
+
+# Forums
+
+The organization may also have Forums. Unlike contornos, a forum does not have its own artifacts or structural roles. See below for the structure example.
+
+**Rules:**
+- A Forum exists around a topic, idea, technique or skill to discuss, learn and exchange with interested people.
+- They do not necessarily have to be related to the organization's reason for existing.
+- Anyone can create a Forum. And anyone can join existing Forums.
+- The person who created the Forum does not have any authority and power over the scope or participants. It just created the space.
+- A Forum needs to have a self-explanatory name.
+- A Forum has no formal authority over any organizational artifact. It can naturally influence people.
+- Nothing prevents the existence of a Forum of a scope for which there is also a contorno. One is for discussions with anyone interested. The other serves to take care and make decisions with people with authority to do so.
+- A Forum can be a catalyst for creating a contorno that does not yet exist for this scope, depending on the normal integrative decision process for creating contornos. If there is no contorno for this scope of the Forum and you realize that the Forum needs structure or authority for decisions, it is an indication to create a contorno for that scope.
+
+Principles to be observed when creating and maintaining Forums:
+- not promote discussions that conflict with the organization's personal agreements.
+- not promote discussions that disrespect people.
 
 ## Example of a structure of contornos 
 
@@ -101,37 +146,6 @@ If interested, consult materials such as [Team Topologies](https://www.amazon.co
       - **Content** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 External; ⌚ Stable)*
       - **Partnerships** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 External; ⌚ Stable)*
    - **[Experimentation on a new Product XPTO]** *(🧭 Value Stream: Product;🧑🏻‍🤝‍🧑🏾 External; ⌚ Temporary)*
-
-## How to map current scopes of the organization that reflect possible contornos?
-
-If you want to find out which are the networks and scopes that already work in the organization, even if informally, here are some options:
-- ["Organizational Network Analysis"](https://www2.deloitte.com/us/en/pages/human-capital/articles/organizational-network-analysis.html) and look at the type of connections that currently exist.
-- Mapping [process and value stream](references#refer%C3%AAnces-about-process-mapping) of the larger contorno in relation to the organization's reason for existing.
-- Mapping of activities that people currently perform and [convert to responsibilities](en/questions#how-to-define-the-responsibilities-of-a-contorno). After that, define the contornos and all their attributes.
-
-## When to create new contornos?
-
-Create contornos when:
-- noticing some recurring patterns that would be dealt with more effectively if they were in charge of a specific contorno;
-- identify issues that need ongoing care;
-- you want to execute and complete a project that temporarily requires joint work apart from an existing contorno.
-
-Examples demonstrating contexts for creating contornos in case of recurring patterns:
-- recurrently the contorno you participate needs to perform data analysis in a more advanced way. For a while the participants were trying to help each other, each hour doing the task and learning what was needed. It was not clear who had this responsibility. Due to this recurrence, someone registered a [booster](#boosters) for the contorno with a proposal to create an internal "data analysis" contorno, making it explicit what was expected. Then, they made a proposal for the allocation of a person as guardian of this contorno. From then on, they no longer had to decide who would do this type of work and what responsibilities were expected, as the contorno already made it clear.
-- a "Tech" contorno has the responsibility to take care of the infrastructure and deployment process of some systems that the contorno develops. However, this started to generate conflicts and doubts about which participants would have to have the skills, knowledge and attention for this. So, one participant created a [booster](#boosters) with a proposal to create an internal contorno of "support" delegating the "deploy process" as exclusive control for this new contorno and also the responsibilities of taking care of the infrastructure and the process . Then they allocated one person as [guardian](#guardian) and another with [agent](#agent).
-
-**Recommendations**:
-- delimit new contornos from the demands of the public, internal or external.
-- minimize the creation of contornos that depend on recurring, expected and necessary deliveries (_handover_ or _handoff_) of other contornos that are not within the same external contorno. Favor that participants of the contornos that have dependence can have a close context in common - an external contorno, favoring them to participate in meetings, decisions and treatment of [drivers](#drivers) together.
-  - if a dependency between contornos that are on different external contornos is desired or necessary, it is recommended to create a structural role of [representative](apps#structural-representative-role) so that those contornos have some link.
- 
-
-## How to adapt or remove a contorno?
-Anytime someone perceives that a contorno needs, or is desirable, to be adapted, whatever the attribute, or that it no longer has a reason for existing, a proposal can be made to carry out this alteration or removal of the contorno.
-
-To remove a contorno, an integrative decision by the external contorno is necessary, being able to decide which contornos internal to the contorno being deleted they want to bring to the contorno that is making the decision.
-
-To adapt the contorno, it is necessary to identify which [attribute](en/contornos#contorno-attributes) you want to change and who has the authority to adapt it.
 
 # Participation in contornos
 Participation in contornos happens through the allocation of people. It is possible to indicate the [type of energy](en/apps#type-of-energy-in-contorno) that each participant will have in a certain contorno.
