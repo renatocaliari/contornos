@@ -98,13 +98,12 @@ To adapt the contorno, it is necessary to identify which [attribute](en/contorno
 # Forums
 
 The organization may also have Forums. Unlike contornos, a Forum does not have its own artifacts or structural roles. 
-It's listed aside from the contorno's structure.
 
 See below in the [structure example](en/contornos#example-of-organizational-structure-of-contornos).
 
-Any created Forum need to be nested in a specific Contorno for Forums. 
 
 **Rules:**
+- Forums exist apart from the contorno's structure.
 - A Forum exists around a topic, idea, technique or skill to discuss, learn and exchange with interested people.
 - They do not necessarily have to be related to the organization's reason for existing.
 - Anyone can create a Forum. And anyone can join existing Forums.
