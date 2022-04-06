@@ -38,6 +38,7 @@ Cada contorno governa a sua própria estrutura.
 2. **[Região]**:
    - **área geográfica**
    - **espaço**
+   - **localização**
 3. **[Especialidade]**:
    - especialidades de **trabalho**
    - especialidade em **módulos** de serviços tecnológicos da organização
