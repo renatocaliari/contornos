@@ -523,7 +523,7 @@ When registering a booster, specify its type:
 | a person has gained a child and would like to share the news with the participants of the contornos in which he works. | **celebration**. |
 | a person is having difficulty discussing important matters through the company's official tool because there are messages sent to other people in the area that go over 5 days without replies. | **integrative decision** with a proposal for a personal agreement that foresees the need to respond to messages that other people have marked you within 48 hours. |
 
-The possibilities of boosters are almost endless, appearing all the time in the complexity of daily life and favoring the organization's continuous adaptation.
+?> The possibilities of boosters are almost endless, appearing all the time in the complexity of daily life and favoring the organization's continuous adaptation.
 
 # Integrative decision
 Integrative decision is a type of decision **in consent** involving all participants in a decision. When not specified, by default, an integrative decision involves all participants in a contorno.
