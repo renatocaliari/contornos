@@ -419,10 +419,10 @@ Indicators can have three categories - **public satisfaction**, **internal healt
 * Continuously observe the way that clients evaluate a result to adapt the indicators.
 
 ### Indicatores categories
-- **public needs** (look outside), indicators that the public of contorno uses in their decision making to start or continue using a product or service. It is possible to have lower and/or upper delimiter. Below the lower limit, it is not meeting customer needs. Above superior may indicate that customers do not perceive the added benefits and may also be unnecessarily over-serving when it causes harm to other aspects of the business, service or product.
+- **Public needs** (look outside), indicators that the public of contorno uses in their decision making to start or continue using a product or service. It is possible to have lower and/or upper delimiter. Below the lower limit, it is not meeting customer needs. Above superior may indicate that customers do not perceive the added benefits and may also be unnecessarily over-serving when it causes harm to other aspects of the business, service or product.
   - **Recommendation:** continuously observe the needs and the way that customers evaluate a result in order to adapt the indicators.
-- intenal **health** (look inside), to monitor important **aspects of the contorno, business, service or product** and **people engagement** in a contorno. It is possible to have lower and upper bound that indicate the range of health.
-- **survival** (look inside), in **exceptional** and **temporary** cases, which may contain a target of an outcome to be achieved. Used only when it is necessary to promote a quick change to **save** the contorno, business, product or service.
+- Intenal **health** (look inside), to monitor important **aspects of the contorno, business, service or product** and **people engagement** in a contorno. It is possible to have lower and upper bound that indicate the range of health.
+- **Survival** (look inside), in **exceptional** and **temporary** cases, which may contain a target of an outcome to be achieved. Used only when it is necessary to promote a quick change to **save** the contorno, business, product or service.
 
 ?> For each category, choose indicators based on metrics and/or recurring practices.
 
