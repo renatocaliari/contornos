@@ -432,7 +432,7 @@ Metric indicators are proposed by the contorno guardian and defined in an integr
 
 ---
 
-It doesn't mean that we can't or should use metrics for some contexts. But we should use it sparingly, after much reflection and questioning, both by the people who will have their work measured and evaluated and by the people who will participate in the data handling process. 
+It doesn't mean that we can't or should use metrics for some contexts. But we should use it sparingly, after much reflection and questioning, both by the people who will have the outcome of their work measured and evaluated and by the people who will participate in the data handling process. 
 
 ---
 
