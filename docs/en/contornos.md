@@ -99,7 +99,7 @@ To adapt the contorno, it is necessary to identify which [attribute](en/contorno
 
 The organization may also have Forums. Unlike contornos, a Forum does not have its own artifacts or structural roles. 
 
-See below in the [structure example](en/contornos#example-of-organizational-structure-of-contornos).
+See below in the [structure example](en/contornos#example-of-organizational-structure-using-contornos).
 
 
 **Rules:**
