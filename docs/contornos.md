@@ -35,9 +35,9 @@ Cada contorno governa a sua própria estrutura.
      - exemplos: "Conteúdo personalizado por membro"; "Membros conectados a pelo menos um outro membro na plataforma"; "Produtos encontrados na primeira tentativa de busca"; etc)
    - **produto** ou **serviço**  
    - **iniciativa**
-2. **[Especialidade]**:
-   - especialidades de **trabalho**
-   - especialidade em **módulos** de serviços tecnológicos da organização
+2. **[Especialização]**:
+   - especialidade de **trabalho**
+   - especialidade em **módulos** de sistemas
 3. **[Fórum]** temático:
    - contorno que reúne pessoas em torno de um mesmo tema, ideia, técnica ou habilidade.
 4. **[Região]**:
