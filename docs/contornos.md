@@ -14,18 +14,43 @@
 - :thumbsup: Tudo é permitido desde que não seja explicitamente proibido.
 
 # Estrutura organizacional
-A estrutura organizacional é definida por contornos. As pessoas parceiras da organização trabalham orientadas por esses contornos, uma hierarquia de especificidade e não de pessoas. 
+A estrutura organizacional é definida por contornos. 
+As pessoas parceiras da organização trabalham orientadas por esses contornos, uma hierarquia de escopos e não de pessoas. 
 
 O sistema começa com a máxima de que _“tudo é permitido desde que não seja explicitamente proibido”_ em algum [acordo](#acordos) contendo restrição ou definido como [recursos de controle exclusivo](#recursos-de-controle-exclusivo-como) de algum contorno em vez do inverso comum em muitas organizações de que _“tudo é proibido desde que seja explicitamente permitido”_. 
 
+Além de Contornos, é possível também existirem Fóruns.
+
 # Contornos
-Contorno é um escopo delimitado por razão de existir, responsabilidades, recursos de controle exclusivo e acordos próprios.
+Contorno é um **escopo delimitado** por:
+- razão de existir
+- responsabilidades
+- recursos de controle exclusivo
+- acordos
+
 Uma pessoa pode estar em vários contornos e um contorno pode conter várias pessoas.
 
 A definição de contornos evita decidir a todo momento o que é necessário fazer e quem fará algo no dia a dia de uma organização.
 Cada contorno governa a sua própria estrutura.
 
-## Como classificar o mapeamento de contornos?
+# Fóruns
+A organização também pode possuir Fóruns. Necessariamente Fóruns ficam dentro de um diretório da organização chamado Fóruns. Um diretório é apenas uma identificação mas sem artefatos próprios ou papéis estruturais. Veja mais abaixo no [exemplo de estrutura](#exemplo-de-estrutura-utilizando-o-sistema-contornos).
+
+**Regras:**
+- Um Fórum existe em torno de um tema, ideia, técnica ou habilidade para discutir, aprender e trocar com as pessoas interessadas.
+- Não precisam necessariamente ter relação com a razão de existir da organização.
+- Qualquer pessoa pode criar um Fórum. E qualquer pessoa pode participar de Fóruns existentes.
+- A pessoa que criou o Fórum não tem qualquer sobre o escopo ou participantes. Ela apenas criou o espaço. 
+- Um Fórum precisa ter um nome auto-explicativo. 
+- Um Fórum não possui qualquer autoridade formal sobre qualquer artefato organizacional. Ele pode naturalmente **influenciar** pessoas.
+- Nada impede de existir um Fórum de um escopo para o qual já exista também um Contorno. Um serve para discussões com qualquer pessoa interessada. O outro serve para cuidar e tomar decisões com pessoas com autoridade para isso. 
+- Um Fórum pode ser um catalizador para a criação de um Contorno que ainda não exista para este escopo, dependendo do processo de decisão integrativa normal para criação de contornos. Caso não exista um Contorno para esse escopo do Fórum e perceber que o Fórum precisa de estrutura ou autoridade para decisões, é um indício para a criação de um Contorno para esse escopo.
+ 
+**Princípios a serem observados na criação e manutenção de Fóruns:** 
+- não promover discussões que conflitem com acordos pessoais da organização em si. 
+- não promover discussões que desrespeitem as pessoas.
+
+## Como classificar os Contornos?
 
 ### 🧭 Tipo
 1. **[Fluxo de Valor]**:
@@ -38,17 +63,7 @@ Cada contorno governa a sua própria estrutura.
 2. **[Especialidade]**:
    - especialidade de **trabalho**
    - especialidade em **módulos** de sistemas
-3. **[Fórum]**:
-    - Reúne qualquer pessoa interessada em um tema, ideia, técnica ou habilidade para discutir, aprender e trocar.
-    - Detalhes:
-      - É um tipo especial de contorno pois não pode decidir sobre artefatos organizacionais externos, mas pode influenciar suas decisões e melhores práticas, além de influenciar a forma de agir das pessoas que pertencem a esses outros contornos.
-      - Um contorno do tipo Fórum pode dar origem a um contorno de outro tipo dentro de um contorno de escopo relacionado, tomando decisões sobre artefatos organizacionais, dependendo de decisão integrativa da guardiã do contorno em questão. 
-      - Nada impede de ter um contorno do tipo Fórum para discutir um assunto, mesmo que exista um contorno de outro tipo que cuide do mesmo escopo e tome decisões sobre o escopo. 
-      - O fórum é uma estrutura orgânica que qualquer pessoa pode criar e participar. Os outros tipos de contornos dependem de decisões integrativas para criação, adaptação e particpação.
-      - A razão de existir é definida pela própria pessoa que criou o fórum, sem necessidade de decisão integrativa de algum contorno externo. Não pode conflitar com acordos da organização em si.
-      - Não possui responsabilidades definidas.
-      - Não possui métricas definidas por contorno externo.
-4. **[Região]**:
+3. **[Região]**:
    - **área geográfica**
    - **espaço físico**
    - **localização**
@@ -64,39 +79,6 @@ Caso interesse, consulte materiais como [Team Topologies](https://www.amazon.com
 ### ⌚ Duração
 1. **Estável**: não têm encerramento determinado e dura enquanto fizer sentido aquela abordagem. 
 2. **Temporária**: nascem com um encerramento já determinado, focando em algum contexto ocasional. Pode ter o encerramento baseado numa data ou na conclusão de um projeto.
-
----
-
-## Exemplo de estrutura de contornos
-?> Qualquer modelo pré-fabricado sobre o desenho de times é falho por natureza justamente por não refletir ou se adequar à realidade. Porém, alguns podem ser úteis para inspirar e iniciar experimentos. Não existe receita universal.
-
-**Exemplo:**
-- **[Norte](apps#contorno-norte)**: definir o norte da organização *(🧭 Fluxo de Valor;🧑🏻‍🤝‍🧑🏾 Externo + Interno; ⌚ Estável)*
-- **Design Organizacional** *(🧭 Especialidade;🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
-- **Fóruns** *(🧭 Fórum; 🧑🏻‍🤝‍🧑🏾 Interno + Externo; ⌚ Estável)*
-  - **Diversidade** *(🧭 Fórum; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
-- **Cuidado** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
-  - **Mediação de conflitos** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
-  - **Aconselhamento & Mentoria** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
-  - **Escuta** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
-- **[Relação contratual](apps#contorno-relação-contratual)** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
-- **Financeiro** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
-- **Produtos** *(🧭 Fluxo de Valor: Produto; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
-   - **Pesquisa** *(🧭 Fórum; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
-   - **Plataforma de engenharia**: melhorar a vida das pessoas de engenharia e acelerar a entrega de software *(🧭 Fluxo de Valor: Produto; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
-   - Produto: **["Promover o aprendizado de desenvolvimento de software"]** *(🧭 Fluxo de Valor: Produto; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
-      - **Intenções do público** *(🧭 Fluxo de Valor: Intenção; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
-        - **["Conseguir o primeiro emprego na área de tecnologia ou fazer transição de carreira"]** *(🧭 Fluxo de Valor: Intenção; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
-           - **Modelagem de iniciativas** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
-          - **Desenho da experiência de produto/serviço** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
-          - **Interface gráfica/física** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
-          - **Implementação** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
-      - **Atendimento ao cliente** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
-      - **Vendas e Marketing** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
-      - **Pesquisa** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
-      - **Conteúdo** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
-      - **Parcerias** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
-   - **[Experimentação de um novo Produto XPTO]** *(🧭 Fluxo de Valor: Produto; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Temporário)*
 
 ## Como mapear escopos atuais da organização que reflitam possíveis contornos?
 
@@ -127,6 +109,39 @@ A qualquer momento que alguém perceber que um contorno precisa, ou é desejáve
 Para remoção de um contorno, é necessário decisão integrativa pelo contorno externo, podendo decidir quais contornos internos ao contorno sendo excluído desejam trazer para o contorno que está tomando a decisão.
 
 Para adaptação do contorno, é necessário identificar qual é o [atributo](#atributos-dos-contornos) que deseja alterar e quem tem autoridade para adaptá-lo.
+
+## Exemplo de estrutura utilizando o sistema Contornos
+?> Qualquer modelo pré-fabricado sobre o desenho de times é falho por natureza justamente por não refletir ou se adequar à realidade. Porém, alguns podem ser úteis para inspirar e iniciar experimentos. Não existe receita universal.
+
+**Exemplo:**
+- **[Norte](apps#contorno-norte)**: definir o norte da organização *(🧭 Fluxo de Valor;🧑🏻‍🤝‍🧑🏾 Externo + Interno; ⌚ Estável)*
+- **Design Organizacional** *(🧭 Especialidade;🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
+- **Fóruns** *(Diretório Organizacional Padrão)*
+  - **Diversidade** *(Fórum que alguém possa ter criado)* - Apenas para discussões sobre o tema.
+- **Cuidado** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
+  - **Diversidade** *(🧭 Especialidade;🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)* - Veja que tanto o Fórum de diversidade quanto esse Contorno podem co-existirem. Porém, apenas o contorno possui autoridade para decisões e criação de artefatos organizacionais nesse escopo.
+  - **Mediação de conflitos** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
+  - **Aconselhamento & Mentoria** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
+  - **Escuta** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
+- **[Relação contratual](apps#contorno-relação-contratual)** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
+- **Financeiro** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
+- **Produtos** *(🧭 Fluxo de Valor: Produto; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
+   - **Pesquisa** *(🧭 Fórum; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
+   - **Plataforma de engenharia**: melhorar a vida das pessoas de engenharia e acelerar a entrega de software *(🧭 Fluxo de Valor: Produto; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
+   - Produto: **["Promover o aprendizado de desenvolvimento de software"]** *(🧭 Fluxo de Valor: Produto; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
+      - **Intenções do público** *(🧭 Fluxo de Valor: Intenção; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
+        - **["Conseguir o primeiro emprego na área de tecnologia ou fazer transição de carreira"]** *(🧭 Fluxo de Valor: Intenção; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
+           - **Modelagem de iniciativas** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
+          - **Desenho da experiência de produto/serviço** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
+          - **Interface gráfica/física** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
+          - **Implementação** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
+      - **Atendimento ao cliente** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
+      - **Vendas e Marketing** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
+      - **Pesquisa** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
+      - **Conteúdo** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
+      - **Parcerias** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
+   - **[Experimentação de um novo Produto XPTO]** *(🧭 Fluxo de Valor: Produto; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Temporário)*
+
 
 # Participação em contornos
 A participação em contornos acontece por meio de alocação de pessoas. É possível indicar o [tipo de energia](apps#tipo-de-energia-em-contorno) que cada participante terá em um determinado contorno.
