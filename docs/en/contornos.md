@@ -438,7 +438,7 @@ It doesn't mean that we can't or should use metrics for some contexts. But we sh
 
 **Metric categories:** 
 - **health**, to monitor important aspects of the business, service, product or people engagement in a contorno. It is possible to have lower and upper bound that indicate the range of health. Examples of metrics indicator model, without delimiters, related to people engagement with a product or service:
-- **effect**, indicators that customers - internal or external - use in their decision-making and choice of services or products. It is possible to have a lower and/or higher delimiter. Below the lower limit, it is not meeting customer needs. Above superior may indicate that customers do not perceive the added benefits and may also be overserving unnecessarily when it causes harm to other aspects of the business, service or product.
+- **public needs**, indicators that public - internal or external - use in their decision-making and choice of services or products. It is possible to have a lower and/or higher delimiter. Below the lower limit, it is not meeting customer needs. Above superior may indicate that customers do not perceive the added benefits and may also be overserving unnecessarily when it causes harm to other aspects of the business, service or product.
 - **survival**, containing a target, in an **exceptional case** only when it is necessary to promote a quick change to **save** the business, product or service.
 
 **Recommendation:**
