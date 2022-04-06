@@ -477,7 +477,7 @@ They are proposed and decided by the contorno itself, in an integrative way, wit
 | strategy | | ✔️ |
 | process | | ✔️ |
 | indicators:metrics | ✔️ |  |
-| indicators:recurring practice confirmation | | ✔️ |
+| indicators:recurring practices | | ✔️ |
 
 ## Exception: greater contorno, the organization itself
 
