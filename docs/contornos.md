@@ -472,7 +472,7 @@ Eles são propostos e decididos pelo próprio contorno, de forma integrativa, se
 | estratégia | | ✔️ |
 | processo | | ✔️ |
 | indicadores:métricas | ✔️ |  |
-| indicadores:confirmação |  | ✔️ |
+| indicadores:práticas recorrentes |  | ✔️ |
 
 ## Exceção: maior contorno, a organização em si
 
