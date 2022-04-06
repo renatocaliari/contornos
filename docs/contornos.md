@@ -115,6 +115,7 @@ Veja mais abaixo no [exemplo de estrutura](#exemplo-de-estrutura-organizacional-
 # Exemplo de estrutura organizacional utilizando o sistema Contornos
 ?> Qualquer modelo pré-fabricado sobre o desenho de times é falho por natureza justamente por não refletir ou se adequar à realidade. Porém, alguns podem ser úteis para inspirar e iniciar experimentos. Não existe receita universal.
 
+**Estrutura Organizacional**
 - **[Norte](apps#contorno-norte)**: definir o norte da organização *(🧭 Fluxo de Valor;🧑🏻‍🤝‍🧑🏾 Externo + Interno; ⌚ Estável)*
 - **Design Organizacional** *(🧭 Especialidade;🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
 - **Cuidado** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
@@ -141,8 +142,7 @@ Veja mais abaixo no [exemplo de estrutura](#exemplo-de-estrutura-organizacional-
       - **Parcerias** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
    - **[Experimentação de um novo Produto XPTO]** *(🧭 Fluxo de Valor: Produto; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Temporário)*
 
-
-- **Fóruns** *(é apenas um diretório da organização para listar os Fóruns e não está conectado hierarquicamente na estrutura a nenhum Contorno)
+**Fóruns** *(é apenas um diretório da organização para listar os Fóruns e não está conectado hierarquicamente na estrutura a nenhum Contorno)
   - **Diversidade** *(Fórum que alguém possa ter criado)* - Apenas para discussões sobre o tema.
 
 
