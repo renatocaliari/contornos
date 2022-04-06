@@ -39,7 +39,7 @@ Cada contorno governa a sua própria estrutura.
    - especialidade de **trabalho**
    - especialidade em **módulos** de sistemas
 3. **[Fórum]** temático:
-   - contorno que reúne pessoas de diferentes contornos e especialidades em torno de um mesmo tema, ideia, técnica ou habilidade de interesse em comum afim de discussões, aprendizados e trocas.
+   - reúne pessoas de diferentes contornos e especialidades em torno de um mesmo tema, ideia, técnica ou habilidade de interesse em comum afim de discussões, aprendizados e trocas.
 4. **[Região]**:
    - **área geográfica**
    - **espaço físico**
