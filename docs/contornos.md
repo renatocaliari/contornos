@@ -40,7 +40,7 @@ A organização também pode possuir Fóruns. Necessariamente Fóruns ficam dent
 - Um Fórum existe em torno de um tema, ideia, técnica ou habilidade para discutir, aprender e trocar com as pessoas interessadas.
 - Não precisam necessariamente ter relação com a razão de existir da organização.
 - Qualquer pessoa pode criar um Fórum. E qualquer pessoa pode participar de Fóruns existentes.
-- A pessoa que criou o Fórum não tem qualquer sobre o escopo ou participantes. Ela apenas criou o espaço. 
+- A pessoa que criou o Fórum não tem qualquer autoridade e poder sobre o escopo ou participantes. Ela apenas criou o espaço. 
 - Um Fórum precisa ter um nome auto-explicativo. 
 - Um Fórum não possui qualquer autoridade formal sobre qualquer artefato organizacional. Ele pode naturalmente **influenciar** pessoas.
 - Nada impede de existir um Fórum de um escopo para o qual já exista também um Contorno. Um serve para discussões com qualquer pessoa interessada. O outro serve para cuidar e tomar decisões com pessoas com autoridade para isso. 
