@@ -449,7 +449,7 @@ Não significa que não possamos ou devamos usar métricas para alguns contextos
    - **Exemplo prático:** Porcentagem de membros que salvaram pelo menos um item como favorito na última semana. 
 - Porcentagem de (segmento de clientes) que realizam (ação) em (determinado contexto).
 
-?> As pessoas realizarem pelo menos X coisas e isso ter uma aparente correlação com elas se tornarem ativas, usarem mais do seu tempo no produto, se engajarem mais ou investirem mais, não significa que precisemos continuar favorecendo que elas executem essas ações. É importante saber o motivo delas realizarem algo. Há uma forma de melhorar ou simplificar para que elas não precisem realizar isso?
+?> As pessoas realizarem pelo menos X coisas e isso ter uma aparente correlação com elas se tornarem ativas, se engajarem mais ou investirem mais tempo ou dinheiro, não significa que precisemos continuar favorecendo que elas executem essas ações. É importante saber o motivo delas realizarem algo. Há uma forma de melhorar ou simplificar para que elas não precisem realizar isso?
 
 ### Indicadores do tipo confirmação de prática recorrente
 
