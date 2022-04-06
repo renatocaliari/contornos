@@ -40,7 +40,7 @@ Cada contorno governa a sua própria estrutura.
    - especialidade em **módulos** de sistemas
 3. **[Fórum]**:
     - Reúne qualquer pessoa interessada em um tema, ideia, técnica ou habilidade para discutir, aprender e trocar.
-    Detalhes:
+    - Detalhes:
       - É um tipo especial de contorno pois não pode decidir sobre artefatos organizacionais externos, mas pode influenciar suas decisões e melhores práticas, além de influenciar a forma de agir das pessoas que pertencem a esses outros contornos.
       - A razão de existir é definida pela própria pessoa que criou o fórum, sem necessidade de decisão integrativa de algum contorno externo. Não pode conflitar com acordos da organização em si.
       - Não possui responsabilidades definidas.
@@ -70,8 +70,9 @@ Caso interesse, consulte materiais como [Team Topologies](https://www.amazon.com
 **Exemplo:**
 - **[Norte](apps#contorno-norte)**: definir o norte da organização *(🧭 Fluxo de Valor;🧑🏻‍🤝‍🧑🏾 Externo + Interno; ⌚ Estável)*
 - **Design Organizacional** *(🧭 Especialidade;🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
-- **Cuidado** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
+- **Fóruns** *(🧭 Fórum; 🧑🏻‍🤝‍🧑🏾 Interno + Externo; ⌚ Estável)*
   - **Diversidade** *(🧭 Fórum; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
+- **Cuidado** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
   - **Mediação de conflitos** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
   - **Aconselhamento & Mentoria** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
   - **Escuta** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
