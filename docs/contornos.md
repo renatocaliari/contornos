@@ -35,9 +35,9 @@ Cada contorno governa a sua própria estrutura.
      - exemplos: "Conteúdo personalizado por membro"; "Membros conectados a pelo menos um outro membro na plataforma"; "Produtos encontrados na primeira tentativa de busca"; etc)
    - **produto** ou **serviço**  
    - **iniciativa**
-2. **[Mercado]**:
-   - lados ou **atores de um marketplace**: oferta, demanda, prestadores, contratantes, Business to Business (B2B), Business to Consumer (B2C), usiness to Business to Consumer (B2B2C), Business to Government (B2G), Consumer to Consumer (C2C) ou Direct to Consumer (D2C).
-   - **áreas geográficas**
+2. **[Região]**:
+   - **área geográfica**
+   - **espaço**
 3. **[Especialidade]**:
    - especialidades de **trabalho**
    - especialidade em **módulos** de serviços tecnológicos da organização
@@ -50,6 +50,7 @@ Caso interesse, consulte materiais como [Team Topologies](https://www.amazon.com
 ### 🧑🏻‍🤝‍🧑🏾 Público
    - **Interno**: o trabalho final tem como intenção atender, viabilizar e potencializar o trabalho de contornos da organização. 
    - **Externo**: o trabalho final tem como intenção atender pessoas e empresas externas à organização, especialmente o público final.
+      - **Lado**: oferta, demanda, prestadores, contratantes, Business to Business (B2B), Business to Consumer (B2C), Business to Business to Consumer (B2B2C), Business to Government (B2G), Consumer to Consumer (C2C) ou Direct to Consumer (D2C).
 
 ### ⌚ Duração
 1. **Estável**: não têm encerramento determinado e dura enquanto fizer sentido aquela abordagem. 
