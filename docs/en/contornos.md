@@ -47,7 +47,7 @@ Each contorno governs its own structure.
    - **location**
 4. **[Forum]**:
   - Brings together anyone interested in a topic, idea, technique or skill to discuss, learn and exchange.
-  Details:
+  - Details:
      - It is a special type of contorno because it cannot decide on external organizational artifacts, but it can influence your decisions and best practices, in addition to influencing the way of acting of people that belong to these other contorno.
      - The reason for existing is defined by the person who created the forum, without the need for an integrative decision of some external contorno. It cannot conflict with agreements of the organization itself.
      - Does not have defined responsibilities.
