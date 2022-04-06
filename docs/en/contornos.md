@@ -432,7 +432,7 @@ Metric indicators are proposed by the contorno guardian and defined in an integr
 
 ---
 
-It doesn't mean that we can't use metrics for some contexts. But we should use it sparingly. After much reflection and questioning, both by the people who will have their work measured and evaluated and by the people who will participate in the data handling process. 
+It doesn't mean that we can't or should use metrics for some contexts. But we should use it sparingly, after much reflection and questioning, both by the people who will have their work measured and evaluated and by the people who will participate in the data handling process. 
 
 ---
 
@@ -442,14 +442,16 @@ It doesn't mean that we can't use metrics for some contexts. But we should use i
 - **survival**, containing a target, in an **exceptional case** only when it is necessary to promote a quick change to **save** the business, product or service.
 
 **Recommendation:**
-- Define indicators related to aspects of quality and quantity in relation to the reason for existing, strategy and generated value generated from the perspective of customers in the contorno or engagement of people in the contornos. 
+- Define metrics indicators based on **quality and quantity** aspects, as well as **subjective and objective** value perception, in relation to the reason for existing, strategy and generated value generated **from the perspective of customers of the contorno or engagement of people of the contorno**.
 - Define indicators based on results and not on activities (outcome-based and not activity-based).
 - Have a composition of leading and lagging indicators. Early indicators tell us about trends and predictive signals. Late indicators confirm an ongoing trend, related to throughput measurement. This includes, for example, information on whether a contorno is solving your demands.
 
-**Template examples for writing leading indicators:**
+**Template example for writing leading indicators:**
 - Percentage of (members/new customers/returning customers) who do at least (the minimum threshold for user action) by (X period in time).
-  - **Example:** Percentage of members who have saved at least one item as a favorite in the last week.
+  - **Practical example:** Percentage of members who have saved at least one item as a favorite in the last week.
 - Percentage of (customer segment) who take (action) in (specified context).
+
+?> People doing at least X things and this having an apparent correlation with them becoming active, engaging more, or investing more time or money, doesn't mean we need to continue favoring them doing those actions. It is important to know why they do something. Is there a way to improve or simplify it so they don't have to do this?
 
 ### Recurring practice confirmation indicators
 
