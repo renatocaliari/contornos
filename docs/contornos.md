@@ -42,7 +42,7 @@ Cada contorno governa a sua própria estrutura.
    - contorno que reúne pessoas de diferentes contornos e especialidades em torno de um mesmo tema, ideia, técnica ou habilidade de interesse em comum afim de discussões, aprendizados e trocas.
 4. **[Região]**:
    - **área geográfica**
-   - **espaço**
+   - **espaço físico**
    - **localização**
 
 _(*) A intenção pode ser entendida como um job de Jobs To Be Done, propósito de Fit For Purpose, por "torre" ou "mental space" do diagrama Mental Model da Indi Young, etc._
