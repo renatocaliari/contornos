@@ -140,7 +140,7 @@ Além desses dois papéis estruturais, é possível instalar [papéis estruturai
 ### Guardiã do contorno
 
 #### Razão de existir
-  * guardar o espaço do contorno e responder pela razão de existir do mesmo.
+  * guardar o escopo do contorno e responder por ele.
 
 #### Participação
   * toda guardiã de um contorno também é participante do contorno externo como [agente](#agente-do-contorno).
@@ -186,7 +186,7 @@ A guardiã não tem autoridade para:
 ## Comparação rápida
 |  | Guardiã | Agente | 
 | -- | -- | -- |
-| razão de existir | guardar o espaço do contorno e responder pela razão de existir do mesmo. | evoluir o contorno em direção à razão de existir. |
+| razão de existir | guardar o escopo do contorno e responder por ele. | evoluir o contorno em direção à razão de existir. |
 | participação | toda guardiã de um contorno também é participante do contorno externo como [agente](#agente-do-contorno). | caso a agente não seja guardiã de algum contorno interno, sua participação é restrita ao contorno como agente.<br/>caso a agente seja guardiã de algum contorno interno, sua participação acontece tanto no contorno como agente quanto no contorno interno como guardiã. |
 | responsabilidades |  * _todas responsabilidades gerais de participantes de contorno_.<br/>* _todas responsabilidades do próprio contorno_ que não estejam delegadas a contornos internos.<br/>* trazer informações do contorno externo para todas participantes do seu contorno. Caso o contorno em questão seja a organização em si, então trazer informações de mercado, sócios, investidores, etc.<br/> * responder pelos indicadores e projetos do contorno. <br/>* agir sobre [impulsionadores](#impulsionadores) sem andamento em seu contorno. <br /> * propor estratégia, indicadores e processo para o contorno.<br/>* propor pessoas para apoiar o contorno.<br/>* tomar ação sobre contornos internos diretos sem participantes: convidar pessoas para eles ou remover o contorno, com decisão integrativa. | * _todas responsabilidades gerais de participante de contorno_.<br/>* _todas responsabilidades do próprio contorno_ que não estejam delegadas a contornos internos. | 
 
