@@ -408,17 +408,22 @@ Acordos pessoais são relacionados às pessoas, como, por exemplo, comportamento
 ## Indicadores
 Cada contorno possui indicadores que podem ser compartilhados por mais de um contorno.
 
-Indicadores podem ser do tipo **métricas** ou do tipo **confirmação de prática recorrente**.
+Indicadores podem ter três categorias - Satisfação do público, Saúde interna e Sobrevivência, e serem baseados em **métricas** e/ou **práticas recorrentes**.
 
 **Lembre-se:**
 - Indicadores raramente fornecerem respostas definitivas sobre algo. Use-os para potencializar conversas, descobertas e apoiar tomadas de decisão com o apoio de outras informações.
 
-**Recomendação:** 
-- Continuamente observe-se a forma que clientes avaliam um resultado para adaptar os indicadores.
+### Categorias de indicadores
+- **satisfação do público** (olhar pra fora), indicadores que o público do contorno utiliza em suas tomadas de decisões para iniciar ou continuar o uso de um produto ou serviço. É possível ter delimitador inferior e/ou superior. Abaixo do limite inferior, não está atendendo necessidades de clientes. Acima do superior pode indicar que clientes não percebem os benefícios a mais e também pode estar super servindo desnecessariamente quando causa prejuízos em outros aspectos do negócio, serviço ou produto. 
+  - **Recomendação:** continuamente observe-se as necessidades a forma que clientes avaliam um resultado para adaptar os indicadores.
+- **saúde interna** (olhar pra dentro), para monitorar **aspectos do negócio, serviço, produto** ou **engajamento das pessoas** em um contorno. É possível ter delimitador inferior e superior que indiquem o intervalo de saúde. 
+- **sobrevivência** (olhar pra dentro), em caso **excepcional** e **temporário**, podendo conter um alvo de um resultado a ser atingido. Usado apenas quando for necessário promover uma mudança rápida para **salvar** o contorno, negócio, produto ou serviço.
 
-### Indicadores do tipo métricas
+?> Para cada categoria, escolha indicadores baseados em métricas e/ou práticas recorrentes. 
 
-Indicadores do tipo **métricas** são propostos pela guardiã do contorno e definidos em [decisão integrativa](#decisão-integrativa) no contorno externo, no qual a guardiã participa. Qualquer pessoa do contorno pode sugerir alterações desses indicadores à guardiã do contorno.
+### Indicadores baseados em métricas
+
+São propostos pela guardiã do contorno e definidos em [decisão integrativa](#decisão-integrativa) no contorno externo, no qual a guardiã participa. Qualquer pessoa do contorno pode sugerir alterações desses indicadores à guardiã do contorno.
 
 **Cuidado:**
 - Nem tudo é mensurável.
@@ -430,18 +435,13 @@ Indicadores do tipo **métricas** são propostos pela guardiã do contorno e def
 
 ---
 
-Não significa que não possamos ou devamos usar métricas para alguns contextos. Mas devemos usar com moderação, após muita reflexão e questionamento tanto pelas pessoas que terão o resultado do seu trabalho medido e avaliado quanto pelas pessoas que irão participar do processo de manuseamento dos dados.
+Não significa que não possamos ou devamos indicadores baseados em métricas para alguns contextos. Mas devemos usar com moderação, após muita reflexão e questionamento tanto pelas pessoas que terão o resultado do seu trabalho medido e avaliado quanto pelas pessoas que irão participar do processo de manuseamento dos dados.
 
 ---
 
-**Categorias de métricas:**
-- **saúde**, para monitorar aspectos importantes do negócio, serviço, produto ou engajamento de pessoas em um contorno. É possível ter delimitador inferior e superior que indiquem o intervalo de saúde. 
-- **necessidades do público**, indicadores que o público - interno ou externo - utiliza em suas tomadas de decisões e escolha dos serviços ou produtos. É possível ter delimitador inferior e/ou superior. Abaixo do limite inferior, não está atendendo necessidades de clientes. Acima do superior pode indicar que clientes não percebem os benefícios a mais e também pode estar super servindo desnecessariamente quando causa prejuízos em outros aspectos do negócio, serviço ou produto.
-- **sobrevivência**, em caso **excepcional** e **temporário**, podendo conter um alvo de um resultado a ser atingido, apenas quando for necessário promover uma mudança rápida para **salvar** o negócio, produto ou serviço.
-
 **Recomendação:** 
-- Defina indicadores de métricas baseados em aspectos de **qualidade e quantidade**, assim como percepção de valor **subjetivo e objetivo**, com relação à razão de existir, estratégia e valor gerado gerado **na perspectiva de clientes do contorno ou engajamento de pessoas dos contornos**.
-- Defina indicadores de métricas baseados em resultado e não em atividades (outcome-based e não activity-based).
+- Defina métricas baseadas em aspectos de **qualidade e quantidade**, assim como percepção de valor **subjetivo e objetivo**, com relação à razão de existir, estratégia e valor gerado gerado **na perspectiva de clientes do contorno ou engajamento de pessoas dos contornos**.
+- Defina métricas baseados em resultado e não em atividades (outcome-based e não activity-based).
 - Tenha uma composição de indicadores iniciais (leading) e atrasados (lagging). Indicadores iniciais nos dizem sobre tendências e sinais preditivos. Indicadores atrasados confirmam uma tendência em andamento, tendo relação com medição de rendimento ("throughput"). Isso inclui, por exemplo, informações se um contorno está resolvendo suas demandas.
 
 **Exemplo de modelo para escrever indicadores iniciais (leading):**
@@ -451,14 +451,14 @@ Não significa que não possamos ou devamos usar métricas para alguns contextos
 
 ?> As pessoas realizarem pelo menos X coisas e isso ter uma aparente correlação com elas se tornarem ativas, se engajarem mais ou investirem mais tempo ou dinheiro, não significa que precisemos continuar favorecendo que elas executem essas ações. É importante saber o motivo delas realizarem algo. Há uma forma de melhorar ou simplificar para que elas não precisem realizar isso?
 
-### Indicadores do tipo confirmação de prática recorrente
+### Indicadores baseados em práticas recorrentes
 
-Indicadores do tipo **confirmação** dão visibilidade se alguma prática ou atividade desejada está sendo realizada na recorrência esperada (ex: diariamente, semanalmente, mensalmente, etc).
+Dão visibilidade se alguma prática ou atividade desejada está sendo realizada - ou não - na recorrência esperada (ex: diariamente, semanalmente, mensalmente, etc).
 
 Eles são propostos e decididos pelo próprio contorno, de forma integrativa, sem necessidade de envolvimento do contorno externo.
 
 **Recomendação:** 
-- Defina indicadores com a intenção de potencializar a estratégia e valor gerado **na perspectiva de clientes do contorno ou engajamento de pessoas dos contornos**.
+- Defina práticas recorrentes com a intenção de potencializar a estratégia e valor gerado **na perspectiva do público do contorno e/ou engajamento de pessoas do contorno**.
 
 # Quem define cada atributo do contorno?
 
