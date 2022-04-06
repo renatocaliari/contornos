@@ -33,23 +33,6 @@ Uma pessoa pode estar em vários contornos e um contorno pode conter várias pes
 A definição de contornos evita decidir a todo momento o que é necessário fazer e quem fará algo no dia a dia de uma organização.
 Cada contorno governa a sua própria estrutura.
 
-# Fóruns
-A organização também pode possuir Fóruns. Necessariamente Fóruns ficam dentro de um diretório da organização chamado Fóruns. Um diretório é apenas uma identificação mas sem artefatos próprios ou papéis estruturais. Veja mais abaixo no [exemplo de estrutura](#exemplo-de-estrutura-utilizando-o-sistema-contornos).
-
-**Regras:**
-- Um Fórum existe em torno de um tema, ideia, técnica ou habilidade para discutir, aprender e trocar com as pessoas interessadas.
-- Não precisam necessariamente ter relação com a razão de existir da organização.
-- Qualquer pessoa pode criar um Fórum. E qualquer pessoa pode participar de Fóruns existentes.
-- A pessoa que criou o Fórum não tem qualquer autoridade e poder sobre o escopo ou participantes. Ela apenas criou o espaço. 
-- Um Fórum precisa ter um nome auto-explicativo. 
-- Um Fórum não possui qualquer autoridade formal sobre qualquer artefato organizacional. Ele pode naturalmente **influenciar** pessoas.
-- Nada impede de existir um Fórum de um escopo para o qual já exista também um Contorno. Um serve para discussões com qualquer pessoa interessada. O outro serve para cuidar e tomar decisões com pessoas com autoridade para isso. 
-- Um Fórum pode ser um catalizador para a criação de um Contorno que ainda não exista para este escopo, dependendo do processo de decisão integrativa normal para criação de contornos. Caso não exista um Contorno para esse escopo do Fórum e perceber que o Fórum precisa de estrutura ou autoridade para decisões, é um indício para a criação de um Contorno para esse escopo.
- 
-**Princípios a serem observados na criação e manutenção de Fóruns:** 
-- não promover discussões que conflitem com acordos pessoais da organização em si. 
-- não promover discussões que desrespeitem as pessoas.
-
 ## Como classificar os Contornos?
 
 ### 🧭 Tipo
@@ -110,7 +93,24 @@ Para remoção de um contorno, é necessário decisão integrativa pelo contorno
 
 Para adaptação do contorno, é necessário identificar qual é o [atributo](#atributos-dos-contornos) que deseja alterar e quem tem autoridade para adaptá-lo.
 
-## Exemplo de estrutura utilizando o sistema Contornos
+# Fóruns
+A organização também pode possuir Fóruns. Necessariamente Fóruns ficam dentro de um diretório da organização chamado Fóruns. Um diretório é apenas uma identificação mas sem artefatos próprios ou papéis estruturais. Veja mais abaixo no [exemplo de estrutura](#exemplo-de-estrutura-utilizando-o-sistema-contornos).
+
+**Regras:**
+- Um Fórum existe em torno de um tema, ideia, técnica ou habilidade para discutir, aprender e trocar com as pessoas interessadas.
+- Não precisam necessariamente ter relação com a razão de existir da organização.
+- Qualquer pessoa pode criar um Fórum. E qualquer pessoa pode participar de Fóruns existentes.
+- A pessoa que criou o Fórum não tem qualquer autoridade e poder sobre o escopo ou participantes. Ela apenas criou o espaço. 
+- Um Fórum precisa ter um nome auto-explicativo. 
+- Um Fórum não possui qualquer autoridade formal sobre qualquer artefato organizacional. Ele pode naturalmente **influenciar** pessoas.
+- Nada impede de existir um Fórum de um escopo para o qual já exista também um Contorno. Um serve para discussões com qualquer pessoa interessada. O outro serve para cuidar e tomar decisões com pessoas com autoridade para isso. 
+- Um Fórum pode ser um catalizador para a criação de um Contorno que ainda não exista para este escopo, dependendo do processo de decisão integrativa normal para criação de contornos. Caso não exista um Contorno para esse escopo do Fórum e perceber que o Fórum precisa de estrutura ou autoridade para decisões, é um indício para a criação de um Contorno para esse escopo.
+ 
+**Princípios a serem observados na criação e manutenção de Fóruns:** 
+- não promover discussões que conflitem com acordos pessoais da organização em si. 
+- não promover discussões que desrespeitem as pessoas.
+
+# Exemplo de estrutura utilizando o sistema Contornos
 ?> Qualquer modelo pré-fabricado sobre o desenho de times é falho por natureza justamente por não refletir ou se adequar à realidade. Porém, alguns podem ser úteis para inspirar e iniciar experimentos. Não existe receita universal.
 
 **Exemplo:**
@@ -141,7 +141,6 @@ Para adaptação do contorno, é necessário identificar qual é o [atributo](#a
       - **Conteúdo** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
       - **Parcerias** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
    - **[Experimentação de um novo Produto XPTO]** *(🧭 Fluxo de Valor: Produto; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Temporário)*
-
 
 # Participação em contornos
 A participação em contornos acontece por meio de alocação de pessoas. É possível indicar o [tipo de energia](apps#tipo-de-energia-em-contorno) que cada participante terá em um determinado contorno.
