@@ -42,7 +42,7 @@ Cada contorno governa a sua própria estrutura.
     - Reúne qualquer pessoa interessada em um tema, ideia, técnica ou habilidade para discutir, aprender e trocar.
     - Detalhes:
       - É um tipo especial de contorno pois não pode decidir sobre artefatos organizacionais externos, mas pode influenciar suas decisões e melhores práticas, além de influenciar a forma de agir das pessoas que pertencem a esses outros contornos.
-      - Um contorno do tipo Fórum pode dar origem a um contorno de outro tipo dentro de um contorno relacionado, tomando decisões sobre artefatos organizacionais, dependendo de decisão integrativa da guardiã do contorno relacionado. 
+      - Um contorno do tipo Fórum pode dar origem a um contorno de outro tipo dentro de um contorno de escopo relacionado, tomando decisões sobre artefatos organizacionais, dependendo de decisão integrativa da guardiã do contorno em questão. 
       - Nada impede de ter um contorno do tipo Fórum para discutir um assunto, mesmo que exista um contorno de outro tipo que cuide do mesmo escopo e tome decisões sobre o escopo. 
       - O fórum é uma estrutura orgânica que qualquer pessoa pode criar e participar. Os outros tipos de contornos dependem de decisões integrativas para criação, adaptação e particpação.
       - A razão de existir é definida pela própria pessoa que criou o fórum, sem necessidade de decisão integrativa de algum contorno externo. Não pode conflitar com acordos da organização em si.
