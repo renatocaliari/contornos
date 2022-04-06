@@ -35,15 +35,15 @@ Cada contorno governa a sua própria estrutura.
      - exemplos: "Conteúdo personalizado por membro"; "Membros conectados a pelo menos um outro membro na plataforma"; "Produtos encontrados na primeira tentativa de busca"; etc)
    - **produto** ou **serviço**  
    - **iniciativa**
-2. **[Região]**:
+2. **[Especialidade]**:
+   - especialidades de **trabalho**
+   - especialidade em **módulos** de serviços tecnológicos da organização
+3. **[Fórum]** temático:
+   - contorno que reúne pessoas em torno de um mesmo tema, ideia, técnica ou habilidade.
+4. **[Região]**:
    - **área geográfica**
    - **espaço**
    - **localização**
-3. **[Especialidade]**:
-   - especialidades de **trabalho**
-   - especialidade em **módulos** de serviços tecnológicos da organização
-4. **[Fórum]** temático:
-   - contorno que reúne pessoas em torno de um mesmo tema, ideia, técnica ou habilidade.
 
 _(*) A intenção pode ser entendida como um job de Jobs To Be Done, propósito de Fit For Purpose, por "torre" ou "mental space" do diagrama Mental Model da Indi Young, etc._
 Caso interesse, consulte materiais como [Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology-ebook/dp/B07NSF94PC), [Fit For Purpose](https://www.amazon.com/Fit-Purpose-Businesses-Satisfy-Customers/dp/0985305118) e [Jobs To Be Done](https://medium.com/tentaculus/jobs-to-be-done-parte-1-42bfdf4875c8)._
