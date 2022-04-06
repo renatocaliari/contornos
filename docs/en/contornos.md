@@ -38,15 +38,15 @@ Each contorno governs its own structure.
      - examples: "Personalized content per member"; "Members connected to at least one other member on the platform"; "Products found on first search attempt"; etc)
    - **product** or **service**  
    - **initiative**
-2. **[Region]**:
+2. **[Specialty]**:
+   - **work** specialties
+   - expertise in **modules** of the organization's technological services
+3. thematic **[Forum]**:
+   - a contorno that gathers people around the same theme, idea, technique or skill.
+4. **[Region]**:
    - **geographical areas**
    - **space**
    - **location**
-3. **[Specialty]**:
-   - **work** specialties
-   - expertise in **modules** of the organization's technological services
-4. thematic **[Forum]**:
-   - a contorno that gathers people around the same theme, idea, technique or skill.
 
 _(*) Intent can be understood as a Job To Be Done, purpose in Fit For Purpose, a "tower" or "mental space" from Indi Young's Mental Model diagram, etc._
 If interested, consult materials such as [Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology-ebook/dp/B07NSF94PC), [Fit For Purpose](https://www. amazon.com/Fit-Purpose-Businesses-Satisfy-Customers/dp/0985305118) and [Jobs To Be Done](https://medium.com/tentaculus/jobs-to-be-done-parte-1-42bfdf4875c8) ._
