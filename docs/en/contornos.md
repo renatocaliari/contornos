@@ -38,8 +38,8 @@ Each contorno governs its own structure.
      - examples: "Personalized content per member"; "Members connected to at least one other member on the platform"; "Products found on first search attempt"; etc)
    - **product** or **service**  
    - **initiative**
-2. **[Specialty]**:
-   - **work** specialties
+2. **[Expertise]**:
+   - **work** expertise
    - expertise in **modules** of the organization's technological services
 3. thematic **[Forum]**:
    - a contorno that gathers people around the same theme, idea, technique or skill.
