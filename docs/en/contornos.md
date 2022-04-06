@@ -41,8 +41,8 @@ Each contorno governs its own structure.
 2. **[Specialty]**:
    - **work** specialty
    - **system modules** specialty
-3. thematic **[Forum]**:
-   - brings together people of different contornos and specialties around the same theme, idea, technique or skill of common interest in order to discuss, learn and exchange.
+3. **[Forum]**:
+   - brings together any person interested in a theme, idea, technique or skill in order to discuss, learn and exchange. A contorno of this type has no decision power over organizational artifacts, but can influence decisions and good practices.
 4. **[Region]**:
    - **geographical areas**
    - **physical space**
