@@ -113,7 +113,6 @@ A organização também pode possuir Fóruns. Diferente de contornos, um fórum 
 # Exemplo de estrutura utilizando o sistema Contornos
 ?> Qualquer modelo pré-fabricado sobre o desenho de times é falho por natureza justamente por não refletir ou se adequar à realidade. Porém, alguns podem ser úteis para inspirar e iniciar experimentos. Não existe receita universal.
 
-**Exemplo:**
 - **[Norte](apps#contorno-norte)**: definir o norte da organização *(🧭 Fluxo de Valor;🧑🏻‍🤝‍🧑🏾 Externo + Interno; ⌚ Estável)*
 - **Design Organizacional** *(🧭 Especialidade;🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
 - **Fóruns** *(Diretório Organizacional Padrão)*
