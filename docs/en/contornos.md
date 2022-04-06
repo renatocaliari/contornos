@@ -91,7 +91,7 @@ If interested, consult materials such as [Team Topologies](https://www.amazon.co
       - **Research** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
       - **Content** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 External; ⌚ Stable)*
       - **Partnerships** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 External; ⌚ Stable)*
-   - **[Experimentation on a new Product B]** *(🧭 Value Stream: Product;🧑🏻‍🤝‍🧑🏾 External; ⌚ Temporary)*
+   - **[Experimentation on a new Product XPTO]** *(🧭 Value Stream: Product;🧑🏻‍🤝‍🧑🏾 External; ⌚ Temporary)*
 
 ## How to map current scopes of the organization that reflect possible contornos?
 
