@@ -420,7 +420,7 @@ Indicadores podem ser do tipo **métricas** ou do tipo **confirmação de práti
 
 Indicadores do tipo **métricas** são propostos pela guardiã do contorno e definidos em [decisão integrativa](#decisão-integrativa) no contorno externo, no qual a guardiã participa. Qualquer pessoa do contorno pode sugerir alterações desses indicadores à guardiã do contorno.
 
-**Lembre-se:**
+**Cuidado:**
 - Nem tudo é mensurável.
 - Muito do que tentamos mensurar talvez não valha o esforço. A facilidade em mensurar algo pode ser inversamente proporcional ao significado do que é medido.
 - Métricas não substituem a realidade. Os dados são uma abstração da realidade baseada em suposições sobre como categorizar fenômenos não estruturados.
@@ -430,7 +430,7 @@ Indicadores do tipo **métricas** são propostos pela guardiã do contorno e def
 
 ---
 
-Não significa que não possamos usar métricas para alguns contextos. Mas devemos usar com moderação. Após muita reflexão e questionamento tanto pelas pessoas que terão seu trabalho medido e avaliado quanto pelas pessoas que irão participar do processo de manuseamento dos dados.
+Não significa que não possamos ou devamos usar métricas para alguns contextos. Mas devemos usar com moderação, após muita reflexão e questionamento tanto pelas pessoas que terão seu trabalho medido e avaliado quanto pelas pessoas que irão participar do processo de manuseamento dos dados.
 
 ---
 
@@ -440,14 +440,16 @@ Não significa que não possamos usar métricas para alguns contextos. Mas devem
 - **sobrevivência**, contendo um alvo, em caso **excepcional** apenas quando for necessário promover uma mudança rápida para **salvar** o negócio, produto ou serviço.
 
 **Recomendação:** 
-- Defina indicadores de métricas baseados em aspectos de qualidade e quantidade com relação à razão de existir, estratégia e valor gerado gerado **na perspectiva de clientes do contorno ou engajamento de pessoas dos contornos**.
+- Defina indicadores de métricas baseados em aspectos de **qualidade e quantidade**, assim como percepção de valor **subjetivo e objetivo**, com relação à razão de existir, estratégia e valor gerado gerado **na perspectiva de clientes do contorno ou engajamento de pessoas dos contornos**.
 - Defina indicadores de métricas baseados em resultado e não em atividades (outcome-based e não activity-based).
 - Tenha uma composição de indicadores iniciais (leading) e atrasados (lagging). Indicadores iniciais nos dizem sobre tendências e sinais preditivos. Indicadores atrasados confirmam uma tendência em andamento, tendo relação com medição de rendimento ("throughput"). Isso inclui, por exemplo, informações se um contorno está resolvendo suas demandas.
 
-**Exemplos de modelo para escrever indicadores iniciais (leading):**
+**Exemplo de modelo para escrever indicadores iniciais (leading):**
 - Porcentagem de (membros / novos clientes / clientes recorrentes) que realizam pelo menos (o limite mínimo para ação do usuário) em (período X).
-   - **Exemplo:** Porcentagem de membros que salvaram pelo menos um item como favorito na última semana. 
+   - **Exemplo prático:** Porcentagem de membros que salvaram pelo menos um item como favorito na última semana. 
 - Porcentagem de (segmento de clientes) que realizam (ação) em (determinado contexto).
+
+?> As pessoas realizarem pelo menos X coisas e isso ter uma aparente correlação com elas se tornarem ativas, usarem mais do seu tempo no serviço, se engajarem mais ou investirem mais, não significa que precisemos continuar favorecendo que elas executem essas ações. É importante saber o motivo delas realizarem algo. Há uma forma de melhorar ou simplificar para que elas não precisem realizar isso?
 
 ### Indicadores do tipo confirmação de prática recorrente
 
