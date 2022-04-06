@@ -42,10 +42,10 @@ Each contorno governs its own structure.
    - **work** specialty
    - **system modules** specialty
 3. thematic **[Forum]**:
-   - a contorno that gathers people around the same theme, idea, technique or skill.
+   - brings together people of different contornos and specialties around the same theme, idea, technique or skill of common interest in order to discuss, learn and exchange.
 4. **[Region]**:
    - **geographical areas**
-   - **space**
+   - **physical space**
    - **location**
 
 _(*) Intent can be understood as a Job To Be Done, purpose in Fit For Purpose, a "tower" or "mental space" from Indi Young's Mental Model diagram, etc._
