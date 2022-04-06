@@ -518,7 +518,7 @@ Ao registrar um impulsionador, explicite qual é o seu tipo:
 | uma pessoa ganhou um filho e gostaria de compartilhar a novidade com as participantes dos contornos em que atua. | **celebração**. |
 | uma pessoa esteja tendo dificuldade para discutir assuntos importantes pela ferramenta oficial da empresa pois há mensagens enviadas a outras pessoas do contorno que passam mais de 5 dias sem respostas. | **decisão integrativa** com uma proposta de acordo pessoal que prevê a necessidade de responder mensagens que outras pessoas te marcaram em até 48h. |
 
-As possibilidades de impulsionadores são quase que infinitas, surgindo a todo momento na complexidade do dia-a-dia e favorecendo a adaptação contínua da organização.
+?> As possibilidades de impulsionadores são quase que infinitas, surgindo a todo momento na complexidade do dia-a-dia e favorecendo a adaptação contínua da organização.
 
 # Decisão integrativa
 Decisão integrativa é um tipo de decisão **em consentimento** envolvendo todas as participantes de uma decisão. Quando não especificado, por padrão, uma decisão integrativa envolve todas participantes de um contorno.
