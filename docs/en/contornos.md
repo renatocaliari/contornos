@@ -41,12 +41,17 @@ Each contorno governs its own structure.
 2. **[Specialty]**:
    - **work** specialty
    - **system modules** specialty
-3. **[Forum]**:
-   - brings together any person interested in a theme, idea, technique or skill in order to discuss, learn and exchange. A contorno of this type has no decision power over organizational artifacts, but can influence decisions and good practices.
-4. **[Region]**:
+3. **[Region]**:
    - **geographical areas**
    - **physical space**
    - **location**
+4. **[Forum]**:
+  - Brings together anyone interested in a topic, idea, technique or skill to discuss, learn and exchange.
+  Details:
+     - It is a special type of contorno because it cannot decide on external organizational artifacts, but it can influence your decisions and best practices, in addition to influencing the way of acting of people that belong to these other contorno.
+     - The reason for existing is defined by the person who created the forum, without the need for an integrative decision of some external contorno. It cannot conflict with agreements of the organization itself.
+     - Does not have defined responsibilities.
+     - It does not have metrics defined by external contorno.
 
 _(*) Intent can be understood as a Job To Be Done, purpose in Fit For Purpose, a "tower" or "mental space" from Indi Young's Mental Model diagram, etc._
 If interested, consult materials such as [Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology-ebook/dp/B07NSF94PC), [Fit For Purpose](https://www. amazon.com/Fit-Purpose-Businesses-Satisfy-Customers/dp/0985305118) and [Jobs To Be Done](https://medium.com/tentaculus/jobs-to-be-done-parte-1-42bfdf4875c8) ._
@@ -69,6 +74,7 @@ If interested, consult materials such as [Team Topologies](https://www.amazon.co
 **Example:**
 - **[North](en/apps#north)**: define the north of the organization *(🧭 Value Stream;🧑🏻‍🤝‍🧑🏾 External + Internal; ⌚ Stable)*
 - **Organizational Design** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
+- **General Forums** *(🧭 Forum;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
 - **Care** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
   - **Diversity** *(🧭 Forum;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
   - **Conflict Mediation** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
