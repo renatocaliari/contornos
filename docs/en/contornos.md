@@ -178,7 +178,7 @@ The guardian has no authority to:
 ### Agent
 
 #### Reason for existing
-  * evolve the contorno towards the reason for existing.
+  * support the work of contorno.
 
 #### Participation
   * if the agent is not also the guardian of some internal contorno, its participation is restricted to the contorno as an agent.
@@ -191,7 +191,7 @@ The guardian has no authority to:
 ## Quick comparison
 | | Guardian | Agent |
 | -- | -- | -- |
-| reason for existing | keep the scope of the contorno and be accountable for it. | evolve the contorno towards the reason for existing. |
+| reason for existing | keep the scope of the contorno and be accountable for it. | support the work of contorno. |
 | participation | every guardian of a contorno is also a participant in the external contorno as [agent](#agent). | if the agent is not the guardian of some internal contorno, her participation is restricted to the contorno as an agent.<br/>If the agent is the guardian of some internal contorno, her participation happens both in the contorno as agent and in the contorno as guardian. |
 | responsibilities | * _all general contorno participant responsibilities._ <br/>* _all responsibilities of the contorno itself that are not delegated to internal contornos._ <br/> * bring external contorno information to all participants in your contorno. If the contorno in question is the organization itself, then bring information from the market, partners, investors, etc.<br /> * be responsible for indicators and contour projects.<br/> * act on boosters with no progress in its contorno.<br/> * propose strategy, indicators and process for the contorno, needing an integrative decision. <br/> * propose people to support the contorno. <br/> * take action on direct internal contornos without participants: invite people to them or remove the contorno, with integrative decision. | * _all general contorno participant responsibilities._ <br/>* _all responsibilities of the contorno itself that are not delegated to internal contornos._ |
 
