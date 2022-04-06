@@ -97,7 +97,7 @@ To adapt the contorno, it is necessary to identify which [attribute](en/contorno
 
 # Forums
 
-The organization may also have Forums. Unlike contornos, a forum does not have its own artifacts or structural roles. See below in the [structure example](en/contornos#example-of-a-structure-of-contornos).
+The organization may also have Forums. Unlike contornos, a forum does not have its own artifacts or structural roles. See below in the [structure example](en/contornos#example-of-organizational-structure-of-contornos).
 
 **Rules:**
 - A Forum exists around a topic, idea, technique or skill to discuss, learn and exchange with interested people.
@@ -113,7 +113,7 @@ Principles to be observed when creating and maintaining Forums:
 - not promote discussions that conflict with the organization's personal agreements.
 - not promote discussions that disrespect people.
 
-# Example of a structure of contornos 
+# Example of organizational structure using Contornos 
 
 ?> Any pre-made model on the design of teams is flawed by nature precisely because it does not reflect or adapt to reality. However, some can be useful to inspire and initiate experiments. There is no universal recipe.
 
