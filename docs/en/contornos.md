@@ -467,7 +467,7 @@ They are proposed and decided by the contorno itself, in an integrative way, wit
 
 # Who defines each contorno attribute?
 
-| attribute | the external contorno | the contorno itself |
+| attribute | external contorno | contorno itself |
 | -- | -- | -- |
 | nickname | | ✔️ |
 | scope | ✔️ | |
