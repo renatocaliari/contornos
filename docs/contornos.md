@@ -39,7 +39,12 @@ Cada contorno governa a sua própria estrutura.
    - especialidade de **trabalho**
    - especialidade em **módulos** de sistemas
 3. **[Fórum]**:
-   - reúne qualquer pessoa interessada em um tema, ideia, técnica ou habilidade para discutir, aprender e trocar. Um contorno desse tipo não tem poder de decisão sobre os artefatos organizacionais, mas pode influenciar decisões e boas práticas.
+    - Reúne qualquer pessoa interessada em um tema, ideia, técnica ou habilidade para discutir, aprender e trocar.
+    Detalhes:
+      - É um tipo especial de contorno pois não pode decidir sobre artefatos organizacionais externos, mas pode influenciar suas decisões e melhores práticas, além de influenciar a forma de agir das pessoas que pertencem a esses outros contornos.
+      - A razão de existir é definida pela própria pessoa que criou o fórum, sem necessidade de decisão integrativa de algum contorno externo. Não pode conflitar com acordos da organização em si.
+      - Não possui responsabilidades definidas.
+      - Não possui métricas definidas por contorno externo.
 4. **[Região]**:
    - **área geográfica**
    - **espaço físico**
@@ -472,7 +477,7 @@ Eles são propostos e decididos pelo próprio contorno, de forma integrativa, se
 | recursos de controle exclusivo | ✔️ |  |
 | estratégia | | ✔️ |
 | processo | | ✔️ |
-| indicadores:métricas | ✔️ |  |
+| indicadores:métricas | ✔️ | ✔️ (pode incluir próprias além do que foi definido pelo controle externo |
 | indicadores:práticas recorrentes |  | ✔️ |
 
 ## Exceção: maior contorno, a organização em si
