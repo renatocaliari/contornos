@@ -72,15 +72,16 @@ Caso interesse, consulte materiais como [Team Topologies](https://www.amazon.com
   - **Escuta** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
 - **[Relação contratual](apps#contorno-relação-contratual)** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
 - **Financeiro** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
-- **Entrega de valor ao cliente** *(🧭 Fluxo de Valor; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
+- **Produtos** *(🧭 Fluxo de Valor: Produto; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
    - **Pesquisa** *(🧭 Fórum; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
    - **Plataforma**: melhorar a vida das pessoas de engenharia e acelerar a entrega de software (🧭 Fluxo de Valor: Produto; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável) 
-   - **["Plataforma de ensino de tecnologia"]** *(🧭 Fluxo de Valor: Produto; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
-      - **["Conseguir o primeiro emprego na área de tecnologia ou fazer transição de carreira"]** *(🧭 Fluxo de Valor: Intenção; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
-         - **Modelagem de iniciativas** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
-         - **Desenho da experiência de produto/serviço** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
-         - **Interface gráfica/física** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
-         - **Implementação** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
+   - **["Ensino de tecnologia"]** *(🧭 Fluxo de Valor: Produto; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
+      - **Intenções** *(🧭 Fluxo de Valor: Intenção; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
+        - **["Conseguir o primeiro emprego na área de tecnologia ou fazer transição de carreira"]** *(🧭 Fluxo de Valor: Intenção; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
+           - **Modelagem de iniciativas** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
+          - **Desenho da experiência de produto/serviço** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
+          - **Interface gráfica/física** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
+          - **Implementação** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
       - **Atendimento ao cliente** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
       - **Vendas e Marketing** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
       - **Pesquisa** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
