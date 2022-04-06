@@ -437,7 +437,7 @@ Não significa que não possamos ou devamos usar métricas para alguns contextos
 **Categorias de métricas:**
 - **saúde**, para monitorar aspectos importantes do negócio, serviço, produto ou engajamento de pessoas em um contorno. É possível ter delimitador inferior e superior que indiquem o intervalo de saúde. 
 - **necessidades do público**, indicadores que o público - interno ou externo - utiliza em suas tomadas de decisões e escolha dos serviços ou produtos. É possível ter delimitador inferior e/ou superior. Abaixo do limite inferior, não está atendendo necessidades de clientes. Acima do superior pode indicar que clientes não percebem os benefícios a mais e também pode estar super servindo desnecessariamente quando causa prejuízos em outros aspectos do negócio, serviço ou produto.
-- **sobrevivência**, contendo um alvo, em caso **excepcional** apenas quando for necessário promover uma mudança rápida para **salvar** o negócio, produto ou serviço.
+- **sobrevivência**, contendo um alvo, em caso **excepcional** e **temporário**, apenas quando for necessário promover uma mudança rápida para **salvar** o negócio, produto ou serviço.
 
 **Recomendação:** 
 - Defina indicadores de métricas baseados em aspectos de **qualidade e quantidade**, assim como percepção de valor **subjetivo e objetivo**, com relação à razão de existir, estratégia e valor gerado gerado **na perspectiva de clientes do contorno ou engajamento de pessoas dos contornos**.
