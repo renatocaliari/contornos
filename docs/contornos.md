@@ -38,8 +38,8 @@ Cada contorno governa a sua própria estrutura.
 2. **[Especialidade]**:
    - especialidade de **trabalho**
    - especialidade em **módulos** de sistemas
-3. **[Fórum]** temático:
-   - reúne pessoas de diferentes contornos e especialidades em torno de um mesmo tema, ideia, técnica ou habilidade de interesse em comum afim de discussões, aprendizados e trocas.
+3. **[Fórum]**:
+   - reúne qualquer pessoa interessada em um tema, ideia, técnica ou habilidade para discutir, aprender e trocar. Um contorno desse tipo não tem poder de decisão sobre os artefatos organizacionais, mas pode influenciar decisões e boas práticas.
 4. **[Região]**:
    - **área geográfica**
    - **espaço físico**
