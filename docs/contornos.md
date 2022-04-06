@@ -94,7 +94,7 @@ Para remoção de um contorno, é necessário decisão integrativa pelo contorno
 Para adaptação do contorno, é necessário identificar qual é o [atributo](#atributos-dos-contornos) que deseja alterar e quem tem autoridade para adaptá-lo.
 
 # Fóruns
-A organização também pode possuir Fóruns. Necessariamente Fóruns ficam dentro de um diretório da organização chamado Fóruns. Um diretório é apenas uma identificação mas sem artefatos próprios ou papéis estruturais. Veja mais abaixo no [exemplo de estrutura](#exemplo-de-estrutura-utilizando-o-sistema-contornos).
+A organização também pode possuir Fóruns. Diferente de contornos, um fórum não tem artefatos próprios ou papéis estruturais. Veja mais abaixo no [exemplo de estrutura](#exemplo-de-estrutura-utilizando-o-sistema-contornos).
 
 **Regras:**
 - Um Fórum existe em torno de um tema, ideia, técnica ou habilidade para discutir, aprender e trocar com as pessoas interessadas.
