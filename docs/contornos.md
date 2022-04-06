@@ -117,8 +117,6 @@ Veja mais abaixo no [exemplo de estrutura](#exemplo-de-estrutura-organizacional-
 
 - **[Norte](apps#contorno-norte)**: definir o norte da organização *(🧭 Fluxo de Valor;🧑🏻‍🤝‍🧑🏾 Externo + Interno; ⌚ Estável)*
 - **Design Organizacional** *(🧭 Especialidade;🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
-- **Fóruns** *(Diretório Organizacional Padrão)*
-  - **Diversidade** *(Fórum que alguém possa ter criado)* - Apenas para discussões sobre o tema.
 - **Cuidado** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
   - **Diversidade** *(🧭 Especialidade;🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)* - Veja que tanto o Fórum de diversidade quanto esse Contorno podem co-existirem. Porém, apenas o contorno possui autoridade para decisões e criação de artefatos organizacionais nesse escopo.
   - **Mediação de conflitos** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
@@ -142,6 +140,11 @@ Veja mais abaixo no [exemplo de estrutura](#exemplo-de-estrutura-organizacional-
       - **Conteúdo** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
       - **Parcerias** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
    - **[Experimentação de um novo Produto XPTO]** *(🧭 Fluxo de Valor: Produto; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Temporário)*
+
+
+- **Fóruns** *(é apenas um diretório da organização para listar os Fóruns e não está conectado hierarquicamente na estrutura a nenhum Contorno)
+  - **Diversidade** *(Fórum que alguém possa ter criado)* - Apenas para discussões sobre o tema.
+
 
 # Participação em contornos
 A participação em contornos acontece por meio de alocação de pessoas. É possível indicar o [tipo de energia](apps#tipo-de-energia-em-contorno) que cada participante terá em um determinado contorno.
