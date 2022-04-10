@@ -24,7 +24,7 @@ In addition to Contornos, it is also possible to have Forums.
 
 # Contornos
 Contorno is a scope delimited by:
-- reason to exist
+- reason for existing
 - responsibilities
 - resources of exclusive control
 - agreements
