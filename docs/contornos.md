@@ -435,7 +435,7 @@ Acordos pessoais são relacionados às pessoas, como, por exemplo, comportamento
 ## Indicadores
 Cada contorno possui indicadores que podem ser compartilhados por mais de um contorno.
 
-Indicadores podem ter três categorias - **satisfação do público, saúde interna e sobrevivência**, e serem baseados em **métricas** e/ou **práticas recorrentes**.
+Indicadores podem ter três categorias - **satisfação do público, saúde e sobrevivência**, e serem baseados em **métricas** e/ou **práticas recorrentes**.
 
 **Lembre-se:**
 - Indicadores raramente fornecerem respostas definitivas sobre algo. Use-os para potencializar conversas, descobertas e apoiar tomadas de decisão com o apoio de outras informações.
@@ -443,7 +443,9 @@ Indicadores podem ter três categorias - **satisfação do público, saúde inte
 ### Categorias de indicadores
 - **Satisfação do público** (olhar pra fora), indicadores que o público do contorno utiliza em suas tomadas de decisões para iniciar ou continuar o uso de um produto ou serviço. É possível ter delimitador inferior e/ou superior. Abaixo do limite inferior, não está atendendo necessidades de clientes. Acima do superior pode indicar que clientes não percebem os benefícios a mais e também pode estar super servindo desnecessariamente quando causa prejuízos em outros aspectos do negócio, serviço ou produto. 
   - **Recomendação:** continuamente observe-se as necessidades a forma que clientes avaliam um resultado para adaptar os indicadores.
-- **Saúde interna** (olhar pra dentro), para monitorar **aspectos do contorno, negócio, serviço ou produto** e **engajamento das pessoas** em um contorno. É possível ter delimitador inferior e superior que indiquem o intervalo de saúde. 
+- **Saúde**: É possível ter delimitador inferior e superior que indiquem o intervalo de saúde. 
+  - **Interna** (olhar pra dentro), para monitorar **aspectos do contorno, negócio, serviço ou produto** e **engajamento das pessoas** em um contorno. 
+  - **Extena** (olhar pra fora), para monitorar **aspectos de saúde de entidades externas que interagem com a organização ou que sofrem impactos por ela**: outras organizações (fornecedores, parceiras, etc), natureza e seres. 
 - **Sobrevivência** (olhar pra dentro), em caso **excepcional** e **temporário**, podendo conter um alvo de um resultado a ser atingido. Usado apenas quando for necessário promover uma mudança rápida para **salvar** o contorno, negócio, produto ou serviço.
 
 ?> Para cada categoria, escolha indicadores baseados em métricas e/ou práticas recorrentes. 
