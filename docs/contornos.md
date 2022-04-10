@@ -464,7 +464,7 @@ São propostos pela guardiã do contorno e definidos em [decisão integrativa](#
 
 ---
 
-Não significa que não possamos ou devamos indicadores baseados em métricas para alguns contextos. Mas devemos usar com moderação, após muita reflexão e questionamento tanto pelas pessoas que terão o resultado do seu trabalho medido e avaliado quanto pelas pessoas que irão participar do processo de manuseamento dos dados.
+Não significa que não possamos ou devamos usar indicadores baseados em métricas para alguns contextos. Mas devemos usar com moderação, após muita reflexão e questionamento tanto pelas pessoas que terão o resultado do seu trabalho medido e avaliado quanto pelas pessoas que irão participar do processo de manuseamento dos dados.
 
 ---
 
