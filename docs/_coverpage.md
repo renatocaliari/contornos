@@ -2,7 +2,7 @@
 	
 # Contornos<small>0.10.4</small>
 
->  Tecnologia Social para organizações e comunidades
+>  Tecnologia social para organizações e comunidades
 
 - :cyclone: Levar em conta o sistema organizacional como um todo e os fluxos de valor.
 - :loop: Amplificar 'loops de feedback'.
