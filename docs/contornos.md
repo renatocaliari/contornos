@@ -1,7 +1,7 @@
 @autoHeader:0
 
 # Princípios
-- :cyclone: Levar em conta o sistema organizacional como um todo e os fluxos de valor.
+- :cyclone: Levar em conta o sistema (organizacional ou comunitário) como um todo e os fluxos de valor.
 - :loop: Amplificar 'loops de feedback'.
 - :zap: Experimentar e aprender continuamente. 
 - :high_brightness: Descentralizar decisões. 
