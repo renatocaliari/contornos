@@ -89,14 +89,14 @@ If the contorno that will offer a delegate already has a named delegate, it will
   * offer perspectives from various parts of the organization for integrative decision-making on issues that directly impact multiple contornos or people in the organization, in addition to bringing fresh eyes from these people with important questions about the status quo.
 
 #### Mandate time for new draw
-  * Four months
+  * 3 months
 
 #### Responsibilities
   * actively participate in all contorno decision making that directly impact multiple contornos or people in the organization.
 
 #### Simple rules
   * current contorno decisions that directly impact multiple contornos cease to be operational and become integrative decisions including people in structural role of synapse.
-  * every 4 months, 4 people from any level of internal contornos are randomly selected to participate in the structural role of synapse.
+  * every 3 months, 4 people from any level of internal contornos are randomly selected to participate in the structural role of synapse.
   * people drawn may object to their participation. If the contorno fails to integrate the objection, a new lottery is made to fill the vacancy of the people who objected.
 
 #### Examples of decisions with a direct impact on multiple contornos or people:
