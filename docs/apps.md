@@ -87,14 +87,14 @@ Caso o contorno que oferecerá uma representante já tenha uma representante nom
   * oferecer perspectivas de várias partes da organização para tomada de decisões de forma integrativa sobre questões que impactem diretamente múltiplos contornos ou pessoas da organização, além de trazer o olhar fresco desssas pessoas com questionamentos importantes sobre o status-quo.
 
 #### Tempo de mandato para novo sorteio
-  * 4 meses
+  * 3 meses
 
 #### Responsabilidades
   * participar ativamente de todas tomadas de decisões do contorno que impactem diretamente múltiplos contornos ou pessoas da organização.
 
 #### Regras simples
   * decisões atuais do contorno com papel estrutural Sinapse que impactem diretamente múltiplos contornos deixam de ser operacionais e se tornam decisões integrativas.
-  * a cada 4 meses são sorteadas 4 pessoas de contornos internos de qualquer nível para participar do papel estrutural Sinapse. 
+  * a cada 3 meses são sorteadas 4 pessoas de contornos internos de qualquer nível para participar do papel estrutural Sinapse. 
   * as pessoas sorteadas podem levantar objeção para sua participação. Se o contorno não conseguir integrar a objeção, um novo sorteio é feito para preenher a vaga das pessoas que objetaram.
 
 #### Exemplos de decisões com impacto direto em múltiplos contornos ou pessoas:
