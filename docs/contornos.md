@@ -366,8 +366,11 @@ Para algum contorno ter controle exclusivo sobre algum recurso é necessário [d
 
 Se um contorno tem controle exclusivo sobre recursos da organização como um todo (ex: processo de contratação ou ferramentas oficiais), ele pode tomar decisões sem necessidade de decisão integrativa dos contornos impactados. Porém, é recomendado pedir reações sobre possíveis mudanças quando algo impactar muitos contornos ou quando existir um grande risco.
 
-Regra simples:
-- favorecer para que os recursos de controle exclusivo pertençam aos contornos que possuam as responsabilidades de cuidar e utilizar os recursos. 
+**Recomendações:**
+- favorecer para que os recursos de controle exclusivo pertençam aos contornos que possuam as responsabilidades de cuidar e utilizar os recursos. Minimize a existência de contornos que tenham responsabilidade sobre algo que é de recurso exclusivo de outro contorno. 
+- quando um contorno possui controle exclusivo sobre um recurso utilizado pela organização como um todo: 
+  - considere informações das pessoas impactadas quando for agir sobre o recurso
+  - colha reações das pessoas impactadas pelas mudanças
 
 ## Projetos (’O quê?’)
 É sugerido que todo contorno tenha seu próprio quadro de projetos onde possa dar visibilidade do progresso de seus projetos.
@@ -407,7 +410,7 @@ Porém, a partir daí podem ser necessários novos acordos.
 
 Há dois tipos de acordos: estruturais e pessoais. Ambos podem ser adaptados, e qualquer participante do contorno pode sugerir uma proposta de modificação.
 
-Regras:
+**Recomendações:**
 * Crie acordos quando surgirem questões recorrentes que precisem do mesmo tipo de decisão. 
 * Evite a tentativa de prever algo em acordos sem evidência ou conhecimento. 
 * Acordos são realizados para definir expectativas estruturais ou pessoais a serem cumpridas.
@@ -558,7 +561,7 @@ Diferente de consenso, em que as pessoas buscam concordância e alinhamento de p
 Em contornos há 3 critérios para considerar uma objeção válida:
   1. **Violação ou Obstáculo**: revela uma violação dos acordos da organização ou revela obstáculos, especificamente para os contornos de quem levantou a objeção, para expressar sua razão de existir e realizar suas responsabilidades. Se a pessoa levantar objeção em nome de contornos que ela não participa, não considere uma objeção válida. As guardiãs de cada contorno poderão levantar suas próprias objeções.
   2. **Dano causado pela proposta**: revela dano que só existirá caso a proposta seja colocada em prática e que não haverá oportunidade adequada para adaptação antes que a proposta cause o dano.
-  3. **Evidências**: é baseada em evidências. Caso seja algo preditivo e não passe pelo critério 2, não considere uma objeção válida nesse processo.
+  3. **Evidências**: objeção baseada em evidências. Caso seja algo apenas preditivo - não baseado em histórico - e não passe pelo critério 2 - cause danos, não considere uma objeção válida nesse processo.
 
 **Regras:**
 * Uma decisão integrativa, por padrão, é realizada para todos acordos estruturais.
@@ -566,8 +569,9 @@ Em contornos há 3 critérios para considerar uma objeção válida:
 * Se houver adaptação, é necessário consentir sobre a alteração com as participantes do contorno.
 
 **Recomendações:**
-* Caso uma decisão impacte outros contornos é indicado que compartilhe a proposta para reações das pessoas dos contornos impactados, e apenas depois realize decisão integrativa no contorno que criou a proposta.
-* Utilize o app de [decisão integrativa de proposta](#decisão-integrativa).
+* antes de tomar decisões que impacte outros contornos, considerar informações das pessoas impactadas que não participam das decisões.
+* depois de tomar decisões que impacte outros contornos, colher reações das pessoas impactadas que não participaram das decisões.
+* utilize o app de [decisão integrativa de proposta](#decisão-integrativa).
 
 ## Processo para proposta com decisão integrativa
 ### Ideação e cocriação de proposta
