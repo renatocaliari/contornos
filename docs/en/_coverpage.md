@@ -4,7 +4,7 @@
 
 >  Social technology for organizations and communities
 
-- :cyclone: Take into account the organizational system as a whole and the value streams.
+- :cyclone: Take into account the system (organizational or community) as a whole and the value streams.
 - :loop: Amplify 'feedback loops'.
 - :zap: Experiment and learn continuously. 
 - :high_brightness: Decentralize decisions. 
