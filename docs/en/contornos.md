@@ -368,6 +368,12 @@ For some contorno to have exclusive control over some resource it is necessary [
 
 If a contorno has exclusive control over the organization's resources as a whole (eg, hiring process or official tools), it can make decisions without the need for an integrative decision on the impacted contornos. However, it is recommended to ask for reactions about possible changes when something impacts too many contornos or when there is a great risk.
 
+**Recommendations:**
+- encourage the resources of exclusive control to belong to the contornos that have the responsibilities of caring for and using the resources. Minimize the existence of contornos that have responsibility for something that is a resource of exclusive control of another contorno.
+- when a contorno has exclusive control over a resource used by the organization as a whole:
+  - consider information from impacted people when acting on the resource
+  - collect reactions from people impacted by the changes
+         
 Simple rule:
 - encourage the resources of exclusive control to belong to the contornos that have the responsibilities of caring for and using the resources.
 
@@ -559,20 +565,21 @@ Integrative decision is a type of decision **in consent** involving all particip
 
 Unlike consensus, in which people seek agreement and alignment of personal preferences, **consent seeks only objections**. 
 
-## Valid objections
-In contorno, there are 3 criteria to consider a valid objection:
-  1. **Violation or Obstacle**: reveals a violation of the organization's agreements or reveals obstacles, specifically for the contornos of who raised the objection, to expressing their reason for existing and carrying out their responsibilities. If the person raises an objection on behalf of contornos he does not participate in, do not consider a valid objection. The guardians of each contorno may raise their own objections.
-  2. **Damage caused by the proposal**: reveals damage that will only exist if the proposal is put into practice and that there will not be adequate opportunity for adaptation before the proposal causes the damage.
-  3. **Evidence**: it needs to based on evidence. If it is predictive and does not pass on criteria 2, do not consider it a valid objection in this process.
-
 **Rules:**
 * An integrative decision, by default, is made for all structural agreements.
 * If there are objections, the person making the proposal must adapt it to integrate the objections. If this is not possible, the proposal is filed.
 * If there is adaptation, it is necessary to consent to the change with the contorno participants.
 
 **Recommendation:**
-* If a decision impacts other contornos, it is recommended that you share the proposal for the reactions of people from the impacted contornos, and only then make an integrative decision on the contorno that created the proposal.
+* Before making decisions, consider information from impacted people who do not participate in decisions.
+* After making decisions, gather reactions from the impacted people who did not participate in the decisions.
 * Use the [proposal integrative decision] app (en/apps#integrative-proposal-decision).
+
+## Valid objections
+In contorno, there are 3 criteria to consider a valid objection:
+  1. **Violation or Obstacle**: reveals a violation of the organization's agreements or reveals obstacles, specifically for the contornos of who raised the objection, to expressing their reason for existing and carrying out their responsibilities. If the person raises an objection on behalf of contornos he does not participate in, do not consider a valid objection. The guardians of each contorno may raise their own objections.
+  2. **Damage caused by the proposal**: reveals damage that will only exist if the proposal is put into practice and that there will not be adequate opportunity for adaptation before the proposal causes the damage.
+  3. **Evidence**: it needs to based on evidence. If it is predictive and does not pass on criteria 2, do not consider it a valid objection in this process.
 
 ## Process for proposal with integrative decision
 ### Ideation and co-creation of proposal
