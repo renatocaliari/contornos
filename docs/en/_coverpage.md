@@ -2,7 +2,7 @@
 
 # Contornos<small>0.10.4</small>
 
->  Social Technology for Organizations
+>  Social Technology for organizations and communities
 
 - :cyclone: Take into account the organizational system as a whole and the value streams.
 - :loop: Amplify 'feedback loops'.
