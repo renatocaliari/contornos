@@ -85,7 +85,7 @@ Examples demonstrating contexts for creating contornos in case of recurring patt
 
 **Recommendations**:
 - delimit new contornos from the demands of the public, internal or external.
-- minimize the creation of contornos that depend on recurring, expected and necessary deliveries (_handover_ or _handoff_) of other contornos that are not within the same external contorno. Favor that participants of the contornos that have dependence can have a close context in common - an external contorno, favoring them to participate in meetings, decisions and treatment of [drivers](#drivers) together.
+- minimize the creation of contornos that depend on recurring, expected and necessary deliveries (_handover_ or _handoff_) of other contornos that are not within the same external contorno. Favor that participants of the contornos that have dependence can have a close context in common - an external contorno, favoring them to participate in meetings, decisions and treatment of [boosters](#boosters) together.
   - if a dependency between contornos that are on different external contornos is desired or necessary, it is recommended to create a structural role of [representative](apps#structural-representative-role) so that those contornos have some link.
 
 ## How to adapt or remove a contorno?
@@ -154,7 +154,7 @@ Principles to be observed when creating and maintaining Forums:
 Participation in contornos happens through the allocation of people. It is possible to indicate the [type of energy](en/apps#type-of-energy-in-contorno) that each participant will have in a certain contorno.
 
 Any participant in a contorno has these **common responsibilities**:
-* perceive and treat [boosters](#boosters) of its contorno.
+* perceive and act on [boosters](#boosters) of its contorno.
 * prioritize projects and tasks according to the reason for existing and the strategy of the contornos in which it participates.
 * share any information related to your contorno ー projects, tasks, etc ー when someone asks, unless something is agreed to be confidential.
 * perform whatever is necessary to express the reason for existing and the strategy of the contornos in which it participates, respecting [agreements](#agreements), [strategy](#strategy-how), [process](#process-how) and [resources of exclusive control]#resources-of-exclusive-control-how).
@@ -181,7 +181,7 @@ In addition to these two structural roles, it is possible to install [extra stru
   * _all general contorno participant responsibilities._
   * _all responsibilities of the contorno itself that are not delegated to internal contornos._
   * bring external contorno information to all participants in your contorno. If the contorno in question is the organization itself, then bring information from the market, partners, investors, etc.
-  * be responsible for indicators and contour projects. 
+  * be responsible for indicators and contorno projects. 
   * act on [boosters](#boosters) with no progress in its contorno.
   * propose strategy, indicators and process for the contorno, needing an integrative decision.
   * propose people to support the contorno. 
@@ -220,7 +220,7 @@ The guardian has no authority to:
 | -- | -- | -- |
 | reason for existing | keep the scope of the contorno and be accountable for it. | support the work of contorno. |
 | participation | every guardian of a contorno is also a participant in the external contorno as [agent](#agent). | if the agent is not the guardian of some internal contorno, her participation is restricted to the contorno as an agent.<br/>If the agent is the guardian of some internal contorno, her participation happens both in the contorno as agent and in the contorno as guardian. |
-| responsibilities | * _all general contorno participant responsibilities._ <br/>* _all responsibilities of the contorno itself that are not delegated to internal contornos._ <br/> * bring external contorno information to all participants in your contorno. If the contorno in question is the organization itself, then bring information from the market, partners, investors, etc.<br /> * be responsible for indicators and contour projects.<br/> * act on boosters with no progress in its contorno.<br/> * propose strategy, indicators and process for the contorno, needing an integrative decision. <br/> * propose people to support the contorno. <br/> * take action on direct internal contornos without participants: invite people to them or remove the contorno, with integrative decision. | * _all general contorno participant responsibilities._ <br/>* _all responsibilities of the contorno itself that are not delegated to internal contornos._ |
+| responsibilities | * _all general contorno participant responsibilities._ <br/>* _all responsibilities of the contorno itself that are not delegated to internal contornos._ <br/> * bring external contorno information to all participants in your contorno. If the contorno in question is the organization itself, then bring information from the market, partners, investors, etc.<br /> * be responsible for indicators and contorno projects.<br/> * act on boosters with no progress in its contorno.<br/> * propose strategy, indicators and process for the contorno, needing an integrative decision. <br/> * propose people to support the contorno. <br/> * take action on direct internal contornos without participants: invite people to them or remove the contorno, with integrative decision. | * _all general contorno participant responsibilities._ <br/>* _all responsibilities of the contorno itself that are not delegated to internal contornos._ |
 
 ## Allocation of people in contornos
 To be able to be allocated in any way, a person must be a partner of the organization, whatever the form: hired collaborator, partner or other agreed form. And to become a partner, it is expected that there is some contorno with this responsibility, such as the [Contractual Relationship](en/apps#contractual-relationship).
