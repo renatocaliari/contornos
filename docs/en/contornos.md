@@ -121,7 +121,7 @@ Principles to be observed when creating and maintaining Forums:
 
 ?> Any pre-made model on the design of teams is flawed by nature precisely because it does not reflect or adapt to reality. However, some can be useful to inspire and initiate experiments. There is no universal recipe.
 
-**Organizational structure:**
+**Contornos of a fictional organization offering technology education to different groups of people**
 - **[North](en/apps#north)**: define the north of the organization *(🧭 Value Stream;🧑🏻‍🤝‍🧑🏾 External + Internal; ⌚ Stable)*
 - **Organizational Design** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
 - **Care** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
