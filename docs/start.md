@@ -1,6 +1,6 @@
 # Início
 
-?> Se desejar, baixe todo o conteúdo sobre Contornos em forma de e-book [aqui](https://renatocaliari.gumroad.com/l/contornos-tecnologia-social-para-organizacoes)
+?> Se desejar, baixe todo o conteúdo sobre Contornos em forma de e-book [aqui](https://renatocaliari.gumroad.com/l/contornos-tecnologia-social-para-organizacoes). Caso a versão baixada não esteja atualizada, basta me enviar um email ou entrar em contato pelo meu site.
 
 [Contornos] é um sistema contendo regras básicas que cuida de aspectos organizacionais para dar mais agilidade à organização, distribuição de decisões dando mais autonomia com responsabilidade e adaptação organizacional contínua que fomentem mais experimentações para dentro e para fora.
 
