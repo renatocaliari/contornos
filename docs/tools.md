@@ -36,3 +36,5 @@
 - [Yabuu](https://yabbu.com/) - Make better decisions. Better preparation leads to better discussions and this results in decisions that enjoy better support.
 The Decider - Decide better together. Answer a few simple questions to explore better ways to make group decisions.
 
+## Para dinâmicas em grupo
+- [PopStage](https://popstage.com/) - PopStage gives your training program the feeling of being in the same room by offering flexible layouts for each activity type: lectures, polls, breakout, whiteboards, and more.
