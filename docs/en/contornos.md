@@ -480,7 +480,7 @@ It doesn't mean that we can't or should use metrics for some contexts. But we sh
 ---
 
 **Recommendation:**
-- Define metrics based on **quality and quantity** aspects, as well as **subjective and objective** value perception, in relation to the reason for existing, strategy and generated value generated **from the perspective of customers of the contorno or engagement of people of the contorno**.
+- Define metrics based on **quality and quantity** aspects, as well as **subjective and objective** value perception, in relation to the reason for existing, strategy and generated value **from the perspective of customers of the contorno or engagement of people of the contorno**.
 - Have a composition of **leading** and **lagging** indicators. Leading indicators tell us about trends and predictive signals. Lagging indicators confirm an ongoing trend, related to throughput measurement. This includes, for example, information on whether a contorno is solving your demands.
 - When using activity-based metrics as leading indicators, do so with the intention of observing and favoring **outcome-based** metrics.
  
