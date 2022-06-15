@@ -443,7 +443,7 @@ Personal agreements are related to people, such as behavior and personal expecta
 ## Indicators
 Each contorno has indicators that can be shared by more than one contorno.
 
-Indicators can have three categories - **satisfaction of the public's needs**, **health** and **survival**, and be based on **metrics** and/or **recurring practices**.
+Indicators can have three categories - **public's satisfaction**, **health** and **survival**, and be based on **metrics** and/or **recurring practices**.
 
 **Remember:**
 * Indicators rarely provide definitive answers about something. Use them to power conversations, discoveries and support decision making with the support of other information.
@@ -452,7 +452,7 @@ Indicators can have three categories - **satisfaction of the public's needs**, *
 * Continuously observe the way that clients evaluate a result to adapt the indicators.
 
 ### Indicatores categories
-- **Satisfaction of the public's needs** (looking outside), indicators that the public of contorno uses in their decision making to start or continue using a product or service. It is possible to have lower and/or upper delimiter. Below the lower limit, it is not meeting customer needs. Above superior may indicate that customers do not perceive the added benefits and may also be unnecessarily over-serving when it causes harm to other aspects of the business, service or product.
+- **Public's satisfaction** (looking outside), indicators that the public of contorno uses in their decision making to start or continue using a product or service. It is possible to have lower and/or upper delimiter. Below the lower limit, it is not meeting customer needs. Above superior may indicate that customers do not perceive the added benefits and may also be unnecessarily over-serving when it causes harm to other aspects of the business, service or product.
   - **Recommendation:** continuously observe the needs and the way that customers evaluate a result in order to adapt the indicators.
 - **Health**: It is possible to have lower and upper bound that indicate the range of health.
   - **Internal** (looking inside), to monitor **aspects of the contorno, business, service or product** and **people's engagement** in an contorno.
