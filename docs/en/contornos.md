@@ -331,7 +331,7 @@ We evolved to make decisions very quickly based on a partial data scan, favoring
 ## Strategy (’How?’)
 A strategy is an explicit statement of guidelines, safety limits, or minimum criteria that facilitate decision-making, prioritization, and experimentation in according to contorno's reason for existing. 
 
-It is possible to contain [simple rules, minimum restrictions, disclaimers or recurring practices (checklist)](en/references#references-about-strategy).
+It is possible to contain [simple rules, minimum restrictions, tradeoffs or recurring practices (checklist)](en/references#references-about-strategy).
 
 **Rules:**
 * The strategy of a contorno must be aligned with the strategy of the external contorno.
