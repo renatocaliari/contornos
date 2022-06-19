@@ -28,6 +28,8 @@ Make an integrative decision on the contorno you want to use and import it into 
   * [Mentoring](#mentoring)
   * [Conflict Mediation](#conflict-mediation)
   * [Listening](#listening)
+- [Definition of responsibilities](#definition-of-responsibilities)
+   - [Process for mapping responsibilities](#process-for-mapping-responsibilities)
 - [Asynchronous integrative proposal decision](#asynchronous-integrative-proposal-decision)
 - [Meetings and Ceremonies](#meetings-and-ceremonies)
 - [Collaboration and Communication](#collaboration-and-communication)
@@ -118,7 +120,7 @@ If the contorno that will offer a delegate already has a named delegate, it will
 - define the organization's financing and loans
 - define the program, purchase and sale of options to purchase shares or shares of the organization
 
-**Exclusive Control Features:**
+**Resources of exclusive control:**
 - organization strategy
 - investments by companies or third parties in the organization
 - financing and loans from the organization
@@ -138,7 +140,7 @@ If the contorno that will offer a delegate already has a named delegate, it will
 **Reason for existing:**
 - take care of hiring, contract closures and salary changes.
 
-**Exclusive Control Features:**
+**Resources of exclusive control:**
 - signings
 - contract terminations
 - change of salary
@@ -160,7 +162,7 @@ If the contorno that will offer a delegate already has a named delegate, it will
 - support the structuring of organizational experiments and the continuity of experiments
 - structure acquired learning and share with the organization
 
-**Exclusive Control Features:**
+**Resources of exclusive control:**
 - definition of artifacts used by the entire organization
 
 **Internal structural agreement:**
@@ -183,6 +185,73 @@ Contorno to advise, direct and train in specific skills.
 
 ### Listening
 I get around people with the intention of listening empathically, without counseling.
+
+## Definition of responsibilities
+**Rules**:
+- Don't put behavioral expectations into responsibilities. For that see about [personal agreements](/en/contornos#personal-agreements).
+- Avoid responsibilities that are expected of anyone in the organization. The intent here is specific responsibilities.
+- Start with infinitive verb: Correct, Define, Realize, etc.
+- Explain and specify what is ambiguous.
+- In the responsibility, describe what is the **active** participation in an activity.
+
+**Avoid these verbs:**
+* Approve → do not use this verb or expect this kind of responsibility. Responsibilities do not limit other contornos. If you want to limit the type of interaction with any organizational artifact, then use [resources of exclusive control](/en/contornos#resources-of-exclusive-control-how), [process](/en/contornos#process-how) or [agreements structural](/en/contornos#structural-agreements).
+* Align → Alignment is ambiguous. What is expected with the alignment? Advise or advise someone? Consult? Share information?
+* Collaborate / Reply to people (or messages from people) → they are already expected to collaborate and communicate. What else is specifically expected in the collaboration?
+* Guarantee / Insure → instead spell out how you want to guarantee or insure something to get something more specific and practical?
+* Meet → find out what the meeting wants to resolve or decide and what specific responsibilities are there.
+* Reply (people or messages from people) → find out what your responses contained: decision? advice? training? Ignore it if it's just a normal work interaction, communicating, asking questions, suggesting something, and things expected of any collaborating person.
+* Manage people → responsibilities cannot provide this kind of authority and power. What do you want with manage? Advise, mentor, train? See more about [special contornos in Apps](/en/apps#special-contornos).
+
+### Process for mapping responsibilities
+#### Step 1 - Describe tasks from the last 30 days
+* Write down tasks you've performed and decisions you've made in the last 30 days. 
+* One task or decision per line or post-it.
+
+**Rules**
+* Ignore one-off tasks that you are not expected to do again at another time.
+* Ignore tasks expected from any collaborating person.
+  * Examples of tasks and expectations that are usually of any collaborating person:
+    * Contribute to people
+    * Behave in such a way
+    * Integrate with others
+    * Study and improve skills
+    * Give visibility to your work (present work progress)
+    * 1+1 with coordinators and peers
+
+#### Step 2 - Turn tasks into responsibilities
+* Evaluate the tasks you wrote in the step above and rewrite in terms of responsibility, starting with verbs.
+* Follow the general rules on defining responsibilities, mentioned above at the beginning of the topic.
+
+**Tips:**
+* When reading an activity, try to find out what was behind it and turn it into responsibilities, ask questions: why this task? and how was it performed? what was my active participation?
+* In the responsibility, describe your active participation in an activity.
+
+**Explain what is ambiguous when trying to transform activities like:**
+* “I created a document for another area” → What was expected with this document? What does it define and which area? And what is your responsibility in that?
+  * Example: Set XPTO product priority.
+* “I participated in an ideation” → What specifically did they expect from you in this ideation? What was the purpose of the ideation?
+  * Example: Assessing technological risks in the design of new products.
+* “I had some business meetings” → What was expected of meetings? And what was expected of you? Is there a specific scope to be able to define as responsibility?
+  * Example: "Evaluate and nurture business opportunities in the market".
+* “Design team meeting” → What was the purpose of the meeting? What was expected of you? What were your activities and decisions at the meeting?
+* “Roadmap Discussion” → What is 'discussion' and what is your specific responsibility for it? Any decision that depends on you?
+* “Bug correction” → Ex: Fix bugs when requested by @support.
+
+#### Step 3 - Grouping responsibilities as an outline
+If you intend to discover and define contornos based on the grouping of responsibilities, follow this step further.
+
+* Group responsibilities by affinity.
+* Give the group a name to identify these responsibilities.
+* Avoid a grouping with more than 7 responsibilities and try to keep the limit of 5.
+
+**Basic rules**
+* Prefer a lean and simple version of the groupings.
+* The grouping name should give you a quick idea of what this set of responsibilities is all about.
+* The grouping should be by affinity and NOT because one person currently performs a group of responsibilities, which may not be as correlated or have no affinity with each other.
+* More atomic groupings are easier to distribute among people when needed and allow for more flexibility and adaptation. Beware of groupings with too many responsibilities.
+* A person CAN'T make only a part of what is grouped, but everything that is in it.
+* Remember: just good enough for now. Don't try something perfect. Everything can be adaptable.
 
 ## Asynchronous integrative proposal decision
 [Under development]
