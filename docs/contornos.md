@@ -52,7 +52,7 @@ Cada contorno governa a sua própria estrutura.
    - **localização**
 
 _(*) A intenção pode ser entendida como um job de Jobs To Be Done, propósito de Fit For Purpose, por "torre" ou "mental space" do diagrama Mental Model da Indi Young, etc._
-Caso interesse, consulte materiais como [Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology-ebook/dp/B07NSF94PC), [Fit For Purpose](https://www.amazon.com/Fit-Purpose-Businesses-Satisfy-Customers/dp/0985305118) e [Jobs To Be Done](https://medium.com/tentaculus/jobs-to-be-done-parte-1-42bfdf4875c8)._
+Caso interesse, consulte materiais como [Team Topologies](https://www.amazon.com/dp/B09JWT9S4D/), [Fit For Purpose](https://www.amazon.com/Fit-Purpose-Businesses-Satisfy-Customers/dp/0985305118) e [Jobs To Be Done](https://medium.com/tentaculus/jobs-to-be-done-parte-1-42bfdf4875c8).
 
 ### 🧑🏻‍🤝‍🧑🏾 Público
    - **Interno**: o trabalho final tem como intenção atender, viabilizar e potencializar o trabalho de contornos da organização. 
