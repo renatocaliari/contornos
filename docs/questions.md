@@ -11,21 +11,6 @@ De forma simplista e limitada, é possível tentar comparar antes e depois:
 - os padrões de tensões organizacionais: estão mudando?
   - alternativa como exemplo: usar o [Mapa Tentaculus](https://medium.com/tentaculus/mapear-oportunidades-organizacoes-ad66f1b9a913) ou o [OS Canvas](https://medium.com/the-ready/the-operating-system-canvas-420b8b4df062), perguntando para cada aspecto o que tem funcionado bem e o que não tem funcionado bem.
 
-## Como definir as responsabilidades de um contorno?
-- Não coloque expectativas de comportamento em responsabilidades. Para isso veja sobre [acordos pessoais](contornos#acordos-pessoais).
-- Evite responsabilidades que são esperadas de qualquer pessoa da organização.
-- Comece com verbo no infinitivo: Corrigir, Definir, Realizar, etc.
-- Explicite e especifique o que é ambíguo
-- Na responsabilidade descreva qual é a participação **ativa** em uma atividade.
-
-**Evite esses verbos:**
-* Aprovar → não use esse verbo ou espere esse tipo de responsabilidade. Responsabilidades não limitam outros contornos. Se deseja limitar o tipo de interação com qualquer artefato organizacional, então utilize-se de [recursos de controle exclusivo](contornos#recursos-de-controle-exclusivo-como), [processo](contornos#processo-como) ou [acordos estruturais](contornos#acordos-estruturais).
-* Alinhar → alinhamento é ambíguo. O que é esperado com o alinhamento? Se aconselhar ou aconselhar alguém? Consultar? Compartilhar informação?
-* Colaborar / Responder pessoas (ou mensagens de pessoas) → já é esperado que elas colaborem e se comuniquem. O que mais é esperado especificamente na colaboração?
-* Garantir / Assegurar → em vez disso explicite como deseja garantir ou assegurar algo para chegar em algo mais específico e prático?
-* Reunir → descubra o que a reunião deseja resolver ou decidir e quais as responsabilidades específicas nisso.
-* Gerenciar pessoas → responsabilidades não podem prever esse tipo de autoridade e poder. O que deseja com gerenciar? Aconselhar, mentorar, treinar? Veja mais sobre [contornos especiais em Apps](apps#contornos-especiais).
-
 ## As pessoas precisam ter prévia maturidade para atuar em um sistema assim?
 Essa pergunta em geral vem ao menos de duas premissas de quem pergunta:
 1. relacionada à maturidade: as pessoas precisam estar 'prontas' ou 'maduras' para algo, antes de praticar esse algo.
