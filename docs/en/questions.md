@@ -64,7 +64,6 @@ When an argument starts to stretch without seeming to get anywhere, ask what you
 1. If there is a contorno that already takes care of the issue: forward it to the guardian of the contorno. If anyone is still willing to talk about it, ask to speak with the guardian.
 2. If there is no contorno that already takes care of the issue: forward it to the guardian of the scope closest to the subject or the broader scope that can cover this subject.
 
-
 ## How to get started with the Contornos system?
 
 ### How to make the decision to use the system?
