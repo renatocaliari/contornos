@@ -186,9 +186,9 @@ Contorno com pessoas com intenção de fazer escuta empática, sem aconselhament
 ## Definição de responsabilidades 
 **Regras**:
 - Não coloque expectativas de comportamento em responsabilidades. Para isso veja sobre [acordos pessoais](contornos#acordos-pessoais).
-- Evite responsabilidades que são esperadas de qualquer pessoa da organização. A intenção aqui são as responsabilidades específicas. Responsabilidades são ações recorrentes específicas do seu trabalho. 
+- Evite responsabilidades que são esperadas de qualquer pessoa da organização. A intenção aqui são as responsabilidades específicas.
 - Comece com verbo no infinitivo: Corrigir, Definir, Realizar, etc.
-- Explicite e especifique o que é ambíguo
+- Explicite e especifique o que é ambíguo.
 - Na responsabilidade descreva qual é a participação **ativa** em uma atividade.
  
 **Evite esses verbos:**
@@ -197,12 +197,13 @@ Contorno com pessoas com intenção de fazer escuta empática, sem aconselhament
 * Colaborar / Responder pessoas (ou mensagens de pessoas) → já é esperado que elas colaborem e se comuniquem. O que mais é esperado especificamente na colaboração?
 * Garantir / Assegurar → em vez disso explicite como deseja garantir ou assegurar algo para chegar em algo mais específico e prático?
 * Reunir → descubra o que a reunião deseja resolver ou decidir e quais as responsabilidades específicas nisso.
-* Responder (pessoas ou mensagens de pessoas) → descubra o que suas interações e respostas continham: decidir sobre algum escopo? treinar ou aconselhar tais pessoas em tais escopos?
+* Responder (pessoas ou mensagens de pessoas) → descubra o que suas respostas continham: decisão? aconselhamento? treinamento? Ignore se for apenas uma interação normal de trabalho, comunicar, fazer perguntas, sugerir algo e coisas esperadas de qualquer pessoa colaboradora.
 * Gerenciar pessoas → responsabilidades não podem prever esse tipo de autoridade e poder. O que deseja com gerenciar? Aconselhar, mentorar, treinar? Veja mais sobre [contornos especiais em Apps](apps#contornos-especiais).
 
 ### Processo para mapear responsabilidades
 #### Passo 1 - Descreva tarefas dos últimos 30 dias
-* Anote tarefas que executou e decisões que tomou nos últimos 30 dias. Uma tarefa por linha ou post-it.
+* Anote tarefas que executou e decisões que tomou nos últimos 30 dias. 
+* Uma tarefa ou decisão por linha ou post-it.
 
 **Regras**
 * Ignore tarefas pontuais e que não seja esperada que faça de novo em outro momento.
@@ -220,14 +221,14 @@ Contorno com pessoas com intenção de fazer escuta empática, sem aconselhament
 * Siga as regras gerais sobre definição de responsabilidades, citadas mais acima no início do tópico.
 
 **Dicas:**
-* Ao ler uma atividade para tentar descobrir o que estava por trás dela e trasformar em responsabilidades, faça perguntas: por qual motivo essa tarefa? e como ela foi realizada? 
+* Ao ler uma atividade para tentar descobrir o que estava por trás dela e trasformar em responsabilidades, faça perguntas: por qual motivo essa tarefa? e como ela foi realizada?  qual foi minha participação ativa?
 * Na responsabilidade descreva qual é a sua participação ativa em uma atividade.
 
 **Explicite o que é ambíguo ao tentar transformar atividades como:**
 * “Criei um documento para outra área”  → O que era esperado com esse documento? O que ele define e qual área? E o que é de sua responsabilidade nisso? 
   * Exemplo: Definir prioridade do produto XPTO.
 * “Participei de uma ideação” → O que esperavam especificamente de você nessa ideação? Qual era o intuito da ideação?
-  * Exemplo: Avaliar riscos tecnológicos em concepção de novos produtos.
+  * Exemplo: "Avaliar e formentar oportunidades de negócios no mercado"
 * “Tive algumas reuniões comerciais” → O que era esperado das reuniões? E o que era esperado de você? Há algum escopo específico para poder definir como responsabilidade?
   * Exemplo: Criar e manter oportunidades comerciais no mercado.
 * “Reunião com time de design” → Qual foi o propósito da reunião? O que era esperado de você? Quais foram suas atividades e decisões na reunião?
@@ -246,8 +247,7 @@ Caso você tenha a intenção de descobrir e definir contornos baseado no agrupa
 * O nome do agrupamento deve dar uma ideia rápida do que se trata esse conjunto de responsabilidades.
 * O agrupamento deve ser por afinidade e NÃO por atualmente uma pessoa executar um grupo de responsabilidades, que talvez não sejam tão correlacionadas ou não tenham afnidade entre si. 
 * Agrupamentos mais atômicos são mais fáceis de distribuir entre pessoas quando necessário e permitem mais flexibilização e adaptação. Cuidado com agrupamentos com muitas responsabilidades.
-* Lembre-se que uma pessoa NÃO poderá fazer apenas uma parte do que está agrupado, e sim tudo que está nele. Se não fosse você realizando esse agrupamento, e sim outra pessoa, faria sentido ela realizar tudo que está no agrupamento? Se sim, segue em frente. Se não, talvez seja o momento de dividir esse agrupamento. 
-* A pessoa em um agrupamento tem que ser capaz de assumir todas responsabilidades do mesmo.
+* Lembre-se que uma pessoa NÃO poderá fazer apenas uma parte do que está agrupado, e sim tudo que está no agrupamento.
 * Lembre-se: apenas bom o suficiente por agora. Não tente algo perfeito. Tudo poderá ser adaptável.
 
 ## Decisão integrativa assíncrona de proposta
