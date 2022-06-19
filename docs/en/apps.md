@@ -200,7 +200,6 @@ I get around people with the intention of listening empathically, without counse
 * Collaborate / Reply to people (or messages from people) → they are already expected to collaborate and communicate. What else is specifically expected in the collaboration?
 * Guarantee / Ensure → instead spell out how you want to guarantee or ensure something to get something more specific and practical?
 * Meet → find out what the meeting wants to resolve or decide and what specific responsibilities are there.
-* Reply (people or messages from people) → find out what your responses contained: decision? advice? training? Ignore it if it's just a normal work interaction, communicating, asking questions, suggesting something, and things expected of any collaborating person.
 * Manage people → responsibilities cannot provide this kind of authority and power. What do you want with manage? Advise, mentor, train? See more about [special contornos in Apps](/en/apps#special-contornos).
 
 ### Process for mapping responsibilities
