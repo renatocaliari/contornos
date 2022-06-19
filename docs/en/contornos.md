@@ -54,7 +54,7 @@ Rules:
    - **location**
 
 _(*) Intent can be understood as a Job To Be Done, purpose in Fit For Purpose, a "tower" or "mental space" from Indi Young's Mental Model diagram, etc._
-If interested, consult materials such as [Team Topologies](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology-ebook/dp/B07NSF94PC), [Fit For Purpose](https://www. amazon.com/Fit-Purpose-Businesses-Satisfy-Customers/dp/0985305118) and [Jobs To Be Done](https://medium.com/tentaculus/jobs-to-be-done-parte-1-42bfdf4875c8) ._
+If interested, consult materials such as [Team Topologies](https://www.amazon.com/dp/B09JWT9S4D/), [Fit For Purpose](https://www. amazon.com/Fit-Purpose-Businesses-Satisfy-Customers/dp/0985305118) and [Jobs To Be Done](https://medium.com/tentaculus/jobs-to-be-done-parte-1-42bfdf4875c8) ._
 
 ### 🧑🏻‍🤝‍🧑🏾 Public
    - **Internal**: the final work is intended to meet, enable and enhance the organization's contornos work.
