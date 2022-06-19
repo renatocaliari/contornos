@@ -194,10 +194,9 @@ Contorno com pessoas com intenção de fazer escuta empática, sem aconselhament
 **Evite esses verbos:**
 * Aprovar → não use esse verbo ou espere esse tipo de responsabilidade. Responsabilidades não limitam outros contornos. Se deseja limitar o tipo de interação com qualquer artefato organizacional, então utilize-se de [recursos de controle exclusivo](contornos#recursos-de-controle-exclusivo-como), [processo](contornos#processo-como) ou [acordos estruturais](contornos#acordos-estruturais).
 * Alinhar → alinhamento é ambíguo. O que é esperado com o alinhamento? Se aconselhar ou aconselhar alguém? Consultar? Compartilhar informação?
-* Colaborar / Responder pessoas (ou mensagens de pessoas) → já é esperado que elas colaborem e se comuniquem. O que mais é esperado especificamente na colaboração?
+* Colaborar / Responder pessoas (ou mensagens de pessoas) → já é esperado que elas colaborem e se comuniquem. O que mais é esperado especificamente nessa colaboração?
 * Garantir / Assegurar → em vez disso explicite como deseja garantir ou assegurar algo para chegar em algo mais específico e prático?
 * Reunir → descubra o que a reunião deseja resolver ou decidir e quais as responsabilidades específicas nisso.
-* Responder (pessoas ou mensagens de pessoas) → descubra o que suas respostas continham: decisão? aconselhamento? treinamento? Ignore se for apenas uma interação normal de trabalho, comunicar, fazer perguntas, sugerir algo e coisas esperadas de qualquer pessoa colaboradora.
 * Gerenciar pessoas → responsabilidades não podem prever esse tipo de autoridade e poder. O que deseja com gerenciar? Aconselhar, mentorar, treinar? Veja mais sobre [contornos especiais em Apps](apps#contornos-especiais).
 
 ### Processo para mapear responsabilidades
