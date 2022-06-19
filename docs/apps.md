@@ -26,6 +26,8 @@ Faça uma decisão integrativa no contorno que deseja utilizar e importe-o nos a
   * [Contorno Mentoria](#contorno-mentoria)
   * [Contorno Mediação de conflitos](#contorno-media%C3%A7%C3%A3o-de-conflitos)
   * [Contorno Escuta](#contorno-escuta)
+- [Definição de responsabilidades](#definição-de-responsabilidades)
+  - [Processo para mapear responsabilidades](#processo-para-mapear-responsabilidades)
 - [Decisão integrativa assíncrona de proposta](#decisão-integrativa-assíncrona-de-proposta)
 - [Reuniões e Cerimônias](#reuniões-e-cerimônias)
 - [Colaboração & Comunicação](#colaboraçao--comunicação)
@@ -180,6 +182,73 @@ Contorno para aconselhar, direcionar e treinar em habilidades específicas.
 
 ### Contorno Escuta
 Contorno com pessoas com intenção de fazer escuta empática, sem aconselhamento.
+
+## Definição de responsabilidades 
+**Regras**:
+- Não coloque expectativas de comportamento em responsabilidades. Para isso veja sobre [acordos pessoais](contornos#acordos-pessoais).
+- Evite responsabilidades que são esperadas de qualquer pessoa da organização. A intenção aqui são as responsabilidades específicas. Responsabilidades são ações recorrentes específicas do seu trabalho. 
+- Comece com verbo no infinitivo: Corrigir, Definir, Realizar, etc.
+- Explicite e especifique o que é ambíguo
+- Na responsabilidade descreva qual é a participação **ativa** em uma atividade.
+ 
+**Evite esses verbos:**
+* Aprovar → não use esse verbo ou espere esse tipo de responsabilidade. Responsabilidades não limitam outros contornos. Se deseja limitar o tipo de interação com qualquer artefato organizacional, então utilize-se de [recursos de controle exclusivo](contornos#recursos-de-controle-exclusivo-como), [processo](contornos#processo-como) ou [acordos estruturais](contornos#acordos-estruturais).
+* Alinhar → alinhamento é ambíguo. O que é esperado com o alinhamento? Se aconselhar ou aconselhar alguém? Consultar? Compartilhar informação?
+* Colaborar / Responder pessoas (ou mensagens de pessoas) → já é esperado que elas colaborem e se comuniquem. O que mais é esperado especificamente na colaboração?
+* Garantir / Assegurar → em vez disso explicite como deseja garantir ou assegurar algo para chegar em algo mais específico e prático?
+* Reunir → descubra o que a reunião deseja resolver ou decidir e quais as responsabilidades específicas nisso.
+* Responder (pessoas ou mensagens de pessoas) → descubra o que suas interações e respostas continham: decidir sobre algum escopo? treinar ou aconselhar tais pessoas em tais escopos?
+* Gerenciar pessoas → responsabilidades não podem prever esse tipo de autoridade e poder. O que deseja com gerenciar? Aconselhar, mentorar, treinar? Veja mais sobre [contornos especiais em Apps](apps#contornos-especiais).
+
+### Processo para mapear responsabilidades
+#### Passo 1 - Descreva tarefas dos últimos 30 dias
+* Anote tarefas que executou e decisões que tomou nos últimos 30 dias. Uma tarefa por linha ou post-it.
+
+**Regras**
+* Ignore tarefas pontuais e que não seja esperada que faça de novo em outro momento.
+* Ignore tarefas esperadas de qualquer pessoa colaboradora.
+  * Exemplos de tarefas e expectativas que costumam ser de qualquer pessoa colaboradora:
+    * Contribuir com as pessoas
+    * Se comportar de tal jeito
+    * Se integrar com outras pessoas
+    * Estudar e melhorar habilidades 
+    * Dar visibilidade do seu trabalho (apresentar progresso do trabalho)
+    * 1+1 com coordenadores e pares
+
+#### Passo 2 - Transforme tarefas em responsabilidades
+* Avalie as tarefas que escreveu no passo acima e reescreva em termos de responsabilidade, começando com verbos. 
+* Siga as regras gerais sobre definição de responsabilidades, citadas mais acima no início do tópico.
+
+**Dicas:**
+* Ao ler uma atividade para tentar descobrir o que estava por trás dela e trasformar em responsabilidades, faça perguntas: por qual motivo essa tarefa? e como ela foi realizada? 
+* Na responsabilidade descreva qual é a sua participação ativa em uma atividade.
+
+**Explicite o que é ambíguo ao tentar transformar atividades como:**
+* “Criei um documento para outra área”  → O que era esperado com esse documento? O que ele define e qual área? E o que é de sua responsabilidade nisso? 
+  * Exemplo: Definir prioridade do produto XPTO.
+* “Participei de uma ideação” → O que esperavam especificamente de você nessa ideação? Qual era o intuito da ideação?
+  * Exemplo: Avaliar riscos tecnológicos em concepção de novos produtos.
+* “Tive algumas reuniões comerciais” → O que era esperado das reuniões? E o que era esperado de você? Há algum escopo específico para poder definir como responsabilidade?
+  * Exemplo: Criar e manter oportunidades comerciais no mercado.
+* “Reunião com time de design” → Qual foi o propósito da reunião? O que era esperado de você? Quais foram suas atividades e decisões na reunião?
+* “Discussão de roadmap” → O que seria ‘discussão’ e qual seria sua responsabilidade específica nisso? Alguma decisão que dependa de você?
+* “Correção de bugs” → Ex: Corrigir bugs quando solicitado pelo @atendimento
+
+#### Passo 3 - Agrupamento de responsabilidades como um contorno
+Caso você tenha a intenção de descobrir e definir contornos baseado no agrupamento de responsabilidades, siga mais este passo.
+
+* Agrupe responsabilidades com afinidade. 
+* Dê um nome ao agrupamento para identificar essas responsabilidades.
+* Evite que um agrupamento tenha mais de 7 responsabilidades e tente manter o limite de 5. 
+
+**Regras básicas**
+* Dê preferência a uma versão enxuta e simples dos agrupamentos.
+* O nome do agrupamento deve dar uma ideia rápida do que se trata esse conjunto de responsabilidades.
+* O agrupamento deve ser por afinidade e NÃO por atualmente uma pessoa executar um grupo de responsabilidades, que talvez não sejam tão correlacionadas ou não tenham afnidade entre si. 
+* Agrupamentos mais atômicos são mais fáceis de distribuir entre pessoas quando necessário e permitem mais flexibilização e adaptação. Cuidado com agrupamentos com muitas responsabilidades.
+* Lembre-se que uma pessoa NÃO poderá fazer apenas uma parte do que está agrupado, e sim tudo que está nele. Se não fosse você realizando esse agrupamento, e sim outra pessoa, faria sentido ela realizar tudo que está no agrupamento? Se sim, segue em frente. Se não, talvez seja o momento de dividir esse agrupamento. 
+* A pessoa em um agrupamento tem que ser capaz de assumir todas responsabilidades do mesmo.
+* Lembre-se: apenas bom o suficiente por agora. Não tente algo perfeito. Tudo poderá ser adaptável.
 
 ## Decisão integrativa assíncrona de proposta
 [Em desenvolvimento]
