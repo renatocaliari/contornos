@@ -68,7 +68,7 @@ Caso interesse, consulte materiais como [Team Topologies](https://www.amazon.com
 Se deseja descobrir quais são as redes e escopos que já funcionam na organização, mesmo que informalmente, veja abaixo algumas opções para isso:
 - ["Análise de Redes Organizacionais"](https://www2.deloitte.com/us/en/pages/human-capital/articles/organizational-network-analysis.html) e observar o tipo de conexões que existem atualmente.
 - Mapeamento [processo e fluxo de valor](references#refer%C3%AAncias-sobre-mapeamento-de-processo) do contorno maior em relação à razão de existir da organização.
-- Mapeamento de atividades que as pessoas realizam atualmente e [converter em responsabilidades](questions#como-definir-as-responsabilidades-de-um-contorno). Após isso, definir os contornos e todos seus atributos.
+- Mapeamento de atividades que as pessoas realizam atualmente e [converter em responsabilidades](apps#defini%c3%a7%c3%a3o-de-responsabilidades). Após isso, definir os contornos e todos seus atributos.
 
 ## Quando criar novos contornos?
 
@@ -302,7 +302,7 @@ Os contornos são alinhados e aninhados por ela.
 * Evite palavras amplificadas ou aspirações inalcançáveis que atrapalhem a compreensão e não possam ser medidas.  
 
 ## Responsabilidades (’Como?’)
-[Responsabilidades](questions#como-definir-as-responsabilidades-de-um-contorno) são acordos de expectativas sobre as principais ações recorrentes que as pessoas de um contorno cuidarão. Elas deixam explícitas quaisquer coisas que não são facilmente deduzidas ao ler a razão de existir.
+[Responsabilidades](apps#defini%c3%a7%c3%a3o-de-responsabilidades) são acordos de expectativas sobre as principais ações recorrentes que as pessoas de um contorno cuidarão. Elas deixam explícitas quaisquer coisas que não são facilmente deduzidas ao ler a razão de existir.
 
 As pessoas têm autoridade para agir e fazer o que for necessário para expressar a razão de existir de um contorno, mesmo que algo não esteja listado nas responsabilidades, sem necessidade de aprovação de outras pessoas de fora de seu contorno, sendo necessário respeitar [acordos](#acordos), [estratégia](#estrat%C3%A9gia-como), [processo](#processo-como) e [recursos de controle exclusivo](#recursos-de-controle-exclusivo-como) de outros contornos.
 
