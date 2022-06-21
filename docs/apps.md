@@ -244,7 +244,7 @@ Caso você tenha a intenção de descobrir e definir contornos baseado no agrupa
 **Regras básicas**
 * Dê preferência a uma versão enxuta e simples dos agrupamentos.
 * O nome do agrupamento deve dar uma ideia rápida do que se trata esse conjunto de responsabilidades.
-* O agrupamento deve ser por afinidade e NÃO por atualmente uma pessoa executar um grupo de responsabilidades, que talvez não sejam tão correlacionadas ou não tenham afnidade entre si. 
+* O agrupamento deve ser por afinidade e NÃO por atualmente uma pessoa executar um grupo de responsabilidades, que talvez não sejam tão correlacionadas ou não tenham afinidade entre si. 
 * Agrupamentos mais atômicos são mais fáceis de distribuir entre pessoas quando necessário e permitem mais flexibilização e adaptação. Cuidado com agrupamentos com muitas responsabilidades.
 * Lembre-se que uma pessoa NÃO poderá fazer apenas uma parte do que está agrupado, e sim tudo que está no agrupamento.
 * Lembre-se: apenas bom o suficiente por agora. Não tente algo perfeito. Tudo poderá ser adaptável.
