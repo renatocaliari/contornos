@@ -448,7 +448,7 @@ Indicadores podem ter três categorias - **satisfação do público, saúde e so
   - **Recomendação:** continuamente observe-se as necessidades a forma que clientes avaliam um resultado para adaptar os indicadores.
 - **Saúde**: É possível ter delimitador inferior e superior que indiquem o intervalo de saúde. 
   - **Interna** (olhar pra dentro), para monitorar **aspectos do contorno, negócio, serviço ou produto** e **engajamento das pessoas** em um contorno. 
-  - **Extena** (olhar pra fora), para monitorar **aspectos de saúde de entidades externas que interagem com a organização ou que sofrem impactos por ela**: outras organizações (fornecedores, parceiras, etc), natureza e seres. 
+  - **Externa** (olhar pra fora), para monitorar **aspectos de saúde de entidades externas que interagem com a organização ou que sofrem impactos por ela**: outras organizações (fornecedores, parceiras, etc), natureza e seres. 
 - **Sobrevivência** (olhar pra dentro), em caso **excepcional** e **temporário**, podendo conter um alvo de um resultado a ser atingido. Usado apenas quando for necessário promover uma mudança rápida para **salvar** o contorno, negócio, produto ou serviço.
 
 ?> Para cada categoria, escolha indicadores baseados em métricas e/ou práticas recorrentes. 
@@ -462,7 +462,7 @@ São propostos pela guardiã do contorno e definidos em [decisão integrativa](#
 - Muito do que tentamos mensurar talvez não valha o esforço. A facilidade em mensurar algo pode ser inversamente proporcional ao significado do que é medido.
 - Métricas não substituem a realidade. Os dados são uma abstração da realidade baseada em suposições sobre como categorizar fenômenos não estruturados.
 - Métricas não substituem julgamento baseado em experiência e conhecimento.
-- Métricas ofuscam a complexidade de um contexto. Em um ambiente complexo dificilmente teremos distinções expícitas úteis (a) de correlação e (b) mais raramente ainda, de causas e efeitos. Não é possível ter conhecimento de todas variáveis envolvidas e como se relacionam. Em cenários complexos, precisamos aprender realizar experimentos. Em vez de tentar ter todos os dados que possibilitem a previsão de um resultado, podemos melhorar nosso processo de tomada de decisão ao longo do tempo. Podemos definir uma versão de experimento simples, boa e segura o suficiente para o momento, mitigando riscos e considerando possíveis alternativas.
+- Métricas ofuscam a complexidade de um contexto. Em um ambiente complexo dificilmente teremos distinções expícitas úteis (a) de correlação e mais raramente ainda, (b) de causas e efeitos. Não é possível ter conhecimento de todas variáveis envolvidas e como se relacionam. Em cenários complexos, precisamos aprender realizar experimentos. Em vez de tentar ter todos os dados que possibilitem a previsão de um resultado, podemos melhorar nosso processo de tomada de decisão ao longo do tempo. Podemos definir uma versão de experimento simples, boa e segura o suficiente para o momento, mitigando riscos e considerando possíveis alternativas.
 - Todo processo de mensuração é enviesado: quais dados iremos coletar, onde e como iremos coletar, como iremos compilar, onde e como iremos apresentar: quais fontes, quais resultados, quais tipos  de gráficos, qual período de análise, quais comparações, etc. E por isso, os resultados são enviesados.
 
 ---
