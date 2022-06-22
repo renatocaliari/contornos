@@ -131,7 +131,6 @@ Principles to be observed when creating and maintaining Forums:
 - **[Contractual relationship](en/apps#contractual-relationship)** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
 - **Financial** *(🧭 Specialty;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
 - **Delivering value to the customer** *(🧭 Value Stream;🧑🏻‍🤝‍🧑🏾 External; ⌚ Stable)*
-   - **Research** *(🧭 Forum;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
    - **Platform engineering**: improving the lives of the engineering and accelerate software delivery *(🧭 Value Stream: Product;🧑🏻‍🤝‍🧑🏾 Internal; ⌚ Stable)*
    - Product: **["Promote software development learning"]** *(🧭 Value Stream: Product;🧑🏻‍🤝‍🧑🏾 External; ⌚ Stable)*
       - **Intents of public** *(🧭 Value Stream: Intent;🧑🏻‍🤝‍🧑🏾 External; ⌚ Stable)*
@@ -148,7 +147,10 @@ Principles to be observed when creating and maintaining Forums:
    - **[Experimentation on a new Product XPTO]** *(🧭 Value Stream: Product;🧑🏻‍🤝‍🧑🏾 External; ⌚ Temporary)*
 
 **Forums** (it's just an organization directory to list Forums and not connected hierarchically in the structure to any Contorno)
-  - **Diversity** *(Forum)* - Note that both this Forum and the contorno Diversity above can co-exist. However, only the contorno has authority for decisions and creation of organizational artifacts in this scope. The Forum can be created by anyone with the intention of just discussing the topic apart from the contorno.
+    - **Research** *(Forum)*
+    - **Diversity** *(Forum)*
+ 
+Note that both these forums - diversity and research -  and the contornos with the same name above can co-exist. However, only the contornos have authority for decisions and creation of organizational artifacts in this scope. The forum can be created by anyone with the intention of just discussing the topic apart from the contorno.
 
 # Participation in contornos
 Participation in contornos happens through the allocation of people. It is possible to indicate the [type of energy](en/apps#type-of-energy-in-contorno) that each participant will have in a certain contorno.
