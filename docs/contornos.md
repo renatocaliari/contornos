@@ -126,7 +126,6 @@ Veja mais abaixo no [exemplo de estrutura](#exemplo-de-estrutura-organizacional-
 - **[Relação contratual](apps#contorno-relação-contratual)** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
 - **Financeiro** *(🧭 Especialidade; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
 - **Produtos** *(🧭 Fluxo de Valor: Produto; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
-   - **Pesquisa** *(🧭 Fórum; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
    - **Plataforma de engenharia**: melhorar a vida das pessoas de engenharia e acelerar a entrega de software *(🧭 Fluxo de Valor: Produto; 🧑🏻‍🤝‍🧑🏾 Interno; ⌚ Estável)*
    - Produto: **["Promover o aprendizado de desenvolvimento de software"]** *(🧭 Fluxo de Valor: Produto; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
       - **Intenções do público** *(🧭 Fluxo de Valor: Intenção; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Estável)*
@@ -143,7 +142,10 @@ Veja mais abaixo no [exemplo de estrutura](#exemplo-de-estrutura-organizacional-
    - **[Experimentação de um novo Produto XPTO]** *(🧭 Fluxo de Valor: Produto; 🧑🏻‍🤝‍🧑🏾 Externo; ⌚ Temporário)*
 
 **Fóruns** *(é apenas um diretório da organização para listar os Fóruns e não está conectado hierarquicamente na estrutura a nenhum Contorno)
-  - **Diversidade** *(Fórum)* - Veja que tanto o Fórum de diversidade quanto o Contorno de diversidade mais acima podem co-existir. Porém, apenas o contorno possui autoridade para decisões e criação de artefatos organizacionais nesse escopo. O Fórum pode ser criado por qualquer pessoa na intençao de apenas discutir sobre o tema à parte do Contorno. 
+   - **Pesquisa** *(Fórum)*
+   - **Diversidade** *(Fórum)*
+ 
+Repare  que tanto esses fóruns - diversidade e pesquisa -  quanto os contorno com mesmo nome mais acima podem co-existir. Porém, apenas o contorno possui autoridade para decisões e criação de artefatos organizacionais nesse escopo. O fórum pode ser criado por qualquer pessoa na intençao de apenas discutir sobre o tema à parte do contorno. 
 
 # Participação em contornos
 A participação em contornos acontece por meio de alocação de pessoas. É possível indicar o [tipo de energia](apps#tipo-de-energia-em-contorno) que cada participante terá em um determinado contorno.
