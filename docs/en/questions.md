@@ -28,6 +28,28 @@ In a simplistic and limited way, it is possible to try to compare before and aft
 * Meet → find out what the meeting wants to resolve or decide and what specific responsibilities are there.
 * Manage people → responsibilities cannot provide this kind of authority and power. What do you want with manage? Advise, mentor, train? See more about [special contornos in Apps](/en/apps#special-contornos).
 
+
+## Do people need to have prior maturity to work in such a system?
+This question usually comes from at least two premises:
+
+1. People need to be 'mature' to experience what this system suggests.
+2. People need someone in a paternalistic role to make decisions for them.
+
+And here my critical comments on these premises:
+
+1. Maturity: 
+It is necessary to practice and gain exposure to a new scenario to gain experience. intentional action is required. Maturity is not something passive and magical. She is the accumulation of experience. If people do not have the opportunity to expose themselves to a new way of being, they will not gain experience and this could be precisely what prevents the expected 'maturity'.
+
+And often people already have the necessary maturity, but the organizational system does not allow or encourage them to perform in a 'mature' way.
+
+2. Decisions: 
+People already make several critical decisions in their lives. Who to relate to, how to eat, which house or car to buy (and if they want to buy), enter or leave a company, what lifestyle to maintain, etc.
+
+It is only fair to include them again in decisions that affect their work and lives within organizations. even the most difficult ones.
+
+**Addendum:**
+There will still be people who want a parent figure and bosses, telling them what to do and how to do it. And it will be up to the organization to know if it is the profile of people it wants.
+
 ## Do people need to have prior maturity to work in such a system?
 This question generally comes from at least two premises of the questioner:
 1. related to maturity: people need to be 'ready' or 'mature' for something, before practicing it.
@@ -65,6 +87,17 @@ When an argument starts to stretch without seeming to get anywhere, ask what you
 2. If there is no contorno that already takes care of the issue: forward it to the guardian of the scope closest to the subject or the broader scope that can cover this subject.
 
 ## How to get started with the Contornos system?
+
+### Run the entire Contours system or parts?
+
+Although the system is a set of rules to be applied together, nothing prevents you from starting with parts that already favor your organization. 
+If you can't try the whole system, it remains to try some parts that are already useful.
+
+Examples:
+- Start by better defining the outline of your current team and the attributes of that outline.
+- Try defining the inner contours.
+- Try making integrative decisions for agreements.
+- Etc.
 
 ### How to make the decision to use the system?
 Below are possibilities, not exhaustive. Don't see this as something right, easy or universal, but rather as an alternative focused on making intentions and motivations explicit and engaging people.
