@@ -27,8 +27,8 @@ E muitas vezes as pessoas já possuem a maturidade necessária, mas o sistema or
 
 Nada mais justo que voltar a incluí-las nas decisões que afetam seus trabalhos e vidas dentro das organizações. mesmo as mais difíceis.
 
-**adendo:**
-ainda existirão pessoas que desejam uma figura paternal e chefes, dizendo o que fazer e como fazer. e caberá à organização saber se é o perfil de pessoas que deseja.
+**Adendo:**
+Ainda existirão pessoas que desejam uma figura paternal e chefes, dizendo o que fazer e como fazer. E caberá à organização saber se é o perfil de pessoas que deseja.
 
 ## Como contratar pessoas que desejam um título e poder de chefe, diretor, líder ou de C-level?
 - Primeiro, se questionem: desejam pessoas em busca de título ou pessoas dispostas e engajadas em resolver os desafios de um determinado escopo?
