@@ -57,8 +57,18 @@ Quando uma discussão começa a estender sem parecer chegar a algum lugar, pergu
 
 ## Como iniciar com o sistema Contornos?
 
+### Rodar o sistema Contornos inteiro ou em partes?
+Apesar do sistema ser um conjunto de regras para ser aplicado em conjunto, nada impede de você iniciar com partes que já favoreçam sua organização. 
+Se não pode experimentar o sistema todo, resta experimentar algumas partes que já sejam úteis.
+
+Exemplos:
+- Comece definindo melhor o contorno do seu time atual e os atributos desse contorno.
+- Experimente definir os contornos internos.
+- Experimente tomar decisões integrativas para acordos.
+- Etc.
+
 ### Como tomar a decisão de usar o sistema?
-Abaixo estão possibilidades, não exaustivas. Não encare isso como algo certo, fácil ou universal, mas como uma alternativa com foco em tornar as intenções e motivações explícitas e engajar as pessoas.
+Abaixo estão possibilidades de como tomar a decisão, não exaustivas. Não encare isso como algo certo, fácil ou universal, mas como uma alternativa com foco em tornar as intenções e motivações explícitas e engajar as pessoas.
 
 Não tente acelerar o uso do sistema antes de buscar uma compreensão compartilhada da motivação de se usar o sistema [Contornos] e do seu funcionamento, e antes de dialogar sobre as preocupações das pessoas, e reconhecê-las. 
 
@@ -78,7 +88,6 @@ Para que a decisão de usar o sistema seja duradoura e potencialize os benefíci
 10. A partir daí o experimento se torna uma prática padrão e pode continuar sendo adaptado a qualquer momento através de [impulsionadores](contornos#impulsionadores).
 
 ### Quais as formas de começar com o sistema?
-
 #### Desenho atual
 Pode iniciar com o desenho atual, explicitando os escopos existentes em contornos, além de seus atributos, e também acordos.
 A partir disso a organização começa a se adaptar por ter um sistema preparado para isso. 
@@ -86,7 +95,7 @@ A partir disso a organização começa a se adaptar por ter um sistema preparado
 #### Novo desenho
 Pode iniciar com um novo desenho organizacional. 
 
-### Por onde começar?
+### Por onde começar na organização?
 #### No maior nível hierárquico da organização
 É possível iniciar [Contornos] diretamente no maior nível hierárquico da organização.
 1. Siga os [passos para 'implementar'](#passos-para-implementar) apenas com esse grupo.
