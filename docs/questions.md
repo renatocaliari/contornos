@@ -12,15 +12,23 @@ De forma simplista e limitada, é possível tentar comparar antes e depois:
   - alternativa como exemplo: usar o [Mapa Tentaculus](https://medium.com/tentaculus/mapear-oportunidades-organizacoes-ad66f1b9a913) ou o [OS Canvas](https://medium.com/the-ready/the-operating-system-canvas-420b8b4df062), perguntando para cada aspecto o que tem funcionado bem e o que não tem funcionado bem.
 
 ## As pessoas precisam ter prévia maturidade para atuar em um sistema assim?
-Essa pergunta em geral vem ao menos de duas premissas de quem pergunta:
-1. relacionada à maturidade: as pessoas precisam estar 'prontas' ou 'maduras' para algo, antes de praticar esse algo.
-   - observações: 
-     - se não permitirmos às pessoas praticarem e experimentarem, é difícil alcançarem alguma maturidade, seja lá o que signifique em seu contexto. De qualquer forma, não acredito que maturidade seja mágica, mas experiência. E só é possível ganhar experiência praticando.
-2. relacionada à tomadas de decisões que não dependam de chefes: as pessoas precisam de alguém, num papel paternalista, que tome decisões por elas.
-   - observações:
-     - as pessoas já tomam diversas decisões em sua vida: com quem se relacionar, qual casa ou carro comprar (e se desejam comprar), entrar ou sair de uma empresa, como se alimentar, etc. Podemos voltar a incluí-las nas decisões que afetam seus trabalhos e vida. 
-     - falado isso acima, é importante lembrar que ainda assim há pessoas que não querem ter a responsabilidade da decisão, preferem terceirizar decisões que impactam seu escopo e ter menos 'accountability' por isso. Então, é uma decisão que precisarão tomar: desejamos qual perfil de pessoa?
-     -  e, como qualquer outro sistema, jogo e regras, nem todas as pessoas terão preferência por ele ou desejarão apoiar esse sistema. Aqui cabe uma [decisão de como seguir em frente](questions#como-iniciar-com-o-sistema-contornos).  
+Essa pergunta em geral vem ao menos de duas premissas:
+
+1. as pessoas precisam estar ‘maduras’ para experimentar o que esse sistema sugere.
+2. as pessoas precisam de alguém, num papel paternalista, que tome decisões por elas.
+
+e aqui meus comentários críticos sobre essas premissas:
+
+1. maturidade: é necessário praticar e ganhar exposição a um novo cenário para ganhar experiência. é necessário ação intencional. Maturidade não é algo passivo e mágico. Ela é o acúmulo de experiência. Se as pessoas não tiverem oportunidade de se expôr a um novo jeito de ser, elas não ganharão experiência e isso poderá ser justamente o que evita a ‘maturidade’ esperada.
+
+E muitas vezes as pessoas já possuem a maturidade necessária, mas o sistema organizacional não permite ou incentiva a desempenhar de maneira ‘madura’.
+
+2. decisões: as pessoas já tomam diversas decisões críticas em suas vidas. Com quem se relacionar, como se alimentar, qual casa ou carro comprar (e se desejam comprar), entrar ou sair de uma empresa, qual estilo de vida manter, etc.
+
+Nada mais justo que voltar a incluí-las nas decisões que afetam seus trabalhos e vidas dentro das organizações. mesmo as mais difíceis.
+
+**adendo:**
+ainda existirão pessoas que desejam uma figura paternal e chefes, dizendo o que fazer e como fazer. e caberá à organização saber se é o perfil de pessoas que deseja.
 
 ## Como contratar pessoas que desejam um título e poder de chefe, diretor, líder ou de C-level?
 - Primeiro, se questionem: desejam pessoas em busca de título ou pessoas dispostas e engajadas em resolver os desafios de um determinado escopo?
