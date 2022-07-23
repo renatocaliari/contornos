@@ -34,7 +34,7 @@ Se você não conhece as outras tecnologias sociais, deixo aqui o meu convite pa
 ## participantes de um contorno participam da decisão sobre a guardiã do seu contorno
 
 Em outras tecnologias sociais é comum que apenas as participantes do contorno/círculo externo decidam sobre uma guardiã (elo externo/coordenadora).
-Na tecnologia Contornos, as participantes de um contorno existente também participam da decisão sobre a aocação de guardiã para esse contorno.
+Na tecnologia Contornos, as participantes de um contorno existente também participam da decisão sobre a alocação de guardiã para esse contorno.
 
 ## como lidar com os tópicos trazidos pelas pessoas
 
