@@ -13,7 +13,28 @@ Se você não conhece as outras tecnologias sociais, deixo aqui o meu convite pa
 É importante lembrar que todos esses elementos e características das tecnologias sociais abaixo podem ser alterados através de decisão integrativa, adicionando ou removendo algo. Aliás, a própria decisão integrativa pode mudar a forma de tomar decisões.
 
 ---
+
+## Tabela comparativa
+|  previsto no núcleo da tecnologia | [Contornos](https://github.com/renatoac/contornos/wiki) | [Organizações Orgânicas (O2)](https://o2.targetteal.com/) | [Sociocracy For All](https://www.sociocracyforall.org/) | [Sociocracia 3.0](https://sociocracy30.org/) | [Holacracia](https://www.holacracy.org/) |
+| :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
+| delimitação de escopo  | apenas [contornos](contornos) | círculos e papéis operacionais  | círculos e papéis operacionais  | círculos e papéis operacionais | círculos e papéis operacionais |
+| [papéis estruturais](contornos#papéis-estruturais) | [guardiã e agente](contornos#papéis-estruturais)  | elo externo, elo interno, facilitadora e secretária  | elo externo, elo interno, facilitadora e secretária  | elos | elo externo, elo interno, facilitadora e secretária  |
+| elemento que facilita a organização se adaptar | [impulsionador](contornos#impulsionadores) | tensão | tópico de agenda ou tensão | [tensão](https://patterns.sociocracy30.org/navigate-via-tension.html) | tensão |
+| [decisão integrativa](contornos#decis%C3%A3o-integrativa) para acordos estruturais | [sim](contornos#decis%C3%A3o-integrativa) | sim | sim | sim | sim |
+| [estratégia](contornos#estrat%C3%A9gia-como)  | [sim, por decisão integrativa](contornos#estrat%C3%A9gia-como)  | sim, decidida por elo externo  | -  | - | sim, decidida pelo elo externo  |
+| [processo](contornos#processo-como) | [sim, por decisão integrativa](contornos#processo-como)  | - | -  | - | - |
+| [indicadores](contornos#indicadores) | [indicadores](contornos#indicadores) | -<br />(não definido como atributo de círculo no [meta-acordo](https://o2.targetteal.com/meta-acordos) mas [prevê possível utilização](https://o2.targetteal.com/meta-acordos#1-5-transparencia)) | -<br />(comentado sobre métricas apenas na avaliação de políticas) | [key metrics](https://sociocracy30.org/_res/practical-guide/S3-practical-guide.pdf) | -<br />(não é um [atributo de papel](https://github.com/holacracyone/Holacracy-Constitution/blob/v5.0-beta2/Holacracy-Constitution.md#11-role-definition) ou círculo mas deixa em aberto caso um papel [colete métricas](https://github.com/holacracyone/Holacracy-Constitution/blob/v5.0-beta2/Holacracy-Constitution.md#21-duty-of-transparency) e processe em reuniões)  
+| reuniões obrigatórias | - | [reunião de círculo (4 modos de uso flexível)](https://o2.targetteal.com/meta-acordos#3-reunioes-de-circulo)  | reunião de círculo (governança + operacional)  | - | reunião de governança e reunião operacional  |
+| extensão da tecnologia | [apps](apps) | [padrões](https://o2.targetteal.com/biblioteca/padroes) | - | [padrões](https://illustrations.sociocracy30.org/img/en/framework/pattern-map.png) | [apps](https://www.holacracy.org/apps) |
+
+---
+
 ## Aspectos únicos (ou quase) de Contornos quando comparado às tecnologias sociais mencionadas abaixo
+
+## participante de um contorno participam da decisão sobre a guardiã do seu contorno
+
+Em outras tecnologias sociais é comum que apenas as participantes do contorno/círculo externo decidam sobre uma guardiã (elo externo/coordenadora).
+Na tecnologia Contornos, as participantes de um contorno existente também participam da decisão sobre a aocação de guardiã para esse contorno.
 
 ## como lidar com os tópicos trazidos pelas pessoas
 
@@ -44,17 +65,3 @@ Isso resulta em mais pessoas em decisões integrativas e falta de referência so
   - No mesmo caso acima, imagine que temos um círculo de Produto. Agora, desejamos criar um papel de desenvolvimento, como opção mais comum. Ao alocar mais pessoas nesse papel, estaremos aumentando o número de participantes do contorno de Produto. A opção seria criar um círculo de desenvolvimento para minimizar o número de participantes no círculo externo.
 
 
----
-
-## Tabela comparativa
-|  previsto no núcleo da tecnologia | [Contornos](https://github.com/renatoac/contornos/wiki) | [Organizações Orgânicas (O2)](https://o2.targetteal.com/) | [Sociocracy For All](https://www.sociocracyforall.org/) | [Sociocracia 3.0](https://sociocracy30.org/) | [Holacracia](https://www.holacracy.org/) |
-| :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
-| delimitação de escopo  | apenas [contornos](contornos) | círculos e papéis operacionais  | círculos e papéis operacionais  | círculos e papéis operacionais | círculos e papéis operacionais |
-| [papéis estruturais](contornos#papéis-estruturais) | [guardiã e agente](contornos#papéis-estruturais)  | elo externo, elo interno, facilitadora e secretária  | elo externo, elo interno, facilitadora e secretária  | elos | elo externo, elo interno, facilitadora e secretária  |
-| elemento que facilita a organização se adaptar | [impulsionador](contornos#impulsionadores) | tensão | tópico de agenda ou tensão | [tensão](https://patterns.sociocracy30.org/navigate-via-tension.html) | tensão |
-| [decisão integrativa](contornos#decis%C3%A3o-integrativa) para acordos estruturais | [sim](contornos#decis%C3%A3o-integrativa) | sim | sim | sim | sim |
-| [estratégia](contornos#estrat%C3%A9gia-como)  | [sim, por decisão integrativa](contornos#estrat%C3%A9gia-como)  | sim, decidida por elo externo  | -  | - | sim, decidida pelo elo externo  |
-| [processo](contornos#processo-como) | [sim, por decisão integrativa](contornos#processo-como)  | - | -  | - | - |
-| [indicadores](contornos#indicadores) | [indicadores](contornos#indicadores) | -<br />(não definido como atributo de círculo no [meta-acordo](https://o2.targetteal.com/meta-acordos) mas [prevê possível utilização](https://o2.targetteal.com/meta-acordos#1-5-transparencia)) | -<br />(comentado sobre métricas apenas na avaliação de políticas) | [key metrics](https://sociocracy30.org/_res/practical-guide/S3-practical-guide.pdf) | -<br />(não é um [atributo de papel](https://github.com/holacracyone/Holacracy-Constitution/blob/v5.0-beta2/Holacracy-Constitution.md#11-role-definition) ou círculo mas deixa em aberto caso um papel [colete métricas](https://github.com/holacracyone/Holacracy-Constitution/blob/v5.0-beta2/Holacracy-Constitution.md#21-duty-of-transparency) e processe em reuniões)  
-| reuniões obrigatórias | - | [reunião de círculo (4 modos de uso flexível)](https://o2.targetteal.com/meta-acordos#3-reunioes-de-circulo)  | reunião de círculo (governança + operacional)  | - | reunião de governança e reunião operacional  |
-| extensão da tecnologia | [apps](apps) | [padrões](https://o2.targetteal.com/biblioteca/padroes) | - | [padrões](https://illustrations.sociocracy30.org/img/en/framework/pattern-map.png) | [apps](https://www.holacracy.org/apps) |
