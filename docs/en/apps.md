@@ -484,7 +484,7 @@ If the average grade is above 2, then:
   * if the last evaluation the grade was less than or equal to 2:
     * the person is invited to seek counseling with the [Contorno Mentoring](#mentoring).
   * if it is the second consecutive time with a grade greater than 2:
-    * if you are a guardian, the process is stopped for a [guardian nomination](#guardian-nomination-in-an-evaluation-process).
+    * if you are a guardian, the process is stopped for a [guardian nomination](#guardian-nomination).
     * if she is an agent, she is invited to leave the contorno.
 
 #### Action brainstorming stage
@@ -515,7 +515,7 @@ To nominate a guardian, it is possible that a simple indication is made by the g
 In both options, if the contorno for which they wish to nominate a guardian already has participants, they will also be part of the integrative decision together with the guardian and agents of the external contorno.
 
 To use the nomination process, follow the steps below:
-1. the guardian of the outer contorno conducts the process. If the person being reassessed is the guardian of the organization's highest profile, she nominates someone else to lead the process.
+1. the guardian of the outer contorno conducts the process. If the person being allocated/reevaluated is the guardian of the organization's highest profile, she nominates someone else to lead the process.
 2. secretly, each participant nominates - self-nomination is possible - and orders up to three people as "first", "second" and "third" option taking into account the criteria:
   - ongoing projects in the contorno
   - skills
