@@ -14,7 +14,28 @@ If you don't know the other social technologies, here's my invitation to know, l
 It is important to remember that all these elements and characteristics of the social technologies below can be changed through an integrative decision, adding or removing something. In fact, the integrative decision itself ca change the way of making decisions.
 
 ---
+
+## Comparative table
+| predicted in the core of technology | [Contornos](https://github.com/renatoac/contornos/wiki) | [Organic Organizations (O2)](https://o2.targetteal.com/) | [Sociocracy For All](https://www.sociocracyforall.org/) | [Sociocracy 3.0](https://sociocracy30.org/) | [Holacracy](https://www.holacracy.org/) |
+| :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
+| scope delimitation | only [contornos](contornos) | operational circles and roles | operational circles and roles | operational circles and roles | operational circles and roles |
+| [structural roles](contornos#structural-roles) | [guardian and agent](contornos#structural-roles) | external link, internal link, facilitator and secretary | external link, internal link, facilitator and secretary | links | external link, internal link, facilitator and secretary |
+| element that facilitates the organization to adapt | [booster](contornos#boosters) | tension | agenda or tension topic | [tension](https://patterns.sociocracy30.org/navigate-via-tension.html) | tension |
+| [integrative decision](contornos#integrative-decision) for structural agreements | [yes](contornos#integrative-decision) | yes | yes | yes | yes |
+| [strategy](contornos#strategy-how) | [yes, by integrative decision](contornos#strategy-how) | yes, decided by external link | - | - | yes, decided by the external link |
+| [process](contornos#process-how) | [yes, by integrative decision](contornos#process-how) | - | - | - | - |
+| [indicators](contornos#indicators) | [indicators](contornos#indicators) | -<br />(not defined as a circle attribute in [meta-acordo](https://o2.targetteal.com/meta-acordos) but [predicts possible use](https://o2.targetteal.com/ meta-agreements#1-5-transparency)) | -<br />(commented on metrics in policy evaluation only) | [key metrics](https://sociocracy30.org/_res/practical-guide/S3-practical-guide.pdf) | -<br />(not a [role](https://github.com/holacracyone/Holacracy-Constitution/blob/v5.0-beta2/Holacracy-Constitution.md#11-role-definition) or circle  attribute but leaves open to a role [collect metrics](https://github.com/holacracyone/Holacracy-Constitution/blob/v5.0-beta2/Holacracy-Constitution.md#21-duty-of-transparency) and process in meetings)
+| mandatory meetings | - | [circle meeting (4 flexible use modes)](https://o2.targetteal.com/meta-acordos#3-reunioes-de-circlo) | circle meeting (governance + operational) | - | governance meeting and operational meeting |
+| extension of technology | [apps](apps) | [patterns](https://o2.targetteal.com/biblioteca/patroes) | - | [patterns](https://illustrations.sociocracy30.org/img/en/framework/pattern-map.png) | [apps](https://www.holacracy.org/apps) |
+
+---
+
 ## Unique aspects [or almost] of Contornos when compared to other social mentioned below 
+
+## participants of a contorno participate in the decision about the guardian of its contorno
+
+In other social technologies, it is common for only the participants of the external contorno/circle to decide on a guardian (external link/coordinator).
+In Contornos technology, the participants of an existing contorno also participate in the decision about the guardian allocation for that contorno.
 
 ### how to deal with topcis brought up by people
 
@@ -44,18 +65,5 @@ This results in more people making integrative decisions and lack of reference t
   - In the same case as above, imagine that we have a Product circle. Now we want to create a Development role as the most common option. By allocating more people to this role, we will be increasing the number of Product contorno participants. The option would be to create a Development circle to minimize the number of participants in the outer circle.
 
 
----
 
-## Comparative table
-| predicted in the core of technology | [Contornos](https://github.com/renatoac/contornos/wiki) | [Organic Organizations (O2)](https://o2.targetteal.com/) | [Sociocracy For All](https://www.sociocracyforall.org/) | [Sociocracy 3.0](https://sociocracy30.org/) | [Holacracy](https://www.holacracy.org/) |
-| :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
-| scope delimitation | only [contornos](contornos) | operational circles and roles | operational circles and roles | operational circles and roles | operational circles and roles |
-| [structural roles](contornos#structural-roles) | [guardian and agent](contornos#structural-roles) | external link, internal link, facilitator and secretary | external link, internal link, facilitator and secretary | links | external link, internal link, facilitator and secretary |
-| element that facilitates the organization to adapt | [booster](contornos#boosters) | tension | agenda or tension topic | [tension](https://patterns.sociocracy30.org/navigate-via-tension.html) | tension |
-| [integrative decision](contornos#integrative-decision) for structural agreements | [yes](contornos#integrative-decision) | yes | yes | yes | yes |
-| [strategy](contornos#strategy-how) | [yes, by integrative decision](contornos#strategy-how) | yes, decided by external link | - | - | yes, decided by the external link |
-| [process](contornos#process-how) | [yes, by integrative decision](contornos#process-how) | - | - | - | - |
-| [indicators](contornos#indicators) | [indicators](contornos#indicators) | -<br />(not defined as a circle attribute in [meta-acordo](https://o2.targetteal.com/meta-acordos) but [predicts possible use](https://o2.targetteal.com/ meta-agreements#1-5-transparency)) | -<br />(commented on metrics in policy evaluation only) | [key metrics](https://sociocracy30.org/_res/practical-guide/S3-practical-guide.pdf) | -<br />(not a [role](https://github.com/holacracyone/Holacracy-Constitution/blob/v5.0-beta2/Holacracy-Constitution.md#11-role-definition) or circle  attribute but leaves open to a role [collect metrics](https://github.com/holacracyone/Holacracy-Constitution/blob/v5.0-beta2/Holacracy-Constitution.md#21-duty-of-transparency) and process in meetings)
-| mandatory meetings | - | [circle meeting (4 flexible use modes)](https://o2.targetteal.com/meta-acordos#3-reunioes-de-circlo) | circle meeting (governance + operational) | - | governance meeting and operational meeting |
-| extension of technology | [apps](apps) | [patterns](https://o2.targetteal.com/biblioteca/patroes) | - | [patterns](https://illustrations.sociocracy30.org/img/en/framework/pattern-map.png) | [apps](https://www.holacracy.org/apps) |
 
