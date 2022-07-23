@@ -42,7 +42,7 @@ Make an integrative decision on the contorno you want to use and import it into 
 - [Evaluation of participation](#evaluation-of-participation)
   * [Influencing expectations of mentoring, contractual relationship or bonus variations](#influencing-expectations-of-mentoring-contractual-relationship-or-bonus-variations)
   * [General evaluation](#general-evaluation)
-  * [Guardian nomination in an evaluation process](#guardian-nomination-in-an-evaluation-process)
+- [Guardian nomination](#guardian-nomination)
 - [Progression track](#progression-track)
 - [Recognition with medals](#recognition-with-medals)  
 - [Remuneration and salaries](#remuneration-and-salaries)
@@ -510,9 +510,11 @@ It is suggested that there is a structural agreement in the contorno of the pers
 
 In the next assessment, the person shares their latest action plan and explores what they were able to apply from it.
 
-### Guardian nomination in an evaluation process
+### Guardian nomination
+To nominate a guardian, it is possible that a simple indication is made by the guardian of the external contorno or using a nomination process.
+In both options, if the contorno for which they wish to nominate a guardian already has participants, they will also be part of the integrative decision together with the guardian and agents of the external contorno.
 
-Rules:
+To use the nomination process, follow the steps below:
 1. the guardian of the outer contorno conducts the process. If the person being reassessed is the guardian of the organization's highest profile, she nominates someone else to lead the process.
 2. secretly, each participant nominates - self-nomination is possible - and orders up to three people as "first", "second" and "third" option taking into account the criteria:
   - ongoing projects in the contorno
