@@ -31,7 +31,7 @@ Se você não conhece as outras tecnologias sociais, deixo aqui o meu convite pa
 
 ## Aspectos únicos (ou quase) de Contornos quando comparado às tecnologias sociais mencionadas abaixo
 
-## participante de um contorno participam da decisão sobre a guardiã do seu contorno
+## participantes de um contorno participam da decisão sobre a guardiã do seu contorno
 
 Em outras tecnologias sociais é comum que apenas as participantes do contorno/círculo externo decidam sobre uma guardiã (elo externo/coordenadora).
 Na tecnologia Contornos, as participantes de um contorno existente também participam da decisão sobre a aocação de guardiã para esse contorno.
