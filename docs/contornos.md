@@ -230,7 +230,9 @@ Quando chegar o período de reavaliação, ou quando alguma participante do cont
 
 ### Alocação de guardiãs e agentes
 #### Guardiã
-Uma guardiã para um novo contorno interno é nomeada por decisão integrativa por todas participantes do contorno **externo**.
+A guardiã pode ser alocada a um contorno de duas formas:
+1. indicada pela guardiã do contorno externo, passando por decisão integrativa com as participantes do contexto externo. Caso esteja sendo alocada para um contorno já existente, as participantes do contorno também farão parte da decisão integrativa.
+2. [processo de nomeação](apps#nomeação-de-guardiã).
  
 #### Agente
 Para alocar novas agentes no contorno a guardiã faz uma proposta ou pede por um [processo de nomeação](apps#nomea%C3%A7%C3%A3o-de-pessoas-para-um-contorno), sendo necessário decisão integrativa entre participantes do contorno.
