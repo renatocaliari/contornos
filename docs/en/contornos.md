@@ -235,7 +235,9 @@ When the revaluation period arrives, or when any contorno participant creates a 
 
 ### Guardian and agent allocation
 #### Guardian
-A guardian for a new inner contorno is appointed by integrative decision by all participants of the **external** contorno.
+The guardian can be allocated to a contorno in two ways:
+1. indicated by the guardian of the external contorno, through an integrative decision with the participants of the external context. If it is being allocated to an existing contorno, their participants will also be part of the integrative decision.
+2. [process nomination](apps#guardian-nomination).
  
 #### Agent
 To allocate new agents in the contorno, the guardian makes a proposal or asks for a [nomination process] (en/apps#nominating-people-to-a-contorno), requiring an integrative decision between participants of the contorno.
