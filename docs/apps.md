@@ -40,7 +40,7 @@ Faça uma decisão integrativa no contorno que deseja utilizar e importe-o nos a
 - [Avaliação de participação](#avaliação-de-participação)
   * [Influenciar expectativas de mentoria, relação contratual ou variações de bônus](#influenciar-expectativas-de-mentoria-relação-contratual-ou-variações-de-bônus)
   * [Avaliação geral](#avaliação-geral)
-  * [Nomeação de Guardiã em processo de avaliação em um contorno](#nomeação-de-guardiã-em-processo-de-avaliação-em-um-contorno)
+- [Nomeação de Guardiã](#nomeação-de-guardiã)
 - [Trilha de progressão](#trilha-de-progressão)
 - [Reconhecimento com medalhas](#reconhecimento-com-medalhas)
 - [Remuneração e salários](#remunera%C3%A7%C3%A3o-e-sal%C3%A1rios)
@@ -506,9 +506,11 @@ Esse plano pode ser criado durante ou após a dinâmica.
 
 Na próxima avaliação, a pessoa compartilha seu último plano de ação e explora o que conseguiu aplicar dele.
 
-### Nomeação de Guardiã em processo de avaliação em um contorno
+### Nomeação de Guardiã
+Para nomear uma guardiã, é possível que seja feita uma simples indicação pela guardiã do contorno externo ou utilizando um processo de nomeação.
+Em ambas opções, se o contorno para o qual desejam nomear uma guardiã já possuir participantes, essas também farão parte da decisão integrativa junto com a guardiã e agentes do contorno externo.
 
-Regras:
+Para usar o processo de nomeação, siga os passos abaixo:
 1. a guardiã do contorno externo conduz o processo. Caso seja a pessoa sendo reavaliada seja a guardiã do maior contorno da organização, ela indica qualquer outra pessoa para conduzir o processo.
 2. secretamente, cada participante nomeia - é possível se auto nomear - e ordena até três pessoas como "primeira", "segunda" e "terceira" opção levando em conta os critérios: 
   - projetos em andamento no contorno
