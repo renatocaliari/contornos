@@ -386,7 +386,7 @@ Além disso, essas pessoas precisam definir uma frequência de encontros individ
 - [Contorno Mentoria](#contorno-mentoria)
 
 ## Nomeação de pessoas para um contorno
-O processo de nomeação de pessoas serve para qualquer papel estrutural, exceto para Guardiã, para a qual é [aplicado outro processo](#nomeação-de-guardiã-em-processo-de-avaliação-em-um-contorno).
+O processo de nomeação de pessoas serve para qualquer papel estrutural, exceto para Guardiã, para a qual é [aplicado outro processo](#nomeação-de-guardiã).
 
 Para um processo de nomeação não é necessário convergência ou consenso inicial.
 
