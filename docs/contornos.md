@@ -514,7 +514,7 @@ Eles são propostos e decididos pelo próprio contorno, de forma integrativa, se
 
 Se o contorno em questão é o maior contorno, a organização em si, então tudo que depende do contorno externo - que não há nesse caso - é realizado pelas participantes do próprio contorno com decisão integrativa. 
 
-# Impulsionadores
+# Impulsionadores (ou, Estímulos)
 Impulsionadores é tudo aquilo que impulsiona o aprendizado ou adaptação da organização ou o apendizado e cuidado de pessoas.
 É esperado que os impulsionadores fluam continuamente.
 
