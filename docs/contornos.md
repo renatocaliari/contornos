@@ -557,14 +557,14 @@ Ao registrar um impulsionador, explicite qual é o seu tipo:
 ?> As possibilidades de impulsionadores são quase que infinitas, surgindo a todo momento na complexidade do dia-a-dia e favorecendo a adaptação contínua da organização.
 
 # Decisão integrativa
-Decisão integrativa é um tipo de decisão **em consentimento** envolvendo todas as participantes de uma decisão. Quando não especificado, por padrão, uma decisão integrativa envolve todas participantes de um contorno.
+Decisão integrativa é um tipo de decisão **em consentimento**. Quando não especificado, uma decisão integrativa envolve todas participantes de um contorno.
 
 Diferente de consenso, em que as pessoas buscam concordância e alinhamento de preferências pessoais, consentimento busca apenas por objeções.
 
 **Regras:**
-* Uma decisão integrativa, por padrão, é realizada para todos acordos estruturais.
-* Se houver objeções, a pessoa que fez a proposta deve adaptá-la para integrar as objeções. Se não for possivel, a proposta é arquivada.
-* Se houver adaptação, é necessário consentir sobre a alteração com as participantes do contorno.
+* Uma decisão integrativa é necessária para criação ou alteração de qualquer acordo estrutural. Um acordo pode ser criado para alterar essa regra.
+* Se houver objeções, as pessoas que fizeram a proposta devem adaptá-la para integrar as objeções. Se não for possivel, elas pedem ajuda a uma pessoa ou grupo levando em conta suas próprias necessidades ao fazer a proposta. Se ainda assim não for possível, a proposta é arquivada.
+* Se houver adaptação da proposta para integrar objeções, é necessário consentir sobre a alteração da mesma com as participantes do contorno.
 
 **Recomendações:**
 * Antes de tomar decisões, considerar informações das pessoas impactadas que não participam das decisões.
@@ -573,9 +573,9 @@ Diferente de consenso, em que as pessoas buscam concordância e alinhamento de p
 
 ## Objeções válidas
 Em contornos há 3 critérios para considerar uma objeção válida:
-  1. **Violação ou Obstáculo**: revela uma violação dos acordos da organização ou revela obstáculos, especificamente para os contornos de quem levantou a objeção, para expressar sua razão de existir e realizar suas responsabilidades. Se a pessoa levantar objeção em nome de contornos que ela não participa, não considere uma objeção válida. As guardiãs de cada contorno poderão levantar suas próprias objeções.
+  1. **Violação ou Obstáculo**: revela uma violação dos acordos da organização ou obstáculos, especificamente para os contornos de quem levantou a objeção, para expressar sua razão de existir e realizar suas responsabilidades. Se a pessoa levantar objeção em nome de contornos que ela não participa, não considere uma objeção válida. As guardiãs de cada contorno poderão levantar suas próprias objeções.
   2. **Dano causado pela proposta**: revela dano que só existirá caso a proposta seja colocada em prática e que não haverá oportunidade adequada para adaptação antes que a proposta cause o dano.
-  3. **Evidências**: objeção baseada em evidências. Caso seja algo apenas preditivo - não baseado em histórico - e não passe pelo critério 2 - cause danos, não considere uma objeção válida nesse processo.
+  3. **Evidências**: objeção baseada em evidências. Caso seja algo apenas preditivo, não baseado em histórico, e não passe pelo critério 2, não considere uma objeção válida nesse processo.
 
 ## Processo para proposta com decisão integrativa
 ### Ideação e cocriação de proposta
